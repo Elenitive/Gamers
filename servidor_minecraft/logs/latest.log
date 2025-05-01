@@ -984,3 +984,57 @@ To disable a bonus drop for a default definition, set the amount to 0.
 [01May2025 22:08:55.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Your First Receptacle]
 [01May2025 22:09:26.219] [Server thread/WARN] [tombstone/]: The death event of the player 6BlueBird9 was canceled by another mod
 [01May2025 22:09:26.232] [Server thread/INFO] [tombstone/]: The player 6BlueBird9 has successfully been saved
+[01May2025 22:11:17.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Back to childhood]
+[01May2025 22:11:17.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Not even afraid of death]
+[01May2025 22:11:34.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NDNatsu has made the advancement [Penteconter]
+[01May2025 22:11:57.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Knowledge raises the soul]
+[01May2025 22:13:21.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 6BlueBird9 has made the advancement [Stone Age]
+[01May2025 22:14:08.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has reached the goal [Die Classy]
+[01May2025 22:15:20.002] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Elenitive[/127.60.88.4:60677] logged in with entity id 67625 at (10.148829520944757, 64.0, 1.658852403322561)
+[01May2025 22:15:20.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elenitive joined the game
+[01May2025 22:15:20.065] [Server thread/INFO] [Jade/]: Syncing config to Elenitive (2220527c-f40a-3f64-a9d3-9d22926aa118)
+[01May2025 22:15:37.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NDNatsu has made the advancement [Cover Me with Diamonds]
+[01May2025 22:16:32.678] [Server thread/WARN] [tombstone/]: The death event of the player darkblader69 was canceled by another mod
+[01May2025 22:16:32.713] [Server thread/INFO] [tombstone/]: The player darkblader69 has successfully been saved
+[01May2025 22:17:25.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Sweet Treat]
+[01May2025 22:18:27.246] [Server thread/WARN] [tombstone/]: The death event of the player darkblader69 was canceled by another mod
+[01May2025 22:18:27.247] [Server thread/INFO] [tombstone/]: The player darkblader69 has successfully been saved
+[01May2025 22:19:30.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [The Parrots and the Bats]
+[01May2025 22:20:47.314] [Server thread/WARN] [tombstone/]: The death event of the player darkblader69 was canceled by another mod
+[01May2025 22:20:47.363] [Server thread/INFO] [tombstone/]: The player darkblader69 has successfully been saved
+[01May2025 22:21:51.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elenitive has made the advancement [Stone Age]
+[01May2025 22:22:08.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elenitive has made the advancement [Getting an Upgrade]
+[01May2025 22:23:15.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Who You Gonna Call?]
+[01May2025 22:23:25.073] [Server thread/WARN] [tombstone/]: The death event of the player darkblader69 was canceled by another mod
+[01May2025 22:23:25.082] [Server thread/INFO] [tombstone/]: The player darkblader69 has successfully been saved
+[01May2025 22:23:39.771] [Server thread/WARN] [tombstone/]: The death event of the player Ich1goM1rukuu was canceled by another mod
+[01May2025 22:23:39.781] [Server thread/INFO] [tombstone/]: The player Ich1goM1rukuu has successfully been saved
+[01May2025 22:23:45.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Who You Gonna Call?]
+[01May2025 22:23:45.276] [Server thread/WARN] [tombstone/]: The death event of the player darkblader69 was canceled by another mod
+[01May2025 22:23:45.290] [Server thread/INFO] [tombstone/]: The player darkblader69 has successfully been saved
+[01May2025 22:24:03.187] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=328, y=73, z=142} BlockPos{x=331, y=72, z=143}
+[01May2025 22:24:07.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu was slain by Ghost
+[01May2025 22:24:07.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Your First Grave]
+[01May2025 22:24:23.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elenitive has made the advancement [Monster Hunter]
+[01May2025 22:24:24.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NDNatsu has made the advancement [Stolen Magic]
+[01May2025 22:24:37.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NDNatsu has made the advancement [Knowledge raises the soul]
+[01May2025 22:24:45.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has reached the goal [Strong or Careful]
+[01May2025 22:24:45.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 was slain by Ghost
+[01May2025 22:24:45.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Your First Grave]
+[01May2025 22:25:47.951] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/45650, l='ServerLevel[world]', x=-463.67, y=83.00, z=777.78] died, message: 'Cleric was slain by Zombie'
+[01May2025 22:26:04.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NDNatsu has reached the goal [Magic Siphoner]
+[01May2025 22:26:25.044] [Server thread/WARN] [tombstone/]: The death event of the player NDNatsu was canceled by another mod
+[01May2025 22:26:25.052] [Server thread/INFO] [tombstone/]: The player NDNatsu has successfully been saved
+[01May2025 22:26:43.231] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/45028, l='ServerLevel[world]', x=-415.54, y=63.00, z=708.07] died, message: 'Unemployed hit the ground too hard whilst trying to escape Zombie Villager'
+[01May2025 22:27:24.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NDNatsu was slain by Wither Skeleton
+[01May2025 22:27:24.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NDNatsu has made the advancement [Your First Grave]
+[01May2025 22:27:42.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [I slipped]
+[01May2025 22:27:42.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NDNatsu has reached the goal [Here They Come]
+[01May2025 22:28:22.629] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: darkblader69 lost connection: Disconnected
+[01May2025 22:28:22.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 left the game
+[01May2025 22:28:45.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Acquire Hardware]
+[01May2025 22:28:47.275] [Server thread/WARN] [tombstone/]: The death event of the player Ich1goM1rukuu was canceled by another mod
+[01May2025 22:28:47.285] [Server thread/INFO] [tombstone/]: The player Ich1goM1rukuu has successfully been saved
+[01May2025 22:29:23.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivii has made the advancement [Knowledge of Death]
+[01May2025 22:29:23.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivii has made the advancement [Funeral Theft]
+[01May2025 22:29:44.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu was slain by Ghost
