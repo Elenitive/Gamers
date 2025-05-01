@@ -903,3 +903,61 @@ To disable a bonus drop for a default definition, set the amount to 0.
 [01May2025 21:29:14.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NDNatsu joined the game
 [01May2025 21:29:14.582] [Server thread/INFO] [Jade/]: Syncing config to NDNatsu (fdd3900c-e272-360a-81eb-35b982fbe309)
 [01May2025 21:29:14.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NDNatsu has made the advancement [Ice and Fire]
+[01May2025 21:30:13.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NDNatsu has made the advancement [Alligator In Name Only]
+[01May2025 21:31:49.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NDNatsu has made the advancement [Stone Age]
+[01May2025 21:32:34.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NDNatsu has made the advancement [Getting an Upgrade]
+[01May2025 21:35:54.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NDNatsu has made the advancement ['X' Marks the Spot]
+[01May2025 21:37:04.021] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-86, y=62, z=146} BlockPos{x=-87, y=62, z=145}
+[01May2025 21:37:04.193] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-86, y=62, z=146} BlockPos{x=-87, y=62, z=145}
+[01May2025 21:37:09.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Stone Age]
+[01May2025 21:38:45.772] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BLueBird[/127.205.155.169:59533] logged in with entity id 45502 at (2.5, 64.0, 9.5)
+[01May2025 21:38:45.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLueBird joined the game
+[01May2025 21:38:46.122] [Server thread/INFO] [Jade/]: Syncing config to BLueBird (91ae804e-dbc7-36df-b393-125e3394b27c)
+[01May2025 21:38:46.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLueBird has made the advancement [Ice and Fire]
+[01May2025 21:39:15.322] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3073ms or 61 ticks behind
+[01May2025 21:39:28.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NDNatsu has made the advancement [Who You Gonna Call?]
+[01May2025 21:40:43.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NDNatsu has made the advancement [Acquire Hardware]
+[01May2025 21:41:08.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NDNatsu has made the advancement [Barrel Booty]
+[01May2025 21:41:36.303] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: darkblader69 lost connection: Disconnected
+[01May2025 21:41:36.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 left the game
+[01May2025 21:42:13.368] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BLueBird lost connection: Disconnected
+[01May2025 21:42:13.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLueBird left the game
+[01May2025 21:42:14.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NDNatsu has made the advancement [Would you Like to Know More?]
+[01May2025 21:42:21.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NDNatsu has made the advancement [Book of Monsters]
+[01May2025 21:46:40.034] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: darkblader69[/127.93.136.202:46903] logged in with entity id 49297 at (-15.303015957220722, 70.0, 13.699999988079071)
+[01May2025 21:46:40.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 joined the game
+[01May2025 21:46:40.102] [Server thread/INFO] [Jade/]: Syncing config to darkblader69 (c5ed7fb1-b56d-3780-a140-29be33768a49)
+[01May2025 21:47:23.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Getting an Upgrade]
+[01May2025 21:47:57.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivii has made the advancement [Stone Age]
+[01May2025 21:48:36.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NDNatsu has made the advancement [Disme A Dozen]
+[01May2025 21:49:22.520] [Server thread/WARN] [tombstone/]: The death event of the player darkblader69 was canceled by another mod
+[01May2025 21:49:22.533] [Server thread/INFO] [tombstone/]: The player darkblader69 has successfully been saved
+[01May2025 21:50:19.854] [Server thread/INFO] [net.heyimamethyst.fairyfactions.FairyFactions/]: disband: : Fluffy-boo (lost its team)
+[01May2025 21:51:18.566] [Server thread/WARN] [tombstone/]: The death event of the player darkblader69 was canceled by another mod
+[01May2025 21:51:18.576] [Server thread/INFO] [tombstone/]: The player darkblader69 has successfully been saved
+[01May2025 21:52:45.832] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ich1goM1rukuu[/127.212.133.0:38957] logged in with entity id 51556 at (739.5334774539426, 80.0, -21.384890511103197)
+[01May2025 21:52:45.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu joined the game
+[01May2025 21:52:45.856] [Server thread/INFO] [Jade/]: Syncing config to Ich1goM1rukuu (1bb4c909-b771-3893-aca7-1b6637a25cff)
+[01May2025 21:55:04.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivii has made the advancement [Getting an Upgrade]
+[01May2025 21:56:06.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NDNatsu has made the advancement [Monster Hunter]
+[01May2025 21:56:08.292] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 6BlueBird9[/127.205.155.169:56761] logged in with entity id 54090 at (-1.5, 65.0, 1.5)
+[01May2025 21:56:08.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 6BlueBird9 joined the game
+[01May2025 21:56:08.737] [Server thread/INFO] [Jade/]: Syncing config to 6BlueBird9 (63ac96dc-a71b-3ed0-b556-ab6f2d2ef366)
+[01May2025 21:56:08.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 6BlueBird9 has made the advancement [Ice and Fire]
+[01May2025 21:56:16.859] [Server thread/INFO] [net.heyimamethyst.fairyfactions.FairyFactions/]: disband: : Sunny-boo (lost its team)
+[01May2025 21:56:53.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NDNatsu has made the advancement [Amateur Archaeologist]
+[01May2025 21:57:06.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NDNatsu has made the advancement [Where Is The Stone Pen?]
+[01May2025 21:57:16.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement ['X' Marks the Spot]
+[01May2025 21:57:20.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Knowledge of Death]
+[01May2025 21:57:20.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Not even afraid of death]
+[01May2025 21:57:20.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Back to childhood]
+[01May2025 21:57:33.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NDNatsu has made the advancement [It Belongs in a Museum]
+[01May2025 21:57:43.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Stone Age]
+[01May2025 21:57:52.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement ['X' Marks the Spot]
+[01May2025 21:57:57.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Getting an Upgrade]
+[01May2025 21:58:06.375] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: darkblader69 lost connection: Disconnected
+[01May2025 21:58:06.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 left the game
+[01May2025 21:58:36.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NDNatsu has made the advancement [Close Quarters]
+[01May2025 21:59:46.589] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: darkblader69[/127.93.136.202:47515] logged in with entity id 56623 at (185.10335709767784, 86.0, -265.9538917285045)
+[01May2025 21:59:46.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 joined the game
+[01May2025 21:59:46.658] [Server thread/INFO] [Jade/]: Syncing config to darkblader69 (c5ed7fb1-b56d-3780-a140-29be33768a49)
