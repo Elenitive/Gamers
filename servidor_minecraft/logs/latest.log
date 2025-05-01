@@ -847,3 +847,26 @@ To disable a bonus drop for a default definition, set the amount to 0.
 [01May2025 20:37:05.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 has made the advancement [Getting an Upgrade]
 [01May2025 20:37:07.531] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaleexx17 lost connection: Disconnected
 [01May2025 20:37:07.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 left the game
+[01May2025 20:44:28.959] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ich1goM1rukuu[/127.212.133.0:58759] logged in with entity id 2194 at (-9.5, 69.0, -6.5)
+[01May2025 20:44:28.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu joined the game
+[01May2025 20:44:29.089] [Server thread/INFO] [Jade/]: Syncing config to Ich1goM1rukuu (1bb4c909-b771-3893-aca7-1b6637a25cff)
+[01May2025 20:44:29.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Ice and Fire]
+[01May2025 20:49:38.787] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: darkblader69[/127.93.136.202:35839] logged in with entity id 4961 at (7.5, 64.0, -0.5)
+[01May2025 20:49:38.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 joined the game
+[01May2025 20:49:38.841] [Server thread/INFO] [Jade/]: Syncing config to darkblader69 (c5ed7fb1-b56d-3780-a140-29be33768a49)
+[01May2025 20:49:38.905] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: asaam[/127.246.25.221:55329] logged in with entity id 4983 at (-4.5, 66.0, -0.5)
+[01May2025 20:49:38.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asaam joined the game
+[01May2025 20:49:39.351] [Server thread/INFO] [Jade/]: Syncing config to asaam (daf14beb-1577-39e1-b946-f7101e6f3051)
+[01May2025 20:49:39.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asaam has made the advancement [Ice and Fire]
+[01May2025 20:49:41.618] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2669ms or 53 ticks behind
+[01May2025 20:49:53.471] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: darkblader69 lost connection: Disconnected
+[01May2025 20:49:53.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 left the game
+[01May2025 20:50:16.041] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: darkblader69[/127.93.136.202:35927] logged in with entity id 5855 at (7.5, 64.0, -0.5)
+[01May2025 20:50:16.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 joined the game
+[01May2025 20:50:16.108] [Server thread/INFO] [Jade/]: Syncing config to darkblader69 (c5ed7fb1-b56d-3780-a140-29be33768a49)
+[01May2025 20:51:02.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Monster Hunter]
+[01May2025 20:52:25.123] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ich1goM1rukuu lost connection: Disconnected
+[01May2025 20:52:25.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu left the game
+[01May2025 20:53:59.755] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2406ms or 48 ticks behind
+[01May2025 20:55:28.866] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: asaam lost connection: Disconnected
+[01May2025 20:55:28.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asaam left the game
