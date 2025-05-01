@@ -870,3 +870,23 @@ To disable a bonus drop for a default definition, set the amount to 0.
 [01May2025 20:53:59.755] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2406ms or 48 ticks behind
 [01May2025 20:55:28.866] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: asaam lost connection: Disconnected
 [01May2025 20:55:28.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asaam left the game
+[01May2025 21:00:28.892] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: aaleexx17[/127.165.157.203:37951] logged in with entity id 19990 at (-26.60686138492031, 71.0, -32.11874218356449)
+[01May2025 21:00:28.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 joined the game
+[01May2025 21:00:28.943] [Server thread/INFO] [Jade/]: Syncing config to aaleexx17 (da3b3c16-4900-3258-b19f-de1883847307)
+[01May2025 21:01:41.524] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: asaam[/127.246.25.221:37531] logged in with entity id 22087 at (-9.699999988079071, 69.0, 8.699999988079071)
+[01May2025 21:01:41.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asaam joined the game
+[01May2025 21:01:41.586] [Server thread/INFO] [Jade/]: Syncing config to asaam (daf14beb-1577-39e1-b946-f7101e6f3051)
+[01May2025 21:05:09.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asaam has made the advancement [Monster Hunter]
+[01May2025 21:05:20.021] [Server thread/WARN] [tombstone/]: The death event of the player aaleexx17 was canceled by another mod
+[01May2025 21:05:20.026] [Server thread/INFO] [tombstone/]: The player aaleexx17 has successfully been saved
+[01May2025 21:05:53.880] [Server thread/WARN] [tombstone/]: The death event of the player asaam was canceled by another mod
+[01May2025 21:05:53.888] [Server thread/INFO] [tombstone/]: The player asaam has successfully been saved
+[01May2025 21:06:14.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asaam was blown up by Creeper
+[01May2025 21:06:14.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asaam has made the advancement [Your First Grave]
+[01May2025 21:06:19.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 was shot by Skeleton
+[01May2025 21:06:19.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 has made the advancement [Your First Grave]
+[01May2025 21:06:24.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asaam has made the advancement [Stone Age]
+[01May2025 21:06:31.763] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: asaam lost connection: Disconnected
+[01May2025 21:06:31.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asaam left the game
+[01May2025 21:07:29.359] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaleexx17 lost connection: Timed out
+[01May2025 21:07:29.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 left the game
