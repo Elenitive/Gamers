@@ -19563,3 +19563,21 @@ To disable a bonus drop for a default definition, set the amount to 0.
 [01May2025 22:29:23.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivii has made the advancement [Funeral Theft]
 [01May2025 22:29:44.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu was slain by Ghost
 [01May2025 22:29:44.702] [Server thread/DEBUG] [tombstone/]: A new grave of the player Ich1goM1rukuu was created at position [x:652, y:64, z:-590, dim:minecraft:overworld]
+[01May2025 22:30:47.097] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 22:30:47.155] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01May2025 22:34:52.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 6BlueBird9 has made the advancement [Getting an Upgrade]
+[01May2025 22:35:47.092] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 22:35:47.149] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01May2025 22:38:45.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NDNatsu has made the advancement [Mine? Mine? Mine?]
+[01May2025 22:39:53.424] [Worker-Main-49/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_lava with rotation COUNTERCLOCKWISE_90 at (-182 | -6 | 1006)
+[01May2025 22:39:53.424] [Worker-Main-49/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_lava with rotation COUNTERCLOCKWISE_90 at (-182 | -6 | 1006)
+[01May2025 22:39:53.424] [Worker-Main-49/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (-182 | -6 | 1011)
+[01May2025 22:39:53.424] [Worker-Main-49/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (-182 | -6 | 1011)
+[01May2025 22:39:53.424] [Worker-Main-49/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/small_loot_room with rotation CLOCKWISE_90 at (-187 | -7 | 1016)
+[01May2025 22:39:53.424] [Worker-Main-49/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/small_loot_room with rotation CLOCKWISE_90 at (-187 | -7 | 1016)
+[01May2025 22:39:53.463] [Worker-Main-49/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_lava with rotation COUNTERCLOCKWISE_90 at (-182 | -6 | 1006)
+[01May2025 22:39:53.463] [Worker-Main-49/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_lava with rotation COUNTERCLOCKWISE_90 at (-182 | -6 | 1006)
+[01May2025 22:39:53.463] [Worker-Main-49/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (-182 | -6 | 1011)
+[01May2025 22:39:53.463] [Worker-Main-49/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (-182 | -6 | 1011)
+[01May2025 22:39:53.463] [Worker-Main-49/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/small_loot_room with rotation CLOCKWISE_90 at (-187 | -7 | 1016)
+[01May2025 22:39:53.464] [Worker-Main-49/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/small_loot_room with rotation CLOCKWISE_90 at (-187 | -7 | 1016)

@@ -149,6 +149,12 @@
     },
     "done": true
   },
+  "doggytalents:recipes/decorations/witch_hat": {
+    "criteria": {
+      "has_potion": "2025-05-01 22:30:19 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/decorations/sunglasses": {
     "criteria": {
       "has_stick": "2025-05-01 21:29:52 +0000"
@@ -564,6 +570,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-05-01 22:27:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-05-01 21:38:44 +0000"
@@ -828,6 +840,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-05-01 22:27:51 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_storage_jar": {
     "criteria": {
       "has_oak_planks": "2025-05-01 21:38:44 +0000"
@@ -975,6 +993,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2025-05-01 22:06:25 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/funeral_theft": {
+    "criteria": {
+      "coded_trigger": "2025-05-01 22:29:23 +0000"
     },
     "done": true
   },
@@ -1964,6 +1988,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-05-01 22:31:38 +0000",
       "sweet_berries": "2025-05-01 21:50:36 +0000",
       "cooked_beef": "2025-05-01 22:03:07 +0000",
       "apple": "2025-05-01 21:50:20 +0000"
@@ -2527,6 +2552,12 @@
   "fairyfactions:recipes/decorations/dark_oak_light_blue_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-01 21:33:44 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-05-01 22:29:23 +0000"
     },
     "done": true
   },
@@ -3598,6 +3629,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-05-01 22:27:51 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/acacia_magenta_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-01 21:33:44 +0000"
@@ -4252,6 +4289,8 @@
       "minecraft:birch_forest": "2025-05-01 22:25:24 +0000",
       "minecraft:dark_forest": "2025-05-01 22:17:04 +0000",
       "minecraft:river": "2025-05-01 22:12:19 +0000",
+      "minecraft:swamp": "2025-05-01 22:26:06 +0000",
+      "minecraft:forest": "2025-05-01 22:26:04 +0000",
       "minecraft:windswept_forest": "2025-05-01 22:17:13 +0000"
     },
     "done": false

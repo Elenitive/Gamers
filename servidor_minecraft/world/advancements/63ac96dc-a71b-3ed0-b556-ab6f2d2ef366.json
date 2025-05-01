@@ -1698,6 +1698,12 @@
     },
     "done": true
   },
+  "mcwlights:recipes/paper_lamp": {
+    "criteria": {
+      "has_the_recipe": "2025-05-01 22:34:52 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/spruce_black_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-01 21:59:27 +0000"
@@ -1821,6 +1827,12 @@
   "mcwwindows:recipes/red_sandstone": {
     "criteria": {
       "has_the_recipe": "2025-05-01 21:59:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-05-01 22:34:52 +0000"
     },
     "done": true
   },
@@ -2007,7 +2019,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-05-01 22:06:55 +0000",
-      "cooked_beef": "2025-05-01 22:20:05 +0000"
+      "cooked_beef": "2025-05-01 22:20:05 +0000",
+      "cooked_chicken": "2025-05-01 22:27:55 +0000"
     },
     "done": false
   },
@@ -2098,6 +2111,12 @@
   "fairyfactions:recipes/decorations/oak_green_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-01 21:59:27 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/torches": {
+    "criteria": {
+      "has_the_recipe": "2025-05-01 22:34:52 +0000"
     },
     "done": true
   },
@@ -2465,7 +2484,8 @@
     "criteria": {
       "minecraft:skeleton": "2025-05-01 22:07:26 +0000",
       "minecraft:creeper": "2025-05-01 22:04:27 +0000",
-      "minecraft:slime": "2025-05-01 22:23:46 +0000"
+      "minecraft:slime": "2025-05-01 22:23:46 +0000",
+      "minecraft:zombie": "2025-05-01 22:30:01 +0000"
     },
     "done": false
   },
@@ -2700,6 +2720,12 @@
   "sophisticatedbackpacks:recipes/misc/backpack": {
     "criteria": {
       "has_leather": "2025-05-01 21:58:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-05-01 22:25:52 +0000"
     },
     "done": true
   },
@@ -3039,6 +3065,12 @@
     },
     "done": true
   },
+  "mcwlights:recipes/tiki_torches": {
+    "criteria": {
+      "has_the_recipe": "2025-05-01 22:34:52 +0000"
+    },
+    "done": true
+  },
   "chiselsandbits:recipes/tools/chiseled_printer": {
     "criteria": {
       "has_l": "2025-05-01 21:59:27 +0000"
@@ -3144,6 +3176,12 @@
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-05-01 21:59:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-05-01 22:25:52 +0000"
     },
     "done": true
   },
@@ -3705,6 +3743,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-05-01 22:35:07 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cherry_lattice_fence": {
     "criteria": {
       "has_stick": "2025-05-01 22:01:35 +0000"
@@ -3787,6 +3831,12 @@
   "refurbished_furniture:recipes/misc/constructing/red_stool": {
     "criteria": {
       "has_planks": "2025-05-01 22:00:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2025-05-01 22:34:52 +0000"
     },
     "done": true
   },
@@ -4179,6 +4229,8 @@
       "minecraft:birch_forest": "2025-05-01 22:25:37 +0000",
       "minecraft:dark_forest": "2025-05-01 22:12:55 +0000",
       "minecraft:river": "2025-05-01 22:12:15 +0000",
+      "minecraft:swamp": "2025-05-01 22:26:09 +0000",
+      "minecraft:forest": "2025-05-01 22:26:07 +0000",
       "minecraft:windswept_forest": "2025-05-01 22:13:10 +0000"
     },
     "done": false
@@ -4351,6 +4403,12 @@
     },
     "done": true
   },
+  "mcwlights:recipes/lantern": {
+    "criteria": {
+      "has_the_recipe": "2025-05-01 22:34:52 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/dark_oak/dark_oak_whispering_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-01 22:16:10 +0000"
@@ -4366,6 +4424,12 @@
   "doggytalents:recipes/decorations/beastars_uniform_female": {
     "criteria": {
       "has_wool": "2025-05-01 22:11:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-05-01 22:25:52 +0000"
     },
     "done": true
   },

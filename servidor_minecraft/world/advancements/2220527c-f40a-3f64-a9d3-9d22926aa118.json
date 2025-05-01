@@ -217,6 +217,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-05-01 22:28:20 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_jungle_fence_gate": {
     "criteria": {
       "has_stick": "2025-05-01 22:21:01 +0000"
@@ -265,6 +271,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_granite_brick_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-05-01 22:28:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2025-05-01 22:34:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2025-05-01 22:24:30 +0000"
@@ -301,6 +319,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/jacaranda_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-01 22:29:18 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/mangrove_blue_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-01 22:20:42 +0000"
@@ -325,15 +349,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-01 22:28:20 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/cherry_magenta_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-01 22:20:42 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-01 22:29:18 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/jungle_blue_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-01 22:20:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_limestone_stairs_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-05-01 22:35:09 +0000"
     },
     "done": true
   },
@@ -391,6 +433,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_limestone_stairs_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-05-01 22:35:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-01 22:28:20 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_light_ceiling_fan": {
     "criteria": {
       "has_oak_planks": "2025-05-01 22:21:09 +0000"
@@ -409,9 +463,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-01 22:29:18 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/fir_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-01 22:29:18 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/curtain_rods": {
     "criteria": {
       "has_the_recipe": "2025-05-01 22:20:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_granite_brick_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-05-01 22:28:20 +0000"
     },
     "done": true
   },
@@ -433,6 +505,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-01 22:34:43 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_cobblestone": {
     "criteria": {
       "has_cobblestone": "2025-05-01 22:21:51 +0000"
@@ -451,10 +529,28 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-01 22:29:18 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/parapets": {
     "criteria": {
       "has_wood": "2025-05-01 22:21:09 +0000",
       "has_the_recipe": "2025-05-01 22:21:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-05-01 22:28:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-05-01 22:28:20 +0000"
     },
     "done": true
   },
@@ -467,6 +563,12 @@
   "miniutilities:recipes/misc/gold_opinium_core": {
     "criteria": {
       "has_item": "2025-05-01 22:21:51 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_brick_slab_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-05-01 22:35:09 +0000"
     },
     "done": true
   },
@@ -518,6 +620,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_granite_brick_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-05-01 22:28:20 +0000"
+    },
+    "done": true
+  },
   "miniutilities:recipes/misc/peacock_angel_ring": {
     "criteria": {
       "has_item": "2025-05-01 22:21:51 +0000"
@@ -533,6 +641,12 @@
   "create:recipes/building_blocks/small_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-05-01 22:25:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-05-01 22:28:20 +0000"
     },
     "done": true
   },
@@ -566,6 +680,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-01 22:34:43 +0000"
+    },
+    "done": true
+  },
   "miniutilities:recipes/misc/the_final_opinium_core": {
     "criteria": {
       "has_item": "2025-05-01 22:21:51 +0000"
@@ -575,6 +695,12 @@
   "miniutilities:recipes/misc/experience_opinium_core": {
     "criteria": {
       "has_item": "2025-05-01 22:21:51 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_wall_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-05-01 22:35:09 +0000"
     },
     "done": true
   },
@@ -656,6 +782,12 @@
     },
     "done": true
   },
+  "mysticsbiomes:recipes/transportation/peach_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-01 22:29:18 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/acacia_pink_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-01 22:20:42 +0000"
@@ -677,6 +809,18 @@
   "mcwwindows:recipes/spruce": {
     "criteria": {
       "has_the_recipe": "2025-05-01 22:20:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-01 22:34:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-01 22:34:43 +0000"
     },
     "done": true
   },
@@ -872,6 +1016,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-01 22:34:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-01 22:28:20 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_bamboo_fence": {
     "criteria": {
       "has_stick": "2025-05-01 22:21:01 +0000"
@@ -884,9 +1040,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/umbran_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-01 22:29:18 +0000"
+    },
+    "done": true
+  },
   "miniutilities:recipes/misc/unpack2x": {
     "criteria": {
       "has_item": "2025-05-01 22:21:51 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-01 22:29:18 +0000"
     },
     "done": true
   },
@@ -926,9 +1094,27 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_limestone_wall_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-05-01 22:35:09 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/spruce_light_gray_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-01 22:20:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-01 22:34:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_bricks_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-05-01 22:35:09 +0000"
     },
     "done": true
   },
@@ -950,15 +1136,45 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_diorite_bricks_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-01 22:34:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-01 22:34:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-01 22:34:43 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/acacia_light_blue_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-01 22:20:42 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/limestone_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-05-01 22:35:09 +0000"
+    },
+    "done": true
+  },
   "miniutilities:recipes/misc/white_lapis_caelestis": {
     "criteria": {
       "has_item": "2025-05-01 22:21:51 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-01 22:34:43 +0000"
     },
     "done": true
   },
@@ -983,6 +1199,12 @@
   "miniutilities:recipes/misc/glowing_glass": {
     "criteria": {
       "has_item": "2025-05-01 22:21:51 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/limestone_pillar_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-05-01 22:35:09 +0000"
     },
     "done": true
   },
@@ -1052,9 +1274,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2025-05-01 22:34:43 +0000"
+    },
+    "done": true
+  },
   "miniutilities:recipes/misc/ender_lily_seeds": {
     "criteria": {
       "has_item": "2025-05-01 22:21:51 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_bricks_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-01 22:34:43 +0000"
     },
     "done": true
   },
@@ -1166,9 +1400,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/diorite_pillar_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-01 22:34:43 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/dark_oak_pink_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-01 22:20:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2025-05-01 22:34:43 +0000"
     },
     "done": true
   },
@@ -1190,6 +1436,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/redwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-01 22:29:18 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/workbench": {
     "criteria": {
       "has_planks": "2025-05-01 22:21:09 +0000"
@@ -1199,6 +1451,12 @@
   "miniutilities:recipes/misc/diamond_opinium_core": {
     "criteria": {
       "has_item": "2025-05-01 22:21:51 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_granite_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-05-01 22:28:20 +0000"
     },
     "done": true
   },
@@ -1217,6 +1475,12 @@
   "fairyfactions:recipes/decorations/cherry_cyan_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-01 22:20:42 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/empyreal_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-01 22:29:18 +0000"
     },
     "done": true
   },
@@ -1274,6 +1538,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_limestone_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-05-01 22:35:09 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/jungle_lime_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-01 22:20:42 +0000"
@@ -1289,6 +1559,12 @@
   "refurbished_furniture:recipes/misc/constructing/andesite_stepping_stones": {
     "criteria": {
       "has_andesite": "2025-05-01 22:25:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-01 22:29:18 +0000"
     },
     "done": true
   },
@@ -1328,9 +1604,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_limestone_brick_stairs_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-05-01 22:35:09 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/acacia/oak_bark_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-01 22:20:42 +0000"
+    },
+    "done": true
+  },
+  "mcwstairs:recipes/diorite": {
+    "criteria": {
+      "has_planks": "2025-05-01 22:34:43 +0000"
     },
     "done": true
   },
@@ -1367,6 +1655,12 @@
   "miniutilities:recipes/misc/healing_axe": {
     "criteria": {
       "has_item": "2025-05-01 22:21:51 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-05-01 22:28:20 +0000"
     },
     "done": true
   },
@@ -1418,6 +1712,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-01 22:34:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_granite_brick_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-05-01 22:28:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2025-05-01 22:21:01 +0000"
@@ -1427,6 +1733,18 @@
   "fairyfactions:recipes/decorations/dark_oak_black_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-01 22:20:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-01 22:34:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_limestone_brick_slab_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-05-01 22:35:09 +0000"
     },
     "done": true
   },
@@ -1484,9 +1802,21 @@
     },
     "done": true
   },
+  "mysticsbiomes:recipes/transportation/sea_foam_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-01 22:29:18 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_mangrove_fence_gate": {
     "criteria": {
       "has_stick": "2025-05-01 22:21:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2025-05-01 22:28:20 +0000"
     },
     "done": true
   },
@@ -1514,6 +1844,24 @@
     },
     "done": true
   },
+  "mysticsbiomes:recipes/transportation/maple_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-01 22:29:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-01 22:34:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_diorite_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-01 22:34:43 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/dark_oak_lime_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-01 22:20:42 +0000"
@@ -1529,6 +1877,12 @@
   "refurbished_furniture:recipes/misc/constructing/pink_cooler": {
     "criteria": {
       "has_planks": "2025-05-01 22:21:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-01 22:34:43 +0000"
     },
     "done": true
   },
@@ -1628,6 +1982,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2025-05-01 22:34:43 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/birch_red_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-01 22:20:42 +0000"
@@ -1655,6 +2015,12 @@
   "refurbished_furniture:recipes/misc/slicing/brown_dye_from_rotten_flesh": {
     "criteria": {
       "has_rotten_flesh": "2025-05-01 22:24:23 +0000"
+    },
+    "done": true
+  },
+  "mysticsbiomes:recipes/transportation/tropical_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-01 22:29:18 +0000"
     },
     "done": true
   },
@@ -1754,6 +2120,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_limestone_slab_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-05-01 22:35:09 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/warped": {
     "criteria": {
       "has_the_recipe": "2025-05-01 22:20:42 +0000"
@@ -1790,6 +2162,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_limestone_brick_stairs_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-05-01 22:35:09 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_andesite_slab_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-05-01 22:25:07 +0000"
@@ -1805,6 +2183,12 @@
   "refurbished_furniture:recipes/misc/constructing/dark_oak_lattice_fence_gate": {
     "criteria": {
       "has_stick": "2025-05-01 22:21:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-01 22:34:43 +0000"
     },
     "done": true
   },
@@ -1850,6 +2234,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_limestone_brick_wall_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-05-01 22:35:09 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_swamp_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-01 22:20:42 +0000"
@@ -1859,6 +2249,12 @@
   "minecraft:recipes/combat/netherite_spikes_smithing": {
     "criteria": {
       "has_cobblestone": "2025-05-01 22:21:51 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/pine_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-01 22:29:18 +0000"
     },
     "done": true
   },
@@ -1886,6 +2282,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-01 22:34:43 +0000"
+    },
+    "done": true
+  },
   "miniutilities:recipes/misc/iron_drum": {
     "criteria": {
       "has_item": "2025-05-01 22:21:51 +0000"
@@ -1898,6 +2300,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/granite_stepping_stones": {
+    "criteria": {
+      "has_granite": "2025-05-01 22:28:20 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_spruce_fence_gate": {
     "criteria": {
       "has_stick": "2025-05-01 22:21:01 +0000"
@@ -1907,6 +2315,12 @@
   "miniutilities:recipes/misc/nether_star_opinium_core": {
     "criteria": {
       "has_item": "2025-05-01 22:21:51 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-05-01 22:28:20 +0000"
     },
     "done": true
   },
@@ -1952,6 +2366,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-01 22:29:18 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_crate": {
     "criteria": {
       "has_oak_planks": "2025-05-01 22:21:09 +0000"
@@ -1972,6 +2392,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:enderman": "2025-05-01 22:29:48 +0000",
       "minecraft:zombie_villager": "2025-05-01 22:24:23 +0000"
     },
     "done": false
@@ -2000,6 +2421,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/maple_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-01 22:29:18 +0000"
+    },
+    "done": true
+  },
   "miniutilities:recipes/misc/dark_reverse_ethereal_glass": {
     "criteria": {
       "has_item": "2025-05-01 22:21:51 +0000"
@@ -2009,6 +2436,18 @@
   "backpacked:recipes/decorations/spruce_backpack_shelf": {
     "criteria": {
       "has_stick": "2025-05-01 22:21:01 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-01 22:29:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-01 22:28:20 +0000"
     },
     "done": true
   },
@@ -2027,6 +2466,12 @@
   "securitycraft:recipes/misc/reinforced_acacia_fence": {
     "criteria": {
       "has_stick": "2025-05-01 22:21:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-01 22:34:43 +0000"
     },
     "done": true
   },
@@ -2120,6 +2565,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_limestone_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-05-01 22:35:09 +0000"
+    },
+    "done": true
+  },
   "miniutilities:recipes/misc/blessed_earth": {
     "criteria": {
       "has_item": "2025-05-01 22:21:51 +0000"
@@ -2162,6 +2613,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-05-01 22:28:20 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_andesite_bricks_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-05-01 22:25:07 +0000"
@@ -2174,9 +2631,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-05-01 22:29:18 +0000"
+    },
+    "done": true
+  },
   "miniutilities:recipes/misc/orange_lapis_caelestis": {
     "criteria": {
       "has_item": "2025-05-01 22:21:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-01 22:28:20 +0000"
     },
     "done": true
   },
@@ -2204,6 +2673,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-05-01 22:28:20 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/cherry_orange_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-01 22:20:42 +0000"
@@ -2222,9 +2697,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-01 22:28:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-01 22:25:07 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/hellbark_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-01 22:29:18 +0000"
     },
     "done": true
   },
@@ -2276,9 +2763,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-05-01 22:34:43 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/cherry_black_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-01 22:20:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/granite_pillar_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-05-01 22:28:20 +0000"
     },
     "done": true
   },
@@ -2291,6 +2790,12 @@
   "miniutilities:recipes/misc/netherite_opinium_core": {
     "criteria": {
       "has_item": "2025-05-01 22:21:51 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_granite_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-05-01 22:28:20 +0000"
     },
     "done": true
   },
@@ -2342,6 +2847,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_limestone_bricks_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-05-01 22:35:09 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-05-01 22:25:07 +0000"
@@ -2378,6 +2889,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-01 22:34:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2025-05-01 22:21:09 +0000"
@@ -2411,6 +2928,12 @@
   "fairyfactions:recipes/decorations/spruce_purple_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-01 22:20:42 +0000"
+    },
+    "done": true
+  },
+  "mysticsbiomes:recipes/transportation/strawberry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-01 22:29:18 +0000"
     },
     "done": true
   },
@@ -2459,6 +2982,12 @@
   "mcwwindows:recipes/crimson": {
     "criteria": {
       "has_the_recipe": "2025-05-01 22:20:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-01 22:34:43 +0000"
     },
     "done": true
   },
@@ -2648,6 +3177,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_granite_brick_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-05-01 22:28:20 +0000"
+    },
+    "done": true
+  },
   "miniutilities:recipes/misc/ender_dragon_angel_ring": {
     "criteria": {
       "has_item": "2025-05-01 22:21:51 +0000"
@@ -2675,6 +3210,18 @@
   "miniutilities:recipes/misc/lunar_panel": {
     "criteria": {
       "has_item": "2025-05-01 22:21:51 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_granite_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-05-01 22:28:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-05-01 22:28:20 +0000"
     },
     "done": true
   },
@@ -2744,6 +3291,12 @@
     },
     "done": true
   },
+  "mcwstairs:recipes/granite": {
+    "criteria": {
+      "has_planks": "2025-05-01 22:28:20 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/jungle_light_gray_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-01 22:20:42 +0000"
@@ -2792,6 +3345,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-01 22:29:18 +0000"
+    },
+    "done": true
+  },
   "miniutilities:recipes/misc/experience_pearl_2x": {
     "criteria": {
       "has_item": "2025-05-01 22:21:51 +0000"
@@ -2813,6 +3372,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-01 22:25:07 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-01 22:29:18 +0000"
     },
     "done": true
   },
@@ -2876,6 +3441,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/diorite_stepping_stones": {
+    "criteria": {
+      "has_diorite": "2025-05-01 22:34:43 +0000"
+    },
+    "done": true
+  },
   "miniutilities:recipes/misc/experience_pearl_5x": {
     "criteria": {
       "has_item": "2025-05-01 22:21:51 +0000"
@@ -2894,6 +3465,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_granite_brick_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-05-01 22:28:20 +0000"
+    },
+    "done": true
+  },
   "miniutilities:recipes/misc/experience_pearl_7x": {
     "criteria": {
       "has_item": "2025-05-01 22:21:51 +0000"
@@ -2909,6 +3486,12 @@
   "fairyfactions:recipes/decorations/cherry_gray_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-01 22:20:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_limestone_brick_wall_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-05-01 22:35:09 +0000"
     },
     "done": true
   },
@@ -2942,6 +3525,30 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_granite_bricks_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-05-01 22:28:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-01 22:29:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-01 22:29:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "has_the_recipe": "2025-05-01 22:29:17 +0000"
+    },
+    "done": true
+  },
   "miniutilities:recipes/misc/gold_spikes": {
     "criteria": {
       "has_item": "2025-05-01 22:21:51 +0000"
@@ -2966,6 +3573,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/dead_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-01 22:29:18 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/jungle_orange_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-01 22:20:42 +0000"
@@ -2975,6 +3588,12 @@
   "securitycraft:recipes/redstone/reinforced_acacia_fence_gate": {
     "criteria": {
       "has_stick": "2025-05-01 22:21:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_limestone_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-05-01 22:35:09 +0000"
     },
     "done": true
   },
@@ -3008,6 +3627,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_diorite_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-01 22:34:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_limestone_slab_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-05-01 22:35:09 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/blue_lamp": {
     "criteria": {
       "has_planks": "2025-05-01 22:21:09 +0000"
@@ -3023,6 +3654,12 @@
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2025-05-01 22:22:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-01 22:34:43 +0000"
     },
     "done": true
   },
@@ -3104,6 +3741,18 @@
     },
     "done": true
   },
+  "mysticsbiomes:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-01 22:29:18 +0000"
+    },
+    "done": true
+  },
+  "mysticsbiomes:recipes/transportation/jacaranda_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-01 22:29:18 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_blue_sofa": {
     "criteria": {
       "has_planks": "2025-05-01 22:21:09 +0000"
@@ -3182,9 +3831,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_granite_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-05-01 22:28:20 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/white_stool": {
     "criteria": {
       "has_planks": "2025-05-01 22:21:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_granite_bricks_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-05-01 22:28:20 +0000"
     },
     "done": true
   },
@@ -3269,6 +3930,12 @@
   "miniutilities:recipes/misc/iron_opinium_core": {
     "criteria": {
       "has_item": "2025-05-01 22:21:51 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/mob_catcher/mystic_binding_crystal": {
+    "criteria": {
+      "has_ender_pearl": "2025-05-01 22:29:49 +0000"
     },
     "done": true
   },
@@ -3380,6 +4047,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/mahogany_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-01 22:29:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall": {
     "criteria": {
       "has_andesite": "2025-05-01 22:25:07 +0000"
@@ -3407,6 +4080,12 @@
   "refurbished_furniture:recipes/misc/constructing/yellow_cooler": {
     "criteria": {
       "has_planks": "2025-05-01 22:21:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-01 22:34:43 +0000"
     },
     "done": true
   },
