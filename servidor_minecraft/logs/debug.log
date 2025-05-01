@@ -10486,3 +10486,17 @@ To disable a bonus drop for a default definition, set the amount to 0.
 [01May2025 23:09:37.416] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@4125660b into net.minecraft.network.Connection@5071262b
 [01May2025 23:09:37.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivii joined the game
 [01May2025 23:09:37.457] [Server thread/INFO] [Jade/]: Syncing config to ivii (7cdb0d64-19f0-3c6c-95d6-c3907a315282)
+[01May2025 23:14:19.327] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 23:14:19.399] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01May2025 23:15:08.632] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Scribe'/5345, l='ServerLevel[world]', x=45.72, y=69.00, z=-534.68] died, message: 'Scribe was slain by Ghost'
+[01May2025 23:16:17.033] [Worker-Main-2/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[01May2025 23:17:55.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 6BlueBird9 has made the advancement [Disme A Dozen]
+[01May2025 23:19:18.378] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/6367, l='ServerLevel[world]', x=-28.70, y=63.00, z=-561.70] died, message: 'Unemployed was slain by Zombie'
+[01May2025 23:19:19.348] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 23:19:19.417] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01May2025 23:19:23.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 6BlueBird9 has made the advancement [Acquire Hardware]
+[01May2025 23:19:25.372] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/6369, l='ServerLevel[world]', x=-26.60, y=63.00, z=-561.30] died, message: 'Unemployed was slain by Zombie'
+[01May2025 23:19:33.931] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/6368, l='ServerLevel[world]', x=-25.30, y=63.00, z=-561.70] died, message: 'Unemployed was slain by Zombie'
+[01May2025 23:19:44.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivii has made the advancement [Disme A Dozen]
+[01May2025 23:20:07.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elenitive has made the advancement [Close Quarters]
+[01May2025 23:21:18.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivii has made the advancement [Acquire Hardware]
