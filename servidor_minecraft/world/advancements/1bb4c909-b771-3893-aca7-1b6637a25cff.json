@@ -716,6 +716,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/secret_birch_sign_item": {
+    "criteria": {
+      "has_sign": "2025-05-01 22:46:16 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/red_lamp": {
     "criteria": {
       "has_planks": "2025-05-01 21:57:59 +0000"
@@ -845,6 +851,12 @@
   "fairyfactions:recipes/decorations/cherry_magenta_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-01 21:57:42 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_birch_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-05-01 22:46:16 +0000"
     },
     "done": true
   },
@@ -1010,6 +1022,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/secret_cherry_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-05-01 22:46:16 +0000"
+    },
+    "done": true
+  },
   "miniutilities:recipes/misc/infused_leggings": {
     "criteria": {
       "has_item": "2025-05-01 21:57:43 +0000"
@@ -1136,6 +1154,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/secret_acacia_sign_item": {
+    "criteria": {
+      "has_sign": "2025-05-01 22:46:16 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/maple_sign": {
     "criteria": {
       "has_planks": "2025-05-01 21:57:59 +0000"
@@ -1193,6 +1217,12 @@
   "securitycraft:recipes/redstone/reinforced_fence_gate": {
     "criteria": {
       "has_iron": "2025-05-01 22:28:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-05-01 22:41:14 +0000"
     },
     "done": true
   },
@@ -1418,6 +1448,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/secret_jungle_sign_item": {
+    "criteria": {
+      "has_sign": "2025-05-01 22:46:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-05-01 21:57:43 +0000"
@@ -1598,6 +1634,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/secret_acacia_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-05-01 22:46:16 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cherry_light_ceiling_fan": {
     "criteria": {
       "has_iron_ingot": "2025-05-01 22:28:45 +0000"
@@ -1649,6 +1691,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2025-05-01 21:54:24 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_sign_item": {
+    "criteria": {
+      "has_sign": "2025-05-01 22:46:16 +0000"
     },
     "done": true
   },
@@ -1844,6 +1892,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/secret_mangrove_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-05-01 22:46:16 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/bone_meal_from_bone": {
     "criteria": {
       "has_bone": "2025-05-01 22:28:47 +0000"
@@ -1871,6 +1925,12 @@
   "refurbished_furniture:recipes/misc/constructing/computer": {
     "criteria": {
       "has_copper_ingot": "2025-05-01 22:28:44 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_warped_sign_item": {
+    "criteria": {
+      "has_sign": "2025-05-01 22:46:16 +0000"
     },
     "done": true
   },
@@ -1958,6 +2018,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-05-01 22:40:33 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/acacia_cyan_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-01 21:57:42 +0000"
@@ -1991,6 +2057,12 @@
   "refurbished_furniture:recipes/misc/constructing/light_gray_trampoline": {
     "criteria": {
       "has_iron_ingot": "2025-05-01 22:28:45 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_jungle_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-05-01 22:46:16 +0000"
     },
     "done": true
   },
@@ -2045,6 +2117,12 @@
   "biomesoplenty:recipes/transportation/maple_boat": {
     "criteria": {
       "in_water": "2025-05-01 21:54:24 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_dark_oak_sign_item": {
+    "criteria": {
+      "has_sign": "2025-05-01 22:46:16 +0000"
     },
     "done": true
   },
@@ -2318,6 +2396,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/secret_cherry_sign_item": {
+    "criteria": {
+      "has_sign": "2025-05-01 22:46:16 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_barrel_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-01 21:57:42 +0000"
@@ -2565,6 +2649,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/secret_oak_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-05-01 22:46:16 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/jungle_light_blue_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-01 21:57:42 +0000"
@@ -2658,6 +2748,12 @@
   "mcwlights:recipes/garden_light": {
     "criteria": {
       "has_wood": "2025-05-01 22:28:45 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_spruce_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-05-01 22:46:16 +0000"
     },
     "done": true
   },
@@ -3045,6 +3141,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/secret_warped_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-05-01 22:46:16 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/gray_grill": {
     "criteria": {
       "has_iron_ingot": "2025-05-01 22:28:45 +0000"
@@ -3147,6 +3249,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/secret_dark_oak_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-05-01 22:46:16 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_stove": {
     "criteria": {
       "has_iron_ingot": "2025-05-01 22:28:45 +0000"
@@ -3180,6 +3288,12 @@
   "tombstone:adventure/first_knowledge": {
     "criteria": {
       "coded_trigger": "2025-05-01 22:08:55 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_crimson_sign_item": {
+    "criteria": {
+      "has_sign": "2025-05-01 22:46:16 +0000"
     },
     "done": true
   },
@@ -3381,6 +3495,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-05-01 22:41:14 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/electrified_iron_fence": {
     "criteria": {
       "has_iron": "2025-05-01 22:28:45 +0000"
@@ -3402,6 +3522,12 @@
   "create:recipes/misc/crafting/appliances/copper_diving_boots": {
     "criteria": {
       "has_item": "2025-05-01 22:28:44 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_crimson_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-05-01 22:46:16 +0000"
     },
     "done": true
   },
@@ -3558,6 +3684,12 @@
   "fairyfactions:recipes/decorations/spruce_lime_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-01 21:57:42 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_spruce_sign_item": {
+    "criteria": {
+      "has_sign": "2025-05-01 22:46:16 +0000"
     },
     "done": true
   },
@@ -4329,6 +4461,12 @@
     },
     "done": true
   },
+  "fusion:recipes/building_blocks/fusion_furnace": {
+    "criteria": {
+      "has_item": "2025-05-01 22:40:33 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_sink": {
     "criteria": {
       "has_copper_ingot": "2025-05-01 22:28:44 +0000"
@@ -4398,6 +4536,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2025-05-01 21:54:24 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_mangrove_sign_item": {
+    "criteria": {
+      "has_sign": "2025-05-01 22:46:16 +0000"
     },
     "done": true
   },
@@ -4554,6 +4698,12 @@
   "miniutilities:recipes/misc/solar_panel_controller": {
     "criteria": {
       "has_item": "2025-05-01 21:57:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_bamboo_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-05-01 22:46:16 +0000"
     },
     "done": true
   },
@@ -4845,6 +4995,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/secret_bamboo_sign_item": {
+    "criteria": {
+      "has_sign": "2025-05-01 22:46:16 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/birch_lime_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-01 21:57:42 +0000"
@@ -4992,6 +5148,12 @@
   "mcwlights:recipes/lantern": {
     "criteria": {
       "has_the_recipe": "2025-05-01 21:57:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-05-01 22:41:14 +0000"
     },
     "done": true
   },

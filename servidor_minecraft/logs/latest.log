@@ -1,22 +1,22 @@
-[01May2025 20:19:04.629] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[01May2025 20:19:04.632] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1026-azure
-[01May2025 20:19:05.672] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[01May2025 20:19:05.715] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Gamers/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[01May2025 20:19:06.187] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Gamers/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[01May2025 20:19:06.189] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Gamers/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[01May2025 20:19:06.190] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Gamers/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[01May2025 20:19:06.191] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Gamers/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[01May2025 20:19:06.554] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[01May2025 20:19:06.556] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 18 dependencies adding them to mods collection
-[01May2025 20:19:10.297] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[01May2025 20:19:10.385] [main/ERROR] [mixin/]: Mixin config yuushya.mixins.json does not specify "minVersion" property
-[01May2025 20:19:10.517] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[01May2025 20:19:10.720] [main/WARN] [mixin/]: Reference map 'justhammers-common-refmap.json' for justhammers-common.mixins.json could not be read. If this is a development environment you can ignore this message
-[01May2025 20:19:10.773] [main/WARN] [mixin/]: Reference map 'miniutilities.refmap.json' for miniutilities.mixins.json could not be read. If this is a development environment you can ignore this message
-[01May2025 20:19:10.775] [main/WARN] [mixin/]: Reference map 'trashslot.refmap.json' for trashslot.mixins.json could not be read. If this is a development environment you can ignore this message
-[01May2025 20:19:10.779] [main/WARN] [mixin/]: Reference map 'lemonlib.refmap.json' for lemonlib.mixins.json could not be read. If this is a development environment you can ignore this message
-[01May2025 20:19:10.805] [main/WARN] [mixin/]: Reference map 'puzzlesaccessapi.common.refmap.json' for puzzlesaccessapi.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[01May2025 20:19:10.869] [main/INFO] [Puzzles Lib/]: Loading 99 mods:
+[01May2025 23:02:04.794] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[01May2025 23:02:04.797] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1026-azure
+[01May2025 23:02:13.981] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[01May2025 23:02:14.085] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Gamers/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[01May2025 23:02:14.705] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Gamers/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[01May2025 23:02:14.708] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Gamers/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[01May2025 23:02:14.710] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Gamers/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[01May2025 23:02:14.711] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Gamers/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[01May2025 23:02:15.230] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[01May2025 23:02:15.232] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 18 dependencies adding them to mods collection
+[01May2025 23:02:19.789] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[01May2025 23:02:19.875] [main/ERROR] [mixin/]: Mixin config yuushya.mixins.json does not specify "minVersion" property
+[01May2025 23:02:20.012] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[01May2025 23:02:20.287] [main/WARN] [mixin/]: Reference map 'justhammers-common-refmap.json' for justhammers-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[01May2025 23:02:20.339] [main/WARN] [mixin/]: Reference map 'miniutilities.refmap.json' for miniutilities.mixins.json could not be read. If this is a development environment you can ignore this message
+[01May2025 23:02:20.342] [main/WARN] [mixin/]: Reference map 'trashslot.refmap.json' for trashslot.mixins.json could not be read. If this is a development environment you can ignore this message
+[01May2025 23:02:20.352] [main/WARN] [mixin/]: Reference map 'lemonlib.refmap.json' for lemonlib.mixins.json could not be read. If this is a development environment you can ignore this message
+[01May2025 23:02:20.375] [main/WARN] [mixin/]: Reference map 'puzzlesaccessapi.common.refmap.json' for puzzlesaccessapi.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[01May2025 23:02:20.452] [main/INFO] [Puzzles Lib/]: Loading 99 mods:
 	- additionalstructures 4.2.2
 	- alexscaves 2.0.2
 	- alexsmobs 1.22.9
@@ -116,35 +116,35 @@
 	- trashslot 15.1.2
 	- waystones 14.1.11
 	- yuushya 2.2.3
-[01May2025 20:19:10.904] [main/WARN] [mixin/]: Reference map 'chiselsandbits.refmap.json' for chisels-and-bits.mixins.json could not be read. If this is a development environment you can ignore this message
-[01May2025 20:19:12.829] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[01May2025 20:19:18.292] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin::handler$zem000$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[01May2025 20:19:19.138] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
+[01May2025 23:02:20.466] [main/WARN] [mixin/]: Reference map 'chiselsandbits.refmap.json' for chisels-and-bits.mixins.json could not be read. If this is a development environment you can ignore this message
+[01May2025 23:02:22.893] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[01May2025 23:02:31.561] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin::handler$zem000$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[01May2025 23:02:32.695] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
 
-[01May2025 20:19:19.679] [modloading-worker-0/INFO] [scena-forge/]: Initialized scena-forge
-[01May2025 20:19:19.748] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easyanvils:main
-[01May2025 20:19:20.637] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for diagonalblocks:main
-[01May2025 20:19:20.748] [modloading-worker-0/INFO] [mod.alexndr.simplecorelib.SimpleCoreLib/]: Hello from SimpleCoreLib!
-[01May2025 20:19:20.828] [modloading-worker-0/INFO] [ironfurnaces.IronFurnaces/]: Initializing Update Checker...
-[01May2025 20:19:20.830] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Starting Update Check...
-[01May2025 20:19:21.327] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[01May2025 20:19:21.468] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Update Check done!
-[01May2025 20:19:21.468] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Iron Furnaces is up to date!
-[01May2025 20:19:22.160] [modloading-worker-0/INFO] [Easy Mob Farm/]: Initializing Easy Mob Farm (Forge) ...
-[01May2025 20:19:22.161] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Debug Manager ...
-[01May2025 20:19:22.165] [modloading-worker-0/WARN] [Easy Mob Farm/]: [Debug Manager] Detected debug log level for Easy Mob Farm with ALL!
-[01May2025 20:19:22.166] [modloading-worker-0/WARN] [Easy Mob Farm/]: [Debug Manager] Adjusting log level for Easy Mob Farm from ALL to INFO, for performance reasons!
-[01May2025 20:19:22.166] [modloading-worker-0/INFO] [Easy Mob Farm/]: [Debug Manager] Add new logger config for Easy Mob Farm with level INFO ...
-[01May2025 20:19:22.170] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Constants ...
-[01May2025 20:19:22.172] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Configuration ...
-[01May2025 20:19:22.174] [modloading-worker-0/INFO] [Easy Mob Farm/]: [Config] Updated configuration path to /workspaces/Gamers/servidor_minecraft/config/easy_mob_farm
-[01May2025 20:19:22.174] [modloading-worker-0/INFO] [Easy Mob Farm/]: [Config] Registering common configuration ...
-[01May2025 20:19:22.178] [modloading-worker-0/INFO] [Easy Mob Farm/]: [Config]  Mob Farm Configuration
+[01May2025 23:02:33.489] [modloading-worker-0/INFO] [scena-forge/]: Initialized scena-forge
+[01May2025 23:02:33.564] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easyanvils:main
+[01May2025 23:02:34.543] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for diagonalblocks:main
+[01May2025 23:02:34.675] [modloading-worker-0/INFO] [mod.alexndr.simplecorelib.SimpleCoreLib/]: Hello from SimpleCoreLib!
+[01May2025 23:02:34.857] [modloading-worker-0/INFO] [ironfurnaces.IronFurnaces/]: Initializing Update Checker...
+[01May2025 23:02:34.865] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Starting Update Check...
+[01May2025 23:02:35.412] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[01May2025 23:02:36.132] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Update Check done!
+[01May2025 23:02:36.132] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Iron Furnaces is up to date!
+[01May2025 23:02:36.521] [modloading-worker-0/INFO] [Easy Mob Farm/]: Initializing Easy Mob Farm (Forge) ...
+[01May2025 23:02:36.524] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Debug Manager ...
+[01May2025 23:02:36.528] [modloading-worker-0/WARN] [Easy Mob Farm/]: [Debug Manager] Detected debug log level for Easy Mob Farm with ALL!
+[01May2025 23:02:36.528] [modloading-worker-0/WARN] [Easy Mob Farm/]: [Debug Manager] Adjusting log level for Easy Mob Farm from ALL to INFO, for performance reasons!
+[01May2025 23:02:36.531] [modloading-worker-0/INFO] [Easy Mob Farm/]: [Debug Manager] Add new logger config for Easy Mob Farm with level INFO ...
+[01May2025 23:02:36.533] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Constants ...
+[01May2025 23:02:36.537] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Configuration ...
+[01May2025 23:02:36.538] [modloading-worker-0/INFO] [Easy Mob Farm/]: [Config] Updated configuration path to /workspaces/Gamers/servidor_minecraft/config/easy_mob_farm
+[01May2025 23:02:36.539] [modloading-worker-0/INFO] [Easy Mob Farm/]: [Config] Registering common configuration ...
+[01May2025 23:02:36.545] [modloading-worker-0/INFO] [Easy Mob Farm/]: [Config]  Mob Farm Configuration
 
  This configuration file allows you to define the general settings for the Mob Farms.
 
  is up to date: {progressingRequiresOwnerToBeOnline=false, luckyDropFarmLuckPercentage=95, tier0progressionUpgradeSpeed=0, tier3progressionUpgradeSpeed=9, tier2progressionUpgradeSpeed=6, tier1progressionUpgradeSpeed=3, experienceDropChance=5, speedEnhancementUpgradeSpeed=6}
-[01May2025 20:19:22.179] [modloading-worker-0/INFO] [Easy Mob Farm/]: [Config]  Mob Capture Card Configuration
+[01May2025 23:02:36.547] [modloading-worker-0/INFO] [Easy Mob Farm/]: [Config]  Mob Capture Card Configuration
 
  This configuration file allows you to define the general settings for the Mob Capture Cards.
 
@@ -168,7 +168,7 @@
 
 
  is up to date: {mobCaptureCardFishingDropChance=0.15, mobCaptureCardFishingDropAllowList=, dropMobCaptureCardOnFishing=true, requirePlayerKill=true, mobCaptureCardFishingDropDenyList=, mobCaptureCardKillDropAllowList=, mobCaptureCardKillDropDenyList=, mobCaptureCardKillDropChance=0.1, mobCaptureCardFoilDropChance=0.01, dropMobCaptureCardOnKill=true}
-[01May2025 20:19:22.184] [modloading-worker-0/INFO] [Easy Mob Farm/]: [Config]  Mob Capture Card Rarity Configuration
+[01May2025 23:02:36.552] [modloading-worker-0/INFO] [Easy Mob Farm/]: [Config]  Mob Capture Card Rarity Configuration
 
  This configuration file allows you to define the rarity for the Mob Capture Cards.
 
@@ -185,7 +185,7 @@
   - EPIC
 
  is up to date: {minecraft:pillager=COMMON, minecraft:zombified_villager=UNCOMMON, minecraft:blaze=RARE, minecraft:skeleton=COMMON, minecraft:elder_guardian=EPIC, minecraft:ravager=RARE, minecraft:squid=COMMON, minecraft:ghast=RARE, minecraft:strider=RARE, minecraft:guardian=RARE, minecraft:cow=COMMON, minecraft:vindicator=RARE, minecraft:magma_cube=RARE, minecraft:spider=COMMON, minecraft:piglin_brute=EPIC, minecraft:creeper=COMMON, minecraft:warden=EPIC, minecraft:wither=EPIC, minecraft:horse=COMMON, minecraft:evoker=UNCOMMON, minecraft:slime=UNCOMMON, minecraft:polar_bear=UNCOMMON, minecraft:cat=COMMON, minecraft:bat=COMMON, minecraft:illusioner=EPIC, minecraft:phantom=RARE, minecraft:zombified_piglin=UNCOMMON, minecraft:witch=COMMON, minecraft:wither_skeleton=EPIC, minecraft:fox=UNCOMMON, minecraft:pig=COMMON, minecraft:llama=UNCOMMON, minecraft:husk=UNCOMMON, minecraft:sheep=COMMON, minecraft:ender_dragon=EPIC, minecraft:shulker=RARE, minecraft:cave_spider=UNCOMMON, minecraft:villager=COMMON, minecraft:enderman=UNCOMMON, minecraft:stray=UNCOMMON, minecraft:chicken=COMMON, minecraft:zombie=COMMON, minecraft:drowned=COMMON, minecraft:wolf=COMMON, minecraft:panda=UNCOMMON}
-[01May2025 20:19:22.185] [modloading-worker-0/INFO] [Easy Mob Farm/]: [Config]  Mob Catcher Configuration
+[01May2025 23:02:36.557] [modloading-worker-0/INFO] [Easy Mob Farm/]: [Config]  Mob Catcher Configuration
 
  This configuration file allows you to define the general settings for the Mob Catcher.
 
@@ -205,53 +205,53 @@
 
 
  is up to date: {EnduringCaptureNet:Enabled=true, VoidBindingChain:MaxEntityHeightToCapture=6.0, EnduringCaptureNet:MaxEntityWidthToCapture=0.9, IronboundContainmentCage:RequiredHealthPercentageToCapture=0.25, EnduringCaptureNet:DenyList=, IronboundContainmentCage:MaxEntityHeightToCapture=2.0, IronboundContainmentCage:Enabled=true, MysticBindingCrystal:AllowList=, IronboundContainmentCage:MaxEntityWidthToCapture=1.5, VoidBindingChain:MaxDurability=16, MysticBindingCrystal:Enabled=true, IronboundContainmentCage:MaxDurability=32, MysticBindingCrystal:MaxEntityWidthToCapture=3.0, MysticBindingCrystal:MaxDurability=32, VoidBindingChain:MaxEntityWidthToCapture=4.0, EnduringCaptureNet:MaxDurability=64, EnduringCaptureNet:AllowList=, VoidBindingChain:AllowList=, IronboundContainmentCage:DenyList=, VoidBindingChain:DenyList=, EnduringCaptureNet:RequiredHealthPercentageToCapture=0.5, MysticBindingCrystal:DenyList=, IronboundContainmentCage:AllowList=, MysticBindingCrystal:MaxEntityHeightToCapture=4.0, MysticBindingCrystal:RequiredHealthPercentageToCapture=0.25, VoidBindingChain:Enabled=true, VoidBindingChain:RequiredHealthPercentageToCapture=0.2, EnduringCaptureNet:MaxEntityHeightToCapture=1.4}
-[01May2025 20:19:22.188] [modloading-worker-0/INFO] [Easy Mob Farm/]: [Config] Registering server configuration ...
-[01May2025 20:19:22.189] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Compatibility Handler ...
-[01May2025 20:19:22.191] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Compat Handler ...
-[01May2025 20:19:22.192] [modloading-worker-0/INFO] [Easy Mob Farm/]: [Compat Manager] Farmer's Delight mod with id 'farmersdelight' loaded: false
-[01May2025 20:19:22.194] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Experience Manager ...
-[01May2025 20:19:22.196] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Experience Manager ModExperienceManager
-[01May2025 20:19:22.197] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Blocks ...
-[01May2025 20:19:22.216] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Blocks Entities ...
-[01May2025 20:19:22.219] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Block Items ...
-[01May2025 20:19:22.227] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Items ...
-[01May2025 20:19:22.237] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Menu Types ...
-[01May2025 20:19:22.373] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
-[01May2025 20:19:22.399] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
-[01May2025 20:19:22.577] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.15...
-[01May2025 20:19:22.607] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
-[01May2025 20:19:22.611] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
-[01May2025 20:19:22.613] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
-[01May2025 20:19:22.625] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
-[01May2025 20:19:22.626] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
-[01May2025 20:19:22.630] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
-[01May2025 20:19:22.631] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
-[01May2025 20:19:22.754] [modloading-worker-0/INFO] [mod.alexndr.fusion.Fusion/]: Hello from Fusion!
-[01May2025 20:19:24.104] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[01May2025 20:19:24.104] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[01May2025 20:19:25.691] [modloading-worker-0/INFO] [com.simibubi.create.Create/]: Create 6.0.4 initializing! Commit hash: 254bb816aee1c056c74b2ad4beb88222a499da78
-[01May2025 20:19:25.994] [modloading-worker-0/INFO] [yuushya/]: Yuushya has been loaded successfully!
-[01May2025 20:19:26.062] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for diagonalfences:main
-[01May2025 20:19:26.191] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
-[01May2025 20:19:26.217] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
-[01May2025 20:19:26.220] [modloading-worker-0/INFO] [mod.chiselsandbits.forge.Forge/]: Initialized Chisels&Bits - Forge
-[01May2025 20:19:26.353] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModBlockEntityTypes/]: Loaded block entity configuration.
-[01May2025 20:19:26.361] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModBlocks/]: Loaded block configuration.
-[01May2025 20:19:26.374] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModChiselModeGroups/]: Loaded chisel mode group configuration.
-[01May2025 20:19:27.244] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModChiselModes/]: Loaded chisel mode configuration.
-[01May2025 20:19:27.246] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModContainerTypes/]: Loaded container type configuration.
-[01May2025 20:19:27.250] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModCreativeTabs/]: Loaded item group configuration.
-[01May2025 20:19:27.290] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModItems/]: Loaded item configuration.
-[01May2025 20:19:27.301] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModMetadataKeys/]: Loaded metadata key configuration.
-[01May2025 20:19:27.309] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModModelProperties/]: Loaded model property configuration.
-[01May2025 20:19:27.318] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModModificationOperation/]: Loaded modification operation configuration.
-[01May2025 20:19:27.320] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModModificationOperationGroups/]: Loaded modification operation group configuration.
-[01May2025 20:19:27.332] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModPatternPlacementTypes/]: Loaded pattern placement type configuration.
-[01May2025 20:19:27.335] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModRecipeSerializers/]: Loaded recipe serializer configuration.
-[01May2025 20:19:27.337] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModTags/]: Loaded tag configuration.
-[01May2025 20:19:27.339] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModRecipeTypes/]: Registering recipe types.
-[01May2025 20:19:27.340] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModEventHandler/]: Registering event handlers
-[01May2025 20:19:27.397] [modloading-worker-0/ERROR] [mod.chiselsandbits.api.util.ClassUtils/]: Failed to load: mod.chiselsandbits.forge.compat.create.CreateCandBPlugin
+[01May2025 23:02:36.560] [modloading-worker-0/INFO] [Easy Mob Farm/]: [Config] Registering server configuration ...
+[01May2025 23:02:36.561] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Compatibility Handler ...
+[01May2025 23:02:36.562] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Compat Handler ...
+[01May2025 23:02:36.563] [modloading-worker-0/INFO] [Easy Mob Farm/]: [Compat Manager] Farmer's Delight mod with id 'farmersdelight' loaded: false
+[01May2025 23:02:36.564] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Experience Manager ...
+[01May2025 23:02:36.566] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Experience Manager ModExperienceManager
+[01May2025 23:02:36.567] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Blocks ...
+[01May2025 23:02:36.592] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Blocks Entities ...
+[01May2025 23:02:36.598] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Block Items ...
+[01May2025 23:02:36.626] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Items ...
+[01May2025 23:02:36.639] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Menu Types ...
+[01May2025 23:02:36.757] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
+[01May2025 23:02:36.794] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
+[01May2025 23:02:37.030] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[01May2025 23:02:37.031] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[01May2025 23:02:37.036] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[01May2025 23:02:37.036] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.15...
+[01May2025 23:02:37.037] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[01May2025 23:02:37.038] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[01May2025 23:02:37.043] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[01May2025 23:02:37.044] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[01May2025 23:02:37.279] [modloading-worker-0/INFO] [mod.alexndr.fusion.Fusion/]: Hello from Fusion!
+[01May2025 23:02:38.602] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[01May2025 23:02:38.603] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[01May2025 23:02:40.553] [modloading-worker-0/INFO] [com.simibubi.create.Create/]: Create 6.0.4 initializing! Commit hash: 254bb816aee1c056c74b2ad4beb88222a499da78
+[01May2025 23:02:41.429] [modloading-worker-0/INFO] [yuushya/]: Yuushya has been loaded successfully!
+[01May2025 23:02:41.431] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for diagonalfences:main
+[01May2025 23:02:41.623] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[01May2025 23:02:41.662] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[01May2025 23:02:41.669] [modloading-worker-0/INFO] [mod.chiselsandbits.forge.Forge/]: Initialized Chisels&Bits - Forge
+[01May2025 23:02:41.790] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModBlockEntityTypes/]: Loaded block entity configuration.
+[01May2025 23:02:41.802] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModBlocks/]: Loaded block configuration.
+[01May2025 23:02:41.822] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModChiselModeGroups/]: Loaded chisel mode group configuration.
+[01May2025 23:02:42.581] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModChiselModes/]: Loaded chisel mode configuration.
+[01May2025 23:02:42.587] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModContainerTypes/]: Loaded container type configuration.
+[01May2025 23:02:42.595] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModCreativeTabs/]: Loaded item group configuration.
+[01May2025 23:02:42.749] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModItems/]: Loaded item configuration.
+[01May2025 23:02:42.755] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModMetadataKeys/]: Loaded metadata key configuration.
+[01May2025 23:02:42.759] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModModelProperties/]: Loaded model property configuration.
+[01May2025 23:02:42.763] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModModificationOperation/]: Loaded modification operation configuration.
+[01May2025 23:02:42.766] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModModificationOperationGroups/]: Loaded modification operation group configuration.
+[01May2025 23:02:42.774] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModPatternPlacementTypes/]: Loaded pattern placement type configuration.
+[01May2025 23:02:42.776] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModRecipeSerializers/]: Loaded recipe serializer configuration.
+[01May2025 23:02:42.777] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModTags/]: Loaded tag configuration.
+[01May2025 23:02:42.778] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModRecipeTypes/]: Registering recipe types.
+[01May2025 23:02:42.780] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModEventHandler/]: Registering event handlers
+[01May2025 23:02:42.817] [modloading-worker-0/ERROR] [mod.chiselsandbits.api.util.ClassUtils/]: Failed to load: mod.chiselsandbits.forge.compat.create.CreateCandBPlugin
 java.lang.NoClassDefFoundError: com/simibubi/create/content/contraptions/behaviour/MovementBehaviour
 	at java.lang.Class.forName0(Native Method) ~[?:?]
 	at java.lang.Class.forName(Class.java:375) ~[?:?]
@@ -281,155 +281,130 @@ Caused by: java.lang.ClassNotFoundException: com.simibubi.create.content.contrap
 	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:141) ~[securejarhandler-2.1.10.jar:?]
 	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
 	... 24 more
-[01May2025 20:19:29.914] [main/INFO] [Diagonal Blocks/]: Constructing shapes for ForgeDiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=24.0,ExtensionBottom=0.0,ExtensionTop=24.0] took 192ms
-[01May2025 20:19:29.953] [main/INFO] [Diagonal Blocks/]: Constructing shapes for ForgeDiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=16.0,ExtensionBottom=0.0,ExtensionTop=16.0] took 35ms
-[01May2025 20:19:30.106] [main/INFO] [Diagonal Blocks/]: Constructing shapes for ForgeDiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=1.0,NodeTop=16.0,ExtensionBottom=6.0,ExtensionTop=15.0] took 146ms
-[01May2025 20:19:37.852] [main/WARN] [supermartijn642corelib/]: Could not find value 'formations:template_editor' in registry 'minecraft:item' for @RegistryEntryAcceptor!
-[01May2025 20:19:38.364] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / artifacts:mimic] was not realized!
-[01May2025 20:19:38.365] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / artifacts:mimic] was not realized!
-[01May2025 20:19:38.376] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / artifacts:mimic] was not realized!
-[01May2025 20:19:39.369] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
-[01May2025 20:19:39.369] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
-[01May2025 20:19:39.369] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
-[01May2025 20:19:39.369] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
-[01May2025 20:19:39.370] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
-[01May2025 20:19:39.370] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
-[01May2025 20:19:39.370] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
-[01May2025 20:19:39.370] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
-[01May2025 20:19:39.370] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
-[01May2025 20:19:39.370] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
-[01May2025 20:19:39.370] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
-[01May2025 20:19:39.371] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
-[01May2025 20:19:39.371] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
-[01May2025 20:19:39.371] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
-[01May2025 20:19:39.371] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
-[01May2025 20:19:39.371] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
-[01May2025 20:19:39.371] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
-[01May2025 20:19:39.371] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
-[01May2025 20:19:39.372] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
-[01May2025 20:19:39.393] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
-[01May2025 20:19:39.395] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.animal.sniffer.Sniffer from class com.mysticsbiomes.common.entity.animal.SeaOtter
-[01May2025 20:19:39.867] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
-[01May2025 20:19:39.873] [modloading-worker-0/INFO] [fusion Mod Event Subscriber/]: Simple Ores is not loaded.
-[01May2025 20:19:39.883] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Version 10.4.15 initializing...
-[01May2025 20:19:39.905] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Loaded 'Mekanism: Generators' module.
-[01May2025 20:19:39.906] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Loaded 'Mekanism: Tools' module.
-[01May2025 20:19:39.980] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easyanvils.json
-[01May2025 20:19:40.067] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Fake player readout: UUID = 46e82cd0-d480-3d48-800a-77431ede078e, name = [Mekanism]
-[01May2025 20:19:40.073] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Mod loaded.
-[01May2025 20:19:40.286] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Found status: UP_TO_DATE Current: 8.0.2 Target: null
-[01May2025 20:19:40.286] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [doggytalents] Starting version check at https://raw.githubusercontent.com/DashieDev/DoggyTalentsNext/0d05eaff7c4b588831ca6480f737187f44dda820/check_for_update/update.json
-[01May2025 20:19:40.306] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [doggytalents] Found status: BETA Current: 1.18.48 Target: 1.17.2
-[01May2025 20:19:40.307] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwwindows] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/window.json
-[01May2025 20:19:40.316] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwwindows] Found status: UP_TO_DATE Current: 2.3.0 Target: null
-[01May2025 20:19:40.317] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwstairs] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/stairs.json
-[01May2025 20:19:40.329] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwstairs] Found status: UP_TO_DATE Current: 1.0.1 Target: null
-[01May2025 20:19:40.329] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/doors.json
-[01May2025 20:19:40.348] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Found status: UP_TO_DATE Current: 1.1.2 Target: null
-[01May2025 20:19:40.348] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [additionalstructures] Starting version check at https://raw.githubusercontent.com/XxRexRaptorxX/Update-Checker/main/AdditionalStructures.json
-[01May2025 20:19:40.439] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [additionalstructures] Found status: UP_TO_DATE Current: 4.2.2 Target: null
-[01May2025 20:19:40.439] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_piglins] Starting version check at https://update.maxhenkel.de/forge/easy_piglins
-[01May2025 20:19:40.576] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_piglins] Found status: OUTDATED Current: 1.20.1-1.0.13 Target: 1.20.1-1.1.0
-[01May2025 20:19:40.587] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [diagonalblocks] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/diagonalblocks.json
-[01May2025 20:19:40.600] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [diagonalblocks] Found status: BETA Current: 8.0.6 Target: null
-[01May2025 20:19:40.600] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [simplecorelib] Starting version check at https://raw.githubusercontent.com/Sinhika/SimpleCoreLib/1.20/update.json
-[01May2025 20:19:40.729] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [simplecorelib] Found status: UP_TO_DATE Current: 1.20.1-6.0.1.2 Target: null
-[01May2025 20:19:40.732] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwtrpdoors] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/trapdoors.json
-[01May2025 20:19:40.745] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwtrpdoors] Found status: UP_TO_DATE Current: 1.1.4 Target: null
-[01May2025 20:19:40.745] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfences] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/fences.json
-[01May2025 20:19:40.752] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfences] Found status: UP_TO_DATE Current: 1.2.0 Target: null
-[01May2025 20:19:40.752] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[01May2025 20:19:40.764] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.9.4 Target: null
-[01May2025 20:19:40.766] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/furniture.json
-[01May2025 20:19:40.776] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Found status: UP_TO_DATE Current: 3.3.0 Target: null
-[01May2025 20:19:40.776] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Starting version check at https://mrcrayfish.com/api/mod_update/forge/refurbished_furniture
-[01May2025 20:19:41.167] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
-[01May2025 20:19:41.177] [main/INFO] [journeymap/]: Initializing Packet Registries
-[01May2025 20:19:41.315] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Found status: BETA Current: 1.0.12 Target: 1.0.12
-[01May2025 20:19:41.316] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
-[01May2025 20:19:41.347] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[01May2025 20:19:41.347] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
-[01May2025 20:19:41.347] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
-[01May2025 20:19:41.347] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
-[01May2025 20:19:41.348] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
-[01May2025 20:19:41.348] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
-[01May2025 20:19:41.348] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
-[01May2025 20:19:41.350] [main/INFO] [terrablender/]: Registered region mysticsbiomes:overworld_provider to index 4 for type OVERWORLD
-[01May2025 20:19:41.409] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key backpacked:unlock_tracker for minecraft:player
-[01May2025 20:19:41.410] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key backpacked:trader_pickpocketing for minecraft:wandering_trader
-[01May2025 20:19:41.464] [modloading-worker-0/INFO] [com.chiki.dragonfinder.DragonFinder/]: Hello world from the MDK
-[01May2025 20:19:41.464] [modloading-worker-0/INFO] [com.chiki.dragonfinder.DragonFinder/]: Got IMC [Hello world]
-[01May2025 20:19:41.531] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.balm.forge.compat.hudinfo.ForgeJadeModCompat
-[01May2025 20:19:41.537] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
-[01May2025 20:19:41.538] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
-[01May2025 20:19:41.539] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at mekanism.common.integration.lookingat.jade.MekanismJadePlugin
-[01May2025 20:19:41.543] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[01May2025 20:19:41.558] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[01May2025 20:19:41.562] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[01May2025 20:19:41.564] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.easyvillagers.integration.waila.PluginEasyVillagers
-[01May2025 20:19:41.564] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at xfacthd.framedblocks.common.compat.jade.FramedJadePlugin
-[01May2025 20:19:41.565] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
-[01May2025 20:19:42.194] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA Current: 0.7.12 Target: 0.7.12
-[01May2025 20:19:42.195] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwlights] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/lights.json
-[01May2025 20:19:42.212] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwlights] Found status: UP_TO_DATE Current: 1.1.0 Target: null
-[01May2025 20:19:42.213] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
-[01May2025 20:19:43.084] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Found status: BETA Current: 1.9.3 Target: 1.9.3
-[01May2025 20:19:43.084] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[01May2025 20:19:43.431] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: BETA Current: 5.10.3 Target: null
-[01May2025 20:19:43.432] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fusion] Starting version check at https://raw.githubusercontent.com/Sinhika/Fusion/1.18/update.json
-[01May2025 20:19:43.561] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fusion] Found status: BETA Current: 1.20.1-6.0.0.3 Target: null
-[01May2025 20:19:43.561] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
-[01May2025 20:19:43.568] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 20.1.1 Target: null
-[01May2025 20:19:43.568] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[01May2025 20:19:43.744] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[01May2025 20:19:43.744] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_villagers] Starting version check at https://update.maxhenkel.de/forge/easy_villagers
-[01May2025 20:19:43.768] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_villagers] Found status: AHEAD Current: 1.20.1-1.1.27 Target: null
-[01May2025 20:19:43.768] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[01May2025 20:19:43.870] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: OUTDATED Current: 1.9.12 Target: 1.10
-[01May2025 20:19:43.871] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [diagonalfences] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/diagonalfences.json
-[01May2025 20:19:43.879] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [diagonalfences] Found status: UP_TO_DATE Current: 8.1.5 Target: null
-[01May2025 20:19:43.879] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [backpacked] Starting version check at https://mrcrayfish.com/modupdatejson?id=backpacked
-[01May2025 20:19:44.737] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [backpacked] Found status: BETA Current: 3.0.0-beta.9 Target: 3.0.0-beta.9
-[01May2025 20:19:44.738] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
-[01May2025 20:19:44.750] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 8.1.32 Target: null
-[01May2025 20:19:57.146] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[01May2025 20:20:08.749] [main/WARN] [supermartijn642corelib/]: Could not find value 'formations:template_editor' in registry 'minecraft:item' for @RegistryEntryAcceptor!
-[01May2025 20:20:09.027] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Gamers/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23279!/assets/.mcassetsroot' uses unexpected schema
-[01May2025 20:20:09.028] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Gamers/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23279!/data/.mcassetsroot' uses unexpected schema
-[01May2025 20:20:09.552] [main/INFO] [com.simibubi.create.Create/]: Created 987 recipes which will be injected into the game
-[01May2025 20:20:09.569] [main/INFO] [com.simibubi.create.Create/]: Created 44 tags which will be injected into the game
-[01May2025 20:20:09.682] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Successfully loaded 0 data remolders!
-[01May2025 20:20:10.149] [main/INFO] [bettervillage/]: StructureSet modified for minecraft:village : Now using custom village configuration (can be disabled in the better villages config: boolean.villages.enabled_custom_config).
-[01May2025 20:20:10.947] [main/INFO] [Easy Mob Farm/]: Register Easy Mob Farm /easy_mob_farm commands for Easy Mob Farm ...
-[01May2025 20:20:11.045] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[01May2025 20:20:11.394] [Worker-Main-1/WARN] [artifacts.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-1.20.1-8.9.4.jar
-[01May2025 20:20:11.663] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag easy_villagers:invalid_farmer_crop as it is missing following references: farmersdelight:tomato_seeds (from easy-villagers-forge-1.20.1-1.1.27.jar)
-[01May2025 20:20:12.672] [Worker-Main-1/ERROR] [net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener/]: Couldn't parse data file mekanism_extras:reaction/enriched_radiance_gasification/enriched_radiance from mekanism_extras:recipes/reaction/enriched_radiance_gasification/enriched_radiance.json
-com.google.gson.JsonParseException: java.io.EOFException: End of input at line 1 column 1 path $
-	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:526) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
-	at net.minecraft.util.GsonHelper.m_263475_(GsonHelper.java:531) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
-	at net.minecraft.util.GsonHelper.m_13776_(GsonHelper.java:581) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
-	at net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener.m_278771_(SimpleJsonResourceReloadListener.java:41) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
-	at net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener.m_5944_(SimpleJsonResourceReloadListener.java:29) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
-	at net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener.m_5944_(SimpleJsonResourceReloadListener.java:17) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
-	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10786_(SimplePreparableReloadListener.java:11) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
-	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
-	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
-	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
-	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
-	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-Caused by: java.io.EOFException: End of input at line 1 column 1 path $
-	at com.google.gson.stream.JsonReader.nextNonWhitespace(JsonReader.java:1455) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:558) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.stream.JsonReader.peek(JsonReader.java:433) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:769) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:725) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.internal.bind.TypeAdapters$34$1.read(TypeAdapters.java:1007) ~[gson-2.10.jar%2372!/:?]
-	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:524) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
-	... 13 more
-[01May2025 20:20:12.851] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:naturalist:entities/tortoise
+[01May2025 23:02:45.191] [main/INFO] [Diagonal Blocks/]: Constructing shapes for ForgeDiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=24.0,ExtensionBottom=0.0,ExtensionTop=24.0] took 212ms
+[01May2025 23:02:45.249] [main/INFO] [Diagonal Blocks/]: Constructing shapes for ForgeDiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=16.0,ExtensionBottom=0.0,ExtensionTop=16.0] took 54ms
+[01May2025 23:02:45.520] [main/INFO] [Diagonal Blocks/]: Constructing shapes for ForgeDiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=1.0,NodeTop=16.0,ExtensionBottom=6.0,ExtensionTop=15.0] took 265ms
+[01May2025 23:02:57.218] [main/WARN] [supermartijn642corelib/]: Could not find value 'formations:template_editor' in registry 'minecraft:item' for @RegistryEntryAcceptor!
+[01May2025 23:02:57.637] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / artifacts:mimic] was not realized!
+[01May2025 23:02:57.638] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / artifacts:mimic] was not realized!
+[01May2025 23:02:57.653] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / artifacts:mimic] was not realized!
+[01May2025 23:02:58.966] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
+[01May2025 23:02:58.967] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
+[01May2025 23:02:58.967] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
+[01May2025 23:02:58.968] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
+[01May2025 23:02:58.968] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
+[01May2025 23:02:58.968] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
+[01May2025 23:02:58.968] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
+[01May2025 23:02:58.970] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
+[01May2025 23:02:58.971] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
+[01May2025 23:02:58.972] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
+[01May2025 23:02:58.972] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
+[01May2025 23:02:58.973] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
+[01May2025 23:02:58.973] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
+[01May2025 23:02:58.974] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
+[01May2025 23:02:58.974] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
+[01May2025 23:02:58.975] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
+[01May2025 23:02:58.975] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
+[01May2025 23:02:58.976] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
+[01May2025 23:02:58.976] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
+[01May2025 23:02:59.003] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
+[01May2025 23:02:59.005] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.animal.sniffer.Sniffer from class com.mysticsbiomes.common.entity.animal.SeaOtter
+[01May2025 23:02:59.890] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
+[01May2025 23:02:59.897] [modloading-worker-0/INFO] [fusion Mod Event Subscriber/]: Simple Ores is not loaded.
+[01May2025 23:02:59.913] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Version 10.4.15 initializing...
+[01May2025 23:02:59.969] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Loaded 'Mekanism: Tools' module.
+[01May2025 23:02:59.985] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Loaded 'Mekanism: Generators' module.
+[01May2025 23:03:00.541] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Fake player readout: UUID = 46e82cd0-d480-3d48-800a-77431ede078e, name = [Mekanism]
+[01May2025 23:03:00.542] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Mod loaded.
+[01May2025 23:03:00.541] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easyanvils.json
+[01May2025 23:03:00.885] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Found status: UP_TO_DATE Current: 8.0.2 Target: null
+[01May2025 23:03:00.886] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [doggytalents] Starting version check at https://raw.githubusercontent.com/DashieDev/DoggyTalentsNext/0d05eaff7c4b588831ca6480f737187f44dda820/check_for_update/update.json
+[01May2025 23:03:00.895] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [doggytalents] Found status: BETA Current: 1.18.48 Target: 1.17.2
+[01May2025 23:03:00.897] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwwindows] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/window.json
+[01May2025 23:03:00.915] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwwindows] Found status: UP_TO_DATE Current: 2.3.0 Target: null
+[01May2025 23:03:00.915] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwstairs] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/stairs.json
+[01May2025 23:03:00.925] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwstairs] Found status: UP_TO_DATE Current: 1.0.1 Target: null
+[01May2025 23:03:00.926] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/doors.json
+[01May2025 23:03:00.933] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Found status: UP_TO_DATE Current: 1.1.2 Target: null
+[01May2025 23:03:00.933] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [additionalstructures] Starting version check at https://raw.githubusercontent.com/XxRexRaptorxX/Update-Checker/main/AdditionalStructures.json
+[01May2025 23:03:01.026] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [additionalstructures] Found status: UP_TO_DATE Current: 4.2.2 Target: null
+[01May2025 23:03:01.026] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_piglins] Starting version check at https://update.maxhenkel.de/forge/easy_piglins
+[01May2025 23:03:01.236] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_piglins] Found status: OUTDATED Current: 1.20.1-1.0.13 Target: 1.20.1-1.1.0
+[01May2025 23:03:01.254] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [diagonalblocks] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/diagonalblocks.json
+[01May2025 23:03:01.266] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [diagonalblocks] Found status: BETA Current: 8.0.6 Target: null
+[01May2025 23:03:01.266] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [simplecorelib] Starting version check at https://raw.githubusercontent.com/Sinhika/SimpleCoreLib/1.20/update.json
+[01May2025 23:03:01.282] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [simplecorelib] Found status: UP_TO_DATE Current: 1.20.1-6.0.1.2 Target: null
+[01May2025 23:03:01.282] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwtrpdoors] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/trapdoors.json
+[01May2025 23:03:01.291] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwtrpdoors] Found status: UP_TO_DATE Current: 1.1.4 Target: null
+[01May2025 23:03:01.291] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfences] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/fences.json
+[01May2025 23:03:01.304] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfences] Found status: UP_TO_DATE Current: 1.2.0 Target: null
+[01May2025 23:03:01.305] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[01May2025 23:03:01.312] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.9.4 Target: null
+[01May2025 23:03:01.312] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/furniture.json
+[01May2025 23:03:01.312] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
+[01May2025 23:03:01.322] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Found status: UP_TO_DATE Current: 3.3.0 Target: null
+[01May2025 23:03:01.323] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Starting version check at https://mrcrayfish.com/api/mod_update/forge/refurbished_furniture
+[01May2025 23:03:01.347] [main/INFO] [journeymap/]: Initializing Packet Registries
+[01May2025 23:03:01.556] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[01May2025 23:03:01.556] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[01May2025 23:03:01.556] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[01May2025 23:03:01.556] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[01May2025 23:03:01.557] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[01May2025 23:03:01.557] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[01May2025 23:03:01.557] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[01May2025 23:03:01.559] [main/INFO] [terrablender/]: Registered region mysticsbiomes:overworld_provider to index 4 for type OVERWORLD
+[01May2025 23:03:01.621] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key backpacked:unlock_tracker for minecraft:player
+[01May2025 23:03:01.621] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key backpacked:trader_pickpocketing for minecraft:wandering_trader
+[01May2025 23:03:01.693] [modloading-worker-0/INFO] [com.chiki.dragonfinder.DragonFinder/]: Hello world from the MDK
+[01May2025 23:03:01.693] [modloading-worker-0/INFO] [com.chiki.dragonfinder.DragonFinder/]: Got IMC [Hello world]
+[01May2025 23:03:01.757] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.balm.forge.compat.hudinfo.ForgeJadeModCompat
+[01May2025 23:03:01.765] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
+[01May2025 23:03:01.769] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
+[01May2025 23:03:01.769] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at mekanism.common.integration.lookingat.jade.MekanismJadePlugin
+[01May2025 23:03:01.774] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[01May2025 23:03:01.788] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[01May2025 23:03:01.792] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[01May2025 23:03:01.794] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.easyvillagers.integration.waila.PluginEasyVillagers
+[01May2025 23:03:01.794] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at xfacthd.framedblocks.common.compat.jade.FramedJadePlugin
+[01May2025 23:03:01.795] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
+[01May2025 23:03:01.884] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Found status: BETA Current: 1.0.12 Target: 1.0.12
+[01May2025 23:03:01.885] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[01May2025 23:03:02.750] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA Current: 0.7.12 Target: 0.7.12
+[01May2025 23:03:02.750] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwlights] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/lights.json
+[01May2025 23:03:02.760] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwlights] Found status: UP_TO_DATE Current: 1.1.0 Target: null
+[01May2025 23:03:02.761] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
+[01May2025 23:03:03.643] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Found status: BETA Current: 1.9.3 Target: 1.9.3
+[01May2025 23:03:03.644] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[01May2025 23:03:03.952] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: BETA Current: 5.10.3 Target: null
+[01May2025 23:03:03.952] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fusion] Starting version check at https://raw.githubusercontent.com/Sinhika/Fusion/1.18/update.json
+[01May2025 23:03:04.041] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fusion] Found status: BETA Current: 1.20.1-6.0.0.3 Target: null
+[01May2025 23:03:04.041] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[01May2025 23:03:04.050] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 20.1.1 Target: null
+[01May2025 23:03:04.053] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[01May2025 23:03:04.475] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[01May2025 23:03:04.475] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_villagers] Starting version check at https://update.maxhenkel.de/forge/easy_villagers
+[01May2025 23:03:04.499] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_villagers] Found status: AHEAD Current: 1.20.1-1.1.27 Target: null
+[01May2025 23:03:04.499] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[01May2025 23:03:04.707] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: OUTDATED Current: 1.9.12 Target: 1.10
+[01May2025 23:03:04.707] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [diagonalfences] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/diagonalfences.json
+[01May2025 23:03:04.712] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [diagonalfences] Found status: UP_TO_DATE Current: 8.1.5 Target: null
+[01May2025 23:03:04.712] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [backpacked] Starting version check at https://mrcrayfish.com/modupdatejson?id=backpacked
+[01May2025 23:03:05.610] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [backpacked] Found status: BETA Current: 3.0.0-beta.9 Target: 3.0.0-beta.9
+[01May2025 23:03:05.611] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[01May2025 23:03:05.619] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 8.1.32 Target: null
+[01May2025 23:03:21.271] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[01May2025 23:03:35.833] [main/WARN] [supermartijn642corelib/]: Could not find value 'formations:template_editor' in registry 'minecraft:item' for @RegistryEntryAcceptor!
+[01May2025 23:03:36.015] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Gamers/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23279!/assets/.mcassetsroot' uses unexpected schema
+[01May2025 23:03:36.016] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Gamers/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23279!/data/.mcassetsroot' uses unexpected schema
+[01May2025 23:03:36.740] [main/INFO] [com.simibubi.create.Create/]: Created 987 recipes which will be injected into the game
+[01May2025 23:03:36.761] [main/INFO] [com.simibubi.create.Create/]: Created 44 tags which will be injected into the game
+[01May2025 23:03:37.075] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Successfully loaded 0 data remolders!
+[01May2025 23:03:37.817] [main/INFO] [bettervillage/]: StructureSet modified for minecraft:village : Now using custom village configuration (can be disabled in the better villages config: boolean.villages.enabled_custom_config).
+[01May2025 23:03:38.766] [main/INFO] [Easy Mob Farm/]: Register Easy Mob Farm /easy_mob_farm commands for Easy Mob Farm ...
+[01May2025 23:03:38.873] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[01May2025 23:03:39.556] [Worker-Main-3/WARN] [artifacts.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-1.20.1-8.9.4.jar
+[01May2025 23:03:39.797] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag easy_villagers:invalid_farmer_crop as it is missing following references: farmersdelight:tomato_seeds (from easy-villagers-forge-1.20.1-1.1.27.jar)
+[01May2025 23:03:40.907] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:naturalist:entities/tortoise
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'minecraft:turtle_scute'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -481,7 +456,32 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[01May2025 20:20:13.323] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:yuushya:blocks/painter_gift_box
+[01May2025 23:03:41.316] [Worker-Main-3/ERROR] [net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener/]: Couldn't parse data file mekanism_extras:reaction/enriched_radiance_gasification/enriched_radiance from mekanism_extras:recipes/reaction/enriched_radiance_gasification/enriched_radiance.json
+com.google.gson.JsonParseException: java.io.EOFException: End of input at line 1 column 1 path $
+	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:526) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
+	at net.minecraft.util.GsonHelper.m_263475_(GsonHelper.java:531) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
+	at net.minecraft.util.GsonHelper.m_13776_(GsonHelper.java:581) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
+	at net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener.m_278771_(SimpleJsonResourceReloadListener.java:41) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
+	at net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener.m_5944_(SimpleJsonResourceReloadListener.java:29) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
+	at net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener.m_5944_(SimpleJsonResourceReloadListener.java:17) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10786_(SimplePreparableReloadListener.java:11) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: java.io.EOFException: End of input at line 1 column 1 path $
+	at com.google.gson.stream.JsonReader.nextNonWhitespace(JsonReader.java:1455) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:558) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.stream.JsonReader.peek(JsonReader.java:433) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:769) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:725) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapters$34$1.read(TypeAdapters.java:1007) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:524) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
+	... 13 more
+[01May2025 23:03:41.659] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:yuushya:blocks/painter_gift_box
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'yuushya:get_lit_item'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -533,11 +533,11 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[01May2025 20:20:13.660] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Loot Modification Manager has loaded 0 modifier groups
-[01May2025 20:20:13.760] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:alexsmobs:gameplay/seal_reward}.pools[0].entries[0]->{minecraft:gameplay/fishing/junk}.pools[1].condition[0]: Parameters [<parameter minecraft:origin>] are not provided in this context
-[01May2025 20:20:13.817] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe fusion:fusion_furnace/recycle_mythril_items1 as it's serializer returned null
-[01May2025 20:20:13.817] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe fusion:fusion_furnace/recycle_mythril_items2 as it's serializer returned null
-[01May2025 20:20:13.831] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe seafoamsdyeableblocks:netherite_paintbrush_smithing
+[01May2025 23:03:41.997] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Loot Modification Manager has loaded 0 modifier groups
+[01May2025 23:03:42.103] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:alexsmobs:gameplay/seal_reward}.pools[0].entries[0]->{minecraft:gameplay/fishing/junk}.pools[1].condition[0]: Parameters [<parameter minecraft:origin>] are not provided in this context
+[01May2025 23:03:42.159] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe fusion:fusion_furnace/recycle_mythril_items1 as it's serializer returned null
+[01May2025 23:03:42.160] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe fusion:fusion_furnace/recycle_mythril_items2 as it's serializer returned null
+[01May2025 23:03:42.173] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe seafoamsdyeableblocks:netherite_paintbrush_smithing
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -566,25 +566,25 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01May2025 20:20:13.858] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe fusion:fusion_furnace/recycle_tin_items1 as it's serializer returned null
-[01May2025 20:20:13.858] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe fusion:fusion_furnace/recycle_tin_items2 as it's serializer returned null
-[01May2025 20:20:13.859] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe fusion:fusion_furnace/recycle_fyrite_items1 as it's serializer returned null
-[01May2025 20:20:13.860] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe fusion:fusion_furnace/recycle_fyrite_items2 as it's serializer returned null
-[01May2025 20:20:13.879] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe fusion:fusion_furnace/recycle_malachite_items2 as it's serializer returned null
-[01May2025 20:20:13.880] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe fusion:fusion_furnace/recycle_malachite_items1 as it's serializer returned null
-[01May2025 20:20:13.928] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe fusion:fusion_furnace/recycle_ashstone_items1 as it's serializer returned null
-[01May2025 20:20:13.956] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe fusion:fusion_furnace/recycle_onyx_items2 as it's serializer returned null
-[01May2025 20:20:13.956] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe fusion:fusion_furnace/recycle_onyx_items1 as it's serializer returned null
-[01May2025 20:20:14.003] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe fusion:fusion_furnace/recycle_copper_items1 as it's serializer returned null
-[01May2025 20:20:14.003] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe fusion:fusion_furnace/recycle_copper_items2 as it's serializer returned null
-[01May2025 20:20:14.073] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe fusion:fusion_furnace/recycle_dragonstone_items1 as it's serializer returned null
-[01May2025 20:20:14.073] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe fusion:fusion_furnace/recycle_dragonstone_items2 as it's serializer returned null
-[01May2025 20:20:14.084] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe fusion:fusion_furnace/recycle_adamantium_items1 as it's serializer returned null
-[01May2025 20:20:14.084] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe fusion:fusion_furnace/recycle_adamantium_items2 as it's serializer returned null
-[01May2025 20:20:14.086] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe fusion:fusion_furnace/recycle_argonite_items1 as it's serializer returned null
-[01May2025 20:20:14.087] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe fusion:fusion_furnace/recycle_illumenite_items2 as it's serializer returned null
-[01May2025 20:20:14.087] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe fusion:fusion_furnace/recycle_illumenite_items1 as it's serializer returned null
-[01May2025 20:20:14.109] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe yuushya:painter_gift_box
+[01May2025 23:03:42.199] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe fusion:fusion_furnace/recycle_tin_items1 as it's serializer returned null
+[01May2025 23:03:42.199] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe fusion:fusion_furnace/recycle_tin_items2 as it's serializer returned null
+[01May2025 23:03:42.200] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe fusion:fusion_furnace/recycle_fyrite_items1 as it's serializer returned null
+[01May2025 23:03:42.201] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe fusion:fusion_furnace/recycle_fyrite_items2 as it's serializer returned null
+[01May2025 23:03:42.218] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe fusion:fusion_furnace/recycle_malachite_items2 as it's serializer returned null
+[01May2025 23:03:42.218] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe fusion:fusion_furnace/recycle_malachite_items1 as it's serializer returned null
+[01May2025 23:03:42.265] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe fusion:fusion_furnace/recycle_ashstone_items1 as it's serializer returned null
+[01May2025 23:03:42.293] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe fusion:fusion_furnace/recycle_onyx_items2 as it's serializer returned null
+[01May2025 23:03:42.293] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe fusion:fusion_furnace/recycle_onyx_items1 as it's serializer returned null
+[01May2025 23:03:42.346] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe fusion:fusion_furnace/recycle_copper_items1 as it's serializer returned null
+[01May2025 23:03:42.346] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe fusion:fusion_furnace/recycle_copper_items2 as it's serializer returned null
+[01May2025 23:03:42.416] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe fusion:fusion_furnace/recycle_dragonstone_items1 as it's serializer returned null
+[01May2025 23:03:42.417] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe fusion:fusion_furnace/recycle_dragonstone_items2 as it's serializer returned null
+[01May2025 23:03:42.424] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe fusion:fusion_furnace/recycle_adamantium_items1 as it's serializer returned null
+[01May2025 23:03:42.424] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe fusion:fusion_furnace/recycle_adamantium_items2 as it's serializer returned null
+[01May2025 23:03:42.426] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe fusion:fusion_furnace/recycle_argonite_items1 as it's serializer returned null
+[01May2025 23:03:42.427] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe fusion:fusion_furnace/recycle_illumenite_items2 as it's serializer returned null
+[01May2025 23:03:42.427] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe fusion:fusion_furnace/recycle_illumenite_items1 as it's serializer returned null
+[01May2025 23:03:42.446] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe yuushya:painter_gift_box
 com.google.gson.JsonSyntaxException: Unknown item 'yuushya:the_encyclopedia'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -622,7 +622,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'yuushya:the_encyclopedia'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01May2025 20:20:14.178] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe seafoamsdyeableblocks:dye_sponge
+[01May2025 23:03:42.524] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe seafoamsdyeableblocks:dye_sponge
 com.google.gson.JsonSyntaxException: Unknown item 'minecraft:color_essence'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -660,157 +660,162 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:color_essence'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01May2025 20:20:14.195] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 69 recipes
-[01May2025 20:20:14.196] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Advancement Modification Manager has loaded 0 modifier groups
-[01May2025 20:20:14.451] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 6484 advancements
-[01May2025 20:20:14.474] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 13 curio slots
-[01May2025 20:20:14.485] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio entities
-[01May2025 20:20:14.487] [main/ERROR] [bettervillage/]: Ice And Fire compatibility is not enabled for Better Village and Ice And Fire is present in your mod list.
+[01May2025 23:03:42.540] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 69 recipes
+[01May2025 23:03:42.540] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Advancement Modification Manager has loaded 0 modifier groups
+[01May2025 23:03:42.885] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 6484 advancements
+[01May2025 23:03:42.929] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 13 curio slots
+[01May2025 23:03:42.941] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio entities
+[01May2025 23:03:42.944] [main/ERROR] [bettervillage/]: Ice And Fire compatibility is not enabled for Better Village and Ice And Fire is present in your mod list.
      - Please install the datapack for better compatibility between Better Villages and Ice And Fire.
      - You can find the datapack URL in the `compatibility` section of the Better Villages description.
      - URL=https://www.curseforge.com/minecraft/mc-mods/better-village-forge
-[01May2025 20:20:14.487] [main/INFO] [Dungeon Crawl/]: Loading data...
-[01May2025 20:20:14.814] [main/INFO] [Dungeon Crawl/]: Done.
-[01May2025 20:20:14.814] [main/INFO] [rechiseled/]: Loaded 44 chiseling recipes
-[01May2025 20:20:14.814] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Chunk Generator Modification Manager has loaded 0 modifier groups
-[01May2025 20:20:26.278] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[01May2025 20:20:26.278] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[01May2025 20:20:26.279] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[01May2025 20:20:26.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[01May2025 20:20:26.476] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[01May2025 20:20:26.499] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[01May2025 20:20:26.581] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01May2025 20:20:26.581] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[01May2025 20:20:26.582] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01May2025 20:20:26.582] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[01May2025 20:20:26.597] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easyanvils
-[01May2025 20:20:26.614] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[01May2025 20:20:26.644] [Server thread/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: Loading "Easier Sleeping" SERVER Config
-[01May2025 20:20:26.644] [Server thread/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: sleep_message = is now in bed.
-[01May2025 20:20:26.645] [Server thread/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: dimension_list_type = SLEEP_ACTIVE
-[01May2025 20:20:26.645] [Server thread/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: wake_message = stood up.
-[01May2025 20:20:26.645] [Server thread/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: block_blacklist = []
-[01May2025 20:20:26.646] [Server thread/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: sleep_percent = 50
-[01May2025 20:20:26.646] [Server thread/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: morning_message = Good Morning
-[01May2025 20:20:26.646] [Server thread/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: all_players_rest = false
-[01May2025 20:20:26.646] [Server thread/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: dimensions = [minecraft:overworld]
-[01May2025 20:20:26.647] [Server thread/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: "Easier Sleeping" SERVER Config loaded
-[01May2025 20:20:26.647] [Thread-3/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: Loading "Easier Sleeping" SERVER Config
-[01May2025 20:20:26.648] [Thread-3/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: sleep_message = is now in bed.
-[01May2025 20:20:26.648] [Thread-3/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: dimension_list_type = SLEEP_ACTIVE
-[01May2025 20:20:26.649] [Thread-3/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: wake_message = stood up.
-[01May2025 20:20:26.649] [Thread-3/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: block_blacklist = []
-[01May2025 20:20:26.650] [Thread-3/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: sleep_percent = 50
-[01May2025 20:20:26.650] [Thread-3/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: morning_message = Good Morning
-[01May2025 20:20:26.651] [Thread-3/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: all_players_rest = false
-[01May2025 20:20:26.651] [Thread-3/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: dimensions = [minecraft:overworld]
-[01May2025 20:20:26.652] [Thread-3/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: "Easier Sleeping" SERVER Config loaded
-[01May2025 20:20:26.653] [Thread-3/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: Loading "Easier Sleeping" SERVER Config
-[01May2025 20:20:26.653] [Thread-3/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: sleep_message = is now in bed.
-[01May2025 20:20:26.654] [Thread-3/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: dimension_list_type = SLEEP_ACTIVE
-[01May2025 20:20:26.654] [Thread-3/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: wake_message = stood up.
-[01May2025 20:20:26.654] [Thread-3/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: block_blacklist = []
-[01May2025 20:20:26.655] [Thread-3/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: sleep_percent = 50
-[01May2025 20:20:26.656] [Thread-3/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: morning_message = Good Morning
-[01May2025 20:20:26.656] [Thread-3/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: all_players_rest = false
-[01May2025 20:20:26.657] [Thread-3/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: dimensions = [minecraft:overworld]
-[01May2025 20:20:26.657] [Thread-3/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: "Easier Sleeping" SERVER Config loaded
-[01May2025 20:20:26.857] [Server thread/INFO] [Framework/]: Loading server configs...
-[01May2025 20:20:27.518] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[01May2025 20:20:27.519] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[01May2025 20:20:27.519] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[01May2025 20:20:28.517] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyBedEntity
-[01May2025 20:20:28.517] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyBedEntity
-[01May2025 20:20:28.518] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyBedEntity
-[01May2025 20:20:28.518] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyBedEntity
-[01May2025 20:20:28.519] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyBedEntity
-[01May2025 20:20:28.519] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyBedEntity
-[01May2025 20:20:28.520] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyBedEntity
-[01May2025 20:20:28.525] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.projectile.FishingHook from class net.heyimamethyst.fairyfactions.entities.FairyFishHookEntity
-[01May2025 20:20:28.525] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.projectile.FishingHook from class net.heyimamethyst.fairyfactions.entities.FairyFishHookEntity
-[01May2025 20:20:33.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[01May2025 20:20:36.696] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01May2025 20:20:36.697] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01May2025 20:20:36.697] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01May2025 20:20:36.698] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01May2025 20:20:36.698] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01May2025 20:20:36.700] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01May2025 20:20:36.701] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01May2025 20:20:36.765] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01May2025 20:20:37.265] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 36%
-[01May2025 20:20:37.713] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 4449 ms
-[01May2025 20:20:37.714] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (11.121s)! For help, type "help"
-[01May2025 20:20:37.793] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[01May2025 20:20:37.821] [Server thread/INFO] [Easy Mob Farm/]: [Config] Registering deferred common configuration ...
-[01May2025 20:20:37.824] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add swamp_farm::1::minecraft:witch with a chance of 1 of 15 for 1 redstone.
-[01May2025 20:20:37.825] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add animal_plains_farm::3::minecraft:sheep with a chance of 1 of 5 for 1 white_wool.
-[01May2025 20:20:37.825] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add monster_plains_cave_farm::1::minecraft:zombie with a chance of 1 of 15 for 1 rotten_flesh.
-[01May2025 20:20:37.825] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add ocean_farm::2::minecraft:squid with a chance of 1 of 10 for 1 ink_sac.
-[01May2025 20:20:37.825] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add nether_fortress_farm::0::minecraft:blaze with a chance of 1 of 20 for 1 blaze_rod.
-[01May2025 20:20:37.825] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add iron_golem_farm::0::minecraft:iron_golem with a chance of 1 of 20 for 1 iron_ingot.
-[01May2025 20:20:37.826] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add ocean_farm::2::minecraft:cod with a chance of 1 of 10 for 1 cod.
-[01May2025 20:20:37.826] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add jungle_farm::1::minecraft:parrot with a chance of 1 of 15 for 1 feather.
-[01May2025 20:20:37.826] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add swamp_farm::2::minecraft:witch with a chance of 1 of 10 for 1 redstone.
-[01May2025 20:20:37.826] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add ocean_farm::1::minecraft:squid with a chance of 1 of 15 for 1 ink_sac.
-[01May2025 20:20:37.827] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add jungle_farm::1::minecraft:panda with a chance of 1 of 15 for 1 bamboo.
-[01May2025 20:20:37.827] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add swamp_farm::0::minecraft:frog with a chance of 1 of 20 for 1 slime_ball.
-[01May2025 20:20:37.827] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add animal_plains_farm::2::minecraft:sheep with a chance of 1 of 10 for 1 white_wool.
-[01May2025 20:20:37.827] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add animal_plains_farm::3::minecraft:chicken with a chance of 1 of 5 for 1 egg.
-[01May2025 20:20:37.827] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add animal_plains_farm::1::minecraft:sheep with a chance of 1 of 15 for 1 white_wool.
-[01May2025 20:20:37.828] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add iron_golem_farm::1::minecraft:iron_golem with a chance of 1 of 15 for 1 iron_ingot.
-[01May2025 20:20:37.828] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add swamp_farm::3::minecraft:frog with a chance of 1 of 5 for 1 slime_ball.
-[01May2025 20:20:37.828] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add nether_fortress_farm::1::minecraft:blaze with a chance of 1 of 15 for 1 blaze_rod.
-[01May2025 20:20:37.828] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add bee_hive_farm::2::minecraft:bee with a chance of 1 of 10 for 1 honeycomb.
-[01May2025 20:20:37.829] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add desert_farm::1::minecraft:husk with a chance of 1 of 15 for 1 sand.
-[01May2025 20:20:37.829] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add jungle_farm::0::minecraft:panda with a chance of 1 of 20 for 1 bamboo.
-[01May2025 20:20:37.829] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add nether_fortress_farm::0::minecraft:magma_cube with a chance of 1 of 20 for 1 magma_cream.
-[01May2025 20:20:37.829] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add jungle_farm::2::minecraft:parrot with a chance of 1 of 10 for 1 feather.
-[01May2025 20:20:37.829] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add swamp_farm::2::minecraft:frog with a chance of 1 of 10 for 1 slime_ball.
-[01May2025 20:20:37.830] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add animal_plains_farm::0::minecraft:chicken with a chance of 1 of 20 for 1 egg.
-[01May2025 20:20:37.830] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add nether_fortress_farm::3::minecraft:blaze with a chance of 1 of 5 for 1 blaze_rod.
-[01May2025 20:20:37.830] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add animal_plains_farm::1::minecraft:chicken with a chance of 1 of 15 for 1 egg.
-[01May2025 20:20:37.830] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add ocean_farm::0::minecraft:squid with a chance of 1 of 20 for 1 ink_sac.
-[01May2025 20:20:37.830] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add animal_plains_farm::1::minecraft:cow with a chance of 1 of 15 for 1 leather.
-[01May2025 20:20:37.831] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add ocean_farm::0::minecraft:cod with a chance of 1 of 20 for 1 cod.
-[01May2025 20:20:37.831] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add desert_farm::0::minecraft:husk with a chance of 1 of 20 for 1 sand.
-[01May2025 20:20:37.831] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add monster_plains_cave_farm::0::minecraft:zombie with a chance of 1 of 20 for 1 rotten_flesh.
-[01May2025 20:20:37.831] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add desert_farm::3::minecraft:husk with a chance of 1 of 5 for 1 sand.
-[01May2025 20:20:37.832] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add desert_farm::2::minecraft:rabbit with a chance of 1 of 10 for 1 rabbit_hide.
-[01May2025 20:20:37.832] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add animal_plains_farm::2::minecraft:cow with a chance of 1 of 10 for 1 leather.
-[01May2025 20:20:37.832] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add jungle_farm::3::minecraft:panda with a chance of 1 of 5 for 1 bamboo.
-[01May2025 20:20:37.832] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add ocean_farm::3::minecraft:squid with a chance of 1 of 5 for 1 ink_sac.
-[01May2025 20:20:37.832] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add jungle_farm::3::minecraft:parrot with a chance of 1 of 5 for 1 feather.
-[01May2025 20:20:37.833] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add desert_farm::3::minecraft:rabbit with a chance of 1 of 5 for 1 rabbit_hide.
-[01May2025 20:20:37.833] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add ocean_farm::1::minecraft:cod with a chance of 1 of 15 for 1 cod.
-[01May2025 20:20:37.833] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add ocean_farm::3::minecraft:cod with a chance of 1 of 5 for 1 cod.
-[01May2025 20:20:37.833] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add animal_plains_farm::3::minecraft:cow with a chance of 1 of 5 for 1 leather.
-[01May2025 20:20:37.833] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add nether_fortress_farm::3::minecraft:magma_cube with a chance of 1 of 5 for 1 magma_cream.
-[01May2025 20:20:37.834] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add desert_farm::2::minecraft:husk with a chance of 1 of 10 for 1 sand.
-[01May2025 20:20:37.834] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add bee_hive_farm::3::minecraft:bee with a chance of 1 of 5 for 1 honeycomb.
-[01May2025 20:20:37.834] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add swamp_farm::2::minecraft:slime with a chance of 1 of 10 for 1 slime_ball.
-[01May2025 20:20:37.834] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add swamp_farm::1::minecraft:frog with a chance of 1 of 15 for 1 slime_ball.
-[01May2025 20:20:37.835] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add bee_hive_farm::1::minecraft:bee with a chance of 1 of 15 for 1 honeycomb.
-[01May2025 20:20:37.835] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add swamp_farm::0::minecraft:slime with a chance of 1 of 20 for 1 slime_ball.
-[01May2025 20:20:37.835] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add desert_farm::1::minecraft:rabbit with a chance of 1 of 15 for 1 rabbit_hide.
-[01May2025 20:20:37.835] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add animal_plains_farm::0::minecraft:cow with a chance of 1 of 20 for 1 leather.
-[01May2025 20:20:37.835] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add animal_plains_farm::2::minecraft:chicken with a chance of 1 of 10 for 1 egg.
-[01May2025 20:20:37.835] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add swamp_farm::3::minecraft:slime with a chance of 1 of 5 for 1 slime_ball.
-[01May2025 20:20:37.835] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add bee_hive_farm::0::minecraft:bee with a chance of 1 of 20 for 1 honeycomb.
-[01May2025 20:20:37.836] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add jungle_farm::2::minecraft:panda with a chance of 1 of 10 for 1 bamboo.
-[01May2025 20:20:37.836] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add swamp_farm::3::minecraft:witch with a chance of 1 of 5 for 1 redstone.
-[01May2025 20:20:37.836] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add animal_plains_farm::0::minecraft:sheep with a chance of 1 of 20 for 1 white_wool.
-[01May2025 20:20:37.836] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add nether_fortress_farm::2::minecraft:blaze with a chance of 1 of 10 for 1 blaze_rod.
-[01May2025 20:20:37.836] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add nether_fortress_farm::1::minecraft:magma_cube with a chance of 1 of 15 for 1 magma_cream.
-[01May2025 20:20:37.836] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add iron_golem_farm::2::minecraft:iron_golem with a chance of 1 of 10 for 1 iron_ingot.
-[01May2025 20:20:37.837] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add monster_plains_cave_farm::3::minecraft:zombie with a chance of 1 of 5 for 1 rotten_flesh.
-[01May2025 20:20:37.837] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add desert_farm::0::minecraft:rabbit with a chance of 1 of 20 for 1 rabbit_hide.
-[01May2025 20:20:37.837] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add swamp_farm::0::minecraft:witch with a chance of 1 of 20 for 1 redstone.
-[01May2025 20:20:37.837] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add iron_golem_farm::3::minecraft:iron_golem with a chance of 1 of 5 for 1 iron_ingot.
-[01May2025 20:20:37.837] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add monster_plains_cave_farm::2::minecraft:zombie with a chance of 1 of 10 for 1 rotten_flesh.
-[01May2025 20:20:37.837] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add nether_fortress_farm::2::minecraft:magma_cube with a chance of 1 of 10 for 1 magma_cream.
-[01May2025 20:20:37.838] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add jungle_farm::0::minecraft:parrot with a chance of 1 of 20 for 1 feather.
-[01May2025 20:20:37.838] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add swamp_farm::1::minecraft:slime with a chance of 1 of 15 for 1 slime_ball.
-[01May2025 20:20:37.838] [Server thread/INFO] [Easy Mob Farm/]: [Config]  Mob Farm Bonus Configuration
+[01May2025 23:03:42.944] [main/INFO] [Dungeon Crawl/]: Loading data...
+[01May2025 23:03:43.353] [main/INFO] [Dungeon Crawl/]: Done.
+[01May2025 23:03:43.353] [main/INFO] [rechiseled/]: Loaded 44 chiseling recipes
+[01May2025 23:03:43.354] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Chunk Generator Modification Manager has loaded 0 modifier groups
+[01May2025 23:03:56.601] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[01May2025 23:03:56.601] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[01May2025 23:03:56.601] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[01May2025 23:03:56.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[01May2025 23:03:56.819] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[01May2025 23:03:57.337] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[01May2025 23:03:57.463] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01May2025 23:03:57.463] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[01May2025 23:03:57.464] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01May2025 23:03:57.464] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[01May2025 23:03:57.499] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easyanvils
+[01May2025 23:03:57.501] [Thread-3/INFO] [Puzzles Lib/]: Reloading server config for easyanvils
+[01May2025 23:03:57.536] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[01May2025 23:03:57.540] [Thread-3/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[01May2025 23:03:57.611] [Server thread/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: Loading "Easier Sleeping" SERVER Config
+[01May2025 23:03:57.615] [Server thread/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: sleep_message = is now in bed.
+[01May2025 23:03:57.615] [Server thread/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: dimension_list_type = SLEEP_ACTIVE
+[01May2025 23:03:57.617] [Server thread/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: wake_message = stood up.
+[01May2025 23:03:57.617] [Server thread/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: block_blacklist = []
+[01May2025 23:03:57.618] [Server thread/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: sleep_percent = 50
+[01May2025 23:03:57.619] [Server thread/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: morning_message = Good Morning
+[01May2025 23:03:57.620] [Server thread/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: all_players_rest = false
+[01May2025 23:03:57.622] [Server thread/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: dimensions = [minecraft:overworld]
+[01May2025 23:03:57.623] [Server thread/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: "Easier Sleeping" SERVER Config loaded
+[01May2025 23:03:57.624] [Thread-3/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: Loading "Easier Sleeping" SERVER Config
+[01May2025 23:03:57.625] [Thread-3/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: sleep_message = is now in bed.
+[01May2025 23:03:57.627] [Thread-3/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: dimension_list_type = SLEEP_ACTIVE
+[01May2025 23:03:57.627] [Thread-3/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: wake_message = stood up.
+[01May2025 23:03:57.628] [Thread-3/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: block_blacklist = []
+[01May2025 23:03:57.630] [Thread-3/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: sleep_percent = 50
+[01May2025 23:03:57.631] [Thread-3/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: morning_message = Good Morning
+[01May2025 23:03:57.631] [Thread-3/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: all_players_rest = false
+[01May2025 23:03:57.631] [Thread-3/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: dimensions = [minecraft:overworld]
+[01May2025 23:03:57.631] [Thread-3/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: "Easier Sleeping" SERVER Config loaded
+[01May2025 23:03:58.036] [Server thread/INFO] [Framework/]: Loading server configs...
+[01May2025 23:03:58.084] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[01May2025 23:03:58.152] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[01May2025 23:03:59.103] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[01May2025 23:03:59.103] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[01May2025 23:03:59.552] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[01May2025 23:04:01.018] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyBedEntity
+[01May2025 23:04:01.019] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyBedEntity
+[01May2025 23:04:01.020] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyBedEntity
+[01May2025 23:04:01.020] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyBedEntity
+[01May2025 23:04:01.021] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyBedEntity
+[01May2025 23:04:01.021] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyBedEntity
+[01May2025 23:04:01.022] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyBedEntity
+[01May2025 23:04:01.027] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.projectile.FishingHook from class net.heyimamethyst.fairyfactions.entities.FairyFishHookEntity
+[01May2025 23:04:01.028] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.projectile.FishingHook from class net.heyimamethyst.fairyfactions.entities.FairyFishHookEntity
+[01May2025 23:04:01.213] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[01May2025 23:04:04.575] [Netty Epoll Server IO #4/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[01May2025 23:04:07.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[01May2025 23:04:12.215] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01May2025 23:04:12.234] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01May2025 23:04:12.243] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01May2025 23:04:12.266] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01May2025 23:04:12.291] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01May2025 23:04:12.306] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01May2025 23:04:12.325] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01May2025 23:04:12.363] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01May2025 23:04:12.382] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01May2025 23:04:12.398] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01May2025 23:04:12.414] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01May2025 23:04:12.614] [Netty Epoll Server IO #5/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[01May2025 23:04:12.639] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01May2025 23:04:13.163] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01May2025 23:04:13.633] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01May2025 23:04:14.135] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01May2025 23:04:14.633] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 31%
+[01May2025 23:04:15.133] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 78%
+[01May2025 23:04:15.320] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 8188 ms
+[01May2025 23:04:15.322] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (17.833s)! For help, type "help"
+[01May2025 23:04:15.506] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[01May2025 23:04:15.558] [Server thread/INFO] [Easy Mob Farm/]: [Config] Registering deferred common configuration ...
+[01May2025 23:04:15.568] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add swamp_farm::1::minecraft:witch with a chance of 1 of 15 for 1 redstone.
+[01May2025 23:04:15.568] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add animal_plains_farm::3::minecraft:sheep with a chance of 1 of 5 for 1 white_wool.
+[01May2025 23:04:15.569] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add monster_plains_cave_farm::1::minecraft:zombie with a chance of 1 of 15 for 1 rotten_flesh.
+[01May2025 23:04:15.569] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add ocean_farm::2::minecraft:squid with a chance of 1 of 10 for 1 ink_sac.
+[01May2025 23:04:15.569] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add nether_fortress_farm::0::minecraft:blaze with a chance of 1 of 20 for 1 blaze_rod.
+[01May2025 23:04:15.569] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add iron_golem_farm::0::minecraft:iron_golem with a chance of 1 of 20 for 1 iron_ingot.
+[01May2025 23:04:15.569] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add ocean_farm::2::minecraft:cod with a chance of 1 of 10 for 1 cod.
+[01May2025 23:04:15.570] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add jungle_farm::1::minecraft:parrot with a chance of 1 of 15 for 1 feather.
+[01May2025 23:04:15.570] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add swamp_farm::2::minecraft:witch with a chance of 1 of 10 for 1 redstone.
+[01May2025 23:04:15.570] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add ocean_farm::1::minecraft:squid with a chance of 1 of 15 for 1 ink_sac.
+[01May2025 23:04:15.570] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add jungle_farm::1::minecraft:panda with a chance of 1 of 15 for 1 bamboo.
+[01May2025 23:04:15.570] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add swamp_farm::0::minecraft:frog with a chance of 1 of 20 for 1 slime_ball.
+[01May2025 23:04:15.571] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add animal_plains_farm::2::minecraft:sheep with a chance of 1 of 10 for 1 white_wool.
+[01May2025 23:04:15.571] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add animal_plains_farm::3::minecraft:chicken with a chance of 1 of 5 for 1 egg.
+[01May2025 23:04:15.571] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add animal_plains_farm::1::minecraft:sheep with a chance of 1 of 15 for 1 white_wool.
+[01May2025 23:04:15.572] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add iron_golem_farm::1::minecraft:iron_golem with a chance of 1 of 15 for 1 iron_ingot.
+[01May2025 23:04:15.572] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add swamp_farm::3::minecraft:frog with a chance of 1 of 5 for 1 slime_ball.
+[01May2025 23:04:15.573] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add nether_fortress_farm::1::minecraft:blaze with a chance of 1 of 15 for 1 blaze_rod.
+[01May2025 23:04:15.573] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add bee_hive_farm::2::minecraft:bee with a chance of 1 of 10 for 1 honeycomb.
+[01May2025 23:04:15.574] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add desert_farm::1::minecraft:husk with a chance of 1 of 15 for 1 sand.
+[01May2025 23:04:15.574] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add jungle_farm::0::minecraft:panda with a chance of 1 of 20 for 1 bamboo.
+[01May2025 23:04:15.574] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add nether_fortress_farm::0::minecraft:magma_cube with a chance of 1 of 20 for 1 magma_cream.
+[01May2025 23:04:15.574] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add jungle_farm::2::minecraft:parrot with a chance of 1 of 10 for 1 feather.
+[01May2025 23:04:15.575] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add swamp_farm::2::minecraft:frog with a chance of 1 of 10 for 1 slime_ball.
+[01May2025 23:04:15.575] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add animal_plains_farm::0::minecraft:chicken with a chance of 1 of 20 for 1 egg.
+[01May2025 23:04:15.575] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add nether_fortress_farm::3::minecraft:blaze with a chance of 1 of 5 for 1 blaze_rod.
+[01May2025 23:04:15.576] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add animal_plains_farm::1::minecraft:chicken with a chance of 1 of 15 for 1 egg.
+[01May2025 23:04:15.576] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add ocean_farm::0::minecraft:squid with a chance of 1 of 20 for 1 ink_sac.
+[01May2025 23:04:15.576] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add animal_plains_farm::1::minecraft:cow with a chance of 1 of 15 for 1 leather.
+[01May2025 23:04:15.577] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add ocean_farm::0::minecraft:cod with a chance of 1 of 20 for 1 cod.
+[01May2025 23:04:15.579] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add desert_farm::0::minecraft:husk with a chance of 1 of 20 for 1 sand.
+[01May2025 23:04:15.579] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add monster_plains_cave_farm::0::minecraft:zombie with a chance of 1 of 20 for 1 rotten_flesh.
+[01May2025 23:04:15.579] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add desert_farm::3::minecraft:husk with a chance of 1 of 5 for 1 sand.
+[01May2025 23:04:15.579] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add desert_farm::2::minecraft:rabbit with a chance of 1 of 10 for 1 rabbit_hide.
+[01May2025 23:04:15.579] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add animal_plains_farm::2::minecraft:cow with a chance of 1 of 10 for 1 leather.
+[01May2025 23:04:15.580] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add jungle_farm::3::minecraft:panda with a chance of 1 of 5 for 1 bamboo.
+[01May2025 23:04:15.580] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add ocean_farm::3::minecraft:squid with a chance of 1 of 5 for 1 ink_sac.
+[01May2025 23:04:15.580] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add jungle_farm::3::minecraft:parrot with a chance of 1 of 5 for 1 feather.
+[01May2025 23:04:15.580] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add desert_farm::3::minecraft:rabbit with a chance of 1 of 5 for 1 rabbit_hide.
+[01May2025 23:04:15.580] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add ocean_farm::1::minecraft:cod with a chance of 1 of 15 for 1 cod.
+[01May2025 23:04:15.580] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add ocean_farm::3::minecraft:cod with a chance of 1 of 5 for 1 cod.
+[01May2025 23:04:15.581] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add animal_plains_farm::3::minecraft:cow with a chance of 1 of 5 for 1 leather.
+[01May2025 23:04:15.581] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add nether_fortress_farm::3::minecraft:magma_cube with a chance of 1 of 5 for 1 magma_cream.
+[01May2025 23:04:15.581] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add desert_farm::2::minecraft:husk with a chance of 1 of 10 for 1 sand.
+[01May2025 23:04:15.582] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add bee_hive_farm::3::minecraft:bee with a chance of 1 of 5 for 1 honeycomb.
+[01May2025 23:04:15.582] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add swamp_farm::2::minecraft:slime with a chance of 1 of 10 for 1 slime_ball.
+[01May2025 23:04:15.582] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add swamp_farm::1::minecraft:frog with a chance of 1 of 15 for 1 slime_ball.
+[01May2025 23:04:15.583] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add bee_hive_farm::1::minecraft:bee with a chance of 1 of 15 for 1 honeycomb.
+[01May2025 23:04:15.585] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add swamp_farm::0::minecraft:slime with a chance of 1 of 20 for 1 slime_ball.
+[01May2025 23:04:15.585] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add desert_farm::1::minecraft:rabbit with a chance of 1 of 15 for 1 rabbit_hide.
+[01May2025 23:04:15.585] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add animal_plains_farm::0::minecraft:cow with a chance of 1 of 20 for 1 leather.
+[01May2025 23:04:15.586] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add animal_plains_farm::2::minecraft:chicken with a chance of 1 of 10 for 1 egg.
+[01May2025 23:04:15.586] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add swamp_farm::3::minecraft:slime with a chance of 1 of 5 for 1 slime_ball.
+[01May2025 23:04:15.586] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add bee_hive_farm::0::minecraft:bee with a chance of 1 of 20 for 1 honeycomb.
+[01May2025 23:04:15.587] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add jungle_farm::2::minecraft:panda with a chance of 1 of 10 for 1 bamboo.
+[01May2025 23:04:15.587] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add swamp_farm::3::minecraft:witch with a chance of 1 of 5 for 1 redstone.
+[01May2025 23:04:15.587] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add animal_plains_farm::0::minecraft:sheep with a chance of 1 of 20 for 1 white_wool.
+[01May2025 23:04:15.588] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add nether_fortress_farm::2::minecraft:blaze with a chance of 1 of 10 for 1 blaze_rod.
+[01May2025 23:04:15.588] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add nether_fortress_farm::1::minecraft:magma_cube with a chance of 1 of 15 for 1 magma_cream.
+[01May2025 23:04:15.588] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add iron_golem_farm::2::minecraft:iron_golem with a chance of 1 of 10 for 1 iron_ingot.
+[01May2025 23:04:15.589] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add monster_plains_cave_farm::3::minecraft:zombie with a chance of 1 of 5 for 1 rotten_flesh.
+[01May2025 23:04:15.589] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add desert_farm::0::minecraft:rabbit with a chance of 1 of 20 for 1 rabbit_hide.
+[01May2025 23:04:15.589] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add swamp_farm::0::minecraft:witch with a chance of 1 of 20 for 1 redstone.
+[01May2025 23:04:15.590] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add iron_golem_farm::3::minecraft:iron_golem with a chance of 1 of 5 for 1 iron_ingot.
+[01May2025 23:04:15.590] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add monster_plains_cave_farm::2::minecraft:zombie with a chance of 1 of 10 for 1 rotten_flesh.
+[01May2025 23:04:15.590] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add nether_fortress_farm::2::minecraft:magma_cube with a chance of 1 of 10 for 1 magma_cream.
+[01May2025 23:04:15.591] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add jungle_farm::0::minecraft:parrot with a chance of 1 of 20 for 1 feather.
+[01May2025 23:04:15.591] [Server thread/INFO] [Easy Mob Farm/]: [MobFarmBonusConfig] Add swamp_farm::1::minecraft:slime with a chance of 1 of 15 for 1 slime_ball.
+[01May2025 23:04:15.591] [Server thread/INFO] [Easy Mob Farm/]: [Config]  Mob Farm Bonus Configuration
 
  This configuration file allows you to define the bonus drops for the Mob Farms.
 
@@ -826,217 +831,26 @@ Example:
 To disable a bonus drop for a default definition, set the amount to 0.
 
  is up to date: {swamp_farm::1::minecraft:witch=minecraft:redstone::1::15, animal_plains_farm::3::minecraft:sheep=minecraft:white_wool::1::5, monster_plains_cave_farm::1::minecraft:zombie=minecraft:rotten_flesh::1::15, ocean_farm::2::minecraft:squid=minecraft:ink_sac::1::10, nether_fortress_farm::0::minecraft:blaze=minecraft:blaze_rod::1::20, iron_golem_farm::0::minecraft:iron_golem=minecraft:iron_ingot::1::20, ocean_farm::2::minecraft:cod=minecraft:cod::1::10, jungle_farm::1::minecraft:parrot=minecraft:feather::1::15, swamp_farm::2::minecraft:witch=minecraft:redstone::1::10, ocean_farm::1::minecraft:squid=minecraft:ink_sac::1::15, jungle_farm::1::minecraft:panda=minecraft:bamboo::1::15, swamp_farm::0::minecraft:frog=minecraft:slime_ball::1::20, animal_plains_farm::2::minecraft:sheep=minecraft:white_wool::1::10, animal_plains_farm::3::minecraft:chicken=minecraft:egg::1::5, animal_plains_farm::1::minecraft:sheep=minecraft:white_wool::1::15, iron_golem_farm::1::minecraft:iron_golem=minecraft:iron_ingot::1::15, swamp_farm::3::minecraft:frog=minecraft:slime_ball::1::5, nether_fortress_farm::1::minecraft:blaze=minecraft:blaze_rod::1::15, bee_hive_farm::2::minecraft:bee=minecraft:honeycomb::1::10, desert_farm::1::minecraft:husk=minecraft:sand::1::15, jungle_farm::0::minecraft:panda=minecraft:bamboo::1::20, nether_fortress_farm::0::minecraft:magma_cube=minecraft:magma_cream::1::20, jungle_farm::2::minecraft:parrot=minecraft:feather::1::10, swamp_farm::2::minecraft:frog=minecraft:slime_ball::1::10, animal_plains_farm::0::minecraft:chicken=minecraft:egg::1::20, nether_fortress_farm::3::minecraft:blaze=minecraft:blaze_rod::1::5, animal_plains_farm::1::minecraft:chicken=minecraft:egg::1::15, ocean_farm::0::minecraft:squid=minecraft:ink_sac::1::20, animal_plains_farm::1::minecraft:cow=minecraft:leather::1::15, ocean_farm::0::minecraft:cod=minecraft:cod::1::20, desert_farm::0::minecraft:husk=minecraft:sand::1::20, monster_plains_cave_farm::0::minecraft:zombie=minecraft:rotten_flesh::1::20, desert_farm::3::minecraft:husk=minecraft:sand::1::5, desert_farm::2::minecraft:rabbit=minecraft:rabbit_hide::1::10, animal_plains_farm::2::minecraft:cow=minecraft:leather::1::10, jungle_farm::3::minecraft:panda=minecraft:bamboo::1::5, ocean_farm::3::minecraft:squid=minecraft:ink_sac::1::5, jungle_farm::3::minecraft:parrot=minecraft:feather::1::5, desert_farm::3::minecraft:rabbit=minecraft:rabbit_hide::1::5, ocean_farm::1::minecraft:cod=minecraft:cod::1::15, ocean_farm::3::minecraft:cod=minecraft:cod::1::5, animal_plains_farm::3::minecraft:cow=minecraft:leather::1::5, nether_fortress_farm::3::minecraft:magma_cube=minecraft:magma_cream::1::5, desert_farm::2::minecraft:husk=minecraft:sand::1::10, bee_hive_farm::3::minecraft:bee=minecraft:honeycomb::1::5, swamp_farm::2::minecraft:slime=minecraft:slime_ball::1::10, swamp_farm::1::minecraft:frog=minecraft:slime_ball::1::15, bee_hive_farm::1::minecraft:bee=minecraft:honeycomb::1::15, swamp_farm::0::minecraft:slime=minecraft:slime_ball::1::20, desert_farm::1::minecraft:rabbit=minecraft:rabbit_hide::1::15, animal_plains_farm::0::minecraft:cow=minecraft:leather::1::20, animal_plains_farm::2::minecraft:chicken=minecraft:egg::1::10, swamp_farm::3::minecraft:slime=minecraft:slime_ball::1::5, bee_hive_farm::0::minecraft:bee=minecraft:honeycomb::1::20, jungle_farm::2::minecraft:panda=minecraft:bamboo::1::10, swamp_farm::3::minecraft:witch=minecraft:redstone::1::5, animal_plains_farm::0::minecraft:sheep=minecraft:white_wool::1::20, nether_fortress_farm::2::minecraft:blaze=minecraft:blaze_rod::1::10, nether_fortress_farm::1::minecraft:magma_cube=minecraft:magma_cream::1::15, iron_golem_farm::2::minecraft:iron_golem=minecraft:iron_ingot::1::10, monster_plains_cave_farm::3::minecraft:zombie=minecraft:rotten_flesh::1::5, desert_farm::0::minecraft:rabbit=minecraft:rabbit_hide::1::20, swamp_farm::0::minecraft:witch=minecraft:redstone::1::20, iron_golem_farm::3::minecraft:iron_golem=minecraft:iron_ingot::1::5, monster_plains_cave_farm::2::minecraft:zombie=minecraft:rotten_flesh::1::10, nether_fortress_farm::2::minecraft:magma_cube=minecraft:magma_cream::1::10, jungle_farm::0::minecraft:parrot=minecraft:feather::1::20, swamp_farm::1::minecraft:slime=minecraft:slime_ball::1::15}
-[01May2025 20:20:37.868] [Server thread/INFO] [com.chiki.dragonfinder.DragonFinder/]: HELLO from server starting
-[01May2025 20:20:38.936] [Server thread/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Mod Recipe Manager ...
-[01May2025 20:20:38.949] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
-[01May2025 20:20:38.949] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
-[01May2025 20:27:56.901] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
-[01May2025 20:27:56.946] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: aaleexx17[/127.165.157.203:47701] logged in with entity id 900 at (-0.5, 64.0, 8.5)
-[01May2025 20:27:57.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 joined the game
-[01May2025 20:27:57.710] [Server thread/INFO] [Jade/]: Syncing config to aaleexx17 (da3b3c16-4900-3258-b19f-de1883847307)
-[01May2025 20:27:57.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 has made the advancement [Ice and Fire]
-[01May2025 20:28:57.809] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@20ea5bdb[id=<null>,name=darkblader69,properties={},legacy=false] (/127.93.136.202:41767) lost connection: Disconnected
-[01May2025 20:29:39.058] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4f907fb0[id=<null>,name=darkblader69,properties={},legacy=false] (/127.93.136.202:34459) lost connection: Disconnected
-[01May2025 20:35:34.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 has made the advancement [Stone Age]
-[01May2025 20:35:39.119] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: darkblader69[/127.93.136.202:58989] logged in with entity id 1962 at (7.5, 64.0, -0.5)
-[01May2025 20:35:39.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 joined the game
-[01May2025 20:35:39.279] [Server thread/INFO] [Jade/]: Syncing config to darkblader69 (c5ed7fb1-b56d-3780-a140-29be33768a49)
-[01May2025 20:35:39.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Ice and Fire]
-[01May2025 20:36:09.257] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: darkblader69 lost connection: Timed out
-[01May2025 20:36:09.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 left the game
-[01May2025 20:37:05.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 has made the advancement [Getting an Upgrade]
-[01May2025 20:37:07.531] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaleexx17 lost connection: Disconnected
-[01May2025 20:37:07.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 left the game
-[01May2025 20:44:28.959] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ich1goM1rukuu[/127.212.133.0:58759] logged in with entity id 2194 at (-9.5, 69.0, -6.5)
-[01May2025 20:44:28.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu joined the game
-[01May2025 20:44:29.089] [Server thread/INFO] [Jade/]: Syncing config to Ich1goM1rukuu (1bb4c909-b771-3893-aca7-1b6637a25cff)
-[01May2025 20:44:29.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Ice and Fire]
-[01May2025 20:49:38.787] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: darkblader69[/127.93.136.202:35839] logged in with entity id 4961 at (7.5, 64.0, -0.5)
-[01May2025 20:49:38.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 joined the game
-[01May2025 20:49:38.841] [Server thread/INFO] [Jade/]: Syncing config to darkblader69 (c5ed7fb1-b56d-3780-a140-29be33768a49)
-[01May2025 20:49:38.905] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: asaam[/127.246.25.221:55329] logged in with entity id 4983 at (-4.5, 66.0, -0.5)
-[01May2025 20:49:38.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asaam joined the game
-[01May2025 20:49:39.351] [Server thread/INFO] [Jade/]: Syncing config to asaam (daf14beb-1577-39e1-b946-f7101e6f3051)
-[01May2025 20:49:39.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asaam has made the advancement [Ice and Fire]
-[01May2025 20:49:41.618] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2669ms or 53 ticks behind
-[01May2025 20:49:53.471] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: darkblader69 lost connection: Disconnected
-[01May2025 20:49:53.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 left the game
-[01May2025 20:50:16.041] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: darkblader69[/127.93.136.202:35927] logged in with entity id 5855 at (7.5, 64.0, -0.5)
-[01May2025 20:50:16.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 joined the game
-[01May2025 20:50:16.108] [Server thread/INFO] [Jade/]: Syncing config to darkblader69 (c5ed7fb1-b56d-3780-a140-29be33768a49)
-[01May2025 20:51:02.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Monster Hunter]
-[01May2025 20:52:25.123] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ich1goM1rukuu lost connection: Disconnected
-[01May2025 20:52:25.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu left the game
-[01May2025 20:53:59.755] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2406ms or 48 ticks behind
-[01May2025 20:55:28.866] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: asaam lost connection: Disconnected
-[01May2025 20:55:28.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asaam left the game
-[01May2025 21:00:28.892] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: aaleexx17[/127.165.157.203:37951] logged in with entity id 19990 at (-26.60686138492031, 71.0, -32.11874218356449)
-[01May2025 21:00:28.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 joined the game
-[01May2025 21:00:28.943] [Server thread/INFO] [Jade/]: Syncing config to aaleexx17 (da3b3c16-4900-3258-b19f-de1883847307)
-[01May2025 21:01:41.524] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: asaam[/127.246.25.221:37531] logged in with entity id 22087 at (-9.699999988079071, 69.0, 8.699999988079071)
-[01May2025 21:01:41.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asaam joined the game
-[01May2025 21:01:41.586] [Server thread/INFO] [Jade/]: Syncing config to asaam (daf14beb-1577-39e1-b946-f7101e6f3051)
-[01May2025 21:05:09.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asaam has made the advancement [Monster Hunter]
-[01May2025 21:05:20.021] [Server thread/WARN] [tombstone/]: The death event of the player aaleexx17 was canceled by another mod
-[01May2025 21:05:20.026] [Server thread/INFO] [tombstone/]: The player aaleexx17 has successfully been saved
-[01May2025 21:05:53.880] [Server thread/WARN] [tombstone/]: The death event of the player asaam was canceled by another mod
-[01May2025 21:05:53.888] [Server thread/INFO] [tombstone/]: The player asaam has successfully been saved
-[01May2025 21:06:14.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asaam was blown up by Creeper
-[01May2025 21:06:14.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asaam has made the advancement [Your First Grave]
-[01May2025 21:06:19.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 was shot by Skeleton
-[01May2025 21:06:19.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 has made the advancement [Your First Grave]
-[01May2025 21:06:24.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asaam has made the advancement [Stone Age]
-[01May2025 21:06:31.763] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: asaam lost connection: Disconnected
-[01May2025 21:06:31.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asaam left the game
-[01May2025 21:07:29.359] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaleexx17 lost connection: Timed out
-[01May2025 21:07:29.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 left the game
-[01May2025 21:11:00.369] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ivii[/127.1.114.128:59757] logged in with entity id 34805 at (2.5, 64.0, -6.5)
-[01May2025 21:11:00.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivii joined the game
-[01May2025 21:11:00.479] [Server thread/INFO] [Jade/]: Syncing config to ivii (7cdb0d64-19f0-3c6c-95d6-c3907a315282)
-[01May2025 21:11:00.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivii has made the advancement [Ice and Fire]
-[01May2025 21:11:18.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <darkblader69> ACEPTA K ESTOY ENCERRADO
-[01May2025 21:13:29.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivii has made the advancement [Alex's Mobs]
-[01May2025 21:14:53.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <darkblader69> ivii
-[01May2025 21:17:48.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <darkblader69> acepta el tp
-[01May2025 21:25:59.397] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-23, y=70, z=-63} BlockPos{x=-23, y=69, z=-64}
-[01May2025 21:29:14.470] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NDNatsu[/127.78.202.76:58241] logged in with entity id 41050 at (-3.5, 65.0, 6.5)
-[01May2025 21:29:14.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NDNatsu joined the game
-[01May2025 21:29:14.582] [Server thread/INFO] [Jade/]: Syncing config to NDNatsu (fdd3900c-e272-360a-81eb-35b982fbe309)
-[01May2025 21:29:14.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NDNatsu has made the advancement [Ice and Fire]
-[01May2025 21:30:13.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NDNatsu has made the advancement [Alligator In Name Only]
-[01May2025 21:31:49.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NDNatsu has made the advancement [Stone Age]
-[01May2025 21:32:34.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NDNatsu has made the advancement [Getting an Upgrade]
-[01May2025 21:35:54.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NDNatsu has made the advancement ['X' Marks the Spot]
-[01May2025 21:37:04.021] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-86, y=62, z=146} BlockPos{x=-87, y=62, z=145}
-[01May2025 21:37:04.193] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-86, y=62, z=146} BlockPos{x=-87, y=62, z=145}
-[01May2025 21:37:09.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Stone Age]
-[01May2025 21:38:45.772] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BLueBird[/127.205.155.169:59533] logged in with entity id 45502 at (2.5, 64.0, 9.5)
-[01May2025 21:38:45.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLueBird joined the game
-[01May2025 21:38:46.122] [Server thread/INFO] [Jade/]: Syncing config to BLueBird (91ae804e-dbc7-36df-b393-125e3394b27c)
-[01May2025 21:38:46.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLueBird has made the advancement [Ice and Fire]
-[01May2025 21:39:15.322] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3073ms or 61 ticks behind
-[01May2025 21:39:28.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NDNatsu has made the advancement [Who You Gonna Call?]
-[01May2025 21:40:43.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NDNatsu has made the advancement [Acquire Hardware]
-[01May2025 21:41:08.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NDNatsu has made the advancement [Barrel Booty]
-[01May2025 21:41:36.303] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: darkblader69 lost connection: Disconnected
-[01May2025 21:41:36.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 left the game
-[01May2025 21:42:13.368] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BLueBird lost connection: Disconnected
-[01May2025 21:42:13.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLueBird left the game
-[01May2025 21:42:14.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NDNatsu has made the advancement [Would you Like to Know More?]
-[01May2025 21:42:21.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NDNatsu has made the advancement [Book of Monsters]
-[01May2025 21:46:40.034] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: darkblader69[/127.93.136.202:46903] logged in with entity id 49297 at (-15.303015957220722, 70.0, 13.699999988079071)
-[01May2025 21:46:40.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 joined the game
-[01May2025 21:46:40.102] [Server thread/INFO] [Jade/]: Syncing config to darkblader69 (c5ed7fb1-b56d-3780-a140-29be33768a49)
-[01May2025 21:47:23.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Getting an Upgrade]
-[01May2025 21:47:57.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivii has made the advancement [Stone Age]
-[01May2025 21:48:36.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NDNatsu has made the advancement [Disme A Dozen]
-[01May2025 21:49:22.520] [Server thread/WARN] [tombstone/]: The death event of the player darkblader69 was canceled by another mod
-[01May2025 21:49:22.533] [Server thread/INFO] [tombstone/]: The player darkblader69 has successfully been saved
-[01May2025 21:50:19.854] [Server thread/INFO] [net.heyimamethyst.fairyfactions.FairyFactions/]: disband: : Fluffy-boo (lost its team)
-[01May2025 21:51:18.566] [Server thread/WARN] [tombstone/]: The death event of the player darkblader69 was canceled by another mod
-[01May2025 21:51:18.576] [Server thread/INFO] [tombstone/]: The player darkblader69 has successfully been saved
-[01May2025 21:52:45.832] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ich1goM1rukuu[/127.212.133.0:38957] logged in with entity id 51556 at (739.5334774539426, 80.0, -21.384890511103197)
-[01May2025 21:52:45.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu joined the game
-[01May2025 21:52:45.856] [Server thread/INFO] [Jade/]: Syncing config to Ich1goM1rukuu (1bb4c909-b771-3893-aca7-1b6637a25cff)
-[01May2025 21:55:04.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivii has made the advancement [Getting an Upgrade]
-[01May2025 21:56:06.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NDNatsu has made the advancement [Monster Hunter]
-[01May2025 21:56:08.292] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 6BlueBird9[/127.205.155.169:56761] logged in with entity id 54090 at (-1.5, 65.0, 1.5)
-[01May2025 21:56:08.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 6BlueBird9 joined the game
-[01May2025 21:56:08.737] [Server thread/INFO] [Jade/]: Syncing config to 6BlueBird9 (63ac96dc-a71b-3ed0-b556-ab6f2d2ef366)
-[01May2025 21:56:08.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 6BlueBird9 has made the advancement [Ice and Fire]
-[01May2025 21:56:16.859] [Server thread/INFO] [net.heyimamethyst.fairyfactions.FairyFactions/]: disband: : Sunny-boo (lost its team)
-[01May2025 21:56:53.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NDNatsu has made the advancement [Amateur Archaeologist]
-[01May2025 21:57:06.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NDNatsu has made the advancement [Where Is The Stone Pen?]
-[01May2025 21:57:16.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement ['X' Marks the Spot]
-[01May2025 21:57:20.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Knowledge of Death]
-[01May2025 21:57:20.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Not even afraid of death]
-[01May2025 21:57:20.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Back to childhood]
-[01May2025 21:57:33.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NDNatsu has made the advancement [It Belongs in a Museum]
-[01May2025 21:57:43.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Stone Age]
-[01May2025 21:57:52.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement ['X' Marks the Spot]
-[01May2025 21:57:57.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Getting an Upgrade]
-[01May2025 21:58:06.375] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: darkblader69 lost connection: Disconnected
-[01May2025 21:58:06.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 left the game
-[01May2025 21:58:36.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NDNatsu has made the advancement [Close Quarters]
-[01May2025 21:59:46.589] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: darkblader69[/127.93.136.202:47515] logged in with entity id 56623 at (185.10335709767784, 86.0, -265.9538917285045)
-[01May2025 21:59:46.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 joined the game
-[01May2025 21:59:46.658] [Server thread/INFO] [Jade/]: Syncing config to darkblader69 (c5ed7fb1-b56d-3780-a140-29be33768a49)
-[01May2025 22:00:31.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NDNatsu has made the advancement [A Strange Grave Dust]
-[01May2025 22:00:39.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ich1goM1rukuu> holi natsuu
-[01May2025 22:03:31.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Cover Me with Diamonds]
-[01May2025 22:03:31.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Your First Receptacle]
-[01May2025 22:03:31.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Funeral Theft]
-[01May2025 22:04:15.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Cover Me with Diamonds]
-[01May2025 22:04:27.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 6BlueBird9 has made the advancement [Monster Hunter]
-[01May2025 22:05:02.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [A Strange Grave Dust]
-[01May2025 22:05:26.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NDNatsu has made the advancement [Knowledge of Death]
-[01May2025 22:05:26.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NDNatsu has made the advancement [Ashes 'n Bones]
-[01May2025 22:06:08.085] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/45647, l='ServerLevel[world]', x=-407.59, y=63.52, z=781.74] died, message: 'Unemployed was slain by Zombie'
-[01May2025 22:06:22.127] [Server thread/WARN] [tombstone/]: The death event of the player darkblader69 was canceled by another mod
-[01May2025 22:06:22.129] [Server thread/INFO] [tombstone/]: The player darkblader69 has successfully been saved
-[01May2025 22:06:55.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivii has made the advancement [Monster Hunter]
-[01May2025 22:07:11.379] [Server thread/WARN] [tombstone/]: The death event of the player darkblader69 was canceled by another mod
-[01May2025 22:07:11.381] [Server thread/INFO] [tombstone/]: The player darkblader69 has successfully been saved
-[01May2025 22:07:48.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NDNatsu has made the advancement [Suit Up]
-[01May2025 22:08:45.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ich1goM1rukuu> A MIMIR
-[01May2025 22:08:53.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NDNatsu has made the advancement [Diamonds!]
-[01May2025 22:08:55.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Knowledge of Death]
-[01May2025 22:08:55.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Your First Receptacle]
-[01May2025 22:09:26.219] [Server thread/WARN] [tombstone/]: The death event of the player 6BlueBird9 was canceled by another mod
-[01May2025 22:09:26.232] [Server thread/INFO] [tombstone/]: The player 6BlueBird9 has successfully been saved
-[01May2025 22:11:17.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Back to childhood]
-[01May2025 22:11:17.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Not even afraid of death]
-[01May2025 22:11:34.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NDNatsu has made the advancement [Penteconter]
-[01May2025 22:11:57.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Knowledge raises the soul]
-[01May2025 22:13:21.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 6BlueBird9 has made the advancement [Stone Age]
-[01May2025 22:14:08.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has reached the goal [Die Classy]
-[01May2025 22:15:20.002] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Elenitive[/127.60.88.4:60677] logged in with entity id 67625 at (10.148829520944757, 64.0, 1.658852403322561)
-[01May2025 22:15:20.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elenitive joined the game
-[01May2025 22:15:20.065] [Server thread/INFO] [Jade/]: Syncing config to Elenitive (2220527c-f40a-3f64-a9d3-9d22926aa118)
-[01May2025 22:15:37.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NDNatsu has made the advancement [Cover Me with Diamonds]
-[01May2025 22:16:32.678] [Server thread/WARN] [tombstone/]: The death event of the player darkblader69 was canceled by another mod
-[01May2025 22:16:32.713] [Server thread/INFO] [tombstone/]: The player darkblader69 has successfully been saved
-[01May2025 22:17:25.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Sweet Treat]
-[01May2025 22:18:27.246] [Server thread/WARN] [tombstone/]: The death event of the player darkblader69 was canceled by another mod
-[01May2025 22:18:27.247] [Server thread/INFO] [tombstone/]: The player darkblader69 has successfully been saved
-[01May2025 22:19:30.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [The Parrots and the Bats]
-[01May2025 22:20:47.314] [Server thread/WARN] [tombstone/]: The death event of the player darkblader69 was canceled by another mod
-[01May2025 22:20:47.363] [Server thread/INFO] [tombstone/]: The player darkblader69 has successfully been saved
-[01May2025 22:21:51.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elenitive has made the advancement [Stone Age]
-[01May2025 22:22:08.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elenitive has made the advancement [Getting an Upgrade]
-[01May2025 22:23:15.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Who You Gonna Call?]
-[01May2025 22:23:25.073] [Server thread/WARN] [tombstone/]: The death event of the player darkblader69 was canceled by another mod
-[01May2025 22:23:25.082] [Server thread/INFO] [tombstone/]: The player darkblader69 has successfully been saved
-[01May2025 22:23:39.771] [Server thread/WARN] [tombstone/]: The death event of the player Ich1goM1rukuu was canceled by another mod
-[01May2025 22:23:39.781] [Server thread/INFO] [tombstone/]: The player Ich1goM1rukuu has successfully been saved
-[01May2025 22:23:45.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Who You Gonna Call?]
-[01May2025 22:23:45.276] [Server thread/WARN] [tombstone/]: The death event of the player darkblader69 was canceled by another mod
-[01May2025 22:23:45.290] [Server thread/INFO] [tombstone/]: The player darkblader69 has successfully been saved
-[01May2025 22:24:03.187] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=328, y=73, z=142} BlockPos{x=331, y=72, z=143}
-[01May2025 22:24:07.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu was slain by Ghost
-[01May2025 22:24:07.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Your First Grave]
-[01May2025 22:24:23.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elenitive has made the advancement [Monster Hunter]
-[01May2025 22:24:24.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NDNatsu has made the advancement [Stolen Magic]
-[01May2025 22:24:37.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NDNatsu has made the advancement [Knowledge raises the soul]
-[01May2025 22:24:45.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has reached the goal [Strong or Careful]
-[01May2025 22:24:45.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 was slain by Ghost
-[01May2025 22:24:45.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Your First Grave]
-[01May2025 22:25:47.951] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/45650, l='ServerLevel[world]', x=-463.67, y=83.00, z=777.78] died, message: 'Cleric was slain by Zombie'
-[01May2025 22:26:04.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NDNatsu has reached the goal [Magic Siphoner]
-[01May2025 22:26:25.044] [Server thread/WARN] [tombstone/]: The death event of the player NDNatsu was canceled by another mod
-[01May2025 22:26:25.052] [Server thread/INFO] [tombstone/]: The player NDNatsu has successfully been saved
-[01May2025 22:26:43.231] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/45028, l='ServerLevel[world]', x=-415.54, y=63.00, z=708.07] died, message: 'Unemployed hit the ground too hard whilst trying to escape Zombie Villager'
-[01May2025 22:27:24.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NDNatsu was slain by Wither Skeleton
-[01May2025 22:27:24.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NDNatsu has made the advancement [Your First Grave]
-[01May2025 22:27:42.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [I slipped]
-[01May2025 22:27:42.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NDNatsu has reached the goal [Here They Come]
-[01May2025 22:28:22.629] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: darkblader69 lost connection: Disconnected
-[01May2025 22:28:22.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 left the game
-[01May2025 22:28:45.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Acquire Hardware]
-[01May2025 22:28:47.275] [Server thread/WARN] [tombstone/]: The death event of the player Ich1goM1rukuu was canceled by another mod
-[01May2025 22:28:47.285] [Server thread/INFO] [tombstone/]: The player Ich1goM1rukuu has successfully been saved
-[01May2025 22:29:23.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivii has made the advancement [Knowledge of Death]
-[01May2025 22:29:23.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivii has made the advancement [Funeral Theft]
-[01May2025 22:29:44.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu was slain by Ghost
-[01May2025 22:34:52.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 6BlueBird9 has made the advancement [Getting an Upgrade]
-[01May2025 22:38:45.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NDNatsu has made the advancement [Mine? Mine? Mine?]
+[01May2025 23:04:15.684] [Server thread/INFO] [com.chiki.dragonfinder.DragonFinder/]: HELLO from server starting
+[01May2025 23:04:17.091] [Server thread/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Mod Recipe Manager ...
+[01May2025 23:04:17.104] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[01May2025 23:04:17.104] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[01May2025 23:04:38.007] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[01May2025 23:04:38.144] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Elenitive[/127.60.88.4:50187] logged in with entity id 752 at (-20.51249998807907, 63.0, -566.7334868373665)
+[01May2025 23:04:38.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elenitive joined the game
+[01May2025 23:04:38.407] [Server thread/INFO] [Jade/]: Syncing config to Elenitive (2220527c-f40a-3f64-a9d3-9d22926aa118)
+[01May2025 23:04:40.327] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2224ms or 44 ticks behind
+[01May2025 23:04:56.539] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7560dde9[id=<null>,name=ivii,properties={},legacy=false] (/127.1.114.128:54513) lost connection: Disconnected
+[01May2025 23:05:06.165] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 6BlueBird9[/127.205.155.169:44419] logged in with entity id 1117 at (263.26620702022524, 70.15481870438444, 212.93534768290425)
+[01May2025 23:05:06.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 6BlueBird9 joined the game
+[01May2025 23:05:06.222] [Server thread/INFO] [Jade/]: Syncing config to 6BlueBird9 (63ac96dc-a71b-3ed0-b556-ab6f2d2ef366)
+[01May2025 23:05:06.654] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityCatfish['Catfish'/1150, l='ServerLevel[world]', x=212.75, y=59.94, z=161.71]
+[01May2025 23:05:32.829] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3dbe346[id=<null>,name=ivii,properties={},legacy=false] (/127.1.114.128:47467) lost connection: Disconnected
+[01May2025 23:06:13.039] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@285937f7[id=<null>,name=ivii,properties={},legacy=false] (/127.1.114.128:50455) lost connection: Disconnected
+[01May2025 23:08:03.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elenitive has made the advancement [Isn't It Iron Pick]
+[01May2025 23:08:10.933] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=831, y=-4, z=387}
+[01May2025 23:08:10.933] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=831, y=-4, z=388}
+[01May2025 23:08:10.934] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=831, y=-4, z=389}
+[01May2025 23:09:37.416] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ivii[/127.1.114.128:39405] logged in with entity id 3359 at (230.98113270894967, 65.16610926093821, 196.99662370318282)
+[01May2025 23:09:37.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivii joined the game
+[01May2025 23:09:37.457] [Server thread/INFO] [Jade/]: Syncing config to ivii (7cdb0d64-19f0-3c6c-95d6-c3907a315282)
