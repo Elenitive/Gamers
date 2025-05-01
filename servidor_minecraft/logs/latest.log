@@ -863,3 +863,15 @@ To disable a bonus drop for a default definition, set the amount to 0.
 [01May2025 23:19:44.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivii has made the advancement [Disme A Dozen]
 [01May2025 23:20:07.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elenitive has made the advancement [Close Quarters]
 [01May2025 23:21:18.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivii has made the advancement [Acquire Hardware]
+[01May2025 23:22:47.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 6BlueBird9 has made the advancement [Alex's Caves]
+[01May2025 23:22:49.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 6BlueBird9 has made the advancement [Barrel Booty]
+[01May2025 23:23:00.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 6BlueBird9 has made the advancement [It Belongs in a Museum]
+[01May2025 23:23:12.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 6BlueBird9 has made the advancement [Once Upon a Cave]
+[01May2025 23:23:35.474] [Server thread/WARN] [tombstone/]: The death event of the player 6BlueBird9 was canceled by another mod
+[01May2025 23:23:35.493] [Server thread/INFO] [tombstone/]: The player 6BlueBird9 has successfully been saved
+[01May2025 23:23:56.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elenitive> ./tpa
+[01May2025 23:24:35.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 6BlueBird9 was blown up by Creeper
+[01May2025 23:24:44.573] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 6BlueBird9 lost connection: Disconnected
+[01May2025 23:24:44.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 6BlueBird9 left the game
+[01May2025 23:28:25.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivii has made the advancement [Alex's Caves]
+[01May2025 23:28:28.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivii has made the advancement [Barrel Booty]
