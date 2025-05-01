@@ -1,4 +1,10 @@
 {
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-05-01 21:56:20 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/dark_oak_brown_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-01 21:33:44 +0000"
@@ -149,6 +155,18 @@
     },
     "done": true
   },
+  "doggytalents:recipes/decorations/plague_doctor_mask": {
+    "criteria": {
+      "has_leather": "2025-05-01 21:56:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-05-01 21:56:20 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/yellow_sofa": {
     "criteria": {
       "has_planks": "2025-05-01 21:38:44 +0000"
@@ -293,6 +311,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-05-01 21:56:20 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_lattice_fence": {
     "criteria": {
       "has_stick": "2025-05-01 21:29:52 +0000"
@@ -372,6 +396,12 @@
     },
     "done": true
   },
+  "doggytalents:recipes/decorations/tantan_cape": {
+    "criteria": {
+      "has_leather": "2025-05-01 21:56:20 +0000"
+    },
+    "done": true
+  },
   "miniutilities:recipes/misc/peacock_angel_ring": {
     "criteria": {
       "has_item": "2025-05-01 21:47:57 +0000"
@@ -399,6 +429,12 @@
   "securitycraft:recipes/redstone/reinforced_bamboo_fence_gate": {
     "criteria": {
       "has_stick": "2025-05-01 21:29:52 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/food/golden_a_five_wagyu": {
+    "criteria": {
+      "has_cooked_beef": "2025-05-01 22:02:53 +0000"
     },
     "done": true
   },
@@ -435,6 +471,18 @@
   "refurbished_furniture:recipes/misc/constructing/light_gray_sofa": {
     "criteria": {
       "has_planks": "2025-05-01 21:38:44 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/tools/feathered_mantle": {
+    "criteria": {
+      "has_feather": "2025-05-01 22:04:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/frying_pan": {
+    "criteria": {
+      "has_leather": "2025-05-01 21:56:20 +0000"
     },
     "done": true
   },
@@ -627,6 +675,12 @@
   "refurbished_furniture:recipes/misc/constructing/oak_storage_jar": {
     "criteria": {
       "has_oak_planks": "2025-05-01 21:38:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-05-01 21:56:20 +0000"
     },
     "done": true
   },
@@ -870,6 +924,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/blindfold": {
+    "criteria": {
+      "has_item": "2025-05-01 21:56:20 +0000"
+    },
+    "done": true
+  },
   "miniutilities:recipes/misc/ender_lily_seeds": {
     "criteria": {
       "has_item": "2025-05-01 21:47:57 +0000"
@@ -996,6 +1056,12 @@
     },
     "done": true
   },
+  "easy_mob_farm:recipes/mob_catcher/enduring_capture_net": {
+    "criteria": {
+      "has_feather": "2025-05-01 22:04:26 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_warped_fence": {
     "criteria": {
       "has_stick": "2025-05-01 21:29:52 +0000"
@@ -1035,6 +1101,12 @@
   "securitycraft:recipes/redstone/reinforced_cherry_fence_gate": {
     "criteria": {
       "has_stick": "2025-05-01 21:29:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/knife": {
+    "criteria": {
+      "has_leather": "2025-05-01 21:56:20 +0000"
     },
     "done": true
   },
@@ -1116,6 +1188,18 @@
     },
     "done": true
   },
+  "doggytalents:recipes/tools/treat_bag": {
+    "criteria": {
+      "has_leather": "2025-05-01 21:56:20 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/wrench": {
+    "criteria": {
+      "has_leather": "2025-05-01 21:56:20 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/jungle_lime_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-01 21:33:44 +0000"
@@ -1161,6 +1245,12 @@
   "mcwtrpdoors:recipes/acacia/oak_bark_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-01 21:33:44 +0000"
+    },
+    "done": true
+  },
+  "chiselsandbits:recipes/tools/quill": {
+    "criteria": {
+      "has_tag_a": "2025-05-01 22:04:26 +0000"
     },
     "done": true
   },
@@ -1269,6 +1359,12 @@
   "fairyfactions:recipes/decorations/spruce_cyan_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-01 21:33:44 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2025-05-01 21:56:20 +0000"
     },
     "done": true
   },
@@ -1389,6 +1485,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "sweet_berries": "2025-05-01 21:50:36 +0000",
+      "cooked_beef": "2025-05-01 22:03:07 +0000",
       "apple": "2025-05-01 21:50:20 +0000"
     },
     "done": false
@@ -1453,6 +1550,12 @@
     },
     "done": true
   },
+  "easy_mob_farm:recipes/upgrade/filter/no_meat_filter": {
+    "criteria": {
+      "has_beef": "2025-05-01 21:56:20 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/birch_red_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-01 21:33:44 +0000"
@@ -1486,6 +1589,12 @@
   "fairyfactions:recipes/decorations/cherry_pink_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-01 21:33:44 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/food/cake": {
+    "criteria": {
+      "has_duck_egg": "2025-05-01 22:04:39 +0000"
     },
     "done": true
   },
@@ -1576,6 +1685,12 @@
   "miniutilities:recipes/misc/feather_angel_ring": {
     "criteria": {
       "has_item": "2025-05-01 21:47:57 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/spatula": {
+    "criteria": {
+      "has_leather": "2025-05-01 21:56:20 +0000"
     },
     "done": true
   },
@@ -1909,6 +2024,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/string_from_feather": {
+    "criteria": {
+      "has_feather": "2025-05-01 22:04:26 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/mangrove_lime_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-01 21:33:44 +0000"
@@ -1942,6 +2063,18 @@
   "fairyfactions:recipes/decorations/cherry_white_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-01 21:33:44 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2025-05-01 21:56:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-05-01 21:56:20 +0000"
     },
     "done": true
   },
@@ -2026,6 +2159,12 @@
   "refurbished_furniture:recipes/misc/constructing/acacia_lattice_fence": {
     "criteria": {
       "has_stick": "2025-05-01 21:29:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-05-01 21:56:20 +0000"
     },
     "done": true
   },
@@ -2119,6 +2258,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-05-01 21:56:19 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/jungle_purple_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-01 21:33:44 +0000"
@@ -2176,6 +2321,12 @@
   "miniutilities:recipes/misc/unstable_chestplate": {
     "criteria": {
       "has_item": "2025-05-01 21:47:57 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/cape_coloured": {
+    "criteria": {
+      "has_leather": "2025-05-01 21:56:20 +0000"
     },
     "done": true
   },
@@ -2311,6 +2462,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-05-01 21:56:20 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/jungle_cyan_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-01 21:33:44 +0000"
@@ -2341,6 +2498,13 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_the_recipe": "2025-05-01 22:04:39 +0000",
+      "has_egg": "2025-05-01 22:04:39 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/end": {
     "criteria": {
       "has_end_brick": "2025-05-01 21:11:00 +0000"
@@ -2350,6 +2514,24 @@
   "refurbished_furniture:recipes/misc/constructing/blue_stool": {
     "criteria": {
       "has_planks": "2025-05-01 21:38:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_meal": {
+    "criteria": {
+      "has_item": "2025-05-01 21:56:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-05-01 21:56:20 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/leather_jacket": {
+    "criteria": {
+      "has_leather": "2025-05-01 21:56:20 +0000"
     },
     "done": true
   },
@@ -2446,6 +2628,12 @@
   "securitycraft:recipes/redstone/laser_block": {
     "criteria": {
       "has_stone": "2025-05-01 21:47:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-05-01 22:04:26 +0000"
     },
     "done": true
   },
@@ -3243,6 +3431,12 @@
   "fairyfactions:recipes/decorations/birch_green_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-01 21:33:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-05-01 21:56:20 +0000"
     },
     "done": true
   },

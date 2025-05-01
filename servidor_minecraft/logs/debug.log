@@ -18853,3 +18853,30 @@ To disable a bonus drop for a default definition, set the amount to 0.
 [01May2025 21:59:46.589] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@545ef8dd into net.minecraft.network.Connection@26f54141
 [01May2025 21:59:46.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 joined the game
 [01May2025 21:59:46.658] [Server thread/INFO] [Jade/]: Syncing config to darkblader69 (c5ed7fb1-b56d-3780-a140-29be33768a49)
+[01May2025 22:00:31.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NDNatsu has made the advancement [A Strange Grave Dust]
+[01May2025 22:00:39.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ich1goM1rukuu> holi natsuu
+[01May2025 22:00:47.081] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 22:00:47.138] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01May2025 22:03:31.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Cover Me with Diamonds]
+[01May2025 22:03:31.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Your First Receptacle]
+[01May2025 22:03:31.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Funeral Theft]
+[01May2025 22:04:15.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Cover Me with Diamonds]
+[01May2025 22:04:27.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 6BlueBird9 has made the advancement [Monster Hunter]
+[01May2025 22:05:02.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [A Strange Grave Dust]
+[01May2025 22:05:26.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NDNatsu has made the advancement [Knowledge of Death]
+[01May2025 22:05:26.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NDNatsu has made the advancement [Ashes 'n Bones]
+[01May2025 22:05:47.104] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 22:05:47.164] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01May2025 22:06:08.085] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/45647, l='ServerLevel[world]', x=-407.59, y=63.52, z=781.74] died, message: 'Unemployed was slain by Zombie'
+[01May2025 22:06:22.127] [Server thread/WARN] [tombstone/]: The death event of the player darkblader69 was canceled by another mod
+[01May2025 22:06:22.129] [Server thread/INFO] [tombstone/]: The player darkblader69 has successfully been saved
+[01May2025 22:06:55.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivii has made the advancement [Monster Hunter]
+[01May2025 22:07:11.379] [Server thread/WARN] [tombstone/]: The death event of the player darkblader69 was canceled by another mod
+[01May2025 22:07:11.381] [Server thread/INFO] [tombstone/]: The player darkblader69 has successfully been saved
+[01May2025 22:07:48.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NDNatsu has made the advancement [Suit Up]
+[01May2025 22:08:45.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ich1goM1rukuu> A MIMIR
+[01May2025 22:08:53.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NDNatsu has made the advancement [Diamonds!]
+[01May2025 22:08:55.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Knowledge of Death]
+[01May2025 22:08:55.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Your First Receptacle]
+[01May2025 22:09:26.219] [Server thread/WARN] [tombstone/]: The death event of the player 6BlueBird9 was canceled by another mod
+[01May2025 22:09:26.232] [Server thread/INFO] [tombstone/]: The player 6BlueBird9 has successfully been saved
