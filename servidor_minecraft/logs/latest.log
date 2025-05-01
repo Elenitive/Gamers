@@ -898,3 +898,8 @@ To disable a bonus drop for a default definition, set the amount to 0.
 [01May2025 21:13:29.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivii has made the advancement [Alex's Mobs]
 [01May2025 21:14:53.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <darkblader69> ivii
 [01May2025 21:17:48.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <darkblader69> acepta el tp
+[01May2025 21:25:59.397] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-23, y=70, z=-63} BlockPos{x=-23, y=69, z=-64}
+[01May2025 21:29:14.470] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NDNatsu[/127.78.202.76:58241] logged in with entity id 41050 at (-3.5, 65.0, 6.5)
+[01May2025 21:29:14.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NDNatsu joined the game
+[01May2025 21:29:14.582] [Server thread/INFO] [Jade/]: Syncing config to NDNatsu (fdd3900c-e272-360a-81eb-35b982fbe309)
+[01May2025 21:29:14.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NDNatsu has made the advancement [Ice and Fire]

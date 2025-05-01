@@ -187,6 +187,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "shrubland": "2025-05-01 21:22:57 +0000",
       "marsh": "2025-05-01 20:35:40 +0000",
       "orchard": "2025-05-01 20:52:00 +0000"
     },
@@ -423,6 +424,12 @@
   "refurbished_furniture:recipes/misc/constructing/blue_trampoline": {
     "criteria": {
       "has_slime_ball": "2025-05-01 20:51:05 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/vanilla_dirt_chest": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-01 21:20:47 +0000"
     },
     "done": true
   },
