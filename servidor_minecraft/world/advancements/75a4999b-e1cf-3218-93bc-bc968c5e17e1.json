@@ -699,6 +699,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_fire_dragon": "2025-05-02 15:43:49 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/magic_boat": {
     "criteria": {
       "in_water": "2025-05-02 14:49:04 +0000"
@@ -1066,6 +1072,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/ornate_iron_window": {
+    "criteria": {
+      "has_ingredient": "2025-05-02 15:45:43 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/dark_oak_light_gray_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-02 14:34:53 +0000"
@@ -1225,6 +1237,12 @@
   "miniutilities:recipes/misc/precision_shears": {
     "criteria": {
       "has_item": "2025-05-02 14:35:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-05-02 15:44:23 +0000"
     },
     "done": true
   },
@@ -1717,6 +1735,12 @@
   "create:recipes/building_blocks/crafting/logistics/purple_table_cloth": {
     "criteria": {
       "has_wool": "2025-05-02 14:46:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-05-02 15:45:43 +0000"
     },
     "done": true
   },
@@ -2349,7 +2373,10 @@
       "shrubland": "2025-05-02 14:49:24 +0000",
       "rocky_shrubland": "2025-05-02 14:47:58 +0000",
       "moor": "2025-05-02 15:28:26 +0000",
+      "overgrown_greens": "2025-05-02 15:41:51 +0000",
+      "redwood_forest": "2025-05-02 15:42:05 +0000",
       "grassland": "2025-05-02 14:31:44 +0000",
+      "prairie": "2025-05-02 15:43:07 +0000",
       "glowing_grotto": "2025-05-02 15:18:37 +0000"
     },
     "done": false
@@ -2567,6 +2594,12 @@
   "doggytalents:recipes/decorations/wool_collar_thicc": {
     "criteria": {
       "has_string": "2025-05-02 14:56:46 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/bestiary": {
+    "criteria": {
+      "has_item": "2025-05-02 15:44:08 +0000"
     },
     "done": true
   },
@@ -3038,6 +3071,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-05-02 15:44:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-05-02 14:55:56 +0000"
@@ -3364,9 +3403,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:beach": "2025-05-02 15:40:03 +0000",
       "minecraft:dark_forest": "2025-05-02 14:34:02 +0000",
       "minecraft:river": "2025-05-02 14:49:01 +0000",
-      "minecraft:lush_caves": "2025-05-02 14:56:54 +0000"
+      "minecraft:lush_caves": "2025-05-02 14:56:54 +0000",
+      "minecraft:old_growth_birch_forest": "2025-05-02 15:38:31 +0000"
     },
     "done": false
   },
@@ -3452,7 +3493,8 @@
     "criteria": {
       "cooked_porkchop": "2025-05-02 14:42:24 +0000",
       "cooked_mutton": "2025-05-02 14:49:59 +0000",
-      "cooked_beef": "2025-05-02 15:23:47 +0000"
+      "cooked_beef": "2025-05-02 15:23:47 +0000",
+      "bread": "2025-05-02 15:45:03 +0000"
     },
     "done": false
   },
@@ -3495,6 +3537,12 @@
   "tombstone:adventure/create_magic_scroll": {
     "criteria": {
       "has_magic_scroll": "2025-05-02 15:18:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-05-02 15:44:23 +0000"
     },
     "done": true
   },

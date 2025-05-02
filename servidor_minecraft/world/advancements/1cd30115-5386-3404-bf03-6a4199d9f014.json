@@ -59,7 +59,10 @@
       "rocky_shrubland": "2025-05-02 14:47:14 +0000",
       "orchard": "2025-05-02 14:12:27 +0000",
       "moor": "2025-05-02 15:28:30 +0000",
+      "overgrown_greens": "2025-05-02 15:41:52 +0000",
+      "redwood_forest": "2025-05-02 15:42:05 +0000",
       "grassland": "2025-05-02 14:05:18 +0000",
+      "prairie": "2025-05-02 15:43:03 +0000",
       "glowing_grotto": "2025-05-02 15:18:28 +0000"
     },
     "done": false
@@ -1480,6 +1483,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/ash_to_charcoal": {
+    "criteria": {
+      "has_item": "2025-05-02 15:43:37 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/logistics/yellow_table_cloth": {
     "criteria": {
       "has_wool": "2025-05-02 15:09:39 +0000"
@@ -2740,6 +2749,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-05-02 15:40:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-05-02 15:11:18 +0000"
@@ -3340,6 +3355,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-05-02 15:44:42 +0000"
+    },
+    "done": true
+  },
   "mysticsbiomes:recipes/food/strawberry_cake": {
     "criteria": {
       "has_egg": "2025-05-02 15:33:37 +0000"
@@ -3487,6 +3508,12 @@
   "minecraft:recipes/transportation/tnt_minecart": {
     "criteria": {
       "has_minecart": "2025-05-02 14:57:27 +0000"
+    },
+    "done": true
+  },
+  "material_elements:recipes/brewing/test_tube_glow_from_glowing_item": {
+    "criteria": {
+      "has_glowing_item": "2025-05-02 15:40:33 +0000"
     },
     "done": true
   },
@@ -4072,6 +4099,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-05-02 15:40:33 +0000"
+    },
+    "done": true
+  },
   "miniutilities:recipes/misc/regular_to_reverse": {
     "criteria": {
       "has_item": "2025-05-02 14:36:10 +0000"
@@ -4164,6 +4197,7 @@
       "apple": "2025-05-02 14:56:17 +0000",
       "bread": "2025-05-02 15:22:21 +0000",
       "cooked_chicken": "2025-05-02 14:52:53 +0000",
+      "cooked_salmon": "2025-05-02 15:37:36 +0000",
       "carrot": "2025-05-02 15:23:36 +0000"
     },
     "done": false

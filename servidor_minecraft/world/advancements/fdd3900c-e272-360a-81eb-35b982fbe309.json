@@ -59,7 +59,10 @@
       "rocky_shrubland": "2025-05-02 14:47:07 +0000",
       "orchard": "2025-05-02 14:12:27 +0000",
       "moor": "2025-05-02 15:26:42 +0000",
+      "overgrown_greens": "2025-05-02 15:41:48 +0000",
+      "redwood_forest": "2025-05-02 15:42:02 +0000",
       "grassland": "2025-05-02 14:03:38 +0000",
+      "prairie": "2025-05-02 15:43:01 +0000",
       "glowing_grotto": "2025-05-02 14:57:22 +0000"
     },
     "done": false
@@ -160,6 +163,7 @@
       "minecraft:lush_caves": "2025-05-02 14:54:33 +0000",
       "minecraft:ocean": "2025-05-02 14:13:02 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-05-02 14:13:38 +0000",
+      "minecraft:old_growth_birch_forest": "2025-05-02 15:38:26 +0000",
       "minecraft:savanna": "2025-05-02 14:15:55 +0000",
       "minecraft:plains": "2025-05-02 14:16:30 +0000"
     },
@@ -1872,6 +1876,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-05-02 15:39:53 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/logistics/yellow_table_cloth": {
     "criteria": {
       "has_wool": "2025-05-02 14:55:44 +0000"
@@ -1920,6 +1930,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_bone_wall": {
+    "criteria": {
+      "has_item": "2025-05-02 15:44:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-05-02 14:57:26 +0000"
@@ -1941,6 +1957,12 @@
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2025-05-02 14:59:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_leggings": {
+    "criteria": {
+      "has_item": "2025-05-02 15:44:16 +0000"
     },
     "done": true
   },
@@ -2382,6 +2404,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_flute": {
+    "criteria": {
+      "has_item": "2025-05-02 15:44:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2025-05-02 14:57:37 +0000"
@@ -2421,6 +2449,12 @@
   "doggytalents:recipes/decorations/wig": {
     "criteria": {
       "has_string": "2025-05-02 14:53:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_helmet": {
+    "criteria": {
+      "has_item": "2025-05-02 15:44:16 +0000"
     },
     "done": true
   },
@@ -2652,6 +2686,12 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/gold_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-05-02 15:39:53 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-05-02 15:28:20 +0000"
@@ -2661,6 +2701,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
     "criteria": {
       "has_mossy_cobblestone": "2025-05-02 15:00:16 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/skull_to_bone_meal": {
+    "criteria": {
+      "has_item": "2025-05-02 15:44:15 +0000"
     },
     "done": true
   },
@@ -2721,6 +2767,12 @@
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-05-02 15:28:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/nest": {
+    "criteria": {
+      "has_item": "2025-05-02 15:44:11 +0000"
     },
     "done": true
   },
@@ -2869,6 +2921,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/chainmail_helmet": {
+    "criteria": {
+      "has_item": "2025-05-02 15:44:49 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/keycard_lv1": {
     "criteria": {
       "has_iron": "2025-05-02 14:53:45 +0000"
@@ -2902,6 +2960,12 @@
   "miniutilities:recipes/misc/blursed_earth": {
     "criteria": {
       "has_item": "2025-05-02 14:36:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_bow": {
+    "criteria": {
+      "has_item": "2025-05-02 15:44:11 +0000"
     },
     "done": true
   },
@@ -2971,6 +3035,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/chainmail_leggings": {
+    "criteria": {
+      "has_item": "2025-05-02 15:44:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-02 15:28:46 +0000"
@@ -3028,6 +3098,12 @@
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2025-05-02 14:45:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragon_bone_block": {
+    "criteria": {
+      "has_dragonbone": "2025-05-02 15:44:11 +0000"
     },
     "done": true
   },
@@ -3094,6 +3170,12 @@
   "miniutilities:recipes/misc/precision_shears": {
     "criteria": {
       "has_item": "2025-05-02 14:36:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-05-02 15:39:01 +0000"
     },
     "done": true
   },
@@ -3241,6 +3323,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonbone_hoe": {
+    "criteria": {
+      "has_item": "2025-05-02 15:44:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-05-02 15:22:28 +0000"
@@ -3250,6 +3338,12 @@
   "miniutilities:recipes/misc/unpack5x": {
     "criteria": {
       "has_item": "2025-05-02 14:36:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/chain": {
+    "criteria": {
+      "has_item": "2025-05-02 15:44:49 +0000"
     },
     "done": true
   },
@@ -3739,6 +3833,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/chainmail_boots": {
+    "criteria": {
+      "has_item": "2025-05-02 15:44:49 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/tools/shrinking_mallet": {
     "criteria": {
       "has_gold_ingot": "2025-05-02 14:57:26 +0000"
@@ -3937,6 +4037,12 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/gold_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2025-05-02 15:39:53 +0000"
+    },
+    "done": true
+  },
   "miniutilities:recipes/misc/ender_lily_seeds": {
     "criteria": {
       "has_item": "2025-05-02 14:36:03 +0000"
@@ -3958,6 +4064,12 @@
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_smelts_to_glass": "2025-05-02 15:29:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_shovel": {
+    "criteria": {
+      "has_item": "2025-05-02 15:44:11 +0000"
     },
     "done": true
   },
@@ -4078,6 +4190,18 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2025-05-02 15:23:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-02 15:44:16 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/gold_destructor_hammer": {
+    "criteria": {
+      "has_material": "2025-05-02 15:39:53 +0000"
     },
     "done": true
   },
@@ -4435,6 +4559,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonbone_axe": {
+    "criteria": {
+      "has_item": "2025-05-02 15:44:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-05-02 14:53:45 +0000"
@@ -4483,6 +4613,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/bestiary": {
+    "criteria": {
+      "has_item": "2025-05-02 15:44:28 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/tools/canine_tracker": {
     "criteria": {
       "has_gold_ingot": "2025-05-02 14:57:26 +0000"
@@ -4492,6 +4628,12 @@
   "miniutilities:recipes/misc/dark_reverse_to_dark_regular": {
     "criteria": {
       "has_item": "2025-05-02 14:36:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-02 15:44:49 +0000"
     },
     "done": true
   },
@@ -4549,6 +4691,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonbone_pickaxe": {
+    "criteria": {
+      "has_item": "2025-05-02 15:44:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-05-02 15:27:25 +0000"
@@ -4588,6 +4736,12 @@
   "create:recipes/misc/crafting/materials/sand_paper": {
     "criteria": {
       "has_item": "2025-05-02 14:40:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_green_to_dragonscale_green": {
+    "criteria": {
+      "has_dragonscales_green": "2025-05-02 15:44:16 +0000"
     },
     "done": true
   },
@@ -4885,6 +5039,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-05-02 15:39:01 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/bone_crusher": {
     "criteria": {
       "coded_trigger": "2025-05-02 15:05:37 +0000"
@@ -5113,6 +5273,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonbone_sword": {
+    "criteria": {
+      "has_item": "2025-05-02 15:44:11 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/logistics/brown_table_cloth": {
     "criteria": {
       "has_wool": "2025-05-02 14:55:44 +0000"
@@ -5263,6 +5429,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_green_boots": {
+    "criteria": {
+      "has_item": "2025-05-02 15:44:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-05-02 14:57:26 +0000"
@@ -5326,6 +5498,24 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/gold_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-05-02 15:39:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-05-02 15:39:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_horn": {
+    "criteria": {
+      "has_item": "2025-05-02 15:44:11 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/rose_quartz": {
     "criteria": {
       "has_item": "2025-05-02 15:00:40 +0000"
@@ -5347,6 +5537,12 @@
   "doggytalents:recipes/food/sausage": {
     "criteria": {
       "has_cooked_porkchop": "2025-05-02 14:37:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_stick": {
+    "criteria": {
+      "has_item": "2025-05-02 15:44:15 +0000"
     },
     "done": true
   },

@@ -1300,3 +1300,45 @@ java.util.NoSuchElementException: No value present
 [02May2025 15:39:01.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NDNatsu has made the advancement [Ice Bucket Challenge]
 [02May2025 15:39:06.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Franramen has completed the challenge [Eye of the Tiger]
 [02May2025 15:39:19.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lamborghiny18> bailalo rocky
+[02May2025 15:39:39.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oinatzz has made the advancement ['X' Marks the Spot]
+[02May2025 15:39:51.786] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
+[02May2025 15:40:25.910] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[02May2025 15:40:26.243] [Server thread/INFO] [net.heyimamethyst.fairyfactions.FairyFactions/]: disband: : Silly-wing (lost its team)
+[02May2025 15:40:29.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asaam has made the advancement [Stone Age]
+[02May2025 15:40:46.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LalaaDragons has made the advancement [Stone Age]
+[02May2025 15:41:04.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <asaam> franitooo manda ubiii
+[02May2025 15:41:23.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asaam has made the advancement [Getting an Upgrade]
+[02May2025 15:41:37.295] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[02May2025 15:41:41.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franramen> [x:208, y:14, z:27, dim:minecraft:overworld]
+[02May2025 15:41:45.366] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [19, -95], pos: BlockPos{x=319, y=37, z=-1511}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[02May2025 15:42:27.796] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[02May2025 15:42:47.045] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[02May2025 15:43:49.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lamborghiny18 has made the advancement [Dragonslayer]
+[02May2025 15:44:23.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lamborghiny18 has made the advancement [Ice Bucket Challenge]
+[02May2025 15:44:45.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oinatzz has made the advancement [Monster Hunter]
+[02May2025 15:44:55.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivii has made the advancement [Stone Age]
+[02May2025 15:45:01.146] [Server thread/WARN] [tombstone/]: The death event of the player LalaaDragons was canceled by another mod
+[02May2025 15:45:01.177] [Server thread/INFO] [tombstone/]: The player LalaaDragons has successfully been saved
+[02May2025 15:45:01.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivii has made the advancement [Barrel Booty]
+[02May2025 15:45:04.400] [Server thread/WARN] [tombstone/]: The death event of the player asaam was canceled by another mod
+[02May2025 15:45:04.435] [Server thread/INFO] [tombstone/]: The player asaam has successfully been saved
+[02May2025 15:45:12.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asaam was slain by Tasmanian Devil
+[02May2025 15:45:26.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oinatzz has made the advancement [Barrel Booty]
+[02May2025 15:45:29.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LalaaDragons was slain by Tasmanian Devil
+[02May2025 15:45:29.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LalaaDragons has made the advancement [Your First Grave]
+[02May2025 15:45:50.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LalaaDragons has reached the goal [Here They Come]
+[02May2025 15:45:50.296] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2154ms or 43 ticks behind
+[02May2025 15:46:42.649] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[02May2025 15:47:17.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oinatzz has made the advancement [Alex's Caves]
+[02May2025 15:47:25.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Franramen has made the advancement [Barrel Booty]
+[02May2025 15:47:38.396] [Server thread/WARN] [tombstone/]: The death event of the player delaromer was canceled by another mod
+[02May2025 15:47:38.398] [Server thread/INFO] [tombstone/]: The player delaromer has successfully been saved
+[02May2025 15:47:58.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oinatzz has made the advancement [Once Upon a Cave]
+[02May2025 15:47:59.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oinatzz has made the advancement [Acquire Hardware]
+[02May2025 15:48:29.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: delaromer has made the advancement [Ice Bucket Challenge]
+[02May2025 15:48:46.457] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[02May2025 15:49:03.769] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2326ms or 46 ticks behind
+[02May2025 15:49:22.636] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3894ms or 77 ticks behind
+[02May2025 15:49:45.057] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7465ms or 149 ticks behind
+[02May2025 15:50:01.349] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/71511, l='ServerLevel[world]', x=-172.64, y=71.00, z=-2207.07] died, message: 'Nitwit walked into fire whilst fighting Fire Dragon'
+[02May2025 15:50:06.385] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6343ms or 126 ticks behind
