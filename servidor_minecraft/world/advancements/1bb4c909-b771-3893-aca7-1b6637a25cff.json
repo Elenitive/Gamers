@@ -66,13 +66,16 @@
       "field": "2025-05-02 18:36:36 +0000",
       "overgrown_greens": "2025-05-02 15:19:32 +0000",
       "moor": "2025-05-02 16:46:43 +0000",
+      "coniferous_forest": "2025-05-02 18:45:34 +0000",
       "spider_nest": "2025-05-02 16:52:48 +0000",
+      "forested_field": "2025-05-02 18:41:16 +0000",
       "redwood_forest": "2025-05-02 15:21:38 +0000",
       "lavender_field": "2025-05-02 16:16:57 +0000",
       "grassland": "2025-05-02 12:42:48 +0000",
       "prairie": "2025-05-02 13:32:34 +0000",
       "gravel_beach": "2025-05-02 18:36:34 +0000",
-      "rainforest": "2025-05-02 14:12:01 +0000"
+      "rainforest": "2025-05-02 14:12:01 +0000",
+      "ominous_woods": "2025-05-02 18:44:25 +0000"
     },
     "done": false
   },
@@ -4838,6 +4841,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/umbran_planks": {
+    "criteria": {
+      "has_logs": "2025-05-02 18:44:53 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonforge_ice_brick": {
     "criteria": {
       "has_item": "2025-05-02 18:34:56 +0000"
@@ -4868,6 +4877,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-05-02 18:50:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_stone_brick_wall": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-05-02 18:34:56 +0000"
@@ -4880,6 +4895,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-05-02 18:50:57 +0000"
+    },
+    "done": true
+  },
+  "buntsy:recipes/misc/hootcat_helmet": {
+    "criteria": {
+      "has_hootcat_feather": "2025-05-02 18:50:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2025-05-02 18:25:04 +0000"
@@ -4889,6 +4916,18 @@
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2025-05-02 18:36:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-05-02 18:45:48 +0000"
+    },
+    "done": true
+  },
+  "buntsy:recipes/misc/hootcat_chestplate": {
+    "criteria": {
+      "has_hootcat_feather": "2025-05-02 18:50:37 +0000"
     },
     "done": true
   },
@@ -4958,6 +4997,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-02 18:50:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2025-05-02 18:36:09 +0000"
@@ -4967,6 +5012,12 @@
   "minecraft:recipes/building_blocks/cracked_stone_bricks": {
     "criteria": {
       "has_stone_bricks": "2025-05-02 18:34:56 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/umbran_wood": {
+    "criteria": {
+      "has_log": "2025-05-02 18:44:53 +0000"
     },
     "done": true
   },
@@ -4991,6 +5042,36 @@
   "material_elements:recipes/smelting/coke_from_charcoal_by_blasting": {
     "criteria": {
       "has_charcoal": "2025-05-02 18:32:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-02 18:50:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-05-02 18:54:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-02 18:50:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-05-02 18:44:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-02 18:50:57 +0000"
     },
     "done": true
   },
@@ -5036,6 +5117,12 @@
     },
     "done": true
   },
+  "buntsy:recipes/misc/hootcat_boots": {
+    "criteria": {
+      "has_hootcat_feather": "2025-05-02 18:50:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-05-02 18:34:56 +0000"
@@ -5048,9 +5135,27 @@
     },
     "done": true
   },
+  "buntsy:recipes/misc/hootcat_plume": {
+    "criteria": {
+      "has_hootcat_feather": "2025-05-02 18:50:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2025-05-02 18:25:04 +0000"
+    },
+    "done": true
+  },
+  "buntsy:recipes/misc/hootcat_leggings": {
+    "criteria": {
+      "has_hootcat_feather": "2025-05-02 18:50:37 +0000"
+    },
+    "done": true
+  },
+  "buntsy:recipes/misc/hootnip_seeds": {
+    "criteria": {
+      "has_hootnip": "2025-05-02 18:41:58 +0000"
     },
     "done": true
   },

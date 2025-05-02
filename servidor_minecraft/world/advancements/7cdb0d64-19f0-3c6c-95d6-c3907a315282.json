@@ -64,6 +64,7 @@
       "shrubland": "2025-05-02 16:34:59 +0000",
       "rocky_shrubland": "2025-05-02 16:49:13 +0000",
       "jacaranda_glade": "2025-05-02 18:27:23 +0000",
+      "old_growth_woodland": "2025-05-02 18:51:55 +0000",
       "orchard": "2025-05-02 16:35:31 +0000",
       "overgrown_greens": "2025-05-02 16:36:51 +0000",
       "moor": "2025-05-02 17:47:53 +0000",
@@ -76,11 +77,13 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2025-05-02 18:48:37 +0000",
       "minecraft:cherry_grove": "2025-05-02 18:27:45 +0000",
       "minecraft:birch_forest": "2025-05-02 16:19:51 +0000",
       "minecraft:beach": "2025-05-02 16:36:03 +0000",
       "minecraft:dark_forest": "2025-05-02 14:39:37 +0000",
       "minecraft:river": "2025-05-02 16:27:44 +0000",
+      "minecraft:lukewarm_ocean": "2025-05-02 18:49:31 +0000",
       "minecraft:forest": "2025-05-02 16:28:13 +0000",
       "minecraft:lush_caves": "2025-05-02 14:43:30 +0000",
       "minecraft:ocean": "2025-05-02 16:56:43 +0000",

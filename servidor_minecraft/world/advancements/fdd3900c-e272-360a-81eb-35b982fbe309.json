@@ -57,6 +57,7 @@
     "criteria": {
       "shrubland": "2025-05-02 14:11:42 +0000",
       "rocky_shrubland": "2025-05-02 14:47:07 +0000",
+      "floodplain": "2025-05-02 18:41:14 +0000",
       "highland": "2025-05-02 15:46:59 +0000",
       "jacaranda_glade": "2025-05-02 16:09:10 +0000",
       "jade_cliffs": "2025-05-02 16:40:05 +0000",
@@ -173,6 +174,7 @@
       "minecraft:forest": "2025-05-02 14:15:22 +0000",
       "minecraft:lush_caves": "2025-05-02 14:54:33 +0000",
       "minecraft:ocean": "2025-05-02 14:13:02 +0000",
+      "minecraft:jungle": "2025-05-02 18:42:27 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-05-02 14:13:38 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-02 15:38:26 +0000",
       "minecraft:savanna": "2025-05-02 14:15:55 +0000",
@@ -6453,6 +6455,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-05-02 18:50:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/calibrated_sculk_sensor": {
     "criteria": {
       "has_amethyst_shard": "2025-05-02 17:56:29 +0000"
@@ -6540,6 +6548,12 @@
   "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-05-02 17:55:49 +0000"
+    },
+    "done": true
+  },
+  "mekanismtools:loved_by_piglins": {
+    "criteria": {
+      "armor": "2025-05-02 18:57:02 +0000"
     },
     "done": true
   },
@@ -6711,6 +6725,12 @@
     },
     "done": true
   },
+  "naturalist:recipes/naturalist/bug_net": {
+    "criteria": {
+      "has_bamboo": "2025-05-02 18:42:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2025-05-02 17:37:00 +0000"
@@ -6723,9 +6743,21 @@
     },
     "done": true
   },
+  "doggytalents:recipes/decorations/snorkel": {
+    "criteria": {
+      "has_bamboo": "2025-05-02 18:42:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_crying_obsidian": {
     "criteria": {
       "crying_obsidian": "2025-05-02 17:40:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-05-02 18:50:06 +0000"
     },
     "done": true
   },
@@ -6744,6 +6776,12 @@
   "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
     "criteria": {
       "has_amethyst_shard": "2025-05-02 17:56:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-05-02 18:50:06 +0000"
     },
     "done": true
   },
@@ -6777,9 +6815,21 @@
     },
     "done": true
   },
+  "mekanismtools:alternate_armor": {
+    "criteria": {
+      "armor": "2025-05-02 18:57:02 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/layered_granite_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-05-02 17:55:49 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/skelewag_skull": {
+    "criteria": {
+      "skull": "2025-05-02 18:57:02 +0000"
     },
     "done": true
   },
@@ -6876,6 +6926,12 @@
   "create:recipes/building_blocks/cut_granite_bricks_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-05-02 17:55:49 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/red_dye_from_waterlily": {
+    "criteria": {
+      "has_waterlily": "2025-05-02 18:41:13 +0000"
     },
     "done": true
   },
@@ -7107,6 +7163,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-05-02 18:42:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall": {
     "criteria": {
       "has_andesite": "2025-05-02 17:55:17 +0000"
@@ -7116,6 +7178,18 @@
   "minecraft:recipes/building_blocks/andesite_slab": {
     "criteria": {
       "has_andesite": "2025-05-02 17:55:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-05-02 18:42:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-05-02 18:42:30 +0000"
     },
     "done": true
   },

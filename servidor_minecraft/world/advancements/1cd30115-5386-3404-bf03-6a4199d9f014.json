@@ -57,6 +57,7 @@
     "criteria": {
       "shrubland": "2025-05-02 14:11:44 +0000",
       "rocky_shrubland": "2025-05-02 14:47:14 +0000",
+      "floodplain": "2025-05-02 18:40:59 +0000",
       "highland": "2025-05-02 15:47:02 +0000",
       "jacaranda_glade": "2025-05-02 16:15:26 +0000",
       "jade_cliffs": "2025-05-02 16:42:56 +0000",
@@ -5057,6 +5058,42 @@
   "tombstone:adventure/ashes_and_bones": {
     "criteria": {
       "coded_trigger": "2025-05-02 17:44:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/crystal_quartz_item": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-05-02 18:47:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_siren": {
+    "criteria": {
+      "killed_fire_dragon": "2025-05-02 18:46:53 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/red_dye_from_waterlily": {
+    "criteria": {
+      "has_waterlily": "2025-05-02 18:41:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-05-02 18:42:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-05-02 18:42:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-05-02 18:47:14 +0000"
     },
     "done": true
   },
