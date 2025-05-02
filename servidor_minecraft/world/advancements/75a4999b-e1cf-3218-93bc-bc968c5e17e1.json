@@ -68,6 +68,7 @@
       "moor": "2025-05-02 15:28:26 +0000",
       "overgrown_greens": "2025-05-02 15:41:51 +0000",
       "redwood_forest": "2025-05-02 15:42:05 +0000",
+      "pasture": "2025-05-02 16:25:59 +0000",
       "lavender_field": "2025-05-02 15:49:41 +0000",
       "grassland": "2025-05-02 14:31:44 +0000",
       "prairie": "2025-05-02 15:43:07 +0000",
@@ -81,7 +82,8 @@
       "minecraft:dark_forest": "2025-05-02 14:34:02 +0000",
       "minecraft:river": "2025-05-02 14:49:01 +0000",
       "minecraft:lush_caves": "2025-05-02 14:56:54 +0000",
-      "minecraft:old_growth_birch_forest": "2025-05-02 15:38:31 +0000"
+      "minecraft:old_growth_birch_forest": "2025-05-02 15:38:31 +0000",
+      "minecraft:plains": "2025-05-02 16:23:22 +0000"
     },
     "done": false
   },
@@ -2046,7 +2048,9 @@
       "cooked_porkchop": "2025-05-02 14:42:24 +0000",
       "cooked_mutton": "2025-05-02 14:49:59 +0000",
       "cooked_beef": "2025-05-02 15:23:47 +0000",
+      "apple": "2025-05-02 16:30:53 +0000",
       "bread": "2025-05-02 15:45:03 +0000",
+      "golden_apple": "2025-05-02 16:31:00 +0000",
       "golden_carrot": "2025-05-02 15:57:40 +0000"
     },
     "done": false
@@ -3742,9 +3746,27 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/ash_to_charcoal": {
+    "criteria": {
+      "has_item": "2025-05-02 16:31:41 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/find_grave_dust": {
     "criteria": {
       "from_undead": "2025-05-02 16:12:20 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-05-02 16:17:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-05-02 16:27:14 +0000"
     },
     "done": true
   },
