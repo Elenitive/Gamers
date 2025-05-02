@@ -270,8 +270,10 @@
       "minecraft:beach": "2025-05-02 12:55:32 +0000",
       "minecraft:dark_forest": "2025-05-02 12:50:32 +0000",
       "minecraft:river": "2025-05-02 15:12:08 +0000",
+      "minecraft:stony_shore": "2025-05-02 15:49:56 +0000",
       "minecraft:lush_caves": "2025-05-02 12:51:52 +0000",
-      "minecraft:ocean": "2025-05-02 12:57:01 +0000"
+      "minecraft:ocean": "2025-05-02 12:57:01 +0000",
+      "minecraft:old_growth_birch_forest": "2025-05-02 15:50:11 +0000"
     },
     "done": false
   },
@@ -1799,6 +1801,12 @@
     },
     "done": true
   },
+  "buntsy:recipes/misc/caramel_strawberries": {
+    "criteria": {
+      "has_strawberry": "2025-05-02 15:53:02 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/oak_yellow_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-02 15:37:06 +0000"
@@ -1856,6 +1864,12 @@
   "miniutilities:recipes/misc/angel_ring": {
     "criteria": {
       "has_item": "2025-05-02 15:40:29 +0000"
+    },
+    "done": true
+  },
+  "buntsy:recipes/misc/strawberry_seeds": {
+    "criteria": {
+      "has_strawberry": "2025-05-02 15:53:02 +0000"
     },
     "done": true
   },
@@ -2804,6 +2818,12 @@
   "fairyfactions:recipes/decorations/mangrove_pink_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-02 15:37:06 +0000"
+    },
+    "done": true
+  },
+  "buntsy:recipes/misc/hootnip_seeds": {
+    "criteria": {
+      "has_hootnip": "2025-05-02 15:57:22 +0000"
     },
     "done": true
   },

@@ -1,7 +1,37 @@
 {
+  "securitycraft:recipes/misc/sentry": {
+    "criteria": {
+      "has_iron": "2025-05-02 15:47:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-02 15:51:13 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/dark_oak_brown_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-05-02 15:33:51 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/cherry_pink_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-02 15:51:13 +0000"
     },
     "done": true
   },
@@ -29,9 +59,69 @@
     },
     "done": true
   },
+  "fairyfactions:recipes/decorations/birch_brown_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/mangrove_red_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/spruce_brown_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/birch_yellow_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-05-02 15:48:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-05-02 15:52:01 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/mangrove_white_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/willow_boat": {
     "criteria": {
       "in_water": "2025-05-02 15:32:00 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/superdog_suit": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-02 15:47:59 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/cherry_brown_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/combat/sussy_sickle": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-02 15:47:59 +0000"
     },
     "done": true
   },
@@ -41,9 +131,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-02 15:47:59 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/dark_oak_magenta_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/oak_light_blue_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-05-02 15:51:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2025-05-02 15:51:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-05-02 15:45:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-05-02 15:52:01 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/mangrove_blue_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
     },
     "done": true
   },
@@ -56,6 +188,12 @@
   "doggytalents:recipes/decorations/sunglasses": {
     "criteria": {
       "has_stick": "2025-05-02 15:33:51 +0000"
+    },
+    "done": true
+  },
+  "buntsy:recipes/misc/fairy_power_receptor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-02 15:47:25 +0000"
     },
     "done": true
   },
@@ -83,9 +221,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-05-02 15:52:01 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/tools/whistle": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-02 15:47:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/floor_trap": {
+    "criteria": {
+      "has_iron": "2025-05-02 15:47:59 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/cherry_magenta_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/jungle_blue_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
   "mysticsbiomes:recipes/transportation/jacaranda_boat": {
     "criteria": {
       "in_water": "2025-05-02 15:32:00 +0000"
+    },
+    "done": true
+  },
+  "material_elements:recipes/leather/leather_knife": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-02 15:47:59 +0000"
     },
     "done": true
   },
@@ -95,9 +269,33 @@
     },
     "done": true
   },
+  "fairyfactions:recipes/decorations/jungle_yellow_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/decorations/giant_stick": {
     "criteria": {
       "has_stick": "2025-05-02 15:33:51 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass": {
+    "criteria": {
+      "has_recipe": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_diorite": {
+    "criteria": {
+      "has_cobblestone": "2025-05-02 15:51:13 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/spruce_blue_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
     },
     "done": true
   },
@@ -107,9 +305,57 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/storage_module": {
+    "criteria": {
+      "has_iron": "2025-05-02 15:47:59 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/oak_blue_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/acacia_orange_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/jungle_red_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2025-05-02 15:40:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-02 15:51:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/shears": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-02 15:47:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2025-05-02 15:48:54 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/propeller_hat": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-02 15:47:59 +0000"
     },
     "done": true
   },
@@ -119,9 +365,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-02 15:47:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_stone_brick_wall": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-05-02 15:42:53 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/jungle_black_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-05-02 15:47:17 +0000"
     },
     "done": true
   },
@@ -133,9 +397,16 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-05-02 15:50:25 +0000",
       "minecraft:zombie": "2025-05-02 15:44:45 +0000"
     },
     "done": false
+  },
+  "fairyfactions:recipes/decorations/mangrove_cyan_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
   },
   "mekanism:root": {
     "criteria": {
@@ -149,6 +420,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-02 15:47:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-05-02 15:54:47 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/oak_brown_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/bamboo_raft": {
     "criteria": {
       "in_water": "2025-05-02 15:32:00 +0000"
@@ -158,6 +447,24 @@
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-05-02 15:42:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/transportation/track_mine": {
+    "criteria": {
+      "has_iron": "2025-05-02 15:47:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/andesite_alloy": {
+    "criteria": {
+      "has_item": "2025-05-02 15:47:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_cobblestone": {
+    "criteria": {
+      "has_cobblestone": "2025-05-02 15:51:13 +0000"
     },
     "done": true
   },
@@ -179,9 +486,75 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/whitelist_module": {
+    "criteria": {
+      "has_iron": "2025-05-02 15:47:59 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/dark_oak_light_blue_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_acacia_fence": {
     "criteria": {
       "has_stick": "2025-05-02 15:33:51 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/jungle_white_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-02 15:51:13 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/jungle_pink_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/dark_oak_orange_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/birch_purple_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/security_camera": {
+    "criteria": {
+      "has_iron": "2025-05-02 15:47:59 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/mangrove_gray_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/mangrove_lime_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-05-02 15:52:01 +0000"
     },
     "done": true
   },
@@ -191,15 +564,57 @@
     },
     "done": true
   },
+  "framedblocks:recipes/building_blocks/framed_cube": {
+    "criteria": {
+      "hasPlanks": "2025-05-02 15:48:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/hopper": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-02 15:47:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-02 15:47:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-05-02 15:45:37 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-02 15:47:25 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/briefcase": {
+    "criteria": {
+      "has_iron": "2025-05-02 15:47:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-02 15:51:13 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_bamboo_fence_gate": {
     "criteria": {
       "has_stick": "2025-05-02 15:33:51 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_fence_gate": {
+    "criteria": {
+      "has_iron": "2025-05-02 15:47:59 +0000"
     },
     "done": true
   },
@@ -216,9 +631,75 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-02 15:51:13 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/cherry_white_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/cherry_blue_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-05-02 15:52:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-05-02 15:48:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/electrified_iron_fence": {
+    "criteria": {
+      "has_iron": "2025-05-02 15:47:59 +0000"
+    },
+    "done": true
+  },
   "mysticsbiomes:recipes/transportation/strawberry_boat": {
     "criteria": {
       "in_water": "2025-05-02 15:32:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/keycard_lv5": {
+    "criteria": {
+      "has_iron": "2025-05-02 15:47:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/keycard_lv3": {
+    "criteria": {
+      "has_iron": "2025-05-02 15:47:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/keycard_lv4": {
+    "criteria": {
+      "has_iron": "2025-05-02 15:47:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/keycard_lv1": {
+    "criteria": {
+      "has_iron": "2025-05-02 15:47:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/keycard_lv2": {
+    "criteria": {
+      "has_iron": "2025-05-02 15:47:59 +0000"
     },
     "done": true
   },
@@ -228,9 +709,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-02 15:47:59 +0000"
+    },
+    "done": true
+  },
   "material_elements:recipes/smelting/coke_from_coal_by_blasting": {
     "criteria": {
       "has_coal": "2025-05-02 15:39:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-05-02 15:51:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-02 15:47:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-02 15:51:13 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/dark_oak_light_gray_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/dark_oak_cyan_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-05-02 15:52:01 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/mine": {
+    "criteria": {
+      "has_iron": "2025-05-02 15:47:59 +0000"
     },
     "done": true
   },
@@ -240,9 +769,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-02 15:51:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2025-05-02 15:33:51 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/spruce_gray_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
     },
     "done": true
   },
@@ -252,9 +793,45 @@
     },
     "done": true
   },
+  "fairyfactions:recipes/decorations/cherry_orange_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/oak_gray_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-02 15:48:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_stone_bricks": "2025-05-02 15:42:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_mossy_cobblestone_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2025-05-02 15:49:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-02 15:47:59 +0000"
     },
     "done": true
   },
@@ -264,15 +841,57 @@
     },
     "done": true
   },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/birch_blue_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
   "lootr:1barrel": {
     "criteria": {
       "opened_barrel": "2025-05-02 15:45:26 +0000"
     },
     "done": true
   },
+  "fairyfactions:recipes/decorations/acacia_brown_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
       "grassland": "2025-05-02 15:26:51 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/acacia_pink_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/cherry_black_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-05-02 15:48:54 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/spruce_lime_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
     },
     "done": true
   },
@@ -300,9 +919,45 @@
     },
     "done": true
   },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_recipe": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-05-02 15:54:47 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/mangrove_light_blue_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_mossy_stone_bricks_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2025-05-02 15:49:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/trophy_system": {
+    "criteria": {
+      "has_iron": "2025-05-02 15:47:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2025-05-02 15:32:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_trapdoor": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-02 15:47:59 +0000"
     },
     "done": true
   },
@@ -312,9 +967,39 @@
     },
     "done": true
   },
+  "material_elements:recipes/rods/iron_rod_from_iron_ingot": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-02 15:47:59 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/jungle_purple_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-02 15:51:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2025-05-02 15:34:22 +0000"
+    },
+    "done": true
+  },
+  "buntsy:recipes/misc/fairy_power_emitter": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-02 15:47:25 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/cherry_light_blue_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
     },
     "done": true
   },
@@ -324,15 +1009,81 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-05-02 15:52:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-02 15:47:59 +0000"
+    },
+    "done": true
+  },
   "tombstone:recipes/from_grave_dust": {
     "criteria": {
       "has_ingredient": "2025-05-02 15:36:05 +0000"
     },
     "done": true
   },
+  "buntsy:recipes/misc/grinding_wheel": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-02 15:47:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2025-05-02 15:48:54 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/dark_oak_blue_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/spruce_purple_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/mangrove_yellow_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/acacia_red_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/weathered_iron_block_from_ingots_iron_stonecutting": {
+    "criteria": {
+      "has_ingots_iron": "2025-05-02 15:47:59 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_birch_fence": {
     "criteria": {
       "has_stick": "2025-05-02 15:33:51 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/speed_module": {
+    "criteria": {
+      "has_iron": "2025-05-02 15:47:59 +0000"
     },
     "done": true
   },
@@ -348,15 +1099,63 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/camera_monitor": {
+    "criteria": {
+      "has_iron": "2025-05-02 15:47:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-05-02 15:42:53 +0000"
     },
     "done": true
   },
+  "naturalist:recipes/naturalist/glow_goop": {
+    "criteria": {
+      "has_glow_berries": "2025-05-02 15:49:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-05-02 15:52:01 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/oak_yellow_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_oak_fence_gate": {
     "criteria": {
       "has_stick": "2025-05-02 15:33:51 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/cherry_red_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/sc_manual": {
+    "criteria": {
+      "has_wood": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/spruce_light_blue_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/birch_cyan_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
     },
     "done": true
   },
@@ -372,9 +1171,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/redstone_module": {
+    "criteria": {
+      "has_iron": "2025-05-02 15:47:59 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_bamboo_fence": {
     "criteria": {
       "has_stick": "2025-05-02 15:33:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-05-02 15:52:01 +0000"
     },
     "done": true
   },
@@ -384,15 +1195,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-05-02 15:51:13 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/root": {
     "criteria": {
       "auto": "2025-05-02 15:26:51 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/door_indestructible_iron_item": {
+    "criteria": {
+      "has_iron": "2025-05-02 15:47:59 +0000"
+    },
+    "done": true
+  },
+  "buntsy:recipes/misc/mixer_block": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-02 15:47:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-05-02 15:42:53 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/jungle_cyan_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_remover": {
+    "criteria": {
+      "has_iron": "2025-05-02 15:47:59 +0000"
     },
     "done": true
   },
@@ -414,9 +1261,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-02 15:47:59 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/cherry_lime_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/spruce_light_gray_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/acacia_white_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
   "lootr:1chest": {
     "criteria": {
       "opened_chest": "2025-05-02 15:39:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_leggings": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-02 15:47:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-05-02 15:52:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-05-02 15:52:01 +0000"
     },
     "done": true
   },
@@ -426,9 +1315,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-05-02 15:52:01 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/decorations/frisbee": {
     "criteria": {
       "has_slime_ball": "2025-05-02 15:34:22 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/acacia_light_blue_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
     },
     "done": true
   },
@@ -438,9 +1339,93 @@
     },
     "done": true
   },
+  "fairyfactions:recipes/decorations/birch_magenta_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/blacklist_module": {
+    "criteria": {
+      "has_iron": "2025-05-02 15:47:59 +0000"
+    },
+    "done": true
+  },
   "mysticsbiomes:recipes/transportation/tropical_boat": {
     "criteria": {
       "in_water": "2025-05-02 15:32:00 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/dark_oak_purple_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-05-02 15:57:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-02 15:47:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-02 15:48:54 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/cherry_purple_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "yuushya:recipes/bismuth_crystal": {
+    "criteria": {
+      "has_cobblestone": "2025-05-02 15:51:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-02 15:47:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-02 15:51:13 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/birch_orange_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/mangrove_purple_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-05-02 15:51:13 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/birch_light_gray_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
     },
     "done": true
   },
@@ -450,9 +1435,129 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-05-02 15:51:13 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/jungle_brown_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/cherry_green_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/oak_magenta_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/limited_use_keycard": {
+    "criteria": {
+      "has_iron": "2025-05-02 15:47:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/bouncing_betty": {
+    "criteria": {
+      "has_iron": "2025-05-02 15:47:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-02 15:47:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-05-02 15:52:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bucket": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-02 15:47:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-05-02 15:52:01 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/disguise_module": {
+    "criteria": {
+      "has_iron": "2025-05-02 15:47:59 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/dark_oak_yellow_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-02 15:47:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_hoe": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-02 15:47:59 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/acacia_purple_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "material_elements:recipes/smelting/coke_from_charcoal_by_blasting": {
+    "criteria": {
+      "has_charcoal": "2025-05-02 15:48:47 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/root": {
     "criteria": {
       "useitem": "2025-05-02 15:29:20 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/spruce_orange_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/block_change_detector": {
+    "criteria": {
+      "has_iron": "2025-05-02 15:47:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/laser_block": {
+    "criteria": {
+      "has_stone": "2025-05-02 15:51:13 +0000"
+    },
+    "done": true
+  },
+  "buntsy:recipes/misc/fairy_staff": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-02 15:47:25 +0000"
     },
     "done": true
   },
@@ -462,9 +1567,81 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-05-02 15:49:44 +0000"
+    },
+    "done": true
+  },
+  "buntsy:recipes/misc/empty_catalyst": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-02 15:47:25 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/jungle_light_gray_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/acacia_yellow_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/acacia_black_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-05-02 15:47:59 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/dark_oak_green_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-02 15:51:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2025-05-02 15:42:53 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/acacia_cyan_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-02 15:51:13 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/tools/throw_bone": {
+    "criteria": {
+      "has_bone": "2025-05-02 15:50:47 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/cherry_yellow_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
     },
     "done": true
   },
@@ -492,9 +1669,45 @@
     },
     "done": false
   },
+  "fairyfactions:recipes/decorations/spruce_green_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
   "mysticsbiomes:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2025-05-02 15:32:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-02 15:48:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-05-02 15:52:01 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/oak_lime_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-02 15:47:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-05-02 15:48:54 +0000"
     },
     "done": true
   },
@@ -504,9 +1717,57 @@
     },
     "done": true
   },
+  "fairyfactions:recipes/decorations/acacia_magenta_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-05-02 15:50:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-02 15:51:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-02 15:51:13 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/dark_oak_pink_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
   "lootr:root": {
     "criteria": {
       "always_true": "2025-05-02 15:26:50 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/oak_orange_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/earplugs": {
+    "criteria": {
+      "has_item": "2025-05-02 15:48:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-02 15:47:59 +0000"
     },
     "done": true
   },
@@ -516,9 +1777,21 @@
     },
     "done": true
   },
+  "fairyfactions:recipes/decorations/cherry_gray_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
   "material_elements:recipes/brewing/test_tube_glow_from_glowing_item": {
     "criteria": {
       "has_glowing_item": "2025-05-02 15:36:31 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/mangrove_magenta_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
     },
     "done": true
   },
@@ -534,6 +1807,18 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/empty_blaze_burner": {
+    "criteria": {
+      "has_item": "2025-05-02 15:47:59 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/birch_pink_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-05-02 15:29:20 +0000"
@@ -543,6 +1828,24 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2025-05-02 15:32:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-02 15:51:13 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/cherry_cyan_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-02 15:51:13 +0000"
     },
     "done": true
   },
@@ -558,6 +1861,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-05-02 15:49:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2025-05-02 15:39:50 +0000"
@@ -570,9 +1879,57 @@
     },
     "done": true
   },
+  "fairyfactions:recipes/decorations/jungle_orange_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_acacia_fence_gate": {
     "criteria": {
       "has_stick": "2025-05-02 15:33:51 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/acacia_blue_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/mangrove_brown_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-05-02 15:48:54 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/jungle_magenta_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/oak_red_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_sword": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-02 15:47:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_pickaxe": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-02 15:47:59 +0000"
     },
     "done": true
   },
@@ -582,9 +1939,69 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/shield": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-02 15:47:59 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/cherry_light_gray_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/jungle_lime_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_cherry_fence": {
     "criteria": {
       "has_stick": "2025-05-02 15:33:51 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/birch_light_blue_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/iron_bars": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-02 15:47:59 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/spruce_magenta_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-02 15:51:13 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/oak_cyan_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_hammer": {
+    "criteria": {
+      "has_material": "2025-05-02 15:47:59 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/acacia_green_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
     },
     "done": true
   },
@@ -606,9 +2023,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-02 15:51:13 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/spruce_black_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/oak_light_gray_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/jacaranda_boat": {
     "criteria": {
       "in_water": "2025-05-02 15:32:00 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/mangrove_light_gray_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
     },
     "done": true
   },
@@ -618,15 +2059,75 @@
     },
     "done": true
   },
+  "fairyfactions:recipes/decorations/spruce_white_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/jungle_green_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/oak_white_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/acacia_lime_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/harming_module": {
+    "criteria": {
+      "has_iron": "2025-05-02 15:47:59 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/spruce_red_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2025-05-02 15:33:51 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-02 15:51:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-05-02 15:42:53 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2025-05-02 15:47:58 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/dark_oak_black_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/dark_oak_gray_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
     },
     "done": true
   },
@@ -642,6 +2143,24 @@
     },
     "done": true
   },
+  "fairyfactions:recipes/decorations/spruce_cyan_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-02 15:48:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/smart_module": {
+    "criteria": {
+      "has_iron": "2025-05-02 15:47:59 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_mangrove_fence_gate": {
     "criteria": {
       "has_stick": "2025-05-02 15:33:51 +0000"
@@ -654,15 +2173,105 @@
     },
     "done": true
   },
+  "fairyfactions:recipes/decorations/spruce_pink_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/dark_oak_red_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/mangrove_orange_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-05-02 15:52:01 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/oak_pink_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/acacia_gray_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_mangrove_fence": {
     "criteria": {
       "has_stick": "2025-05-02 15:33:51 +0000"
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_andesite": {
+    "criteria": {
+      "has_cobblestone": "2025-05-02 15:51:13 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/dark_oak_lime_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_diorite": {
+    "criteria": {
+      "has_cobblestone": "2025-05-02 15:51:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-05-02 15:49:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-02 15:47:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-05-02 15:52:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-02 15:47:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2025-05-02 15:36:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/oak_window": {
+    "criteria": {
+      "has_ingredient": "2025-05-02 15:48:54 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/birch_white_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
     },
     "done": true
   },
@@ -678,6 +2287,18 @@
     },
     "done": true
   },
+  "doggytalents:recipes/tools/conducting_bone": {
+    "criteria": {
+      "has_bone": "2025-05-02 15:50:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-02 15:51:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:birch_forest": "2025-05-02 15:31:03 +0000",
@@ -690,9 +2311,51 @@
     },
     "done": false
   },
+  "fairyfactions:recipes/decorations/birch_lime_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/acacia_light_gray_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/oak_black_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/birch_gray_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
   "yuushya:recipes/pictor": {
     "criteria": {
       "has_iron_ingot": "2025-05-02 15:26:50 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/dark_oak_white_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/jungle_gray_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mossy_black_sand": {
+    "criteria": {
+      "has_moss_block": "2025-05-02 15:49:12 +0000"
     },
     "done": true
   },
@@ -702,15 +2365,123 @@
     },
     "done": false
   },
+  "fairyfactions:recipes/decorations/mangrove_green_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/birch_black_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-02 15:51:13 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/mangrove_pink_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-05-02 15:51:13 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/jungle_light_blue_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-05-02 15:42:53 +0000"
     },
     "done": true
   },
+  "fairyfactions:recipes/decorations/spruce_yellow_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/mangrove_black_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "rechiseled:recipes/misc/chisel": {
+    "criteria": {
+      "recipe_condition": "2025-05-02 15:47:59 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/birch_red_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/oak_purple_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-05-02 15:49:12 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/building_blocks/dog_bath": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-02 15:47:59 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/oak_green_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_spruce_fence": {
     "criteria": {
       "has_stick": "2025-05-02 15:33:51 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/building_blocks/food_bowl": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-02 15:47:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/industrial_iron_block_from_ingots_iron_stonecutting": {
+    "criteria": {
+      "has_ingots_iron": "2025-05-02 15:47:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_door": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-02 15:47:59 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/birch_green_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-02 15:49:36 +0000"
     },
     "done": true
   },

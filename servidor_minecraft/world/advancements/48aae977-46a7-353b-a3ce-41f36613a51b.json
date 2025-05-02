@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-02 15:54:08 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/dark_oak_brown_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-02 14:37:00 +0000"
@@ -26,6 +32,12 @@
   "naturalist:recipes/food/cake": {
     "criteria": {
       "has_the_recipe": "2025-05-02 15:06:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-02 15:54:08 +0000"
     },
     "done": true
   },
@@ -521,6 +533,18 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-05-02 15:57:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-02 15:54:08 +0000"
+    },
+    "done": true
+  },
   "miniutilities:recipes/misc/cursed_earth": {
     "criteria": {
       "has_item": "2025-05-02 14:43:24 +0000"
@@ -878,6 +902,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-02 15:54:08 +0000"
+    },
+    "done": true
+  },
   "miniutilities:recipes/misc/dark_glass": {
     "criteria": {
       "has_item": "2025-05-02 14:43:24 +0000"
@@ -1010,6 +1040,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-02 15:54:08 +0000"
+    },
+    "done": true
+  },
   "miniutilities:recipes/misc/golden_lasso": {
     "criteria": {
       "has_item": "2025-05-02 14:43:24 +0000"
@@ -1042,9 +1078,16 @@
   },
   "lootr:social": {
     "criteria": {
+      "opened_barrel": "2025-05-02 15:47:25 +0000",
       "opened_chest": "2025-05-02 14:34:37 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-02 15:54:08 +0000"
+    },
+    "done": true
   },
   "fairyfactions:recipes/decorations/cherry_white_fairy_bed": {
     "criteria": {
@@ -1160,6 +1203,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-02 15:54:08 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/ornate_iron_window": {
     "criteria": {
       "has_ingredient": "2025-05-02 14:57:27 +0000"
@@ -1187,6 +1236,12 @@
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2025-05-02 14:38:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-02 15:54:08 +0000"
     },
     "done": true
   },
@@ -1289,6 +1344,12 @@
   "miniutilities:recipes/misc/ender_tile": {
     "criteria": {
       "has_item": "2025-05-02 14:43:24 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-05-02 15:47:25 +0000"
     },
     "done": true
   },
@@ -1490,6 +1551,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-02 15:54:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-05-02 15:17:48 +0000"
@@ -1667,6 +1734,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-05-02 15:29:13 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/naturalist/glow_goop": {
+    "criteria": {
+      "has_glow_berries": "2025-05-02 15:47:35 +0000"
     },
     "done": true
   },
@@ -2066,6 +2139,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-02 15:54:08 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/birch_orange_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-02 14:37:00 +0000"
@@ -2432,6 +2511,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-02 15:54:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2025-05-02 14:56:58 +0000"
@@ -2459,6 +2544,12 @@
   "fairyfactions:recipes/decorations/acacia_cyan_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-02 14:37:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-02 15:54:08 +0000"
     },
     "done": true
   },
@@ -2625,9 +2716,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-02 15:54:08 +0000"
+    },
+    "done": true
+  },
   "miniutilities:recipes/misc/experience_pearl_7x": {
     "criteria": {
       "has_item": "2025-05-02 14:43:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-02 15:54:08 +0000"
     },
     "done": true
   },
@@ -2682,6 +2785,12 @@
   "fairyfactions:recipes/decorations/cherry_gray_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-02 14:37:00 +0000"
+    },
+    "done": true
+  },
+  "material_elements:recipes/brewing/test_tube_glow_from_glowing_item": {
+    "criteria": {
+      "has_glowing_item": "2025-05-02 15:47:35 +0000"
     },
     "done": true
   },
@@ -2769,9 +2878,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-02 15:54:08 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/cherry_cyan_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-02 14:37:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-02 15:54:08 +0000"
     },
     "done": true
   },
@@ -3033,6 +3154,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-02 15:54:08 +0000"
+    },
+    "done": true
+  },
   "miniutilities:recipes/misc/dark_ethereal_glass": {
     "criteria": {
       "has_item": "2025-05-02 14:43:24 +0000"
@@ -3120,6 +3247,12 @@
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-05-02 15:17:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-02 15:54:08 +0000"
     },
     "done": true
   },
@@ -3234,6 +3367,12 @@
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2025-05-02 14:38:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-02 15:54:08 +0000"
     },
     "done": true
   },
@@ -3513,6 +3652,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-02 15:54:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:birch_forest": "2025-05-02 14:35:16 +0000",
@@ -3620,6 +3765,7 @@
       "apple": "2025-05-02 14:49:43 +0000",
       "potato": "2025-05-02 14:49:10 +0000",
       "bread": "2025-05-02 14:35:07 +0000",
+      "golden_apple": "2025-05-02 15:54:08 +0000",
       "melon_slice": "2025-05-02 14:49:56 +0000"
     },
     "done": false
@@ -3645,6 +3791,12 @@
   "minecraft:recipes/building_blocks/bamboo_block": {
     "criteria": {
       "has_bamboo": "2025-05-02 14:48:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-02 15:54:08 +0000"
     },
     "done": true
   },
