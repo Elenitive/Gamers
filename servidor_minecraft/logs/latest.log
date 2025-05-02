@@ -27,3 +27,5 @@
 [02May2025 01:32:08.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 has made the advancement [Monster Hunter]
 [02May2025 01:32:51.573] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaleexx17 lost connection: Disconnected
 [02May2025 01:32:51.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 left the game
+[02May2025 01:37:17.979] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/68163, l='ServerLevel[world]', x=841.72, y=76.00, z=1056.63] died, message: 'Nitwit suffocated in a wall'
+[02May2025 01:37:54.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elenitive has made the advancement [Flexible Schedule]
