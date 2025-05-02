@@ -63,7 +63,10 @@
     "criteria": {
       "shrubland": "2025-05-02 18:14:14 +0000",
       "rocky_shrubland": "2025-05-02 17:56:21 +0000",
+      "old_growth_woodland": "2025-05-02 18:36:57 +0000",
       "orchard": "2025-05-02 18:19:03 +0000",
+      "overgrown_greens": "2025-05-02 18:36:42 +0000",
+      "redwood_forest": "2025-05-02 18:36:50 +0000",
       "lavender_field": "2025-05-02 18:04:39 +0000",
       "grassland": "2025-05-02 17:44:56 +0000"
     },
@@ -3618,6 +3621,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-05-02 18:33:47 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/decorations/head_band_blank": {
     "criteria": {
       "has_paper": "2025-05-02 18:26:01 +0000"
@@ -3675,6 +3684,12 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2025-05-02 18:25:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-05-02 18:33:47 +0000"
     },
     "done": true
   },

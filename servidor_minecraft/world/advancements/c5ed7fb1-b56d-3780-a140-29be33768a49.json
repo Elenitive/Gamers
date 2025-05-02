@@ -63,10 +63,13 @@
     "criteria": {
       "highland": "2025-05-02 17:51:04 +0000",
       "mystic_grove": "2025-05-02 18:30:46 +0000",
+      "field": "2025-05-02 18:36:43 +0000",
       "overgrown_greens": "2025-05-02 15:20:22 +0000",
       "spider_nest": "2025-05-02 16:58:59 +0000",
+      "forested_field": "2025-05-02 18:39:56 +0000",
       "redwood_forest": "2025-05-02 15:23:43 +0000",
-      "grassland": "2025-05-02 15:19:08 +0000"
+      "grassland": "2025-05-02 15:19:08 +0000",
+      "gravel_beach": "2025-05-02 18:36:17 +0000"
     },
     "done": false
   },
@@ -4514,6 +4517,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/magenta_dye_from_wildflower": {
+    "criteria": {
+      "has_wildflower": "2025-05-02 18:36:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_boots": "2025-05-02 17:51:22 +0000"
@@ -4523,6 +4532,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-05-02 17:34:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-05-02 18:36:45 +0000"
     },
     "done": true
   },
@@ -4622,6 +4637,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-05-02 18:36:57 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_andesite_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-05-02 17:37:32 +0000"
@@ -4667,6 +4688,18 @@
   "create:recipes/building_blocks/cut_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-05-02 17:37:32 +0000"
+    },
+    "done": true
+  },
+  "buntsy:recipes/misc/caramel_strawberries": {
+    "criteria": {
+      "has_strawberry": "2025-05-02 18:33:03 +0000"
+    },
+    "done": true
+  },
+  "buntsy:recipes/misc/strawberry_seeds": {
+    "criteria": {
+      "has_strawberry": "2025-05-02 18:33:03 +0000"
     },
     "done": true
   },
@@ -4778,9 +4811,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-05-02 18:40:08 +0000"
+    },
+    "done": true
+  },
   "naturalist:recipes/naturalist/teddy_bear": {
     "criteria": {
       "has_bear_fur": "2025-05-02 18:31:39 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/white_dye_from_white_lavender": {
+    "criteria": {
+      "has_white_lavender": "2025-05-02 18:37:07 +0000"
     },
     "done": true
   },
@@ -4793,6 +4838,12 @@
   "minecraft:recipes/building_blocks/cherry_wood": {
     "criteria": {
       "has_log": "2025-05-02 18:21:27 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/white_dye_from_tall_white_lavender": {
+    "criteria": {
+      "has_tall_white_lavender": "2025-05-02 18:38:24 +0000"
     },
     "done": true
   },
@@ -4841,6 +4892,12 @@
   "create:recipes/building_blocks/cut_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-05-02 17:37:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-05-02 18:40:08 +0000"
     },
     "done": true
   },
@@ -4928,6 +4985,13 @@
     },
     "done": true
   },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:beach": "2025-05-02 18:36:04 +0000",
+      "minecraft:river": "2025-05-02 18:36:34 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
       "has_brick": "2025-05-02 17:57:51 +0000"
@@ -4949,6 +5013,12 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-05-02 17:34:28 +0000"
+    },
+    "done": true
+  },
+  "buntsy:recipes/misc/hootnip_seeds": {
+    "criteria": {
+      "has_hootnip": "2025-05-02 18:40:29 +0000"
     },
     "done": true
   },
