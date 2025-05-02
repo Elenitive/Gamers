@@ -22,3 +22,8 @@
 [02May2025 01:13:40.165] [Server thread/INFO] [Jade/]: Syncing config to aaleexx17 (da3b3c16-4900-3258-b19f-de1883847307)
 [02May2025 01:23:34.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 has made the advancement ['X' Marks the Spot]
 [02May2025 01:23:37.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 has made the advancement [Acquire Hardware]
+[02May2025 01:26:11.094] [Server thread/WARN] [tombstone/]: The death event of the player aaleexx17 was canceled by another mod
+[02May2025 01:26:11.113] [Server thread/INFO] [tombstone/]: The player aaleexx17 has successfully been saved
+[02May2025 01:32:08.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 has made the advancement [Monster Hunter]
+[02May2025 01:32:51.573] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaleexx17 lost connection: Disconnected
+[02May2025 01:32:51.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 left the game
