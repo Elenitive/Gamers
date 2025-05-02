@@ -3742,5 +3742,11 @@
     },
     "done": true
   },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-05-02 16:12:20 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

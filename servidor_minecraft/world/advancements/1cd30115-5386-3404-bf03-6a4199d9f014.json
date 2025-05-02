@@ -58,6 +58,7 @@
       "shrubland": "2025-05-02 14:11:44 +0000",
       "rocky_shrubland": "2025-05-02 14:47:14 +0000",
       "highland": "2025-05-02 15:47:02 +0000",
+      "jacaranda_glade": "2025-05-02 16:15:26 +0000",
       "orchard": "2025-05-02 14:12:27 +0000",
       "moor": "2025-05-02 15:28:30 +0000",
       "overgrown_greens": "2025-05-02 15:41:52 +0000",
@@ -4458,9 +4459,21 @@
     },
     "done": true
   },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-05-02 16:12:44 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/ash": {
     "criteria": {
       "has_item": "2025-05-02 16:07:47 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-05-02 16:17:00 +0000"
     },
     "done": true
   },
