@@ -4448,6 +4448,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/discover_dinosaur": {
+    "criteria": {
+      "killed_by_vallumraptor": "2025-05-02 18:10:12 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/decorations/frisbee": {
     "criteria": {
       "has_slime_ball": "2025-05-02 17:39:45 +0000"

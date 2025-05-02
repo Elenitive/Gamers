@@ -61,6 +61,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "rocky_shrubland": "2025-05-02 18:09:52 +0000",
       "grassland": "2025-05-02 15:26:51 +0000"
     },
     "done": false
@@ -613,6 +614,7 @@
       "cooked_beef": "2025-05-02 15:40:25 +0000",
       "tropical_fish": "2025-05-02 16:57:39 +0000",
       "apple": "2025-05-02 16:39:17 +0000",
+      "mutton": "2025-05-02 18:10:37 +0000",
       "bread": "2025-05-02 17:08:46 +0000",
       "golden_apple": "2025-05-02 16:34:15 +0000",
       "cooked_rabbit": "2025-05-02 17:53:31 +0000",
@@ -4661,6 +4663,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-05-02 18:10:34 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/secret_birch_sign_item": {
     "criteria": {
       "has_sign": "2025-05-02 17:31:26 +0000"
@@ -4793,9 +4801,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-05-02 18:10:34 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/ambush": {
     "criteria": {
       "coded_trigger": "2025-05-02 17:42:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-05-02 18:10:34 +0000"
     },
     "done": true
   },
