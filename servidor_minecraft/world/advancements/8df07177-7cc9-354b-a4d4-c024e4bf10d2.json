@@ -2569,6 +2569,7 @@
     "criteria": {
       "baked_potato": "2025-05-02 17:54:27 +0000",
       "beef": "2025-05-02 18:09:20 +0000",
+      "apple": "2025-05-02 19:41:14 +0000",
       "mutton": "2025-05-02 18:04:08 +0000",
       "golden_apple": "2025-05-02 18:15:17 +0000",
       "melon_slice": "2025-05-02 19:19:31 +0000",
@@ -4082,6 +4083,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-05-02 19:48:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-05-02 19:40:03 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/gold_reinforced_impact_hammer": {
     "criteria": {
       "has_material": "2025-05-02 19:29:34 +0000"
@@ -4127,6 +4140,12 @@
   "minecraft:recipes/brewing/glistering_melon_slice": {
     "criteria": {
       "has_melon": "2025-05-02 19:19:13 +0000"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-05-02 19:40:35 +0000"
     },
     "done": true
   },

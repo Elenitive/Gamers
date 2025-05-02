@@ -67,9 +67,12 @@
       "coniferous_forest": "2025-05-02 16:51:42 +0000",
       "redwood_forest": "2025-05-02 15:42:05 +0000",
       "visceral_heap": "2025-05-02 17:19:26 +0000",
+      "aspen_glade": "2025-05-02 19:43:35 +0000",
       "dune_beach": "2025-05-02 19:19:25 +0000",
+      "seasonal_forest": "2025-05-02 19:47:42 +0000",
       "pasture": "2025-05-02 16:25:57 +0000",
       "lavender_field": "2025-05-02 15:49:16 +0000",
+      "fir_clearing": "2025-05-02 19:41:31 +0000",
       "grassland": "2025-05-02 14:05:18 +0000",
       "prairie": "2025-05-02 15:43:03 +0000",
       "glowing_grotto": "2025-05-02 15:18:28 +0000"
@@ -5136,6 +5139,12 @@
   "alexscaves:alexscaves/cave_book": {
     "criteria": {
       "cave_book": "2025-05-02 19:11:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-05-02 19:39:55 +0000"
     },
     "done": true
   },

@@ -4690,5 +4690,83 @@
     },
     "done": true
   },
+  "buntsy:recipes/misc/gentlit_fence_gate": {
+    "criteria": {
+      "has_gentlit_planks": "2025-05-02 19:44:08 +0000"
+    },
+    "done": true
+  },
+  "buntsy:recipes/misc/gentlit_fence": {
+    "criteria": {
+      "has_gentlit_planks": "2025-05-02 19:44:08 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_wood": {
+    "criteria": {
+      "has_log": "2025-05-02 19:43:52 +0000"
+    },
+    "done": true
+  },
+  "buntsy:recipes/misc/gentlit_door": {
+    "criteria": {
+      "has_gentlit_planks": "2025-05-02 19:44:08 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_planks": {
+    "criteria": {
+      "has_logs": "2025-05-02 19:43:52 +0000"
+    },
+    "done": true
+  },
+  "buntsy:recipes/misc/gentlit_pressure_plate": {
+    "criteria": {
+      "has_gentlit_planks": "2025-05-02 19:44:08 +0000"
+    },
+    "done": true
+  },
+  "buntsy:recipes/misc/gentlit_slab": {
+    "criteria": {
+      "has_gentlit_planks": "2025-05-02 19:44:08 +0000"
+    },
+    "done": true
+  },
+  "buntsy:recipes/misc/gentlit_trapdoor": {
+    "criteria": {
+      "has_gentlit_planks": "2025-05-02 19:44:08 +0000"
+    },
+    "done": true
+  },
+  "buntsy:recipes/misc/gentlit_stairs": {
+    "criteria": {
+      "has_gentlit_planks": "2025-05-02 19:44:08 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-05-02 19:44:54 +0000"
+    },
+    "done": true
+  },
+  "buntsy:recipes/misc/syrup_extractor": {
+    "criteria": {
+      "has_gentlit_planks": "2025-05-02 19:44:08 +0000"
+    },
+    "done": true
+  },
+  "buntsy:recipes/misc/gentlit_button": {
+    "criteria": {
+      "Block{buntsy:gentlit_planks}": "2025-05-02 19:44:08 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-05-02 19:44:54 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

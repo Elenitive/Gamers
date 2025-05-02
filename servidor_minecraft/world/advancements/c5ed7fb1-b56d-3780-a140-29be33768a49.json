@@ -2540,6 +2540,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2025-05-02 17:37:02 +0000",
+      "baked_potato": "2025-05-02 19:48:36 +0000",
       "mutton": "2025-05-02 15:26:28 +0000",
       "golden_apple": "2025-05-02 18:02:46 +0000",
       "golden_carrot": "2025-05-02 18:15:38 +0000",
@@ -5694,6 +5695,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/mahogany_wood": {
+    "criteria": {
+      "has_log": "2025-05-02 19:43:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2025-05-02 19:22:40 +0000"
@@ -5703,6 +5710,12 @@
   "create:recipes/building_blocks/spruce_window": {
     "criteria": {
       "has_ingredient": "2025-05-02 19:22:40 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_planks": {
+    "criteria": {
+      "has_logs": "2025-05-02 19:43:26 +0000"
     },
     "done": true
   },
@@ -5733,6 +5746,12 @@
   "minecraft:recipes/misc/black_dye": {
     "criteria": {
       "has_ink_sac": "2025-05-02 19:33:08 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/magic_siphoner": {
+    "criteria": {
+      "coded_trigger": "2025-05-02 19:46:00 +0000"
     },
     "done": true
   },
