@@ -1473,3 +1473,76 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:color_essence'
 [02May2025 12:29:39.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elenitive has made the advancement [Ice and Fire]
 [02May2025 12:30:36.507] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elenitive lost connection: Disconnected
 [02May2025 12:30:36.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elenitive left the game
+[02May2025 12:38:11.600] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7a5e28dd[id=<null>,name=asaam,properties={},legacy=false] (/127.246.25.221:51349) lost connection: Disconnected
+[02May2025 12:42:47.911] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ich1goM1rukuu[/127.212.133.0:53957] logged in with entity id 1262 at (22.5, 63.0, 28.5)
+[02May2025 12:42:47.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu joined the game
+[02May2025 12:42:48.265] [Server thread/INFO] [Jade/]: Syncing config to Ich1goM1rukuu (1bb4c909-b771-3893-aca7-1b6637a25cff)
+[02May2025 12:42:48.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Ice and Fire]
+[02May2025 12:43:51.204] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3108ms or 62 ticks behind
+[02May2025 12:44:04.788] [Server thread/WARN] [tombstone/]: The death event of the player Ich1goM1rukuu was canceled by another mod
+[02May2025 12:44:04.804] [Server thread/INFO] [tombstone/]: The player Ich1goM1rukuu has successfully been saved
+[02May2025 12:44:15.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu was blown up by Creeper
+[02May2025 12:44:15.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Your First Grave]
+[02May2025 12:46:59.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement ['X' Marks the Spot]
+[02May2025 12:46:59.284] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemOnPacket@5b95ca14, suppressing error
+java.util.NoSuchElementException: No value present
+	at java.util.Optional.get(Optional.java:143) ~[?:?]
+	at com.nyfaria.perfectplushieapi.loot.VillageLootModifier.doApply(VillageLootModifier.java:43) ~[perfectplushieapi-forge-1.20.1-0.1.1.jar%23284!/:0.1.1]
+	at net.minecraftforge.common.loot.LootModifier.apply(LootModifier.java:58) ~[forge-1.20.1-47.3.7-universal.jar%23254!/:?]
+	at net.minecraftforge.common.ForgeHooks.modifyLoot(ForgeHooks.java:1186) ~[forge-1.20.1-47.3.7-universal.jar%23254!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable.m_230922_(LootTable.java:118) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable.m_287188_(LootTable.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at noobanidus.mods.lootr.block.entities.LootrChestBlockEntity.unpackLootTable(LootrChestBlockEntity.java:279) ~[lootr-forge-1.20-0.7.35.90.jar%23220!/:0.7.35.90]
+	at noobanidus.mods.lootr.data.ChestData.createInventory(ChestData.java:363) ~[lootr-forge-1.20-0.7.35.90.jar%23220!/:0.7.35.90]
+	at noobanidus.mods.lootr.data.DataStorage.getInventory(DataStorage.java:338) ~[lootr-forge-1.20-0.7.35.90.jar%23220!/:0.7.35.90]
+	at noobanidus.mods.lootr.util.ChestUtil.handleLootChest(ChestUtil.java:142) ~[lootr-forge-1.20-0.7.35.90.jar%23220!/:0.7.35.90]
+	at noobanidus.mods.lootr.block.LootrChestBlock.m_6227_(LootrChestBlock.java:50) ~[lootr-forge-1.20-0.7.35.90.jar%23220!/:0.7.35.90]
+	at net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.m_60664_(BlockBehaviour.java:778) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:343) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1055) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[02May2025 12:47:09.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Sweet Dreams]
+[02May2025 12:49:27.121] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: asaam[/127.246.25.221:44377] logged in with entity id 3451 at (20.5, 63.0, 26.5)
+[02May2025 12:49:27.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asaam joined the game
+[02May2025 12:49:27.207] [Server thread/INFO] [Jade/]: Syncing config to asaam (daf14beb-1577-39e1-b946-f7101e6f3051)
+[02May2025 12:49:27.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asaam has made the advancement [Ice and Fire]
+[02May2025 12:50:16.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Mine? Mine? Mine?]
+[02May2025 12:51:06.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Created new objective [Muertes]
+[02May2025 12:51:20.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set display slot list to show objective Muertes
+[02May2025 12:53:11.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asaam has made the advancement ['X' Marks the Spot]
+[02May2025 12:53:12.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Stone Age]
+[02May2025 12:53:35.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Getting an Upgrade]
+[02May2025 12:54:06.072] [Server thread/WARN] [tombstone/]: The death event of the player asaam was canceled by another mod
+[02May2025 12:54:06.075] [Server thread/INFO] [tombstone/]: The player asaam has successfully been saved
+[02May2025 12:54:06.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asaam has made the advancement [Cover Me with Diamonds]
+[02May2025 12:54:29.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asaam was shot by Stray
+[02May2025 12:54:29.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asaam has made the advancement [Your First Grave]
+[02May2025 12:54:59.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asaam has reached the goal [Here They Come]
+[02May2025 12:57:22.264] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@259c3c87[id=<null>,name=YiruiKonigLover,properties={},legacy=false] (/127.192.218.146:51457) lost connection: Disconnected
+[02May2025 12:58:00.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asaam has made the advancement [Mine? Mine? Mine?]
+[02May2025 12:58:56.533] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2c6275e4[id=<null>,name=YiruiKonigLover,properties={},legacy=false] (/127.192.218.146:57905) lost connection: Disconnected
+[02May2025 12:59:22.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Amateur Archaeologist]
+[02May2025 12:59:49.468] [Server thread/WARN] [tombstone/]: The death event of the player asaam was canceled by another mod
+[02May2025 12:59:49.469] [Server thread/INFO] [tombstone/]: The player asaam has successfully been saved
+[02May2025 12:59:54.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asaam drowned
+[02May2025 12:59:54.518] [Server thread/INFO] [tombstone/]: The player asaam has successfully been saved
+[02May2025 13:03:28.713] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ich1goM1rukuu lost connection: Disconnected
+[02May2025 13:03:28.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu left the game
+[02May2025 13:04:18.851] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: asaam lost connection: Disconnected
+[02May2025 13:04:18.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asaam left the game
+[02May2025 13:05:07.047] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@66786434[id=<null>,name=YiruiKonigLover,properties={},legacy=false] (/127.192.218.146:57193) lost connection: Disconnected
