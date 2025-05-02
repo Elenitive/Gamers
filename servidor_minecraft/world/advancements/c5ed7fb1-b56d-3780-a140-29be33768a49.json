@@ -62,6 +62,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "highland": "2025-05-02 17:51:04 +0000",
+      "mystic_grove": "2025-05-02 18:30:46 +0000",
       "overgrown_greens": "2025-05-02 15:20:22 +0000",
       "spider_nest": "2025-05-02 16:58:59 +0000",
       "redwood_forest": "2025-05-02 15:23:43 +0000",
@@ -4531,6 +4532,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_light_blue_dye": "2025-05-02 18:32:34 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/cancel_ghostly_shape": {
     "criteria": {
       "coded_trigger": "2025-05-02 17:29:22 +0000"
@@ -4663,9 +4670,21 @@
     },
     "done": true
   },
+  "material_elements:recipes/brewing/test_tube_color_light_blue_from_light_blue_dye": {
+    "criteria": {
+      "has_dye": "2025-05-02 18:32:34 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/layered_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-05-02 17:37:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_candle": {
+    "criteria": {
+      "has_light_blue_dye": "2025-05-02 18:32:34 +0000"
     },
     "done": true
   },
@@ -4690,6 +4709,12 @@
   "minecraft:recipes/building_blocks/bricks": {
     "criteria": {
       "has_brick": "2025-05-02 17:57:51 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/food/uncooked_rice_bowl": {
+    "criteria": {
+      "has_dtn_rice_grains": "2025-05-02 18:30:52 +0000"
     },
     "done": true
   },
@@ -4753,6 +4778,18 @@
     },
     "done": true
   },
+  "naturalist:recipes/naturalist/teddy_bear": {
+    "criteria": {
+      "has_bear_fur": "2025-05-02 18:31:39 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/pink_dye_from_pink_daffodil": {
+    "criteria": {
+      "has_pink_daffodil": "2025-05-02 18:32:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cherry_wood": {
     "criteria": {
       "has_log": "2025-05-02 18:21:27 +0000"
@@ -4768,6 +4805,12 @@
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_bricks": "2025-05-02 17:50:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-05-02 18:32:01 +0000"
     },
     "done": true
   },
@@ -4801,9 +4844,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-05-02 18:32:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2025-05-02 17:50:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_blue_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-05-02 18:32:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_blue_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-05-02 18:32:34 +0000"
     },
     "done": true
   },
@@ -4831,6 +4892,12 @@
     },
     "done": true
   },
+  "doggytalents:recipes/food/training_treat": {
+    "criteria": {
+      "has_dtn_rice_grains": "2025-05-02 18:30:52 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_andesite_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-05-02 17:37:32 +0000"
@@ -4840,6 +4907,12 @@
   "create:recipes/building_blocks/cut_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-05-02 17:37:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_blue_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-05-02 18:32:34 +0000"
     },
     "done": true
   },
@@ -4888,6 +4961,12 @@
   "biomesoplenty:recipes/misc/purple_dye_from_lavender": {
     "criteria": {
       "has_lavender": "2025-05-02 18:21:33 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/light_blue_dye_from_blue_hydrangea": {
+    "criteria": {
+      "has_blue_hydrangea": "2025-05-02 18:32:31 +0000"
     },
     "done": true
   },

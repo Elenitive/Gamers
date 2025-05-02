@@ -64,6 +64,7 @@
       "shrubland": "2025-05-02 16:15:21 +0000",
       "rocky_shrubland": "2025-05-02 16:41:13 +0000",
       "highland": "2025-05-02 17:52:07 +0000",
+      "mystic_grove": "2025-05-02 18:25:22 +0000",
       "orchard": "2025-05-02 16:51:41 +0000",
       "overgrown_greens": "2025-05-02 15:29:54 +0000",
       "moor": "2025-05-02 16:46:41 +0000",
@@ -4481,6 +4482,30 @@
   "alexscaves:alexscaves/discover_dinosaur": {
     "criteria": {
       "killed_by_vallumraptor": "2025-05-02 18:10:12 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/magic_wood": {
+    "criteria": {
+      "has_log": "2025-05-02 18:32:19 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/naturalist/teddy_bear": {
+    "criteria": {
+      "has_bear_fur": "2025-05-02 18:31:49 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/magic_planks": {
+    "criteria": {
+      "has_logs": "2025-05-02 18:32:19 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/light_blue_dye_from_blue_hydrangea": {
+    "criteria": {
+      "has_blue_hydrangea": "2025-05-02 18:28:52 +0000"
     },
     "done": true
   },

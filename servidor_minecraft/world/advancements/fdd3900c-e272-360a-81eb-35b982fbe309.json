@@ -7059,6 +7059,12 @@
     },
     "done": true
   },
+  "mekanismgenerators:heat_generator": {
+    "criteria": {
+      "heat_generator": "2025-05-02 18:25:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2025-05-02 17:56:29 +0000"

@@ -63,6 +63,7 @@
     "criteria": {
       "shrubland": "2025-05-02 16:34:59 +0000",
       "rocky_shrubland": "2025-05-02 16:49:13 +0000",
+      "jacaranda_glade": "2025-05-02 18:27:23 +0000",
       "orchard": "2025-05-02 16:35:31 +0000",
       "overgrown_greens": "2025-05-02 16:36:51 +0000",
       "moor": "2025-05-02 17:47:53 +0000",
@@ -75,6 +76,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cherry_grove": "2025-05-02 18:27:45 +0000",
       "minecraft:birch_forest": "2025-05-02 16:19:51 +0000",
       "minecraft:beach": "2025-05-02 16:36:03 +0000",
       "minecraft:dark_forest": "2025-05-02 14:39:37 +0000",
@@ -4292,6 +4294,12 @@
   "securitycraft:recipes/building_blocks/suspicious_sand_mine": {
     "criteria": {
       "has_mine": "2025-05-02 17:50:49 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-05-02 18:25:23 +0000"
     },
     "done": true
   },
