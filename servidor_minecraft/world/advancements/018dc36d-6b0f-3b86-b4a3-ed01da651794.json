@@ -1862,6 +1862,7 @@
       "minecraft:creeper": "2025-05-02 17:00:15 +0000",
       "minecraft:cave_spider": "2025-05-02 17:23:07 +0000",
       "minecraft:stray": "2025-05-02 17:20:14 +0000",
+      "minecraft:silverfish": "2025-05-02 17:35:42 +0000",
       "minecraft:zombie": "2025-05-02 14:41:53 +0000",
       "minecraft:drowned": "2025-05-02 16:33:41 +0000"
     },
@@ -4398,6 +4399,42 @@
   "lootr:25loot": {
     "criteria": {
       "loot_stat": "2025-05-02 17:23:09 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-05-02 17:39:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-05-02 17:39:45 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/tools/throw_stick": {
+    "criteria": {
+      "has_slime_ball": "2025-05-02 17:39:45 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/frisbee": {
+    "criteria": {
+      "has_slime_ball": "2025-05-02 17:39:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-05-02 17:39:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-05-02 17:39:45 +0000"
     },
     "done": true
   },

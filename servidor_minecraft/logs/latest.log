@@ -901,3 +901,46 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:color_essence'
 [02May2025 17:34:11.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: delaromer has made the advancement [Take Aim]
 [02May2025 17:34:42.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elenitive has made the advancement [Not Today, Thank You]
 [02May2025 17:34:46.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elenitive has made the advancement [Cover Me with Diamonds]
+[02May2025 17:35:09.374] [Server thread/WARN] [tombstone/]: The death event of the player aaleexx17 was canceled by another mod
+[02May2025 17:35:09.382] [Server thread/INFO] [tombstone/]: The player aaleexx17 has successfully been saved
+[02May2025 17:35:13.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 has reached the goal [Strong or Careful]
+[02May2025 17:35:13.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 froze to death
+[02May2025 17:35:13.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 has made the advancement [Your First Grave]
+[02May2025 17:35:13.693] [Server thread/INFO] [tombstone/]: The player aaleexx17 has successfully been saved
+[02May2025 17:35:17.506] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[02May2025 17:35:36.063] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3576ms or 71 ticks behind
+[02May2025 17:36:23.849] [Server thread/WARN] [tombstone/]: The death event of the player darkblader69 was canceled by another mod
+[02May2025 17:36:23.885] [Server thread/INFO] [tombstone/]: The player darkblader69 has successfully been saved
+[02May2025 17:37:05.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elenitive has made the advancement [Penteconter]
+[02May2025 17:37:53.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Isn't It Iron Pick]
+[02May2025 17:40:09.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NDNatsu has made the advancement [Who is Cutting Onions?]
+[02May2025 17:40:21.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 has made the advancement [Take Aim]
+[02May2025 17:40:25.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Penteconter]
+[02May2025 17:40:39.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: delaromer has made the advancement [Hidden in the Depths]
+[02May2025 17:40:59.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lamborghiny18 has made the advancement [Ol' Betsy]
+[02May2025 17:40:59.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lamborghiny18 has made the advancement [Take Aim]
+[02May2025 17:41:31.790] [Server thread/WARN] [tombstone/]: The death event of the player aaleexx17 was canceled by another mod
+[02May2025 17:41:31.833] [Server thread/INFO] [tombstone/]: The player aaleexx17 has successfully been saved
+[02May2025 17:41:40.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asaam has completed the challenge [Free Willy]
+[02May2025 17:41:56.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Penteconter]
+[02May2025 17:42:09.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oinatzz has made the advancement [Knowledge of Death]
+[02May2025 17:42:09.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oinatzz has made the advancement [Ambush]
+[02May2025 17:42:27.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asaam has made the advancement [Ender Distancing]
+[02May2025 17:42:48.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asaam has made the advancement [Knowledge of Death]
+[02May2025 17:42:48.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asaam has made the advancement [Ashes 'n Bones]
+[02May2025 17:43:04.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asaam has made the advancement [Capsid-19]
+[02May2025 17:43:59.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asaam has made the advancement [A Strange Grave Dust]
+[02May2025 17:44:12.587] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2450ms or 49 ticks behind
+[02May2025 17:44:29.601] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[02May2025 17:44:41.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: delaromer has made the advancement [Ashes 'n Bones]
+[02May2025 17:44:47.173] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2586ms or 51 ticks behind
+[02May2025 17:44:54.830] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: camilation9[/127.212.124.247:36819] logged in with entity id 11285 at (24.5, 63.0, 32.5)
+[02May2025 17:44:54.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilation9 joined the game
+[02May2025 17:44:55.264] [Server thread/INFO] [Jade/]: Syncing config to camilation9 (8df07177-7cc9-354b-a4d4-c024e4bf10d2)
+[02May2025 17:44:55.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilation9 has made the advancement [Ice and Fire]
+[02May2025 17:44:58.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LalaaDragons has made the advancement [Knowledge of Death]
+[02May2025 17:44:58.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LalaaDragons has made the advancement [A Strange Grave Dust]
+[02May2025 17:45:06.445] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4309ms or 86 ticks behind
+[02May2025 17:45:06.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilation9 has made the advancement [Alex's Mobs]
+[02May2025 17:45:25.445] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4008ms or 80 ticks behind
+[02May2025 17:45:44.708] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4271ms or 85 ticks behind

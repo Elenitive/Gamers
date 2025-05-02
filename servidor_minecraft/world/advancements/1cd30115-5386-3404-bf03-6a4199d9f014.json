@@ -2528,6 +2528,7 @@
       "minecraft:creeper": "2025-05-02 15:03:29 +0000",
       "minecraft:witch": "2025-05-02 16:08:37 +0000",
       "minecraft:cave_spider": "2025-05-02 15:12:24 +0000",
+      "minecraft:piglin": "2025-05-02 17:34:15 +0000",
       "minecraft:stray": "2025-05-02 15:00:18 +0000",
       "minecraft:zombie": "2025-05-02 14:54:38 +0000"
     },
@@ -4873,9 +4874,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-05-02 17:40:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-05-02 17:34:11 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/netherite_hammer": {
     "criteria": {
       "has_material": "2025-05-02 17:28:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-05-02 17:37:54 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2025-05-02 17:37:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-05-02 17:40:39 +0000"
     },
     "done": true
   },
@@ -4903,9 +4934,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-05-02 17:37:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-05-02 17:34:02 +0000"
+    },
+    "done": true
+  },
   "material_elements:recipes/rods/netherite_rod_from_netherite_ingot": {
     "criteria": {
       "has_netherite_ingot": "2025-05-02 17:28:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-05-02 17:38:17 +0000"
     },
     "done": true
   },
@@ -4924,6 +4973,12 @@
   "minecraft:recipes/combat/netherite_leggings_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-05-02 17:28:33 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-05-02 17:37:32 +0000"
     },
     "done": true
   },
@@ -4951,6 +5006,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2025-05-02 17:34:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/netherite_block": {
     "criteria": {
       "has_netherite_ingot": "2025-05-02 17:28:33 +0000"
@@ -4969,9 +5030,27 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/iron_destructor_hammer": {
+    "criteria": {
+      "has_material": "2025-05-02 17:37:32 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-05-02 17:37:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/netherite_pickaxe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-05-02 17:28:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-05-02 17:37:32 +0000"
     },
     "done": true
   },

@@ -3646,6 +3646,7 @@
       "minecraft:cave_spider": "2025-05-02 17:03:36 +0000",
       "minecraft:enderman": "2025-05-02 17:04:26 +0000",
       "minecraft:stray": "2025-05-02 17:20:01 +0000",
+      "minecraft:silverfish": "2025-05-02 17:33:41 +0000",
       "minecraft:zombie": "2025-05-02 17:01:40 +0000",
       "minecraft:zombie_villager": "2025-05-02 16:18:01 +0000"
     },
@@ -4617,9 +4618,21 @@
     },
     "done": true
   },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2025-05-02 17:35:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2025-05-02 17:27:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-05-02 17:40:21 +0000"
     },
     "done": true
   },
@@ -4665,6 +4678,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2025-05-02 17:35:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-05-02 17:27:38 +0000"
@@ -4692,6 +4711,12 @@
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2025-05-02 17:27:38 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-05-02 17:35:13 +0000"
     },
     "done": true
   },
