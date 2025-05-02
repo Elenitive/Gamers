@@ -63,6 +63,7 @@
     "criteria": {
       "shrubland": "2025-05-02 16:15:21 +0000",
       "rocky_shrubland": "2025-05-02 16:41:13 +0000",
+      "highland": "2025-05-02 17:52:07 +0000",
       "orchard": "2025-05-02 16:51:41 +0000",
       "overgrown_greens": "2025-05-02 15:29:54 +0000",
       "moor": "2025-05-02 16:46:41 +0000",
@@ -1860,6 +1861,7 @@
       "minecraft:skeleton": "2025-05-02 14:48:51 +0000",
       "minecraft:spider": "2025-05-02 14:43:16 +0000",
       "minecraft:creeper": "2025-05-02 17:00:15 +0000",
+      "minecraft:wither_skeleton": "2025-05-02 17:48:38 +0000",
       "minecraft:cave_spider": "2025-05-02 17:23:07 +0000",
       "minecraft:stray": "2025-05-02 17:20:14 +0000",
       "minecraft:silverfish": "2025-05-02 17:35:42 +0000",
@@ -1925,6 +1927,7 @@
       "apple": "2025-05-02 14:43:48 +0000",
       "potato": "2025-05-02 17:03:50 +0000",
       "bread": "2025-05-02 16:47:08 +0000",
+      "golden_apple": "2025-05-02 17:45:04 +0000",
       "rotten_flesh": "2025-05-02 16:55:36 +0000",
       "salmon": "2025-05-02 17:01:05 +0000"
     },
@@ -4402,6 +4405,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/ender_flu": {
+    "criteria": {
+      "all_effects": "2025-05-02 17:49:12 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-05-02 17:39:45 +0000"
@@ -4411,6 +4420,12 @@
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2025-05-02 17:39:45 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/food/super_treat": {
+    "criteria": {
+      "has_golden_apple": "2025-05-02 17:44:59 +0000"
     },
     "done": true
   },
@@ -4435,6 +4450,12 @@
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-05-02 17:39:45 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-05-02 17:53:07 +0000"
     },
     "done": true
   },

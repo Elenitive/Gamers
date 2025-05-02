@@ -731,7 +731,8 @@
       "bread": "2025-05-02 14:35:07 +0000",
       "golden_apple": "2025-05-02 15:54:08 +0000",
       "melon_slice": "2025-05-02 14:49:56 +0000",
-      "golden_carrot": "2025-05-02 16:09:26 +0000"
+      "golden_carrot": "2025-05-02 16:09:26 +0000",
+      "cooked_rabbit": "2025-05-02 17:44:56 +0000"
     },
     "done": false
   },
@@ -4888,6 +4889,12 @@
   "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
     "criteria": {
       "has_cooked_rabbit": "2025-05-02 17:38:06 +0000"
+    },
+    "done": true
+  },
+  "buntsy:recipes/misc/hootnip_seeds": {
+    "criteria": {
+      "has_hootnip": "2025-05-02 17:45:07 +0000"
     },
     "done": true
   },
