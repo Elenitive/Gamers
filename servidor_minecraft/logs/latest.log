@@ -1305,3 +1305,104 @@ java.util.NoSuchElementException: No value present
 	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
 	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[02May2025 16:45:11.712] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6321ms or 126 ticks behind
+[02May2025 16:45:30.697] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4006ms or 80 ticks behind
+[02May2025 16:45:51.637] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5946ms or 118 ticks behind
+[02May2025 16:45:52.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elenitive> me ves con skin?
+[02May2025 16:46:00.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ivii> siii
+[02May2025 16:46:03.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elenitive> ole
+[02May2025 16:46:11.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LalaaDragons has made the advancement [Cover Me with Diamonds]
+[02May2025 16:46:12.107] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5516ms or 110 ticks behind
+[02May2025 16:46:15.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elenitive> vamos a explorar
+[02May2025 16:46:31.890] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4799ms or 95 ticks behind
+[02May2025 16:46:39.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ivii> cuidado por ahí jaja
+[02May2025 16:46:47.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LalaaDragons has made the advancement [Suit Up]
+[02May2025 16:46:47.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elenitive> q hsay?
+[02May2025 16:46:52.398] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5558ms or 111 ticks behind
+[02May2025 16:47:12.704] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5313ms or 106 ticks behind
+[02May2025 16:47:23.599] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=294, y=86, z=-4814} BlockPos{x=293, y=84, z=-4813}
+[02May2025 16:47:30.749] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=297, y=90, z=-4834} BlockPos{x=297, y=90, z=-4836}
+[02May2025 16:47:30.798] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=297, y=90, z=-4834} BlockPos{x=297, y=90, z=-4836}
+[02May2025 16:47:30.853] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=298, y=91, z=-4835} BlockPos{x=297, y=90, z=-4836}
+[02May2025 16:47:30.923] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=298, y=91, z=-4835} BlockPos{x=297, y=90, z=-4836}
+[02May2025 16:47:30.971] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=298, y=91, z=-4835} BlockPos{x=297, y=90, z=-4836}
+[02May2025 16:47:31.040] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=298, y=91, z=-4835} BlockPos{x=297, y=90, z=-4836}
+[02May2025 16:47:31.100] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3409ms or 68 ticks behind
+[02May2025 16:47:36.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elenitive> va bien el servidor?
+[02May2025 16:47:38.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asaam has made the advancement [Barrel Booty]
+[02May2025 16:47:49.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franramen> un poquito lagueado pero bien
+[02May2025 16:47:54.428] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8337ms or 166 ticks behind
+[02May2025 16:47:58.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elenitive> somos 12-13 personas
+[02May2025 16:48:03.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LalaaDragons has made the advancement [Barrel Booty]
+[02May2025 16:48:13.979] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4588ms or 91 ticks behind
+[02May2025 16:48:34.198] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5258ms or 105 ticks behind
+[02May2025 16:48:53.490] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4299ms or 85 ticks behind
+[02May2025 16:48:59.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivii has made the advancement [Mine? Mine? Mine?]
+[02May2025 16:49:13.220] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4779ms or 95 ticks behind
+[02May2025 16:49:18.990] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemOnPacket@dab4ba0, suppressing error
+java.util.NoSuchElementException: No value present
+	at java.util.Optional.get(Optional.java:143) ~[?:?]
+	at com.nyfaria.perfectplushieapi.loot.VillageLootModifier.doApply(VillageLootModifier.java:43) ~[perfectplushieapi-forge-1.20.1-0.1.1.jar%23282!/:0.1.1]
+	at net.minecraftforge.common.loot.LootModifier.apply(LootModifier.java:58) ~[forge-1.20.1-47.3.7-universal.jar%23252!/:?]
+	at net.minecraftforge.common.ForgeHooks.modifyLoot(ForgeHooks.java:1186) ~[forge-1.20.1-47.3.7-universal.jar%23252!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable.m_230922_(LootTable.java:118) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable.m_287188_(LootTable.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at noobanidus.mods.lootr.block.entities.LootrChestBlockEntity.unpackLootTable(LootrChestBlockEntity.java:279) ~[lootr-forge-1.20-0.7.35.90.jar%23218!/:0.7.35.90]
+	at noobanidus.mods.lootr.data.ChestData.createInventory(ChestData.java:363) ~[lootr-forge-1.20-0.7.35.90.jar%23218!/:0.7.35.90]
+	at noobanidus.mods.lootr.data.DataStorage.getInventory(DataStorage.java:338) ~[lootr-forge-1.20-0.7.35.90.jar%23218!/:0.7.35.90]
+	at noobanidus.mods.lootr.util.ChestUtil.handleLootChest(ChestUtil.java:142) ~[lootr-forge-1.20-0.7.35.90.jar%23218!/:0.7.35.90]
+	at noobanidus.mods.lootr.block.LootrChestBlock.m_6227_(LootrChestBlock.java:50) ~[lootr-forge-1.20-0.7.35.90.jar%23218!/:0.7.35.90]
+	at net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.m_60664_(BlockBehaviour.java:778) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:343) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1055) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[02May2025 16:49:19.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oinatzz has made the advancement [Cover Me with Diamonds]
+[02May2025 16:49:31.752] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3561ms or 71 ticks behind
+[02May2025 16:49:51.542] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4801ms or 96 ticks behind
+[02May2025 16:50:10.955] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4414ms or 88 ticks behind
+[02May2025 16:50:13.491] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: darkblader69[/127.79.89.20:54071] logged in with entity id 51904 at (1016.7590482375658, 68.0, 309.6289315119454)
+[02May2025 16:50:13.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 joined the game
+[02May2025 16:50:13.509] [Server thread/INFO] [Jade/]: Syncing config to darkblader69 (c5ed7fb1-b56d-3780-a140-29be33768a49)
+[02May2025 16:50:25.612] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-41, y=116, z=-1551} BlockPos{x=-42, y=116, z=-1551}
+[02May2025 16:50:25.680] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-41, y=116, z=-1551} BlockPos{x=-42, y=116, z=-1551}
+[02May2025 16:50:27.223] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-34, y=114, z=-1549} BlockPos{x=-35, y=113, z=-1548}
+[02May2025 16:50:32.507] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6566ms or 131 ticks behind
+[02May2025 16:50:54.493] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7002ms or 140 ticks behind
+[02May2025 16:51:17.337] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7847ms or 156 ticks behind
+[02May2025 16:51:40.664] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8374ms or 167 ticks behind
+[02May2025 16:51:53.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elenitive has made the advancement [Sweet Dreams]
+[02May2025 16:52:05.739] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10098ms or 201 ticks behind
+[02May2025 16:52:23.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LalaaDragons has made the advancement [Diamonds!]
+[02May2025 16:52:30.487] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9797ms or 195 ticks behind
+[02May2025 16:52:53.346] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7905ms or 158 ticks behind
+[02May2025 16:53:18.888] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10547ms or 210 ticks behind
+[02May2025 16:53:35.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [A Strange Grave Dust]
+[02May2025 16:53:47.086] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13245ms or 264 ticks behind
+[02May2025 16:54:00.655] [Server thread/WARN] [tombstone/]: The death event of the player darkblader69 was canceled by another mod
+[02May2025 16:54:00.667] [Server thread/INFO] [tombstone/]: The player darkblader69 has successfully been saved
+[02May2025 16:54:04.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asaam has made the advancement [Penteconter]
+[02May2025 16:54:06.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <darkblader69> KILL
+[02May2025 16:54:08.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oinatzz has made the advancement [Where Is The Stone Pen?]
+[02May2025 16:54:11.603] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9562ms or 191 ticks behind
+[02May2025 16:54:29.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 was shot by Skeleton
+[02May2025 16:54:29.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Your First Grave]
+[02May2025 16:54:35.925] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9334ms or 186 ticks behind
+[02May2025 16:54:37.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivii has made the advancement [Penteconter]
+[02May2025 16:54:49.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Franramen has made the advancement [Magic Writing]
+[02May2025 16:54:59.995] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9104ms or 182 ticks behind
+[02May2025 16:55:22.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Ashes 'n Bones]

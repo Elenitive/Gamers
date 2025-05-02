@@ -59,9 +59,11 @@
       "rocky_shrubland": "2025-05-02 14:47:14 +0000",
       "highland": "2025-05-02 15:47:02 +0000",
       "jacaranda_glade": "2025-05-02 16:15:26 +0000",
+      "jade_cliffs": "2025-05-02 16:42:56 +0000",
       "orchard": "2025-05-02 14:12:27 +0000",
       "moor": "2025-05-02 15:28:30 +0000",
       "overgrown_greens": "2025-05-02 15:41:52 +0000",
+      "coniferous_forest": "2025-05-02 16:51:42 +0000",
       "redwood_forest": "2025-05-02 15:42:05 +0000",
       "pasture": "2025-05-02 16:25:57 +0000",
       "lavender_field": "2025-05-02 15:49:16 +0000",
@@ -4472,6 +4474,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-05-02 16:45:05 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/find_grave_dust": {
     "criteria": {
       "from_undead": "2025-05-02 16:12:44 +0000"
@@ -4532,6 +4540,12 @@
     },
     "done": true
   },
+  "material_elements:recipes/refining/raw_steel_from_raw_iron_and_coke": {
+    "criteria": {
+      "has_raw_iron": "2025-05-02 16:45:05 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/backpack": {
     "criteria": {
       "has_leather": "2025-05-02 16:22:30 +0000"
@@ -4574,6 +4588,18 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/fir_wood": {
+    "criteria": {
+      "has_log": "2025-05-02 16:52:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-05-02 16:45:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2025-05-02 16:36:05 +0000"
@@ -4589,6 +4615,12 @@
   "doggytalents:recipes/decorations/cape_coloured": {
     "criteria": {
       "has_leather": "2025-05-02 16:22:30 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_planks": {
+    "criteria": {
+      "has_logs": "2025-05-02 16:52:44 +0000"
     },
     "done": true
   },
@@ -4646,15 +4678,33 @@
     },
     "done": true
   },
+  "iceandfire:recipes/decorations/copper_pile": {
+    "criteria": {
+      "has_item": "2025-05-02 16:43:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-05-02 16:37:31 +0000"
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/copper_ingot": {
+    "criteria": {
+      "has_item": "2025-05-02 16:43:51 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/tools/treat_bag": {
     "criteria": {
       "has_leather": "2025-05-02 16:22:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
+    "criteria": {
+      "has_item": "2025-05-02 16:43:51 +0000"
     },
     "done": true
   },
@@ -4673,6 +4723,12 @@
   "iceandfire:recipes/combat/frost_troll_leather_helmet": {
     "criteria": {
       "has_item": "2025-05-02 16:27:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-05-02 16:45:05 +0000"
     },
     "done": true
   },
@@ -4703,6 +4759,12 @@
   "create:recipes/building_blocks/oak_window": {
     "criteria": {
       "has_ingredient": "2025-05-02 16:37:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-05-02 16:48:17 +0000"
     },
     "done": true
   },

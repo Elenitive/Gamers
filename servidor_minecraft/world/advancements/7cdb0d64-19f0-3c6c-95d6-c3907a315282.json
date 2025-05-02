@@ -62,6 +62,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "shrubland": "2025-05-02 16:34:59 +0000",
+      "rocky_shrubland": "2025-05-02 16:49:13 +0000",
       "orchard": "2025-05-02 16:35:31 +0000",
       "overgrown_greens": "2025-05-02 16:36:51 +0000",
       "grassland": "2025-05-02 14:37:54 +0000"
@@ -3769,6 +3770,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-05-02 16:50:19 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-05-02 16:24:55 +0000"
@@ -3808,6 +3815,12 @@
   "doggytalents:recipes/tools/feathered_mantle": {
     "criteria": {
       "has_feather": "2025-05-02 16:33:40 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-05-02 16:54:37 +0000"
     },
     "done": true
   },
@@ -4006,6 +4019,12 @@
   "create:recipes/building_blocks/diorite_pillar_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-05-02 16:24:55 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-05-02 16:48:59 +0000"
     },
     "done": true
   },
