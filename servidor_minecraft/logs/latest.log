@@ -5,3 +5,9 @@
 [02May2025 00:15:15.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivii has made the advancement [Penteconter]
 [02May2025 00:22:38.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elenitive has made the advancement [Cover Me with Diamonds]
 [02May2025 00:25:35.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivii has made the advancement [A Lighthouse in Your Eyes]
+[02May2025 00:33:45.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivii has completed the challenge [The Power of the Sun]
+[02May2025 00:33:45.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elenitive has made the advancement [Mutual Aid]
+[02May2025 00:36:42.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elenitive has reached the goal [Bone Crusher]
+[02May2025 00:47:06.579] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
+[02May2025 00:47:06.579] [Netty Epoll Server IO #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@77a4e9d8[id=<null>,name=aaleexx17,properties={},legacy=false] (/127.165.157.203:32993): Unexpected custom data from client
+[02May2025 00:47:06.620] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@77a4e9d8[id=<null>,name=aaleexx17,properties={},legacy=false] (/127.165.157.203:32993) lost connection: Unexpected custom data from client
