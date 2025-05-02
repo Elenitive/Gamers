@@ -4521,6 +4521,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/scanner_door_item": {
+    "criteria": {
+      "has_reinforced_door": "2025-05-02 18:58:50 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/jacaranda_pressure_plate": {
     "criteria": {
       "has_planks": "2025-05-02 18:50:46 +0000"
@@ -4650,6 +4656,12 @@
   "biomesoplenty:recipes/building_blocks/jacaranda_stairs": {
     "criteria": {
       "has_planks": "2025-05-02 18:50:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/keypad_door_item": {
+    "criteria": {
+      "has_reinforced_door": "2025-05-02 18:58:50 +0000"
     },
     "done": true
   },

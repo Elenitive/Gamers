@@ -57,8 +57,10 @@
     "criteria": {
       "shrubland": "2025-05-02 13:39:26 +0000",
       "fungal_jungle": "2025-05-02 18:58:05 +0000",
+      "floodplain": "2025-05-02 19:11:35 +0000",
       "rocky_rainforest": "2025-05-02 18:58:28 +0000",
-      "grassland": "2025-05-02 13:20:32 +0000"
+      "grassland": "2025-05-02 13:20:32 +0000",
+      "rainforest": "2025-05-02 19:11:31 +0000"
     },
     "done": false
   },
@@ -3752,39 +3754,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/lectern": {
-    "criteria": {
-      "has_book": "2025-05-02 18:50:31 +0000"
-    },
-    "done": true
-  },
-  "buntsy:recipes/misc/bravot_planks": {
-    "criteria": {
-      "TagKey[minecraft:item / buntsy:bravot_logs]": "2025-05-02 18:55:53 +0000"
-    },
-    "done": true
-  },
   "alexscaves:alexscaves/root": {
     "criteria": {
       "underground_cabin": "2025-05-02 18:50:25 +0000"
     },
     "done": true
   },
-  "buntsy:recipes/misc/bravot_fence": {
+  "lootr:1barrel": {
     "criteria": {
-      "has_bravot_planks": "2025-05-02 18:55:56 +0000"
+      "opened_barrel": "2025-05-02 18:50:25 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/writable_book": {
+  "alexscaves:alexscaves/cave_tablet": {
     "criteria": {
-      "has_book": "2025-05-02 18:50:31 +0000"
-    },
-    "done": true
-  },
-  "buntsy:recipes/misc/bravot_slab": {
-    "criteria": {
-      "has_bravot_planks": "2025-05-02 18:55:56 +0000"
+      "cave_tablet": "2025-05-02 18:50:27 +0000"
     },
     "done": true
   },
@@ -3800,33 +3784,9 @@
     },
     "done": true
   },
-  "buntsy:recipes/misc/bravot_trapdoor": {
-    "criteria": {
-      "has_bravot_planks": "2025-05-02 18:55:56 +0000"
-    },
-    "done": true
-  },
   "material_elements:recipes/smelting/coke_from_coal_by_blasting": {
     "criteria": {
       "has_coal": "2025-05-02 18:50:28 +0000"
-    },
-    "done": true
-  },
-  "lootr:1barrel": {
-    "criteria": {
-      "opened_barrel": "2025-05-02 18:50:25 +0000"
-    },
-    "done": true
-  },
-  "buntsy:recipes/misc/bravot_door": {
-    "criteria": {
-      "has_bravot_planks": "2025-05-02 18:55:56 +0000"
-    },
-    "done": true
-  },
-  "naturalist:recipes/naturalist/glow_goop": {
-    "criteria": {
-      "has_glow_berries": "2025-05-02 18:50:29 +0000"
     },
     "done": true
   },
@@ -3836,39 +3796,9 @@
     },
     "done": true
   },
-  "buntsy:recipes/misc/bravot_button": {
-    "criteria": {
-      "Block{buntsy:bravot_planks}": "2025-05-02 18:55:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bookshelf": {
-    "criteria": {
-      "has_book": "2025-05-02 18:50:31 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2025-05-02 18:50:28 +0000"
-    },
-    "done": true
-  },
-  "buntsy:recipes/misc/bravot_stairs": {
-    "criteria": {
-      "has_bravot_planks": "2025-05-02 18:55:56 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
-    "criteria": {
-      "has_book": "2025-05-02 18:50:31 +0000"
-    },
-    "done": true
-  },
-  "buntsy:recipes/misc/bravot_pressure_plate": {
-    "criteria": {
-      "has_bravot_planks": "2025-05-02 18:55:56 +0000"
     },
     "done": true
   },
@@ -3881,36 +3811,6 @@
   "create:recipes/misc/crafting/schematics/empty_schematic": {
     "criteria": {
       "has_item": "2025-05-02 18:50:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
-    "criteria": {
-      "has_book": "2025-05-02 18:50:31 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
-    "criteria": {
-      "has_book": "2025-05-02 18:50:31 +0000"
-    },
-    "done": true
-  },
-  "material_elements:recipes/brewing/test_tube_glow_from_glowing_item": {
-    "criteria": {
-      "has_glowing_item": "2025-05-02 18:50:29 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/cave_tablet": {
-    "criteria": {
-      "cave_tablet": "2025-05-02 18:50:27 +0000"
-    },
-    "done": true
-  },
-  "buntsy:recipes/misc/bravot_fence_gate": {
-    "criteria": {
-      "has_bravot_planks": "2025-05-02 18:55:56 +0000"
     },
     "done": true
   },
@@ -3938,9 +3838,129 @@
     },
     "done": true
   },
+  "naturalist:recipes/naturalist/glow_goop": {
+    "criteria": {
+      "has_glow_berries": "2025-05-02 18:50:29 +0000"
+    },
+    "done": true
+  },
+  "material_elements:recipes/brewing/test_tube_glow_from_glowing_item": {
+    "criteria": {
+      "has_glowing_item": "2025-05-02 18:50:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-05-02 18:50:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-05-02 18:50:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-02 18:50:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-02 18:50:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-02 18:50:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-02 18:50:31 +0000"
+    },
+    "done": true
+  },
   "buntsy:recipes/misc/hootnip_seeds": {
     "criteria": {
       "has_hootnip": "2025-05-02 18:54:28 +0000"
+    },
+    "done": true
+  },
+  "buntsy:recipes/misc/bravot_planks": {
+    "criteria": {
+      "TagKey[minecraft:item / buntsy:bravot_logs]": "2025-05-02 18:55:53 +0000"
+    },
+    "done": true
+  },
+  "buntsy:recipes/misc/bravot_fence": {
+    "criteria": {
+      "has_bravot_planks": "2025-05-02 18:55:56 +0000"
+    },
+    "done": true
+  },
+  "buntsy:recipes/misc/bravot_slab": {
+    "criteria": {
+      "has_bravot_planks": "2025-05-02 18:55:56 +0000"
+    },
+    "done": true
+  },
+  "buntsy:recipes/misc/bravot_trapdoor": {
+    "criteria": {
+      "has_bravot_planks": "2025-05-02 18:55:56 +0000"
+    },
+    "done": true
+  },
+  "buntsy:recipes/misc/bravot_door": {
+    "criteria": {
+      "has_bravot_planks": "2025-05-02 18:55:56 +0000"
+    },
+    "done": true
+  },
+  "buntsy:recipes/misc/bravot_button": {
+    "criteria": {
+      "Block{buntsy:bravot_planks}": "2025-05-02 18:55:56 +0000"
+    },
+    "done": true
+  },
+  "buntsy:recipes/misc/bravot_stairs": {
+    "criteria": {
+      "has_bravot_planks": "2025-05-02 18:55:56 +0000"
+    },
+    "done": true
+  },
+  "buntsy:recipes/misc/bravot_pressure_plate": {
+    "criteria": {
+      "has_bravot_planks": "2025-05-02 18:55:56 +0000"
+    },
+    "done": true
+  },
+  "buntsy:recipes/misc/bravot_fence_gate": {
+    "criteria": {
+      "has_bravot_planks": "2025-05-02 18:55:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_sword": "2025-05-02 19:11:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_sword": "2025-05-02 19:11:41 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-05-02 19:11:40 +0000"
     },
     "done": true
   },

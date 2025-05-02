@@ -113,6 +113,7 @@
       "minecraft:sparse_jungle": "2025-05-02 14:35:09 +0000",
       "minecraft:lukewarm_ocean": "2025-05-02 14:13:22 +0000",
       "minecraft:river": "2025-05-02 14:11:32 +0000",
+      "minecraft:stony_shore": "2025-05-02 19:08:56 +0000",
       "minecraft:forest": "2025-05-02 14:15:24 +0000",
       "minecraft:lush_caves": "2025-05-02 14:56:52 +0000",
       "minecraft:ocean": "2025-05-02 14:13:08 +0000",
@@ -5061,18 +5062,6 @@
     },
     "done": true
   },
-  "securitycraft:recipes/misc/crystal_quartz_item": {
-    "criteria": {
-      "has_prismarine_crystals": "2025-05-02 18:47:14 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_siren": {
-    "criteria": {
-      "killed_fire_dragon": "2025-05-02 18:46:53 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/misc/red_dye_from_waterlily": {
     "criteria": {
       "has_waterlily": "2025-05-02 18:41:19 +0000"
@@ -5091,9 +5080,51 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_siren": {
+    "criteria": {
+      "killed_fire_dragon": "2025-05-02 18:46:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/crystal_quartz_item": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-05-02 18:47:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
       "has_prismarine_crystals": "2025-05-02 18:47:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-05-02 19:08:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/ornate_iron_window": {
+    "criteria": {
+      "has_ingredient": "2025-05-02 19:11:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-05-02 19:11:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-05-02 19:08:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-05-02 19:08:38 +0000"
     },
     "done": true
   },
