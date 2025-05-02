@@ -4962,6 +4962,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-05-02 00:13:35 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/decorations/propeller_hat": {
     "criteria": {
       "has_iron_ingot": "2025-05-01 23:21:18 +0000"
@@ -5058,6 +5064,12 @@
     },
     "done": true
   },
+  "doggytalents:recipes/decorations/baker_hat": {
+    "criteria": {
+      "has_bread": "2025-05-02 00:12:47 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_fence_gate": {
     "criteria": {
       "has_iron": "2025-05-01 23:21:18 +0000"
@@ -5130,6 +5142,12 @@
     },
     "done": true
   },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-05-02 00:15:15 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/mine": {
     "criteria": {
       "has_iron": "2025-05-01 23:21:18 +0000"
@@ -5187,6 +5205,12 @@
   "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-05-01 23:54:17 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/hot_dog": {
+    "criteria": {
+      "has_bread": "2025-05-02 00:12:47 +0000"
     },
     "done": true
   },
@@ -6027,6 +6051,12 @@
   "refurbished_furniture:recipes/misc/constructing/magenta_grill": {
     "criteria": {
       "has_iron_ingot": "2025-05-01 23:21:18 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/bread_slice_from_bread": {
+    "criteria": {
+      "has_bread": "2025-05-02 00:12:47 +0000"
     },
     "done": true
   },

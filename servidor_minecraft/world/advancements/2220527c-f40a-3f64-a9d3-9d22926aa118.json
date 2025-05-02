@@ -196,6 +196,7 @@
       "dune_beach": "2025-05-01 22:48:25 +0000",
       "lavender_field": "2025-05-01 22:39:42 +0000",
       "prairie": "2025-05-01 22:48:35 +0000",
+      "gravel_beach": "2025-05-02 00:11:16 +0000",
       "crag": "2025-05-01 22:48:10 +0000"
     },
     "done": false
@@ -4478,6 +4479,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-05-02 00:10:56 +0000",
       "cooked_mutton": "2025-05-01 23:11:04 +0000",
       "cooked_beef": "2025-05-01 23:43:55 +0000",
       "baked_potato": "2025-05-01 23:14:22 +0000",
@@ -6317,6 +6319,12 @@
     },
     "done": true
   },
+  "mcwstairs:recipes/nether": {
+    "criteria": {
+      "has_planks": "2025-05-02 00:15:12 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/decorations/fedora": {
     "criteria": {
       "has_leather_helmet": "2025-05-01 23:42:21 +0000"
@@ -6524,6 +6532,12 @@
   "lootr:1barrel": {
     "criteria": {
       "opened_barrel": "2025-05-01 23:36:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-02 00:15:12 +0000"
     },
     "done": true
   },
@@ -6779,6 +6793,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-02 00:15:12 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/tools/magnifying_bone": {
     "criteria": {
       "has_gold_ingot": "2025-05-01 23:13:35 +0000"
@@ -6833,6 +6853,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-02 00:15:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/decorated_pot_simple": {
     "criteria": {
       "has_brick": "2025-05-01 23:16:40 +0000"
@@ -6848,6 +6874,12 @@
   "securitycraft:recipes/redstone/reinforced_dispenser": {
     "criteria": {
       "has_bow": "2025-05-01 23:28:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-02 00:15:12 +0000"
     },
     "done": true
   },
@@ -6932,6 +6964,12 @@
   "iceandfire:recipes/combat/diamond_hippogryph_armor": {
     "criteria": {
       "has_item": "2025-05-02 00:07:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-02 00:15:12 +0000"
     },
     "done": true
   },
@@ -7265,9 +7303,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-02 00:15:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-05-01 23:47:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-02 00:15:12 +0000"
     },
     "done": true
   },
@@ -7403,9 +7453,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-02 00:15:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2025-05-01 23:17:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-02 00:15:12 +0000"
     },
     "done": true
   },
