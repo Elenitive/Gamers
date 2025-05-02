@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-05-02 15:05:41 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/spruce_brown_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-02 14:39:52 +0000"
@@ -116,6 +122,12 @@
   "create:recipes/building_blocks/dark_oak_window": {
     "criteria": {
       "has_ingredient": "2025-05-02 14:42:45 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2025-05-02 15:08:51 +0000"
     },
     "done": true
   },
@@ -167,6 +179,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonforge_ice_brick": {
+    "criteria": {
+      "has_item": "2025-05-02 15:11:06 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/decorations/bowtie": {
     "criteria": {
       "has_string": "2025-05-02 14:48:41 +0000"
@@ -212,6 +230,12 @@
   "create:root": {
     "criteria": {
       "0": "2025-05-02 14:37:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-02 15:11:06 +0000"
     },
     "done": true
   },
@@ -275,9 +299,21 @@
     },
     "done": true
   },
+  "mysticsbiomes:recipes/transportation/jacaranda_boat": {
+    "criteria": {
+      "in_water": "2025-05-02 15:08:51 +0000"
+    },
+    "done": true
+  },
   "material_elements:recipes/leather/leather_knife": {
     "criteria": {
       "has_iron_ingot": "2025-05-02 14:48:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/crafting_blueprint": {
+    "criteria": {
+      "has_item": "2025-05-02 15:10:30 +0000"
     },
     "done": true
   },
@@ -290,6 +326,12 @@
   "fairyfactions:recipes/decorations/jungle_yellow_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-02 14:39:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_fire_brick": {
+    "criteria": {
+      "has_item": "2025-05-02 15:11:06 +0000"
     },
     "done": true
   },
@@ -389,9 +431,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-05-02 15:08:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:spider": "2025-05-02 14:49:06 +0000"
+      "minecraft:skeleton": "2025-05-02 15:05:45 +0000",
+      "minecraft:spider": "2025-05-02 14:49:06 +0000",
+      "minecraft:zombie": "2025-05-02 15:10:59 +0000"
     },
     "done": false
   },
@@ -419,6 +469,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/umbran_boat": {
+    "criteria": {
+      "in_water": "2025-05-02 15:08:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2025-05-02 14:48:20 +0000"
@@ -434,6 +490,12 @@
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-05-02 14:48:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2025-05-02 15:08:51 +0000"
     },
     "done": true
   },
@@ -461,9 +523,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/dead_boat": {
+    "criteria": {
+      "in_water": "2025-05-02 15:08:51 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/cancel_ghostly_shape": {
     "criteria": {
       "coded_trigger": "2025-05-02 14:54:52 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_boat": {
+    "criteria": {
+      "in_water": "2025-05-02 15:08:51 +0000"
     },
     "done": true
   },
@@ -635,6 +709,12 @@
     },
     "done": true
   },
+  "mysticsbiomes:recipes/transportation/strawberry_boat": {
+    "criteria": {
+      "in_water": "2025-05-02 15:08:51 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/keycard_lv5": {
     "criteria": {
       "has_iron": "2025-05-02 14:48:20 +0000"
@@ -749,6 +829,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-02 15:11:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-05-02 14:48:20 +0000"
@@ -788,6 +874,12 @@
   "doggytalents:recipes/misc/gender_bone": {
     "criteria": {
       "has_string": "2025-05-02 14:48:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-02 15:11:06 +0000"
     },
     "done": true
   },
@@ -839,6 +931,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/pine_boat": {
+    "criteria": {
+      "in_water": "2025-05-02 15:08:51 +0000"
+    },
+    "done": true
+  },
   "naturescompass:natures_compass_sapling": {
     "criteria": {
       "has_recipe": "2025-05-02 14:39:52 +0000"
@@ -860,6 +958,12 @@
   "securitycraft:recipes/misc/trophy_system": {
     "criteria": {
       "has_iron": "2025-05-02 14:48:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-05-02 15:08:51 +0000"
     },
     "done": true
   },
@@ -1121,6 +1225,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-05-02 15:08:51 +0000"
+    },
+    "done": true
+  },
+  "mysticsbiomes:recipes/transportation/maple_boat": {
+    "criteria": {
+      "in_water": "2025-05-02 15:08:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2025-05-02 14:48:20 +0000"
@@ -1169,6 +1285,18 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-05-02 15:06:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-02 15:11:06 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/acacia_light_blue_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-02 14:39:52 +0000"
@@ -1202,6 +1330,12 @@
   "securitycraft:recipes/misc/blacklist_module": {
     "criteria": {
       "has_iron": "2025-05-02 14:48:20 +0000"
+    },
+    "done": true
+  },
+  "mysticsbiomes:recipes/transportation/tropical_boat": {
+    "criteria": {
+      "in_water": "2025-05-02 15:08:51 +0000"
     },
     "done": true
   },
@@ -1307,9 +1441,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-02 15:11:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-05-02 14:48:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-02 15:11:06 +0000"
     },
     "done": true
   },
@@ -1346,6 +1492,12 @@
   "create:recipes/building_blocks/crafting/kinetics/gray_seat": {
     "criteria": {
       "has_wool": "2025-05-02 14:39:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_lightning_brick": {
+    "criteria": {
+      "has_item": "2025-05-02 15:11:06 +0000"
     },
     "done": true
   },
@@ -1409,6 +1561,12 @@
     },
     "done": true
   },
+  "mysticsbiomes:recipes/transportation/peach_boat": {
+    "criteria": {
+      "in_water": "2025-05-02 15:08:51 +0000"
+    },
+    "done": true
+  },
   "buntsy:recipes/misc/empty_catalyst": {
     "criteria": {
       "has_gold_ingot": "2025-05-02 14:48:19 +0000"
@@ -1463,6 +1621,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-05-02 15:11:06 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/logistics/blue_table_cloth": {
     "criteria": {
       "has_wool": "2025-05-02 14:39:41 +0000"
@@ -1493,6 +1657,18 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/fir_boat": {
+    "criteria": {
+      "in_water": "2025-05-02 15:08:51 +0000"
+    },
+    "done": true
+  },
+  "mysticsbiomes:recipes/transportation/sea_foam_boat": {
+    "criteria": {
+      "in_water": "2025-05-02 15:08:51 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "grassland": "2025-05-02 14:37:54 +0000"
@@ -1502,6 +1678,12 @@
   "fairyfactions:recipes/decorations/spruce_green_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-02 14:39:52 +0000"
+    },
+    "done": true
+  },
+  "mysticsbiomes:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-05-02 15:08:51 +0000"
     },
     "done": true
   },
@@ -1577,6 +1759,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/maple_boat": {
+    "criteria": {
+      "in_water": "2025-05-02 15:08:51 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/logistics/light_gray_table_cloth": {
     "criteria": {
       "has_wool": "2025-05-02 14:39:41 +0000"
@@ -1592,6 +1780,12 @@
   "fairyfactions:recipes/decorations/mangrove_magenta_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-02 14:39:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-05-02 15:08:51 +0000"
     },
     "done": true
   },
@@ -1643,6 +1837,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-05-02 15:08:51 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/cherry_cyan_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-02 14:39:52 +0000"
@@ -1652,6 +1852,24 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-05-02 14:39:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-05-02 15:08:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-02 15:11:06 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2025-05-02 15:08:51 +0000"
     },
     "done": true
   },
@@ -1730,6 +1948,12 @@
   "minecraft:recipes/building_blocks/dark_oak_slab": {
     "criteria": {
       "has_planks": "2025-05-02 14:42:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-05-02 15:08:51 +0000"
     },
     "done": true
   },
@@ -1841,6 +2065,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/hellbark_boat": {
+    "criteria": {
+      "in_water": "2025-05-02 15:08:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-05-02 14:49:05 +0000"
@@ -1859,6 +2089,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/jacaranda_boat": {
+    "criteria": {
+      "in_water": "2025-05-02 15:08:51 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/logistics/black_table_cloth": {
     "criteria": {
       "has_wool": "2025-05-02 14:39:41 +0000"
@@ -1874,6 +2110,18 @@
   "fairyfactions:recipes/decorations/mangrove_light_gray_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-02 14:39:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-02 15:11:06 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/mahogany_boat": {
+    "criteria": {
+      "in_water": "2025-05-02 15:08:51 +0000"
     },
     "done": true
   },
@@ -1958,6 +2206,18 @@
   "fairyfactions:recipes/decorations/dark_oak_gray_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-02 14:39:52 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/palm_boat": {
+    "criteria": {
+      "in_water": "2025-05-02 15:08:51 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/empyreal_boat": {
+    "criteria": {
+      "in_water": "2025-05-02 15:08:51 +0000"
     },
     "done": true
   },
@@ -2215,6 +2475,12 @@
     },
     "done": true
   },
+  "material_elements:root": {
+    "criteria": {
+      "crafting_table": "2025-05-02 15:10:30 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/jungle_light_blue_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-02 14:39:52 +0000"
@@ -2281,6 +2547,12 @@
     },
     "done": true
   },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-05-02 15:10:30 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/building_blocks/dog_bath": {
     "criteria": {
       "has_iron_ingot": "2025-05-02 14:48:20 +0000"
@@ -2332,6 +2604,12 @@
   "doggytalents:recipes/decorations/beastars_uniform_female": {
     "criteria": {
       "has_wool": "2025-05-02 14:39:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-05-02 15:08:51 +0000"
     },
     "done": true
   },

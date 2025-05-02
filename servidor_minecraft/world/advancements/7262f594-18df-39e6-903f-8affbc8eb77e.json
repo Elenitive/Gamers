@@ -107,6 +107,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2025-05-02 15:08:04 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/spruce_brown_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-02 14:35:12 +0000"
@@ -158,6 +164,12 @@
   "create:recipes/building_blocks/dark_oak_window": {
     "criteria": {
       "has_ingredient": "2025-05-02 14:36:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2025-05-02 15:08:04 +0000"
     },
     "done": true
   },
@@ -531,6 +543,8 @@
     "criteria": {
       "minecraft:skeleton": "2025-05-02 15:03:56 +0000",
       "minecraft:spider": "2025-05-02 14:41:51 +0000",
+      "minecraft:cave_spider": "2025-05-02 15:07:27 +0000",
+      "minecraft:stray": "2025-05-02 15:07:18 +0000",
       "minecraft:zombie": "2025-05-02 15:03:23 +0000"
     },
     "done": false
@@ -733,6 +747,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-05-02 15:09:37 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/jungle_white_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-02 14:35:12 +0000"
@@ -880,6 +900,12 @@
   "securitycraft:recipes/redstone/reinforced_fence_gate": {
     "criteria": {
       "has_iron": "2025-05-02 14:55:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2025-05-02 15:08:04 +0000"
     },
     "done": true
   },
@@ -1052,6 +1078,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/capsid": {
+    "criteria": {
+      "capsid": "2025-05-02 15:09:49 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/spruce_gray_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-02 14:35:12 +0000"
@@ -1178,6 +1210,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-05-02 15:09:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2025-05-02 14:54:15 +0000"
@@ -1280,6 +1318,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-05-02 15:08:04 +0000"
+    },
+    "done": true
+  },
   "miniutilities:recipes/misc/unpack4x": {
     "criteria": {
       "has_item": "2025-05-02 14:36:57 +0000"
@@ -1343,6 +1387,12 @@
   "miniutilities:recipes/misc/speed_upgrade": {
     "criteria": {
       "has_item": "2025-05-02 14:36:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-05-02 15:08:04 +0000"
     },
     "done": true
   },
@@ -2321,6 +2371,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-05-02 15:08:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2025-05-02 14:55:05 +0000"
@@ -2465,6 +2521,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2025-05-02 15:08:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-05-02 14:48:46 +0000"
@@ -2474,6 +2536,12 @@
   "doggytalents:recipes/decorations/wool_collar_thicc": {
     "criteria": {
       "has_string": "2025-05-02 14:41:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-05-02 15:08:04 +0000"
     },
     "done": true
   },
@@ -2807,6 +2875,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2025-05-02 15:08:04 +0000"
+    },
+    "done": true
+  },
   "miniutilities:recipes/misc/solar_panel_controller": {
     "criteria": {
       "has_item": "2025-05-02 14:36:57 +0000"
@@ -2849,6 +2923,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-05-02 15:08:04 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/black_seat": {
     "criteria": {
       "has_wool": "2025-05-02 14:35:50 +0000"
@@ -2885,6 +2965,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-05-02 15:08:04 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/oak_light_gray_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-02 14:35:12 +0000"
@@ -2918,6 +3004,12 @@
   "fairyfactions:recipes/decorations/mangrove_light_gray_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-02 14:35:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-05-02 15:09:37 +0000"
     },
     "done": true
   },
@@ -3107,6 +3199,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-05-02 15:08:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2025-05-02 14:35:50 +0000"
@@ -3290,6 +3388,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-05-02 15:09:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
       "has_brick": "2025-05-02 14:57:24 +0000"
@@ -3361,7 +3465,8 @@
       "cooked_beef": "2025-05-02 14:51:47 +0000",
       "baked_potato": "2025-05-02 15:05:07 +0000",
       "apple": "2025-05-02 14:56:02 +0000",
-      "mutton": "2025-05-02 14:41:32 +0000"
+      "mutton": "2025-05-02 14:41:32 +0000",
+      "carrot": "2025-05-02 15:06:18 +0000"
     },
     "done": false
   },
@@ -3554,6 +3659,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-05-02 14:54:15 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-05-02 15:08:50 +0000"
     },
     "done": true
   },

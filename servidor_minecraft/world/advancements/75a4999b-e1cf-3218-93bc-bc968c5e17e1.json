@@ -525,6 +525,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-05-02 15:01:44 +0000",
       "minecraft:spider": "2025-05-02 14:56:45 +0000",
+      "minecraft:cave_spider": "2025-05-02 15:10:54 +0000",
       "minecraft:zombie": "2025-05-02 14:59:30 +0000"
     },
     "done": false
@@ -1099,6 +1100,12 @@
     },
     "done": true
   },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-05-02 15:06:36 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/birch_blue_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-02 14:34:53 +0000"
@@ -1168,6 +1175,12 @@
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-05-02 14:35:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-05-02 15:09:13 +0000"
     },
     "done": true
   },
@@ -1276,6 +1289,12 @@
   "miniutilities:recipes/misc/unpack5x": {
     "criteria": {
       "has_item": "2025-05-02 14:35:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-05-02 15:09:13 +0000"
     },
     "done": true
   },
@@ -1597,6 +1616,12 @@
     },
     "done": true
   },
+  "doggytalents:recipes/tools/throw_stick": {
+    "criteria": {
+      "has_slime_ball": "2025-05-02 15:09:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2025-05-02 14:49:04 +0000"
@@ -1666,6 +1691,18 @@
   "iceandfire:recipes/misc/dragon_meal": {
     "criteria": {
       "has_item": "2025-05-02 14:42:20 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/frisbee": {
+    "criteria": {
+      "has_slime_ball": "2025-05-02 15:09:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-05-02 15:09:41 +0000"
     },
     "done": true
   },
@@ -1744,6 +1781,12 @@
   "miniutilities:recipes/misc/blue_lapis_caelestis": {
     "criteria": {
       "has_item": "2025-05-02 14:35:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-05-02 15:12:05 +0000"
     },
     "done": true
   },
@@ -2523,6 +2566,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-05-02 15:09:13 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/jungle_orange_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-02 14:34:53 +0000"
@@ -2772,6 +2821,12 @@
   "miniutilities:recipes/misc/red_lapis_caelestis": {
     "criteria": {
       "has_item": "2025-05-02 14:35:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-05-02 15:09:13 +0000"
     },
     "done": true
   },

@@ -1023,3 +1023,85 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:color_essence'
 [02May2025 15:08:17.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Franramen has made the advancement [Suit Up]
 [02May2025 15:08:21.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: delaromer has made the advancement [Isn't It Iron Pick]
 [02May2025 15:08:36.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NDNatsu has made the advancement [Magic Writing]
+[02May2025 15:09:24.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NDNatsu has made the advancement [Take Aim]
+[02May2025 15:09:28.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: delaromer has made the advancement [Ender Distancing]
+[02May2025 15:09:41.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lamborghiny18 has made the advancement [Suit Up]
+[02May2025 15:09:49.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiikoomeen27 has made the advancement [Capsid-19]
+[02May2025 15:09:53.162] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sunny_del lost connection: Timed out
+[02May2025 15:09:53.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sunny_del left the game
+[02May2025 15:10:19.617] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LalaaDragons[/127.132.2.90:35573] logged in with entity id 36924 at (16.5, 63.0, 35.5)
+[02May2025 15:10:19.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LalaaDragons joined the game
+[02May2025 15:10:19.702] [Server thread/INFO] [Jade/]: Syncing config to LalaaDragons (e87aa799-5013-3b36-bef0-f827adf9f16a)
+[02May2025 15:10:19.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LalaaDragons has made the advancement [Ice and Fire]
+[02May2025 15:10:24.526] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sunny_del[/127.186.175.28:58607] logged in with entity id 37068 at (1270.300000011921, 63.0, -120.73126212952485)
+[02May2025 15:10:24.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sunny_del joined the game
+[02May2025 15:10:24.618] [Server thread/INFO] [Jade/]: Syncing config to sunny_del (018dc36d-6b0f-3b86-b4a3-ed01da651794)
+[02May2025 15:10:24.889] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: asaam[/127.246.25.221:42553] logged in with entity id 37071 at (22.60957620342292, 63.0, 34.943480373868674)
+[02May2025 15:10:24.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asaam joined the game
+[02May2025 15:10:24.973] [Server thread/INFO] [Jade/]: Syncing config to asaam (daf14beb-1577-39e1-b946-f7101e6f3051)
+[02May2025 15:11:18.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: delaromer has made the advancement [Diamonds!]
+[02May2025 15:12:05.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lamborghiny18 has made the advancement [Isn't It Iron Pick]
+[02May2025 15:12:16.713] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiikoomeen27 lost connection: Disconnected
+[02May2025 15:12:16.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiikoomeen27 left the game
+[02May2025 15:13:35.040] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemOnPacket@5edadbf3, suppressing error
+java.util.NoSuchElementException: No value present
+	at java.util.Optional.get(Optional.java:143) ~[?:?]
+	at com.nyfaria.perfectplushieapi.loot.VillageLootModifier.doApply(VillageLootModifier.java:43) ~[perfectplushieapi-forge-1.20.1-0.1.1.jar%23282!/:0.1.1]
+	at net.minecraftforge.common.loot.LootModifier.apply(LootModifier.java:58) ~[forge-1.20.1-47.3.7-universal.jar%23252!/:?]
+	at net.minecraftforge.common.ForgeHooks.modifyLoot(ForgeHooks.java:1186) ~[forge-1.20.1-47.3.7-universal.jar%23252!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable.m_230922_(LootTable.java:118) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable.m_287188_(LootTable.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at noobanidus.mods.lootr.block.entities.LootrChestBlockEntity.unpackLootTable(LootrChestBlockEntity.java:279) ~[lootr-forge-1.20-0.7.35.90.jar%23218!/:0.7.35.90]
+	at noobanidus.mods.lootr.data.ChestData.createInventory(ChestData.java:363) ~[lootr-forge-1.20-0.7.35.90.jar%23218!/:0.7.35.90]
+	at noobanidus.mods.lootr.data.DataStorage.getInventory(DataStorage.java:338) ~[lootr-forge-1.20-0.7.35.90.jar%23218!/:0.7.35.90]
+	at noobanidus.mods.lootr.util.ChestUtil.handleLootChest(ChestUtil.java:142) ~[lootr-forge-1.20-0.7.35.90.jar%23218!/:0.7.35.90]
+	at noobanidus.mods.lootr.block.LootrChestBlock.m_6227_(LootrChestBlock.java:50) ~[lootr-forge-1.20-0.7.35.90.jar%23218!/:0.7.35.90]
+	at net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.m_60664_(BlockBehaviour.java:778) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:343) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1055) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[02May2025 15:14:41.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: delaromer has made the advancement [Magic Writing]
+[02May2025 15:14:49.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: delaromer has made the advancement [Mutual Aid]
+[02May2025 15:14:49.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: delaromer has made the advancement [Knowledge of Death]
+[02May2025 15:14:49.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: delaromer has reached the goal [Death Will Not Be Enough]
+[02May2025 15:14:54.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NDNatsu has reached the goal [Powder Snow Walk]
+[02May2025 15:15:02.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NDNatsu has reached the goal [Traveling lightning rod]
+[02May2025 15:15:23.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Franramen has made the advancement [Knowledge of Death]
+[02May2025 15:15:23.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Franramen has made the advancement [Ashes 'n Bones]
+[02May2025 15:15:37.486] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: asaam lost connection: Disconnected
+[02May2025 15:15:37.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asaam left the game
+[02May2025 15:15:40.874] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LalaaDragons lost connection: Disconnected
+[02May2025 15:15:40.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LalaaDragons left the game
+[02May2025 15:16:10.265] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sunny_del lost connection: Timed out
+[02May2025 15:16:10.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sunny_del left the game
+[02May2025 15:16:11.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lamborghiny18 has made the advancement [Cover Me with Diamonds]
+[02May2025 15:16:21.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: delaromer has made the advancement [Cover Me with Diamonds]
+[02May2025 15:16:47.973] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sunny_del[/127.186.175.28:56567] logged in with entity id 40845 at (1268.7219346031088, 64.0, -120.39097322977848)
+[02May2025 15:16:47.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sunny_del joined the game
+[02May2025 15:16:48.060] [Server thread/INFO] [Jade/]: Syncing config to sunny_del (018dc36d-6b0f-3b86-b4a3-ed01da651794)
+[02May2025 15:17:18.065] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sunny_del lost connection: Timed out
+[02May2025 15:17:18.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sunny_del left the game
+[02May2025 15:17:36.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lamborghiny18 has made the advancement [Penteconter]
+[02May2025 15:18:20.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: delaromer has made the advancement [Penteconter]
+[02May2025 15:18:23.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lamborghiny18 has made the advancement [Magic Writing]
+[02May2025 15:18:29.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lamborghiny18 has made the advancement [Knowledge of Death]
+[02May2025 15:18:29.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lamborghiny18 has reached the goal [A self-respecting Soul]
+[02May2025 15:19:07.473] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: darkblader69[/127.93.136.202:35829] logged in with entity id 42148 at (20.5, 63.0, 37.5)
+[02May2025 15:19:07.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 joined the game
+[02May2025 15:19:07.861] [Server thread/INFO] [Jade/]: Syncing config to darkblader69 (c5ed7fb1-b56d-3780-a140-29be33768a49)
+[02May2025 15:19:07.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Ice and Fire]

@@ -1430,6 +1430,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/logistics/lime_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-05-02 15:09:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2025-05-02 14:54:05 +0000"
@@ -1454,9 +1460,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/logistics/yellow_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-05-02 15:09:39 +0000"
+    },
+    "done": true
+  },
   "miniutilities:recipes/misc/bat_angel_ring": {
     "criteria": {
       "has_item": "2025-05-02 14:36:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2025-05-02 15:09:58 +0000"
     },
     "done": true
   },
@@ -1469,6 +1487,12 @@
   "buntsy:recipes/misc/gentlit_fence_gate": {
     "criteria": {
       "has_gentlit_planks": "2025-05-02 14:33:37 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/enderiophage": {
+    "criteria": {
+      "killed_by": "2025-05-02 15:09:28 +0000"
     },
     "done": true
   },
@@ -1490,9 +1514,39 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/logistics/green_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-05-02 15:09:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2025-05-02 15:09:58 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/decorations/superdog_suit": {
     "criteria": {
       "has_iron_ingot": "2025-05-02 14:58:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-05-02 15:11:18 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/ceremonial_garb": {
+    "criteria": {
+      "has_lead": "2025-05-02 15:07:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-05-02 15:11:18 +0000"
     },
     "done": true
   },
@@ -1550,6 +1604,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-05-02 15:11:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-05-02 14:36:10 +0000"
@@ -1598,6 +1658,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/logistics/orange_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-05-02 15:09:39 +0000"
+    },
+    "done": true
+  },
   "miniutilities:recipes/misc/lapis_lamp": {
     "criteria": {
       "has_item": "2025-05-02 14:36:10 +0000"
@@ -1628,6 +1694,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/blue_seat": {
+    "criteria": {
+      "has_wool": "2025-05-02 15:09:39 +0000"
+    },
+    "done": true
+  },
   "material_elements:recipes/leather/leather_knife": {
     "criteria": {
       "has_iron_ingot": "2025-05-02 14:58:54 +0000"
@@ -1649,6 +1721,12 @@
   "iceandfire:recipes/building_blocks/dragonforge_fire_brick": {
     "criteria": {
       "has_item": "2025-05-02 14:48:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/magenta_seat": {
+    "criteria": {
+      "has_wool": "2025-05-02 15:09:39 +0000"
     },
     "done": true
   },
@@ -1700,6 +1778,18 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
+    "criteria": {
+      "has_wheat": "2025-05-02 15:14:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-02 15:11:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-05-02 14:36:10 +0000"
@@ -1712,14 +1802,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-05-02 15:11:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-05-02 14:54:32 +0000",
       "minecraft:creeper": "2025-05-02 15:03:29 +0000",
+      "minecraft:cave_spider": "2025-05-02 15:12:24 +0000",
       "minecraft:stray": "2025-05-02 15:00:18 +0000",
       "minecraft:zombie": "2025-05-02 14:54:38 +0000"
     },
     "done": false
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_blue_seat": {
+    "criteria": {
+      "has_wool": "2025-05-02 15:09:39 +0000"
+    },
+    "done": true
   },
   "miniutilities:recipes/misc/etheric_sword": {
     "criteria": {
@@ -1799,9 +1902,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-05-02 15:14:25 +0000"
+    },
+    "done": true
+  },
   "miniutilities:recipes/misc/ender_dust_to_ender_pearl": {
     "criteria": {
       "has_item": "2025-05-02 14:36:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-05-02 15:14:25 +0000"
     },
     "done": true
   },
@@ -1811,9 +1926,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-05-02 15:11:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/cyan_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-05-02 15:09:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-05-02 15:11:18 +0000"
+    },
+    "done": true
+  },
   "buntsy:recipes/misc/gentlit_door": {
     "criteria": {
       "has_gentlit_planks": "2025-05-02 14:33:37 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-05-02 15:14:49 +0000"
     },
     "done": true
   },
@@ -1823,9 +1962,21 @@
     },
     "done": true
   },
+  "tombstone:adventure/mutual_aid": {
+    "criteria": {
+      "coded_trigger": "2025-05-02 15:14:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-05-02 14:59:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-02 15:11:25 +0000"
     },
     "done": true
   },
@@ -1865,9 +2016,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/logistics/red_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-05-02 15:09:39 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/security_camera": {
     "criteria": {
       "has_iron": "2025-05-02 14:58:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-02 15:11:25 +0000"
     },
     "done": true
   },
@@ -1916,6 +2079,12 @@
   "securitycraft:recipes/redstone/reinforced_fence_gate": {
     "criteria": {
       "has_iron": "2025-05-02 14:58:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2025-05-02 15:09:58 +0000"
     },
     "done": true
   },
@@ -2088,6 +2257,18 @@
     },
     "done": true
   },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-05-02 15:06:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-05-02 15:11:18 +0000"
+    },
+    "done": true
+  },
   "miniutilities:recipes/misc/ender_tile": {
     "criteria": {
       "has_item": "2025-05-02 14:36:10 +0000"
@@ -2139,6 +2320,12 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2025-05-02 14:59:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-02 15:11:25 +0000"
     },
     "done": true
   },
@@ -2196,6 +2383,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-05-02 15:09:58 +0000"
+    },
+    "done": true
+  },
   "miniutilities:recipes/misc/unpack4x": {
     "criteria": {
       "has_item": "2025-05-02 14:36:10 +0000"
@@ -2238,9 +2431,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-05-02 15:09:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_string": "2025-05-02 14:58:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/green_seat": {
+    "criteria": {
+      "has_wool": "2025-05-02 15:09:39 +0000"
     },
     "done": true
   },
@@ -2256,9 +2461,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-05-02 15:11:18 +0000"
+    },
+    "done": true
+  },
   "miniutilities:recipes/misc/unstable_chestplate": {
     "criteria": {
       "has_item": "2025-05-02 14:36:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/purple_seat": {
+    "criteria": {
+      "has_wool": "2025-05-02 15:09:39 +0000"
     },
     "done": true
   },
@@ -2310,6 +2527,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-05-02 15:11:18 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/redstone_module": {
     "criteria": {
       "has_iron": "2025-05-02 14:58:54 +0000"
@@ -2325,6 +2548,12 @@
   "miniutilities:recipes/misc/unpack2x": {
     "criteria": {
       "has_item": "2025-05-02 14:36:10 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_preservation": {
+    "criteria": {
+      "has_magic_scroll": "2025-05-02 15:14:49 +0000"
     },
     "done": true
   },
@@ -2373,6 +2602,12 @@
   "securitycraft:recipes/tools/universal_block_remover": {
     "criteria": {
       "has_iron": "2025-05-02 14:58:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/purple_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-05-02 15:09:39 +0000"
     },
     "done": true
   },
@@ -2430,6 +2665,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-05-02 15:11:18 +0000"
+    },
+    "done": true
+  },
   "miniutilities:recipes/misc/ethereal_glass": {
     "criteria": {
       "has_item": "2025-05-02 14:36:10 +0000"
@@ -2478,6 +2719,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-05-02 15:08:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-05-02 14:58:54 +0000"
@@ -2493,6 +2740,12 @@
   "yuushya:recipes/bismuth_crystal": {
     "criteria": {
       "has_cobblestone": "2025-05-02 14:36:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/brown_seat": {
+    "criteria": {
+      "has_wool": "2025-05-02 15:09:39 +0000"
     },
     "done": true
   },
@@ -2604,6 +2857,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/logistics/magenta_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-05-02 15:09:39 +0000"
+    },
+    "done": true
+  },
   "miniutilities:recipes/misc/brown_lapis_caelestis": {
     "criteria": {
       "has_item": "2025-05-02 14:36:10 +0000"
@@ -2619,6 +2878,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-05-02 14:58:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/gray_seat": {
+    "criteria": {
+      "has_wool": "2025-05-02 15:09:39 +0000"
     },
     "done": true
   },
@@ -2676,6 +2941,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-05-02 15:09:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2025-05-02 14:35:37 +0000"
@@ -2688,9 +2959,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/red_seat": {
+    "criteria": {
+      "has_wool": "2025-05-02 15:09:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-05-02 14:59:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_gray_seat": {
+    "criteria": {
+      "has_wool": "2025-05-02 15:09:39 +0000"
     },
     "done": true
   },
@@ -2709,6 +2992,12 @@
   "miniutilities:recipes/misc/purple_lapis_caelestis": {
     "criteria": {
       "has_item": "2025-05-02 14:36:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/orange_seat": {
+    "criteria": {
+      "has_wool": "2025-05-02 15:09:39 +0000"
     },
     "done": true
   },
@@ -2748,6 +3037,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/logistics/blue_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-05-02 15:09:39 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/tools/throw_bone": {
     "criteria": {
       "has_bone": "2025-05-02 14:54:33 +0000"
@@ -2775,6 +3070,12 @@
   "miniutilities:recipes/misc/quantum_quarry": {
     "criteria": {
       "has_item": "2025-05-02 14:36:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-05-02 15:09:58 +0000"
     },
     "done": true
   },
@@ -2820,6 +3121,12 @@
     },
     "done": true
   },
+  "doggytalents:recipes/decorations/lab_coat": {
+    "criteria": {
+      "has_wool": "2025-05-02 15:09:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2025-05-02 14:54:33 +0000"
@@ -2844,15 +3151,33 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/logistics/light_gray_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-05-02 15:09:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/tnt_minecart": {
     "criteria": {
       "has_minecart": "2025-05-02 14:57:27 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2025-05-02 15:09:58 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/decorations/wool_collar_thicc": {
     "criteria": {
       "has_string": "2025-05-02 14:58:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-05-02 15:09:58 +0000"
     },
     "done": true
   },
@@ -2880,9 +3205,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/cyan_seat": {
+    "criteria": {
+      "has_wool": "2025-05-02 15:09:39 +0000"
+    },
+    "done": true
+  },
   "miniutilities:recipes/misc/unstable_boots": {
     "criteria": {
       "has_item": "2025-05-02 14:36:10 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/diamond_hammer": {
+    "criteria": {
+      "has_material": "2025-05-02 15:11:18 +0000"
     },
     "done": true
   },
@@ -2910,6 +3247,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-05-02 15:11:18 +0000"
+    },
+    "done": true
+  },
   "miniutilities:recipes/misc/mechanical_miner": {
     "criteria": {
       "has_item": "2025-05-02 14:36:10 +0000"
@@ -2919,6 +3262,12 @@
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2025-05-02 14:58:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/light_blue_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-05-02 15:09:39 +0000"
     },
     "done": true
   },
@@ -2937,6 +3286,12 @@
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2025-05-02 14:37:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/white_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-05-02 15:09:39 +0000"
     },
     "done": true
   },
@@ -2961,6 +3316,12 @@
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-05-02 14:58:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/gray_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-05-02 15:09:39 +0000"
     },
     "done": true
   },
@@ -2994,9 +3355,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2025-05-02 15:09:58 +0000"
+    },
+    "done": true
+  },
   "miniutilities:recipes/misc/solar_panel_controller": {
     "criteria": {
       "has_item": "2025-05-02 14:36:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/pink_seat": {
+    "criteria": {
+      "has_wool": "2025-05-02 15:09:39 +0000"
     },
     "done": true
   },
@@ -3012,6 +3385,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-05-02 15:09:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/black_seat": {
+    "criteria": {
+      "has_wool": "2025-05-02 15:09:39 +0000"
+    },
+    "done": true
+  },
   "miniutilities:recipes/misc/red_lapis_caelestis": {
     "criteria": {
       "has_item": "2025-05-02 14:36:10 +0000"
@@ -3021,6 +3406,18 @@
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-05-02 14:59:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-05-02 15:09:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/black_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-05-02 15:09:39 +0000"
     },
     "done": true
   },
@@ -3051,6 +3448,12 @@
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2025-05-02 14:54:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-02 15:11:25 +0000"
     },
     "done": true
   },
@@ -3108,6 +3511,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/logistics/pink_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-05-02 15:09:39 +0000"
+    },
+    "done": true
+  },
   "miniutilities:recipes/misc/netherite_reinforced_drum": {
     "criteria": {
       "has_item": "2025-05-02 14:36:10 +0000"
@@ -3138,6 +3547,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-05-02 15:13:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2025-05-02 14:44:15 +0000"
@@ -3156,6 +3571,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/white_seat": {
+    "criteria": {
+      "has_wool": "2025-05-02 15:09:39 +0000"
+    },
+    "done": true
+  },
   "miniutilities:recipes/misc/iron_opinium_core": {
     "criteria": {
       "has_item": "2025-05-02 14:36:10 +0000"
@@ -3165,6 +3586,12 @@
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2025-05-02 14:58:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/brown_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-05-02 15:09:39 +0000"
     },
     "done": true
   },
@@ -3234,6 +3661,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/lime_seat": {
+    "criteria": {
+      "has_wool": "2025-05-02 15:09:39 +0000"
+    },
+    "done": true
+  },
   "buntsy:recipes/misc/syrup_extractor": {
     "criteria": {
       "has_gentlit_planks": "2025-05-02 14:33:37 +0000"
@@ -3279,9 +3712,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-02 15:11:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-05-02 15:00:45 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-05-02 15:14:41 +0000"
     },
     "done": true
   },
@@ -3309,9 +3754,21 @@
     },
     "done": true
   },
+  "doggytalents:recipes/building_blocks/dog_bed_def": {
+    "criteria": {
+      "has_wool": "2025-05-02 15:09:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-05-02 14:58:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-05-02 15:11:18 +0000"
     },
     "done": true
   },
@@ -3345,6 +3802,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/yellow_seat": {
+    "criteria": {
+      "has_wool": "2025-05-02 15:09:39 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/building_blocks/food_bowl": {
     "criteria": {
       "has_iron_ingot": "2025-05-02 14:58:54 +0000"
@@ -3372,6 +3835,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-05-02 14:59:43 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-05-02 15:13:51 +0000"
     },
     "done": true
   },

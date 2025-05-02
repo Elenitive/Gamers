@@ -1663,7 +1663,9 @@
       "minecraft:skeleton": "2025-05-02 14:15:16 +0000",
       "minecraft:spider": "2025-05-02 14:54:02 +0000",
       "minecraft:creeper": "2025-05-02 14:41:56 +0000",
+      "minecraft:cave_spider": "2025-05-02 15:10:02 +0000",
       "minecraft:enderman": "2025-05-02 14:46:31 +0000",
+      "minecraft:silverfish": "2025-05-02 15:10:49 +0000",
       "minecraft:stray": "2025-05-02 15:03:35 +0000",
       "minecraft:zombie": "2025-05-02 14:15:12 +0000"
     },
@@ -1801,6 +1803,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_frost_resistance": {
+    "criteria": {
+      "has_magic_scroll": "2025-05-02 15:14:54 +0000"
+    },
+    "done": true
+  },
   "miniutilities:recipes/misc/ender_pearl_block": {
     "criteria": {
       "has_item": "2025-05-02 14:36:03 +0000"
@@ -1849,6 +1857,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2025-05-02 15:08:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2025-05-02 14:57:26 +0000"
@@ -1882,6 +1896,12 @@
   "create:recipes/building_blocks/crafting/logistics/green_table_cloth": {
     "criteria": {
       "has_wool": "2025-05-02 14:55:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2025-05-02 15:08:23 +0000"
     },
     "done": true
   },
@@ -1969,6 +1989,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_lightning_resistance": {
+    "criteria": {
+      "has_magic_scroll": "2025-05-02 15:15:02 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/decorations/pianist_suit": {
     "criteria": {
       "has_string": "2025-05-02 14:53:48 +0000"
@@ -1978,6 +2004,12 @@
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-05-02 14:53:45 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/fedora": {
+    "criteria": {
+      "has_leather_helmet": "2025-05-02 15:07:23 +0000"
     },
     "done": true
   },
@@ -2128,6 +2160,12 @@
   "miniutilities:recipes/misc/nether_star_opinium_core": {
     "criteria": {
       "has_item": "2025-05-02 14:36:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-05-02 15:09:24 +0000"
     },
     "done": true
   },
@@ -2551,6 +2589,12 @@
     },
     "done": true
   },
+  "doggytalents:recipes/decorations/baker_hat": {
+    "criteria": {
+      "has_bread": "2025-05-02 15:08:40 +0000"
+    },
+    "done": true
+  },
   "miniutilities:recipes/misc/blessed_earth": {
     "criteria": {
       "has_item": "2025-05-02 14:36:03 +0000"
@@ -2578,6 +2622,12 @@
   "securitycraft:recipes/redstone/reinforced_fence_gate": {
     "criteria": {
       "has_iron": "2025-05-02 14:53:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2025-05-02 15:08:23 +0000"
     },
     "done": true
   },
@@ -2717,6 +2767,12 @@
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-05-02 14:36:03 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/deer_antlers": {
+    "criteria": {
+      "has_leather_helmet": "2025-05-02 15:07:23 +0000"
     },
     "done": true
   },
@@ -2954,6 +3010,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-05-02 15:08:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2025-05-02 15:00:40 +0000"
@@ -3002,9 +3064,21 @@
     },
     "done": true
   },
+  "doggytalents:recipes/decorations/hot_dog": {
+    "criteria": {
+      "has_bread": "2025-05-02 15:08:40 +0000"
+    },
+    "done": true
+  },
   "miniutilities:recipes/misc/speed_upgrade": {
     "criteria": {
       "has_item": "2025-05-02 14:36:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-05-02 15:08:23 +0000"
     },
     "done": true
   },
@@ -3734,6 +3808,12 @@
     },
     "done": true
   },
+  "doggytalents:recipes/decorations/chef_hat": {
+    "criteria": {
+      "has_leather_helmet": "2025-05-02 15:07:23 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/orange_seat": {
     "criteria": {
       "has_wool": "2025-05-02 14:55:44 +0000"
@@ -3806,6 +3886,12 @@
     },
     "done": true
   },
+  "doggytalents:recipes/decorations/demon_horns": {
+    "criteria": {
+      "has_leather_helmet": "2025-05-02 15:07:23 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/tools/throw_bone": {
     "criteria": {
       "has_bone": "2025-05-02 14:55:30 +0000"
@@ -3845,6 +3931,12 @@
   "miniutilities:recipes/misc/quantum_quarry": {
     "criteria": {
       "has_item": "2025-05-02 14:36:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-05-02 15:08:23 +0000"
     },
     "done": true
   },
@@ -3968,6 +4060,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2025-05-02 15:08:23 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/powered_latch": {
     "criteria": {
       "has_item": "2025-05-02 15:00:40 +0000"
@@ -3977,6 +4075,12 @@
   "doggytalents:recipes/decorations/wool_collar_thicc": {
     "criteria": {
       "has_string": "2025-05-02 14:53:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-05-02 15:08:23 +0000"
     },
     "done": true
   },
@@ -4226,6 +4330,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2025-05-02 15:08:23 +0000"
+    },
+    "done": true
+  },
   "miniutilities:recipes/misc/solar_panel_controller": {
     "criteria": {
       "has_item": "2025-05-02 14:36:03 +0000"
@@ -4250,6 +4360,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-05-02 15:08:23 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/black_seat": {
     "criteria": {
       "has_wool": "2025-05-02 14:55:44 +0000"
@@ -4271,6 +4387,12 @@
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-05-02 14:59:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-05-02 15:08:23 +0000"
     },
     "done": true
   },
@@ -4307,6 +4429,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-05-02 14:48:52 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-05-02 15:05:37 +0000"
     },
     "done": true
   },
@@ -4676,6 +4804,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-05-02 14:55:16 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-05-02 15:08:36 +0000"
     },
     "done": true
   },
