@@ -1864,6 +1864,7 @@
       "minecraft:wither_skeleton": "2025-05-02 17:48:38 +0000",
       "minecraft:cave_spider": "2025-05-02 17:23:07 +0000",
       "minecraft:stray": "2025-05-02 17:20:14 +0000",
+      "minecraft:enderman": "2025-05-02 18:02:57 +0000",
       "minecraft:silverfish": "2025-05-02 17:35:42 +0000",
       "minecraft:zombie": "2025-05-02 14:41:53 +0000",
       "minecraft:drowned": "2025-05-02 16:33:41 +0000"
@@ -4411,6 +4412,12 @@
     },
     "done": true
   },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-05-02 18:02:59 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-05-02 17:39:45 +0000"
@@ -4420,6 +4427,12 @@
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2025-05-02 17:39:45 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-05-02 17:53:25 +0000"
     },
     "done": true
   },
@@ -4450,6 +4463,12 @@
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-05-02 17:39:45 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-05-02 17:56:19 +0000"
     },
     "done": true
   },

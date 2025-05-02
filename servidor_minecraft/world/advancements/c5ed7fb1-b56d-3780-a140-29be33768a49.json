@@ -2295,6 +2295,7 @@
       "minecraft:spider": "2025-05-02 17:10:12 +0000",
       "minecraft:creeper": "2025-05-02 17:39:20 +0000",
       "minecraft:cave_spider": "2025-05-02 17:28:11 +0000",
+      "minecraft:enderman": "2025-05-02 18:02:41 +0000",
       "minecraft:silverfish": "2025-05-02 17:28:36 +0000",
       "minecraft:zombie": "2025-05-02 16:53:04 +0000"
     },
@@ -2532,6 +2533,7 @@
     "criteria": {
       "cooked_beef": "2025-05-02 17:37:02 +0000",
       "mutton": "2025-05-02 15:26:28 +0000",
+      "golden_apple": "2025-05-02 18:02:46 +0000",
       "carrot": "2025-05-02 17:48:10 +0000"
     },
     "done": false
@@ -4462,6 +4464,18 @@
     },
     "done": true
   },
+  "naturalist:recipes/food/cake": {
+    "criteria": {
+      "has_the_recipe": "2025-05-02 17:58:20 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/stolen_magic": {
+    "criteria": {
+      "coded_trigger": "2025-05-02 18:02:13 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/orcas_might": {
     "criteria": {
       "all_effects": "2025-05-02 17:31:53 +0000"
@@ -4489,6 +4503,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2025-05-02 17:37:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-05-02 17:59:53 +0000"
     },
     "done": true
   },
@@ -4531,6 +4551,12 @@
   "create:recipes/building_blocks/small_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-05-02 17:37:32 +0000"
+    },
+    "done": true
+  },
+  "mysticsbiomes:recipes/food/chocolate_cake": {
+    "criteria": {
+      "has_egg": "2025-05-02 17:58:20 +0000"
     },
     "done": true
   },
@@ -4630,9 +4656,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-05-02 17:58:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-05-02 17:37:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-05-02 17:57:51 +0000"
     },
     "done": true
   },
@@ -4648,9 +4686,21 @@
     },
     "done": true
   },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-05-02 18:04:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_slab": {
     "criteria": {
       "has_nether_bricks": "2025-05-02 17:50:55 +0000"
+    },
+    "done": true
+  },
+  "mysticsbiomes:recipes/food/strawberry_cake": {
+    "criteria": {
+      "has_egg": "2025-05-02 17:58:20 +0000"
     },
     "done": true
   },
@@ -4690,6 +4740,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-05-02 17:57:51 +0000"
+    },
+    "done": true
+  },
+  "mysticsbiomes:recipes/food/vanilla_cake": {
+    "criteria": {
+      "has_egg": "2025-05-02 17:58:20 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_andesite_slab_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-05-02 17:37:32 +0000"
@@ -4711,6 +4773,12 @@
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2025-05-02 17:50:55 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/food/egg_sandwich": {
+    "criteria": {
+      "has_egg": "2025-05-02 17:58:20 +0000"
     },
     "done": true
   },
@@ -4753,6 +4821,12 @@
   "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-05-02 17:50:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-05-02 17:57:51 +0000"
     },
     "done": true
   },

@@ -724,6 +724,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-05-02 17:58:12 +0000",
       "cooked_beef": "2025-05-02 15:12:54 +0000",
       "baked_potato": "2025-05-02 14:57:40 +0000",
       "apple": "2025-05-02 14:49:43 +0000",
@@ -4814,6 +4815,12 @@
     },
     "done": true
   },
+  "doggytalents:recipes/food/uncooked_rice_bowl": {
+    "criteria": {
+      "has_dtn_rice_grains": "2025-05-02 18:00:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2025-05-02 17:31:25 +0000"
@@ -4871,6 +4878,12 @@
   "justhammers:recipes/tools/stone_hammer": {
     "criteria": {
       "has_material": "2025-05-02 17:33:43 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/food/training_treat": {
+    "criteria": {
+      "has_dtn_rice_grains": "2025-05-02 18:00:58 +0000"
     },
     "done": true
   },

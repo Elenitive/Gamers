@@ -615,6 +615,7 @@
       "apple": "2025-05-02 16:39:17 +0000",
       "bread": "2025-05-02 17:08:46 +0000",
       "golden_apple": "2025-05-02 16:34:15 +0000",
+      "cooked_rabbit": "2025-05-02 17:53:31 +0000",
       "enchanted_golden_apple": "2025-05-02 16:40:42 +0000",
       "carrot": "2025-05-02 16:16:54 +0000"
     },
@@ -4714,6 +4715,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-05-02 17:53:28 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/secret_jungle_sign_item": {
     "criteria": {
       "has_sign": "2025-05-02 17:31:26 +0000"
@@ -4798,9 +4805,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-05-02 17:53:28 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/secret_oak_hanging_sign": {
     "criteria": {
       "has_sign": "2025-05-02 17:31:26 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/food/rabbit_stew_from_toadstool": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-05-02 17:53:28 +0000"
     },
     "done": true
   },

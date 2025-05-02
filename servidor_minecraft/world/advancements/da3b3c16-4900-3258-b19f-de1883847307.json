@@ -3173,7 +3173,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-05-02 13:35:38 +0000",
-      "cooked_beef": "2025-05-02 16:33:11 +0000"
+      "cooked_beef": "2025-05-02 16:33:11 +0000",
+      "golden_carrot": "2025-05-02 17:58:17 +0000"
     },
     "done": false
   },
@@ -4631,6 +4632,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-05-02 17:57:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-05-02 17:40:21 +0000"
@@ -4646,6 +4653,12 @@
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-05-02 17:27:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-05-02 17:56:08 +0000"
     },
     "done": true
   },
@@ -4787,6 +4800,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/smelting/scoria": {
+    "criteria": {
+      "has_item": "2025-05-02 17:56:08 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
     "criteria": {
       "has_gold_backpack": "2025-05-02 17:47:19 +0000"
@@ -4862,6 +4881,12 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2025-05-02 17:29:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-05-02 17:56:08 +0000"
     },
     "done": true
   },
