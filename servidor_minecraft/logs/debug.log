@@ -10544,3 +10544,19 @@ To disable a bonus drop for a default definition, set the amount to 0.
 [01May2025 23:49:19.380] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [01May2025 23:50:46.703] [Server thread/WARN] [tombstone/]: The death event of the player ivii was canceled by another mod
 [01May2025 23:50:46.722] [Server thread/INFO] [tombstone/]: The player ivii has successfully been saved
+[01May2025 23:53:19.769] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/12923, l='ServerLevel[world]', x=34.45, y=65.00, z=-538.28] died, message: 'Fisherman was slain by Zombie'
+[01May2025 23:54:19.313] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 23:54:19.378] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01May2025 23:54:56.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elenitive has made the advancement [Penteconter]
+[01May2025 23:55:01.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivii has made the advancement [Mutual Aid]
+[01May2025 23:55:48.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivii has made the advancement [Diamonds!]
+[01May2025 23:59:19.301] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 23:59:19.361] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01May2025 23:59:49.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elenitive has made the advancement [Not Today, Thank You]
+[02May2025 00:00:12.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elenitive has made the advancement [Where Is The Stone Pen?]
+[02May2025 00:04:19.301] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02May2025 00:04:19.365] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02May2025 00:04:32.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elenitive has completed the challenge [Free Willy]
+[02May2025 00:04:56.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elenitive has made the advancement [Over 9000 Enchantability!]
+[02May2025 00:09:19.309] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02May2025 00:09:19.399] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

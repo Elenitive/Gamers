@@ -3302,6 +3302,7 @@
       "minecraft:skeleton": "2025-05-01 22:44:07 +0000",
       "minecraft:spider": "2025-05-01 22:43:34 +0000",
       "minecraft:creeper": "2025-05-01 23:17:26 +0000",
+      "minecraft:cave_spider": "2025-05-01 23:50:13 +0000",
       "minecraft:enderman": "2025-05-01 22:29:48 +0000",
       "minecraft:stray": "2025-05-01 23:31:00 +0000",
       "minecraft:zombie": "2025-05-01 22:43:39 +0000",
@@ -6262,9 +6263,21 @@
     },
     "done": true
   },
+  "fusion:thyrium_brick_stairs": {
+    "criteria": {
+      "has_item": "2025-05-02 00:04:56 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/secret_birch_sign_item": {
     "criteria": {
       "has_sign": "2025-05-01 23:08:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-05-01 23:59:49 +0000"
     },
     "done": true
   },
@@ -6295,6 +6308,12 @@
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2025-05-01 23:13:35 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/tools/radio_collar": {
+    "criteria": {
+      "has_redstone": "2025-05-02 00:00:09 +0000"
     },
     "done": true
   },
@@ -6346,9 +6365,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-01 23:54:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2025-05-01 23:16:14 +0000"
+    },
+    "done": true
+  },
+  "fusion:thyrium_pickaxe": {
+    "criteria": {
+      "has_item": "2025-05-02 00:04:56 +0000"
     },
     "done": true
   },
@@ -6382,6 +6413,12 @@
     },
     "done": true
   },
+  "fusion:recipes/misc/thyrium_ingot": {
+    "criteria": {
+      "has_item": "2025-05-02 00:04:56 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/secret_cherry_hanging_sign": {
     "criteria": {
       "has_sign": "2025-05-01 23:08:19 +0000"
@@ -6400,6 +6437,24 @@
     },
     "done": true
   },
+  "fusion:thyrium_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-02 00:04:56 +0000"
+    },
+    "done": true
+  },
+  "fusion:thyrium_shovel": {
+    "criteria": {
+      "has_item": "2025-05-02 00:04:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-01 23:54:37 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/stick_from_dead_bush": {
     "criteria": {
       "has_dead_bush": "2025-05-01 23:06:23 +0000"
@@ -6409,6 +6464,12 @@
   "securitycraft:recipes/building_blocks/secret_acacia_sign_item": {
     "criteria": {
       "has_sign": "2025-05-01 23:08:19 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/portable_tune_player": {
+    "criteria": {
+      "has_redstone": "2025-05-02 00:00:09 +0000"
     },
     "done": true
   },
@@ -6430,6 +6491,12 @@
     },
     "done": true
   },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-05-01 23:54:56 +0000"
+    },
+    "done": true
+  },
   "easy_mob_farm:recipes/upgrade/enchancement/experience_enhancement": {
     "criteria": {
       "has_lapis_lazuli": "2025-05-01 23:16:13 +0000"
@@ -6439,6 +6506,12 @@
   "tombstone:adventure/first_grave": {
     "criteria": {
       "coded_trigger": "2025-05-01 23:40:50 +0000"
+    },
+    "done": true
+  },
+  "fusion:recipes/building_blocks/thyrium_pressure_plate": {
+    "criteria": {
+      "has_item": "2025-05-02 00:04:56 +0000"
     },
     "done": true
   },
@@ -6538,6 +6611,12 @@
     },
     "done": true
   },
+  "fusion:thyrium_helmet": {
+    "criteria": {
+      "has_item": "2025-05-02 00:04:56 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/food/super_treat": {
     "criteria": {
       "has_golden_apple": "2025-05-01 23:16:31 +0000"
@@ -6574,6 +6653,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/pulse_timer": {
+    "criteria": {
+      "has_item": "2025-05-02 00:00:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2025-05-01 23:16:14 +0000"
@@ -6583,6 +6668,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-05-01 23:08:03 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/alarm": {
+    "criteria": {
+      "has_redstone": "2025-05-02 00:00:09 +0000"
     },
     "done": true
   },
@@ -6604,6 +6695,12 @@
     },
     "done": true
   },
+  "fusion:main/thyrium": {
+    "criteria": {
+      "got_fusion_furnace": "2025-05-02 00:04:56 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonforge_lightning_brick": {
     "criteria": {
       "has_item": "2025-05-01 23:28:14 +0000"
@@ -6613,6 +6710,12 @@
   "securitycraft:recipes/building_blocks/secret_warped_sign_item": {
     "criteria": {
       "has_sign": "2025-05-01 23:08:19 +0000"
+    },
+    "done": true
+  },
+  "fusion:thyrium_brick_slab": {
+    "criteria": {
+      "has_item": "2025-05-02 00:04:56 +0000"
     },
     "done": true
   },
@@ -6628,9 +6731,33 @@
     },
     "done": true
   },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl1": {
+    "criteria": {
+      "has_redstone": "2025-05-02 00:00:09 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl3": {
+    "criteria": {
+      "has_redstone": "2025-05-02 00:00:09 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl2": {
+    "criteria": {
+      "has_redstone": "2025-05-02 00:00:09 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/decorations/demon_horns": {
     "criteria": {
       "has_leather_helmet": "2025-05-01 23:42:21 +0000"
+    },
+    "done": true
+  },
+  "fusion:recipes/building_blocks/thyrium_block": {
+    "criteria": {
+      "has_item": "2025-05-02 00:04:56 +0000"
     },
     "done": true
   },
@@ -6664,6 +6791,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_piston": {
+    "criteria": {
+      "has_redstone": "2025-05-02 00:00:09 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/secret_dark_oak_sign_item": {
     "criteria": {
       "has_sign": "2025-05-01 23:08:19 +0000"
@@ -6673,6 +6806,18 @@
   "minecraft:recipes/building_blocks/quartz_pillar": {
     "criteria": {
       "has_quartz_block": "2025-05-01 23:47:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/powered_latch": {
+    "criteria": {
+      "has_item": "2025-05-02 00:00:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-05-02 00:00:09 +0000"
     },
     "done": true
   },
@@ -6706,6 +6851,18 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-05-01 23:54:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-05-01 23:54:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-05-01 23:47:17 +0000"
@@ -6718,9 +6875,27 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/keypad_frame": {
+    "criteria": {
+      "has_redstone": "2025-05-02 00:00:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-05-01 23:28:14 +0000"
+    },
+    "done": true
+  },
+  "fusion:recipes/misc/thyrium_ingot_from_nuggets": {
+    "criteria": {
+      "has_item": "2025-05-02 00:04:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-01 23:54:37 +0000"
     },
     "done": true
   },
@@ -6742,9 +6917,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-05-02 00:00:09 +0000"
+    },
+    "done": true
+  },
+  "fusion:thyrium_axe": {
+    "criteria": {
+      "has_item": "2025-05-02 00:04:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/diamond_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2025-05-02 00:07:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_modifier": {
+    "criteria": {
+      "has_redstone": "2025-05-02 00:00:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-05-01 23:13:35 +0000"
+    },
+    "done": true
+  },
+  "fusion:thyrium_leggings": {
+    "criteria": {
+      "has_item": "2025-05-02 00:04:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-01 23:54:37 +0000"
     },
     "done": true
   },
@@ -6754,15 +6965,51 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/rose_quartz": {
+    "criteria": {
+      "has_item": "2025-05-02 00:00:09 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/cage_trap": {
+    "criteria": {
+      "has_redstone": "2025-05-02 00:00:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-05-02 00:00:09 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/secret_spruce_hanging_sign": {
     "criteria": {
       "has_sign": "2025-05-01 23:08:19 +0000"
     },
     "done": true
   },
+  "fusion:thyrium_bars": {
+    "criteria": {
+      "has_item": "2025-05-02 00:04:56 +0000"
+    },
+    "done": true
+  },
+  "fusion:recipes/misc/thyrium_nugget": {
+    "criteria": {
+      "has_item": "2025-05-02 00:04:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
       "has_quartz_block": "2025-05-01 23:47:17 +0000"
+    },
+    "done": true
+  },
+  "fusion:thyrium_hoe": {
+    "criteria": {
+      "has_item": "2025-05-02 00:04:56 +0000"
     },
     "done": true
   },
@@ -6775,6 +7022,12 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-05-01 23:13:35 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2025-05-02 00:04:32 +0000"
     },
     "done": true
   },
@@ -6808,6 +7061,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-05-02 00:00:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/pulse_extender": {
+    "criteria": {
+      "has_item": "2025-05-02 00:00:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stone_bricks": "2025-05-01 23:17:47 +0000"
@@ -6820,6 +7085,12 @@
     },
     "done": true
   },
+  "doggytalents:recipes/decorations/smarty_glasses": {
+    "criteria": {
+      "has_redstone": "2025-05-02 00:00:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-05-01 23:32:00 +0000"
@@ -6829,6 +7100,12 @@
   "securitycraft:recipes/building_blocks/secret_warped_hanging_sign": {
     "criteria": {
       "has_sign": "2025-05-01 23:08:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/pulse_repeater": {
+    "criteria": {
+      "has_item": "2025-05-02 00:00:09 +0000"
     },
     "done": true
   },
@@ -6850,6 +7127,18 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/username_logger": {
+    "criteria": {
+      "has_redstone": "2025-05-02 00:00:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2025-05-02 00:00:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2025-05-01 23:47:33 +0000"
@@ -6868,6 +7157,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-05-02 00:00:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-01 23:54:37 +0000"
+    },
+    "done": true
+  },
+  "fusion:thyrium_boots": {
+    "criteria": {
+      "has_item": "2025-05-02 00:04:56 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/secret_crimson_hanging_sign": {
     "criteria": {
       "has_sign": "2025-05-01 23:08:19 +0000"
@@ -6883,6 +7190,12 @@
   "create:recipes/building_blocks/ornate_iron_window": {
     "criteria": {
       "has_ingredient": "2025-05-01 23:20:19 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/portable_radar": {
+    "criteria": {
+      "has_redstone": "2025-05-02 00:00:09 +0000"
     },
     "done": true
   },
@@ -6916,6 +7229,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-01 23:54:37 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/secret_spruce_sign_item": {
     "criteria": {
       "has_sign": "2025-05-01 23:08:19 +0000"
@@ -6928,9 +7247,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/tools/taser": {
+    "criteria": {
+      "has_redstone": "2025-05-02 00:00:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2025-05-01 23:26:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-05-02 00:00:09 +0000"
     },
     "done": true
   },
@@ -6955,6 +7286,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-05-01 23:41:37 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dropper": {
+    "criteria": {
+      "has_redstone": "2025-05-02 00:00:09 +0000"
     },
     "done": true
   },
@@ -7000,6 +7337,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/tools/universal_key_changer": {
+    "criteria": {
+      "has_redstone": "2025-05-02 00:00:09 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/tools/shrinking_mallet": {
     "criteria": {
       "has_gold_ingot": "2025-05-01 23:13:35 +0000"
@@ -7015,6 +7358,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-05-01 23:28:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-05-02 00:00:09 +0000"
     },
     "done": true
   },
@@ -7090,9 +7439,21 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2025-05-02 00:00:12 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/food/dough": {
     "criteria": {
       "has_water": "2025-05-01 23:26:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_redstone_lamp": {
+    "criteria": {
+      "has_redstone": "2025-05-02 00:00:09 +0000"
     },
     "done": true
   },
@@ -7120,6 +7481,12 @@
     },
     "done": true
   },
+  "fusion:thyrium_sword": {
+    "criteria": {
+      "has_item": "2025-05-02 00:04:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-05-01 23:43:04 +0000"
@@ -7132,6 +7499,36 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/claymore": {
+    "criteria": {
+      "has_redstone": "2025-05-02 00:00:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/powered_toggle_latch": {
+    "criteria": {
+      "has_item": "2025-05-02 00:00:09 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/panic_button": {
+    "criteria": {
+      "has_redstone": "2025-05-02 00:00:09 +0000"
+    },
+    "done": true
+  },
+  "fusion:thyrium_door": {
+    "criteria": {
+      "has_item": "2025-05-02 00:04:56 +0000"
+    },
+    "done": true
+  },
+  "fusion:thyrium_bricks": {
+    "criteria": {
+      "has_item": "2025-05-02 00:04:56 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/secret_bamboo_sign_item": {
     "criteria": {
       "has_sign": "2025-05-01 23:08:19 +0000"
@@ -7141,6 +7538,12 @@
   "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
       "has_brick": "2025-05-01 23:16:40 +0000"
+    },
+    "done": true
+  },
+  "fusion:thyrium_shears": {
+    "criteria": {
+      "has_item": "2025-05-02 00:04:56 +0000"
     },
     "done": true
   },
