@@ -7289,7 +7289,25 @@
     },
     "done": true
   },
+  "create:recipes/combat/crafting/appliances/netherite_diving_boots_from_netherite": {
+    "criteria": {
+      "has_item": "2025-05-02 19:42:05 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-05-02 19:57:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-05-02 19:57:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/raw_zinc_block": {
     "criteria": {
       "has_item": "2025-05-02 19:57:01 +0000"
     },
@@ -7301,21 +7319,45 @@
     },
     "done": true
   },
-  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
+  "justhammers:recipes/tools/impact_core": {
     "criteria": {
-      "has_item": "2025-05-02 19:57:01 +0000"
+      "has_the_recipe": "2025-05-02 20:03:53 +0000"
     },
     "done": true
   },
-  "create:recipes/combat/crafting/appliances/netherite_diving_boots_from_netherite": {
+  "justhammers:recipes/tools/diamond_reinforced_hammer": {
     "criteria": {
-      "has_item": "2025-05-02 19:42:05 +0000"
+      "has_material": "2025-05-02 20:04:02 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/materials/raw_zinc_block": {
+  "justhammers:recipes/tools/diamond_impact_hammer": {
     "criteria": {
-      "has_item": "2025-05-02 19:57:01 +0000"
+      "has_material": "2025-05-02 20:04:02 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/diamond_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-05-02 20:04:02 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/diamond_destructor_hammer": {
+    "criteria": {
+      "has_material": "2025-05-02 20:04:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-05-02 20:07:00 +0000"
+    },
+    "done": true
+  },
+  "mekanism:basic_control_circuit": {
+    "criteria": {
+      "basic_control_circuit": "2025-05-02 20:24:48 +0000"
     },
     "done": true
   },

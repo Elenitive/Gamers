@@ -3947,6 +3947,92 @@
     },
     "done": true
   },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-05-02 19:11:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_sword": "2025-05-02 19:11:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_sword": "2025-05-02 19:11:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/ornate_iron_window": {
+    "criteria": {
+      "has_ingredient": "2025-05-02 19:11:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-05-02 19:11:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-05-02 19:11:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-05-02 19:11:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-05-02 19:11:46 +0000"
+    },
+    "done": true
+  },
+  "buntsy:recipes/misc/gentlit_planks": {
+    "criteria": {
+      "TagKey[minecraft:item / buntsy:gentlit_logs]": "2025-05-02 19:13:08 +0000"
+    },
+    "done": true
+  },
+  "buntsy:recipes/misc/fairy_collection_tray": {
+    "criteria": {
+      "has_gentlit_log": "2025-05-02 19:13:08 +0000"
+    },
+    "done": true
+  },
+  "buntsy:recipes/misc/infusion_pedestal": {
+    "criteria": {
+      "has_gentlit_log": "2025-05-02 19:13:08 +0000"
+    },
+    "done": true
+  },
+  "buntsy:recipes/misc/fairy_infusion_bench": {
+    "criteria": {
+      "has_gentlit_log": "2025-05-02 19:13:08 +0000"
+    },
+    "done": true
+  },
+  "buntsy:recipes/misc/fairy_offering_bench": {
+    "criteria": {
+      "has_gentlit_log": "2025-05-02 19:13:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2025-05-02 20:00:11 +0000",
+      "glow_berries": "2025-05-02 19:59:55 +0000",
+      "golden_carrot": "2025-05-02 19:15:37 +0000"
+    },
+    "done": false
+  },
   "create:recipes/building_blocks/polished_cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-05-02 19:34:52 +0000"
@@ -3971,51 +4057,9 @@
     },
     "done": true
   },
-  "buntsy:recipes/misc/gentlit_planks": {
-    "criteria": {
-      "TagKey[minecraft:item / buntsy:gentlit_logs]": "2025-05-02 19:13:08 +0000"
-    },
-    "done": true
-  },
-  "buntsy:recipes/misc/fairy_collection_tray": {
-    "criteria": {
-      "has_gentlit_log": "2025-05-02 19:13:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_blasting": {
-    "criteria": {
-      "has_golden_sword": "2025-05-02 19:11:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/spyglass": {
-    "criteria": {
-      "has_amethyst_shard": "2025-05-02 19:36:28 +0000"
-    },
-    "done": true
-  },
-  "buntsy:recipes/misc/infusion_pedestal": {
-    "criteria": {
-      "has_gentlit_log": "2025-05-02 19:13:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
-    "criteria": {
-      "has_amethyst_shard": "2025-05-02 19:36:28 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/small_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-05-02 19:34:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/tinted_glass": {
-    "criteria": {
-      "has_amethyst_shard": "2025-05-02 19:36:28 +0000"
     },
     "done": true
   },
@@ -4031,21 +4075,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/ornate_iron_window": {
-    "criteria": {
-      "has_ingredient": "2025-05-02 19:11:44 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-02 19:34:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2025-05-02 19:11:46 +0000"
     },
     "done": true
   },
@@ -4085,51 +4117,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
-    "criteria": {
-      "has_iron_nugget": "2025-05-02 19:11:44 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
-    "criteria": {
-      "has_amethyst_shard": "2025-05-02 19:36:28 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/leafcutter_ant_pupa": {
-    "criteria": {
-      "leafcutter_ant_pupa": "2025-05-02 19:58:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_smelting": {
-    "criteria": {
-      "has_golden_sword": "2025-05-02 19:11:41 +0000"
-    },
-    "done": true
-  },
-  "buntsy:recipes/misc/fairy_infusion_bench": {
-    "criteria": {
-      "has_gentlit_log": "2025-05-02 19:13:08 +0000"
-    },
-    "done": true
-  },
-  "buntsy:recipes/misc/fairy_staff": {
-    "criteria": {
-      "has_amethyst_shard": "2025-05-02 19:36:28 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-02 19:34:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/smoker": {
-    "criteria": {
-      "has_furnace": "2025-05-02 19:50:18 +0000"
     },
     "done": true
   },
@@ -4175,12 +4165,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/flint_and_steel": {
-    "criteria": {
-      "has_obsidian": "2025-05-02 19:11:46 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/andesite_pillar_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-05-02 19:34:52 +0000"
@@ -4211,24 +4195,6 @@
     },
     "done": true
   },
-  "buntsy:recipes/misc/fairy_offering_bench": {
-    "criteria": {
-      "has_gentlit_log": "2025-05-02 19:13:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/amethyst_block": {
-    "criteria": {
-      "has_amethyst_shard": "2025-05-02 19:36:28 +0000"
-    },
-    "done": true
-  },
-  "artifacts:amateur_archaeologist": {
-    "criteria": {
-      "find_artifact": "2025-05-02 19:11:40 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/andesite_wall": {
     "criteria": {
       "has_andesite": "2025-05-02 19:34:52 +0000"
@@ -4241,15 +4207,93 @@
     },
     "done": true
   },
-  "minecraft:husbandry/balanced_diet": {
+  "minecraft:recipes/tools/spyglass": {
     "criteria": {
-      "golden_carrot": "2025-05-02 19:15:37 +0000"
+      "has_amethyst_shard": "2025-05-02 19:36:28 +0000"
     },
-    "done": false
+    "done": true
   },
-  "minecraft:recipes/decorations/enchanting_table": {
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
     "criteria": {
-      "has_obsidian": "2025-05-02 19:11:46 +0000"
+      "has_amethyst_shard": "2025-05-02 19:36:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-02 19:36:28 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-02 19:36:28 +0000"
+    },
+    "done": true
+  },
+  "buntsy:recipes/misc/fairy_staff": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-02 19:36:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-02 19:36:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-05-02 19:50:18 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/leafcutter_ant_pupa": {
+    "criteria": {
+      "leafcutter_ant_pupa": "2025-05-02 19:58:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-05-02 20:00:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-05-02 20:00:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
+    "criteria": {
+      "has_wheat": "2025-05-02 20:00:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-05-02 20:00:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-05-02 20:00:02 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/baker_hat": {
+    "criteria": {
+      "has_bread": "2025-05-02 20:00:08 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/hot_dog": {
+    "criteria": {
+      "has_bread": "2025-05-02 20:00:08 +0000"
     },
     "done": true
   },

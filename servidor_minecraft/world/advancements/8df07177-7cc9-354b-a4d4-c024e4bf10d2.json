@@ -4126,6 +4126,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-02 20:05:08 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/gold_reinforced_impact_hammer": {
     "criteria": {
       "has_material": "2025-05-02 19:29:34 +0000"
@@ -4138,9 +4144,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-02 20:05:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2025-05-02 20:05:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2025-05-02 20:05:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/melon": {
     "criteria": {
       "has_melon": "2025-05-02 19:19:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2025-05-02 20:05:08 +0000"
     },
     "done": true
   },
@@ -4153,6 +4183,18 @@
   "buntsy:recipes/misc/strawberry_seeds": {
     "criteria": {
       "has_strawberry": "2025-05-02 19:13:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/jungle_window": {
+    "criteria": {
+      "has_ingredient": "2025-05-02 20:05:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2025-05-02 20:05:08 +0000"
     },
     "done": true
   },
@@ -4174,9 +4216,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2025-05-02 20:05:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-05-02 19:49:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-02 20:05:08 +0000"
     },
     "done": true
   },
@@ -4207,6 +4261,12 @@
   "lootr:10loot": {
     "criteria": {
       "loot_stat": "2025-05-02 19:40:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-02 20:05:08 +0000"
     },
     "done": true
   },

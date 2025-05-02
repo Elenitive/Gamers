@@ -1,23 +1,23 @@
-[02May2025 19:03:55.548] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[02May2025 19:03:55.552] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1026-azure
-[02May2025 19:04:01.625] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[02May2025 19:04:01.680] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Gamers/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[02May2025 19:04:02.272] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Gamers/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[02May2025 19:04:02.277] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Gamers/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[02May2025 19:04:02.279] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Gamers/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[02May2025 19:04:02.281] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Gamers/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[02May2025 19:04:02.808] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[02May2025 19:04:02.810] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 16 dependencies adding them to mods collection
-[02May2025 19:04:06.304] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[02May2025 19:04:06.501] [main/ERROR] [mixin/]: Mixin config yuushya.mixins.json does not specify "minVersion" property
-[02May2025 19:04:06.544] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[02May2025 19:04:06.604] [main/WARN] [mixin/]: Reference map 'miniutilities.refmap.json' for miniutilities.mixins.json could not be read. If this is a development environment you can ignore this message
-[02May2025 19:04:06.611] [main/WARN] [mixin/]: Reference map 'trashslot.refmap.json' for trashslot.mixins.json could not be read. If this is a development environment you can ignore this message
-[02May2025 19:04:06.627] [main/WARN] [mixin/]: Reference map 'lemonlib.refmap.json' for lemonlib.mixins.json could not be read. If this is a development environment you can ignore this message
-[02May2025 19:04:06.795] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 131 options available, 0 override(s) found
-[02May2025 19:04:06.847] [main/WARN] [mixin/]: Reference map 'Mekanism_Extras.refmap.json' for mekanism_extras.mixins.json could not be read. If this is a development environment you can ignore this message
-[02May2025 19:04:06.878] [main/WARN] [mixin/]: Reference map 'justhammers-common-refmap.json' for justhammers-common.mixins.json could not be read. If this is a development environment you can ignore this message
-[02May2025 19:04:06.967] [main/INFO] [Puzzles Lib/]: Loading 86 mods:
+[02May2025 20:17:06.302] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[02May2025 20:17:06.305] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1026-azure
+[02May2025 20:17:08.572] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[02May2025 20:17:08.650] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Gamers/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[02May2025 20:17:09.111] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Gamers/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[02May2025 20:17:09.116] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Gamers/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[02May2025 20:17:09.119] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Gamers/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[02May2025 20:17:09.121] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Gamers/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[02May2025 20:17:09.476] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[02May2025 20:17:09.478] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 16 dependencies adding them to mods collection
+[02May2025 20:17:12.361] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[02May2025 20:17:12.520] [main/ERROR] [mixin/]: Mixin config yuushya.mixins.json does not specify "minVersion" property
+[02May2025 20:17:12.554] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[02May2025 20:17:12.602] [main/WARN] [mixin/]: Reference map 'miniutilities.refmap.json' for miniutilities.mixins.json could not be read. If this is a development environment you can ignore this message
+[02May2025 20:17:12.608] [main/WARN] [mixin/]: Reference map 'trashslot.refmap.json' for trashslot.mixins.json could not be read. If this is a development environment you can ignore this message
+[02May2025 20:17:12.619] [main/WARN] [mixin/]: Reference map 'lemonlib.refmap.json' for lemonlib.mixins.json could not be read. If this is a development environment you can ignore this message
+[02May2025 20:17:12.747] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 131 options available, 0 override(s) found
+[02May2025 20:17:12.781] [main/WARN] [mixin/]: Reference map 'Mekanism_Extras.refmap.json' for mekanism_extras.mixins.json could not be read. If this is a development environment you can ignore this message
+[02May2025 20:17:12.819] [main/WARN] [mixin/]: Reference map 'justhammers-common-refmap.json' for justhammers-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[02May2025 20:17:12.912] [main/INFO] [Puzzles Lib/]: Loading 86 mods:
 	- additionalstructures 4.2.2
 	- alexscaves 2.0.2
 	- alexsmobs 1.22.9
@@ -105,134 +105,134 @@
 	- trashslot 15.1.2
 	- waystones 14.1.11
 	- yuushya 2.2.2
-[02May2025 19:04:09.483] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[02May2025 19:04:17.805] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
+[02May2025 20:17:14.700] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[02May2025 20:17:20.943] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
 
-[02May2025 19:04:20.903] [modloading-worker-0/INFO] [Perfect Plushies/]: Hello Forge world!
-[02May2025 19:04:21.211] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
-[02May2025 19:04:21.232] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
-[02May2025 19:04:22.045] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[02May2025 19:04:22.053] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
-[02May2025 19:04:22.062] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
-[02May2025 19:04:22.063] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
-[02May2025 19:04:22.068] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
-[02May2025 19:04:22.070] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
-[02May2025 19:04:22.073] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
-[02May2025 19:04:22.078] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
-[02May2025 19:04:22.166] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.15...
-[02May2025 19:04:22.515] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[02May2025 19:04:22.515] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[02May2025 19:04:22.624] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for diagonalblocks:main
-[02May2025 19:04:23.325] [modloading-worker-0/INFO] [ironfurnaces.IronFurnaces/]: Initializing Update Checker...
-[02May2025 19:04:23.328] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Starting Update Check...
-[02May2025 19:04:23.372] [modloading-worker-0/INFO] [Material Elements/]: Thanks for using Material Elements (https://www.curseforge.com/minecraft/mc-mods/material-elements). I hope you enjoy the mod. :)
-[02May2025 19:04:23.375] [modloading-worker-0/INFO] [Material Elements/]: 🪨 Register Material Elements Potions ...
-[02May2025 19:04:23.380] [modloading-worker-0/INFO] [Material Elements/]: 🪨 Register Material Elements Blocks ...
-[02May2025 19:04:23.461] [modloading-worker-0/INFO] [Material Elements/]: 🪨 Register Material Elements Items ...
-[02May2025 19:04:24.195] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Update Check done!
-[02May2025 19:04:24.198] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Iron Furnaces is up to date!
-[02May2025 19:04:24.578] [modloading-worker-0/INFO] [com.simibubi.create.Create/]: Create 6.0.4 initializing! Commit hash: 254bb816aee1c056c74b2ad4beb88222a499da78
-[02May2025 19:04:25.814] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for diagonalfences:main
-[02May2025 19:04:26.787] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
-[02May2025 19:04:26.836] [modloading-worker-0/INFO] [MonoLib/]: Hello Forge world!
-[02May2025 19:04:26.841] [modloading-worker-0/INFO] [MonoLib/]: Hello from Common init on Forge! we are currently in a production environment!
-[02May2025 19:04:26.841] [modloading-worker-0/INFO] [MonoLib/]: The ID for diamonds is minecraft:diamond
-[02May2025 19:04:26.842] [modloading-worker-0/INFO] [MonoLib/]: Hello to monolib
-[02May2025 19:04:27.015] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
-[02May2025 19:04:29.451] [modloading-worker-0/INFO] [yuushya/]: Yuushya has been loaded successfully!
-[02May2025 19:04:30.178] [main/INFO] [Diagonal Blocks/]: Constructing shapes for ForgeDiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=24.0,ExtensionBottom=0.0,ExtensionTop=24.0] took 150ms
-[02May2025 19:04:30.222] [main/INFO] [Diagonal Blocks/]: Constructing shapes for ForgeDiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=16.0,ExtensionBottom=0.0,ExtensionTop=16.0] took 40ms
-[02May2025 19:04:30.330] [main/INFO] [Diagonal Blocks/]: Constructing shapes for ForgeDiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=1.0,NodeTop=16.0,ExtensionBottom=6.0,ExtensionTop=15.0] took 102ms
-[02May2025 19:04:35.296] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.sophiebun.buntsy.entity.animals.Silkbun from class net.sophiebun.buntsy.entity.animals.Hootcat
-[02May2025 19:04:35.296] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.sophiebun.buntsy.entity.animals.Silkbun from class net.sophiebun.buntsy.entity.animals.Hootcat
-[02May2025 19:04:35.296] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.sophiebun.buntsy.entity.animals.Silkbun from class net.sophiebun.buntsy.entity.animals.Hootcat
-[02May2025 19:04:35.297] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.sophiebun.buntsy.entity.animals.Silkbun from class net.sophiebun.buntsy.entity.animals.Hootcat
-[02May2025 19:04:35.313] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
-[02May2025 19:04:35.314] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.animal.sniffer.Sniffer from class com.mysticsbiomes.common.entity.animal.SeaOtter
-[02May2025 19:04:35.316] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
-[02May2025 19:04:35.317] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
-[02May2025 19:04:35.317] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
-[02May2025 19:04:35.317] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
-[02May2025 19:04:35.317] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
-[02May2025 19:04:35.317] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
-[02May2025 19:04:35.317] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
-[02May2025 19:04:35.318] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
-[02May2025 19:04:35.318] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
-[02May2025 19:04:35.318] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
-[02May2025 19:04:35.318] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
-[02May2025 19:04:35.318] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
-[02May2025 19:04:35.318] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
-[02May2025 19:04:35.319] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
-[02May2025 19:04:35.319] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
-[02May2025 19:04:35.319] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
-[02May2025 19:04:35.319] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
-[02May2025 19:04:35.319] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
-[02May2025 19:04:35.322] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
-[02May2025 19:04:35.730] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
-[02May2025 19:04:35.825] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Version 10.4.15 initializing...
-[02May2025 19:04:35.832] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [doggytalents] Starting version check at https://raw.githubusercontent.com/DashieDev/DoggyTalentsNext/0d05eaff7c4b588831ca6480f737187f44dda820/check_for_update/update.json
-[02May2025 19:04:35.873] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Loaded 'Mekanism: Generators' module.
-[02May2025 19:04:36.050] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Loaded 'Mekanism: Tools' module.
-[02May2025 19:04:36.100] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Fake player readout: UUID = 46e82cd0-d480-3d48-800a-77431ede078e, name = [Mekanism]
-[02May2025 19:04:36.104] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Mod loaded.
-[02May2025 19:04:36.156] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [doggytalents] Found status: BETA Current: 1.18.44 Target: 1.17.2
-[02May2025 19:04:36.157] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[02May2025 19:04:36.464] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: BETA Current: 5.10.3 Target: null
-[02May2025 19:04:36.465] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [additionalstructures] Starting version check at https://raw.githubusercontent.com/XxRexRaptorxX/Update-Checker/main/AdditionalStructures.json
-[02May2025 19:04:36.473] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [additionalstructures] Found status: UP_TO_DATE Current: 4.2.2 Target: null
-[02May2025 19:04:36.473] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
-[02May2025 19:04:36.482] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
-[02May2025 19:04:36.483] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[02May2025 19:04:36.722] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[02May2025 19:04:36.722] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_piglins] Starting version check at https://update.maxhenkel.de/forge/easy_piglins
-[02May2025 19:04:36.847] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_piglins] Found status: OUTDATED Current: 1.20.1-1.0.13 Target: 1.20.1-1.1.0
-[02May2025 19:04:36.847] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [diagonalblocks] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/diagonalblocks.json
-[02May2025 19:04:36.863] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [diagonalblocks] Found status: BETA Current: 8.0.5 Target: null
-[02May2025 19:04:36.866] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_villagers] Starting version check at https://update.maxhenkel.de/forge/easy_villagers
-[02May2025 19:04:36.889] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_villagers] Found status: OUTDATED Current: 1.20.1-1.1.23 Target: 1.20.1-1.1.27
-[02May2025 19:04:36.889] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[02May2025 19:04:37.044] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: OUTDATED Current: 1.9.12 Target: 1.10
-[02May2025 19:04:37.044] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [diagonalfences] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/diagonalfences.json
-[02May2025 19:04:37.054] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [diagonalfences] Found status: OUTDATED Current: 8.1.4 Target: 8.1.5
-[02May2025 19:04:37.055] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[02May2025 19:04:37.096] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.9.2 Target: 8.9.4
-[02May2025 19:04:37.096] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
-[02May2025 19:04:37.105] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: OUTDATED Current: 8.1.25 Target: 8.1.32
-[02May2025 19:04:37.128] [main/INFO] [journeymap/]: Initializing Packet Registries
-[02May2025 19:04:37.148] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[02May2025 19:04:37.149] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
-[02May2025 19:04:37.149] [main/INFO] [terrablender/]: Registered region buntsy:overworld_1 to index 1 for type OVERWORLD
-[02May2025 19:04:37.179] [main/INFO] [terrablender/]: Registered region mysticsbiomes:overworld_provider to index 2 for type OVERWORLD
-[02May2025 19:04:37.183] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 3 for type OVERWORLD
-[02May2025 19:04:37.183] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 4 for type OVERWORLD
-[02May2025 19:04:37.183] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 5 for type OVERWORLD
-[02May2025 19:04:37.183] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
-[02May2025 19:04:37.184] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
-[02May2025 19:04:37.411] [modloading-worker-0/INFO] [com.chiki.dragonfinder.DragonFinder/]: Hello world from the MDK
-[02May2025 19:04:37.414] [modloading-worker-0/INFO] [com.chiki.dragonfinder.DragonFinder/]: Got IMC [Hello world]
-[02May2025 19:04:37.506] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
-[02May2025 19:04:37.517] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.balm.forge.compat.hudinfo.ForgeJadeModCompat
-[02May2025 19:04:37.517] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[02May2025 19:04:37.537] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[02May2025 19:04:37.541] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[02May2025 19:04:37.543] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.easyvillagers.integration.waila.PluginEasyVillagers
-[02May2025 19:04:37.544] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at mekanism.common.integration.lookingat.jade.MekanismJadePlugin
-[02May2025 19:04:37.546] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
-[02May2025 19:04:37.547] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at xfacthd.framedblocks.common.compat.jade.FramedJadePlugin
-[02May2025 19:04:37.548] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
-[02May2025 19:04:50.574] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[02May2025 19:04:58.841] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Gamers/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23249!/assets/.mcassetsroot' uses unexpected schema
-[02May2025 19:04:58.841] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Gamers/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23249!/data/.mcassetsroot' uses unexpected schema
-[02May2025 19:04:59.458] [main/INFO] [com.simibubi.create.Create/]: Created 778 recipes which will be injected into the game
-[02May2025 19:04:59.481] [main/INFO] [com.simibubi.create.Create/]: Created 32 tags which will be injected into the game
-[02May2025 19:05:00.633] [main/INFO] [bettervillage/]: StructureSet modified for minecraft:village : Now using custom village configuration (can be disabled in the better villages config: boolean.villages.enabled_custom_config).
-[02May2025 19:05:03.144] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[02May2025 19:05:03.443] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag forge:rich_silicon_liquid_fuel as it is missing following references: mekanism_extras:rich_silicon_liquid_fuel (from mekanism_extras-1.20.1-1.3.7.2.jar), 
+[02May2025 20:17:21.504] [modloading-worker-0/INFO] [Perfect Plushies/]: Hello Forge world!
+[02May2025 20:17:21.775] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
+[02May2025 20:17:21.798] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
+[02May2025 20:17:22.290] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[02May2025 20:17:22.291] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[02May2025 20:17:22.295] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[02May2025 20:17:22.299] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[02May2025 20:17:22.304] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[02May2025 20:17:22.305] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[02May2025 20:17:22.314] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[02May2025 20:17:22.316] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[02May2025 20:17:22.476] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.15...
+[02May2025 20:17:22.690] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[02May2025 20:17:22.691] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[02May2025 20:17:22.777] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for diagonalblocks:main
+[02May2025 20:17:23.318] [modloading-worker-0/INFO] [ironfurnaces.IronFurnaces/]: Initializing Update Checker...
+[02May2025 20:17:23.326] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Starting Update Check...
+[02May2025 20:17:23.382] [modloading-worker-0/INFO] [Material Elements/]: Thanks for using Material Elements (https://www.curseforge.com/minecraft/mc-mods/material-elements). I hope you enjoy the mod. :)
+[02May2025 20:17:23.387] [modloading-worker-0/INFO] [Material Elements/]: 🪨 Register Material Elements Potions ...
+[02May2025 20:17:23.397] [modloading-worker-0/INFO] [Material Elements/]: 🪨 Register Material Elements Blocks ...
+[02May2025 20:17:23.484] [modloading-worker-0/INFO] [Material Elements/]: 🪨 Register Material Elements Items ...
+[02May2025 20:17:24.122] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Update Check done!
+[02May2025 20:17:24.123] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Iron Furnaces is up to date!
+[02May2025 20:17:24.435] [modloading-worker-0/INFO] [com.simibubi.create.Create/]: Create 6.0.4 initializing! Commit hash: 254bb816aee1c056c74b2ad4beb88222a499da78
+[02May2025 20:17:25.533] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for diagonalfences:main
+[02May2025 20:17:26.237] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[02May2025 20:17:26.283] [modloading-worker-0/INFO] [MonoLib/]: Hello Forge world!
+[02May2025 20:17:26.286] [modloading-worker-0/INFO] [MonoLib/]: Hello from Common init on Forge! we are currently in a production environment!
+[02May2025 20:17:26.287] [modloading-worker-0/INFO] [MonoLib/]: The ID for diamonds is minecraft:diamond
+[02May2025 20:17:26.287] [modloading-worker-0/INFO] [MonoLib/]: Hello to monolib
+[02May2025 20:17:26.467] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[02May2025 20:17:28.752] [modloading-worker-0/INFO] [yuushya/]: Yuushya has been loaded successfully!
+[02May2025 20:17:29.455] [main/INFO] [Diagonal Blocks/]: Constructing shapes for ForgeDiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=24.0,ExtensionBottom=0.0,ExtensionTop=24.0] took 110ms
+[02May2025 20:17:29.491] [main/INFO] [Diagonal Blocks/]: Constructing shapes for ForgeDiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=16.0,ExtensionBottom=0.0,ExtensionTop=16.0] took 33ms
+[02May2025 20:17:29.554] [main/INFO] [Diagonal Blocks/]: Constructing shapes for ForgeDiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=1.0,NodeTop=16.0,ExtensionBottom=6.0,ExtensionTop=15.0] took 57ms
+[02May2025 20:17:33.538] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.sophiebun.buntsy.entity.animals.Silkbun from class net.sophiebun.buntsy.entity.animals.Hootcat
+[02May2025 20:17:33.539] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.sophiebun.buntsy.entity.animals.Silkbun from class net.sophiebun.buntsy.entity.animals.Hootcat
+[02May2025 20:17:33.539] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.sophiebun.buntsy.entity.animals.Silkbun from class net.sophiebun.buntsy.entity.animals.Hootcat
+[02May2025 20:17:33.539] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.sophiebun.buntsy.entity.animals.Silkbun from class net.sophiebun.buntsy.entity.animals.Hootcat
+[02May2025 20:17:33.563] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
+[02May2025 20:17:33.564] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.animal.sniffer.Sniffer from class com.mysticsbiomes.common.entity.animal.SeaOtter
+[02May2025 20:17:33.567] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
+[02May2025 20:17:33.567] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
+[02May2025 20:17:33.567] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
+[02May2025 20:17:33.567] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
+[02May2025 20:17:33.568] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
+[02May2025 20:17:33.568] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
+[02May2025 20:17:33.568] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
+[02May2025 20:17:33.568] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
+[02May2025 20:17:33.568] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
+[02May2025 20:17:33.568] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
+[02May2025 20:17:33.568] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
+[02May2025 20:17:33.569] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
+[02May2025 20:17:33.569] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
+[02May2025 20:17:33.569] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
+[02May2025 20:17:33.569] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
+[02May2025 20:17:33.569] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
+[02May2025 20:17:33.569] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
+[02May2025 20:17:33.569] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
+[02May2025 20:17:33.570] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyEntityBase
+[02May2025 20:17:34.274] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
+[02May2025 20:17:34.360] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Version 10.4.15 initializing...
+[02May2025 20:17:34.406] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Loaded 'Mekanism: Generators' module.
+[02May2025 20:17:34.450] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [doggytalents] Starting version check at https://raw.githubusercontent.com/DashieDev/DoggyTalentsNext/0d05eaff7c4b588831ca6480f737187f44dda820/check_for_update/update.json
+[02May2025 20:17:34.570] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Loaded 'Mekanism: Tools' module.
+[02May2025 20:17:34.623] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Fake player readout: UUID = 46e82cd0-d480-3d48-800a-77431ede078e, name = [Mekanism]
+[02May2025 20:17:34.624] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Mod loaded.
+[02May2025 20:17:34.708] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [doggytalents] Found status: BETA Current: 1.18.44 Target: 1.17.2
+[02May2025 20:17:34.709] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[02May2025 20:17:35.010] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
+[02May2025 20:17:35.011] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [additionalstructures] Starting version check at https://raw.githubusercontent.com/XxRexRaptorxX/Update-Checker/main/AdditionalStructures.json
+[02May2025 20:17:35.026] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [additionalstructures] Found status: UP_TO_DATE Current: 4.2.2 Target: null
+[02May2025 20:17:35.026] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[02May2025 20:17:35.040] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
+[02May2025 20:17:35.042] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[02May2025 20:17:35.274] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[02May2025 20:17:35.277] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_piglins] Starting version check at https://update.maxhenkel.de/forge/easy_piglins
+[02May2025 20:17:35.345] [main/INFO] [journeymap/]: Initializing Packet Registries
+[02May2025 20:17:35.365] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[02May2025 20:17:35.365] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[02May2025 20:17:35.366] [main/INFO] [terrablender/]: Registered region buntsy:overworld_1 to index 1 for type OVERWORLD
+[02May2025 20:17:35.390] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_piglins] Found status: OUTDATED Current: 1.20.1-1.0.13 Target: 1.20.1-1.1.0
+[02May2025 20:17:35.391] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [diagonalblocks] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/diagonalblocks.json
+[02May2025 20:17:35.399] [main/INFO] [terrablender/]: Registered region mysticsbiomes:overworld_provider to index 2 for type OVERWORLD
+[02May2025 20:17:35.400] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [diagonalblocks] Found status: BETA Current: 8.0.5 Target: null
+[02May2025 20:17:35.401] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_villagers] Starting version check at https://update.maxhenkel.de/forge/easy_villagers
+[02May2025 20:17:35.403] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 3 for type OVERWORLD
+[02May2025 20:17:35.403] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 4 for type OVERWORLD
+[02May2025 20:17:35.404] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 5 for type OVERWORLD
+[02May2025 20:17:35.404] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[02May2025 20:17:35.405] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[02May2025 20:17:35.425] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_villagers] Found status: OUTDATED Current: 1.20.1-1.1.23 Target: 1.20.1-1.1.27
+[02May2025 20:17:35.426] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[02May2025 20:17:35.626] [modloading-worker-0/INFO] [com.chiki.dragonfinder.DragonFinder/]: Hello world from the MDK
+[02May2025 20:17:35.626] [modloading-worker-0/INFO] [com.chiki.dragonfinder.DragonFinder/]: Got IMC [Hello world]
+[02May2025 20:17:35.634] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: OUTDATED Current: 1.9.12 Target: 1.10
+[02May2025 20:17:35.638] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [diagonalfences] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/diagonalfences.json
+[02May2025 20:17:35.649] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [diagonalfences] Found status: OUTDATED Current: 8.1.4 Target: 8.1.5
+[02May2025 20:17:35.649] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[02May2025 20:17:35.664] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.9.2 Target: 8.9.4
+[02May2025 20:17:35.666] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[02May2025 20:17:35.680] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: OUTDATED Current: 8.1.25 Target: 8.1.32
+[02May2025 20:17:35.702] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
+[02May2025 20:17:35.716] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.balm.forge.compat.hudinfo.ForgeJadeModCompat
+[02May2025 20:17:35.717] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[02May2025 20:17:35.732] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[02May2025 20:17:35.738] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[02May2025 20:17:35.740] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.easyvillagers.integration.waila.PluginEasyVillagers
+[02May2025 20:17:35.741] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at mekanism.common.integration.lookingat.jade.MekanismJadePlugin
+[02May2025 20:17:35.743] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
+[02May2025 20:17:35.745] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at xfacthd.framedblocks.common.compat.jade.FramedJadePlugin
+[02May2025 20:17:35.745] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
+[02May2025 20:17:47.601] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[02May2025 20:17:54.482] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Gamers/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23249!/assets/.mcassetsroot' uses unexpected schema
+[02May2025 20:17:54.483] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Gamers/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23249!/data/.mcassetsroot' uses unexpected schema
+[02May2025 20:17:54.838] [main/INFO] [com.simibubi.create.Create/]: Created 778 recipes which will be injected into the game
+[02May2025 20:17:54.854] [main/INFO] [com.simibubi.create.Create/]: Created 32 tags which will be injected into the game
+[02May2025 20:17:55.476] [main/INFO] [bettervillage/]: StructureSet modified for minecraft:village : Now using custom village configuration (can be disabled in the better villages config: boolean.villages.enabled_custom_config).
+[02May2025 20:17:56.917] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[02May2025 20:17:56.995] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag forge:rich_silicon_liquid_fuel as it is missing following references: mekanism_extras:rich_silicon_liquid_fuel (from mekanism_extras-1.20.1-1.3.7.2.jar), 
 	mekanism_extras:flowing_rich_silicon_liquid_fuel (from mekanism_extras-1.20.1-1.3.7.2.jar)
-[02May2025 19:05:03.443] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag forge:rich_uranium_liquid_fuel as it is missing following references: mekanism_extras:rich_uranium_liquid_fuel (from mekanism_extras-1.20.1-1.3.7.2.jar), 
+[02May2025 20:17:56.995] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag forge:rich_uranium_liquid_fuel as it is missing following references: mekanism_extras:rich_uranium_liquid_fuel (from mekanism_extras-1.20.1-1.3.7.2.jar), 
 	mekanism_extras:flowing_rich_uranium_liquid_fuel (from mekanism_extras-1.20.1-1.3.7.2.jar)
-[02May2025 19:05:03.462] [Worker-Main-3/WARN] [artifacts.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-1.20.1-8.9.2.jar
-[02May2025 19:05:04.879] [Worker-Main-3/ERROR] [net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener/]: Couldn't parse data file mekanism_extras:reaction/enriched_radiance_gasification/enriched_radiance from mekanism_extras:recipes/reaction/enriched_radiance_gasification/enriched_radiance.json
+[02May2025 20:17:57.196] [Worker-Main-3/WARN] [artifacts.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-1.20.1-8.9.2.jar
+[02May2025 20:17:58.001] [Worker-Main-3/ERROR] [net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener/]: Couldn't parse data file mekanism_extras:reaction/enriched_radiance_gasification/enriched_radiance from mekanism_extras:recipes/reaction/enriched_radiance_gasification/enriched_radiance.json
 com.google.gson.JsonParseException: java.io.EOFException: End of input at line 1 column 1 path $
 	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:526) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
 	at net.minecraft.util.GsonHelper.m_263475_(GsonHelper.java:531) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
@@ -257,7 +257,7 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 	at com.google.gson.internal.bind.TypeAdapters$34$1.read(TypeAdapters.java:1007) ~[gson-2.10.jar%2372!/:?]
 	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:524) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
 	... 13 more
-[02May2025 19:05:04.930] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:naturalist:entities/tortoise
+[02May2025 20:17:58.027] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:naturalist:entities/tortoise
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'minecraft:turtle_scute'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -309,7 +309,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[02May2025 19:05:04.938] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:yuushya:blocks/painter_gift_box
+[02May2025 20:17:58.037] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:yuushya:blocks/painter_gift_box
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'yuushya:get_lit_item'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -361,7 +361,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[02May2025 19:05:04.998] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:buntsy:blocks/gentlit_door
+[02May2025 20:17:58.088] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:buntsy:blocks/gentlit_door
 com.google.gson.JsonSyntaxException: Block Block{buntsy:gentlit_slab} has no property half
 	at net.minecraft.world.level.storage.loot.predicates.LootItemBlockStatePropertyCondition$Serializer.m_81788_(LootItemBlockStatePropertyCondition.java:82) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
 	at net.minecraft.advancements.critereon.StatePropertiesPredicate$PropertyMatcher.m_67721_(StatePropertiesPredicate.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
@@ -422,7 +422,7 @@ com.google.gson.JsonSyntaxException: Block Block{buntsy:gentlit_slab} has no pro
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[02May2025 19:05:05.610] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:buntsy:blocks/bravot_door
+[02May2025 20:17:58.667] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:buntsy:blocks/bravot_door
 com.google.gson.JsonSyntaxException: Block Block{buntsy:bravot_slab} has no property half
 	at net.minecraft.world.level.storage.loot.predicates.LootItemBlockStatePropertyCondition$Serializer.m_81788_(LootItemBlockStatePropertyCondition.java:82) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
 	at net.minecraft.advancements.critereon.StatePropertiesPredicate$PropertyMatcher.m_67721_(StatePropertiesPredicate.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
@@ -483,7 +483,7 @@ com.google.gson.JsonSyntaxException: Block Block{buntsy:bravot_slab} has no prop
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[02May2025 19:05:05.855] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe buntsy:distilation/wrath_fume_2_from_distilation
+[02May2025 20:17:58.862] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe buntsy:distilation/wrath_fume_2_from_distilation
 com.google.gson.JsonSyntaxException: Unknown item 'minecraft:rotten_blend'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23254!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23254!/:?]
@@ -517,7 +517,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:rotten_blend'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[02May2025 19:05:05.876] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe seafoamsdyeableblocks:netherite_paintbrush_smithing
+[02May2025 20:17:58.882] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe seafoamsdyeableblocks:netherite_paintbrush_smithing
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -546,7 +546,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[02May2025 19:05:06.224] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe buntsy:distilation/wrath_fume_1_from_distilation
+[02May2025 20:17:58.945] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe buntsy:distilation/wrath_fume_1_from_distilation
 com.google.gson.JsonSyntaxException: Unknown item 'minecraft:rotten_blend'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23254!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23254!/:?]
@@ -580,7 +580,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:rotten_blend'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[02May2025 19:05:06.236] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe buntsy:distilation/wrath_fume_3_from_distilation
+[02May2025 20:17:58.955] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe buntsy:distilation/wrath_fume_3_from_distilation
 com.google.gson.JsonSyntaxException: Unknown item 'minecraft:rotten_blend'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23254!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23254!/:?]
@@ -614,7 +614,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:rotten_blend'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[02May2025 19:05:06.294] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe buntsy:advanced_infusion/oceanic_essence_from_adv_infusion
+[02May2025 20:17:58.988] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe buntsy:advanced_infusion/oceanic_essence_from_adv_infusion
 com.google.gson.JsonSyntaxException: Unknown item 'minecraft:sea_grass'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23254!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23254!/:?]
@@ -648,7 +648,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:sea_grass'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[02May2025 19:05:06.391] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe buntsy:advanced_infusion/beacon_strength_modifier_from_adv_infusion
+[02May2025 20:17:59.048] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe buntsy:advanced_infusion/beacon_strength_modifier_from_adv_infusion
 com.google.gson.JsonSyntaxException: Unknown item 'buntsy:diamond_sword'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23254!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23254!/:?]
@@ -682,7 +682,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'buntsy:diamond_sword'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[02May2025 19:05:06.675] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe yuushya:painter_gift_box
+[02May2025 20:17:59.084] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe yuushya:painter_gift_box
 com.google.gson.JsonSyntaxException: Unknown item 'yuushya:the_encyclopedia'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -720,7 +720,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'yuushya:the_encyclopedia'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[02May2025 19:05:06.719] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe seafoamsdyeableblocks:dye_sponge
+[02May2025 20:17:59.122] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe seafoamsdyeableblocks:dye_sponge
 com.google.gson.JsonSyntaxException: Unknown item 'minecraft:color_essence'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -758,706 +758,138 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:color_essence'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[02May2025 19:05:06.734] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 61 recipes
-[02May2025 19:05:07.120] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 5441 advancements
-[02May2025 19:05:07.238] [main/INFO] [rechiseled/]: Loaded 44 chiseling recipes
-[02May2025 19:05:07.240] [main/INFO] [Dungeon Crawl/]: Loading data...
-[02May2025 19:05:07.527] [main/INFO] [Dungeon Crawl/]: Done.
-[02May2025 19:05:07.564] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 13 curio slots
-[02May2025 19:05:07.582] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio entities
-[02May2025 19:05:07.584] [main/ERROR] [bettervillage/]: Ice And Fire compatibility is not enabled for Better Village and Ice And Fire is present in your mod list.
+[02May2025 20:17:59.134] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 61 recipes
+[02May2025 20:17:59.326] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 5441 advancements
+[02May2025 20:17:59.330] [main/INFO] [rechiseled/]: Loaded 44 chiseling recipes
+[02May2025 20:17:59.331] [main/INFO] [Dungeon Crawl/]: Loading data...
+[02May2025 20:17:59.553] [main/INFO] [Dungeon Crawl/]: Done.
+[02May2025 20:17:59.577] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 13 curio slots
+[02May2025 20:17:59.585] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio entities
+[02May2025 20:17:59.586] [main/ERROR] [bettervillage/]: Ice And Fire compatibility is not enabled for Better Village and Ice And Fire is present in your mod list.
      - Please install the datapack for better compatibility between Better Villages and Ice And Fire.
      - You can find the datapack URL in the `compatibility` section of the Better Villages description.
      - URL=https://www.curseforge.com/minecraft/mc-mods/better-village-forge
-[02May2025 19:05:16.993] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[02May2025 19:05:16.994] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[02May2025 19:05:16.994] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[02May2025 19:05:16.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[02May2025 19:05:17.175] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[02May2025 19:05:17.230] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[02May2025 19:05:17.344] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02May2025 19:05:17.345] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[02May2025 19:05:17.345] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02May2025 19:05:17.345] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[02May2025 19:05:17.403] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/jei-server.toml is not correct. Correcting
-[02May2025 19:05:17.407] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cheat mode was corrected from null to its default, SimpleCommentedConfig:{}. 
-[02May2025 19:05:17.409] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cheat mode.enableCheatModeForOp was corrected from null to its default, true. 
-[02May2025 19:05:17.410] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cheat mode.enableCheatModeForCreative was corrected from null to its default, true. 
-[02May2025 19:05:17.412] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cheat mode.enableCheatModeForGive was corrected from null to its default, false. 
-[02May2025 19:05:17.424] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[02May2025 19:05:17.463] [Server thread/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: Loading "Easier Sleeping" SERVER Config
-[02May2025 19:05:17.464] [Server thread/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: sleep_message = is now in bed.
-[02May2025 19:05:17.464] [Server thread/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: dimension_list_type = SLEEP_ACTIVE
-[02May2025 19:05:17.465] [Server thread/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: wake_message = stood up.
-[02May2025 19:05:17.466] [Server thread/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: block_blacklist = []
-[02May2025 19:05:17.467] [Server thread/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: sleep_percent = 50
-[02May2025 19:05:17.468] [Server thread/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: morning_message = Good Morning
-[02May2025 19:05:17.469] [Server thread/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: all_players_rest = false
-[02May2025 19:05:17.471] [Server thread/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: dimensions = [minecraft:overworld]
-[02May2025 19:05:17.471] [Server thread/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: "Easier Sleeping" SERVER Config loaded
-[02May2025 19:05:17.472] [Thread-2/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: Loading "Easier Sleeping" SERVER Config
-[02May2025 19:05:17.472] [Thread-2/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: sleep_message = is now in bed.
-[02May2025 19:05:17.472] [Thread-2/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: dimension_list_type = SLEEP_ACTIVE
-[02May2025 19:05:17.472] [Thread-2/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: wake_message = stood up.
-[02May2025 19:05:17.473] [Thread-2/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: block_blacklist = []
-[02May2025 19:05:17.473] [Thread-2/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: sleep_percent = 50
-[02May2025 19:05:17.473] [Thread-2/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: morning_message = Good Morning
-[02May2025 19:05:17.473] [Thread-2/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: all_players_rest = false
-[02May2025 19:05:17.473] [Thread-2/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: dimensions = [minecraft:overworld]
-[02May2025 19:05:17.473] [Thread-2/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: "Easier Sleeping" SERVER Config loaded
-[02May2025 19:05:18.967] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[02May2025 19:05:18.968] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[02May2025 19:05:18.972] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[02May2025 19:05:20.491] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyBedEntity
-[02May2025 19:05:20.492] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyBedEntity
-[02May2025 19:05:20.492] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyBedEntity
-[02May2025 19:05:20.493] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyBedEntity
-[02May2025 19:05:20.494] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyBedEntity
-[02May2025 19:05:20.494] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyBedEntity
-[02May2025 19:05:20.495] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyBedEntity
-[02May2025 19:05:20.501] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.projectile.FishingHook from class net.heyimamethyst.fairyfactions.entities.FairyFishHookEntity
-[02May2025 19:05:20.505] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.projectile.FishingHook from class net.heyimamethyst.fairyfactions.entities.FairyFishHookEntity
-[02May2025 19:05:24.146] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[02May2025 19:05:28.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[02May2025 19:05:30.895] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02May2025 19:05:30.960] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02May2025 19:05:31.007] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02May2025 19:05:31.011] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02May2025 19:05:31.022] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02May2025 19:05:31.571] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02May2025 19:05:31.579] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02May2025 19:05:32.609] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02May2025 19:05:32.611] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02May2025 19:05:34.308] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02May2025 19:05:34.313] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02May2025 19:05:34.316] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02May2025 19:05:34.630] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02May2025 19:05:35.511] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02May2025 19:05:35.560] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02May2025 19:05:36.058] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02May2025 19:05:36.558] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 43%
-[02May2025 19:05:37.059] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 97%
-[02May2025 19:05:37.090] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 8532 ms
-[02May2025 19:05:37.091] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (19.723s)! For help, type "help"
-[02May2025 19:05:37.288] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[02May2025 19:05:37.342] [Server thread/INFO] [com.chiki.dragonfinder.DragonFinder/]: HELLO from server starting
-[02May2025 19:05:38.720] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
-[02May2025 19:05:38.721] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
-[02May2025 19:05:54.475] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
-[02May2025 19:05:54.631] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: oinatzz[/127.26.24.66:60663] logged in with entity id 811 at (-508.64969607183724, 64.0, 11.913567910888817)
-[02May2025 19:05:54.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oinatzz joined the game
-[02May2025 19:05:54.893] [Server thread/INFO] [Jade/]: Syncing config to oinatzz (83cecf99-f81d-3c85-9d1f-176e5309290c)
-[02May2025 19:06:00.657] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6086ms or 121 ticks behind
-[02May2025 19:06:15.080] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ivii[/127.1.114.128:41367] logged in with entity id 1040 at (-518.6909050441784, 65.0, 9.037702356894867)
-[02May2025 19:06:15.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivii joined the game
-[02May2025 19:06:15.246] [Server thread/INFO] [Jade/]: Syncing config to ivii (7cdb0d64-19f0-3c6c-95d6-c3907a315282)
-[02May2025 19:06:15.755] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Franramen[/127.103.82.48:49005] logged in with entity id 1048 at (-535.5196861231295, 63.0, 31.16768606219855)
-[02May2025 19:06:15.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Franramen joined the game
-[02May2025 19:06:15.888] [Server thread/INFO] [Jade/]: Syncing config to Franramen (48aae977-46a7-353b-a3ce-41f36613a51b)
-[02May2025 19:06:17.874] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@42143ab7[id=<null>,name=Ich1goM1rukuu,properties={},legacy=false] (/127.212.133.0:43243) lost connection: Disconnected
-[02May2025 19:06:28.286] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ich1goM1rukuu[/127.212.133.0:55913] logged in with entity id 1086 at (1717.3775310506558, 72.0, 172.02539993806266)
-[02May2025 19:06:28.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu joined the game
-[02May2025 19:06:28.357] [Server thread/INFO] [Jade/]: Syncing config to Ich1goM1rukuu (1bb4c909-b771-3893-aca7-1b6637a25cff)
-[02May2025 19:06:31.198] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2875ms or 57 ticks behind
-[02May2025 19:06:48.759] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/1106, l='ServerLevel[world]', x=1756.61, y=66.50, z=139.80] died, message: 'Unemployed suffocated in a wall'
-[02May2025 19:08:05.738] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: darkblader69[/127.79.89.20:42119] logged in with entity id 2449 at (1726.9136996094232, 66.0, 123.01787588710887)
-[02May2025 19:08:05.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 joined the game
-[02May2025 19:08:05.906] [Server thread/INFO] [Jade/]: Syncing config to darkblader69 (c5ed7fb1-b56d-3780-a140-29be33768a49)
-[02May2025 19:08:08.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Book of Monsters]
-[02May2025 19:08:08.294] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: delaromer[/127.207.64.158:33687] logged in with entity id 2529 at (-1661.709373075418, 63.33331625896583, -908.2270759304644)
-[02May2025 19:08:08.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: delaromer joined the game
-[02May2025 19:08:08.354] [Server thread/INFO] [Jade/]: Syncing config to delaromer (1cd30115-5386-3404-bf03-6a4199d9f014)
-[02May2025 19:08:11.221] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ivii moved too quickly! -8.7092894832424,1.314703340253729,-5.129853557985939
-[02May2025 19:08:11.231] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2910ms or 58 ticks behind
-[02May2025 19:08:13.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Would you Like to Know More?]
-[02May2025 19:08:15.503] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Elenitive[/127.60.88.4:54697] logged in with entity id 2618 at (-17.749614810608673, -58.0, -2558.6856437372453)
-[02May2025 19:08:15.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elenitive joined the game
-[02May2025 19:08:15.558] [Server thread/INFO] [Jade/]: Syncing config to Elenitive (2220527c-f40a-3f64-a9d3-9d22926aa118)
-[02May2025 19:08:17.347] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: camilation9[/127.212.124.247:39259] logged in with entity id 2650 at (-349.4670876117102, 63.0, -170.89906999393375)
-[02May2025 19:08:17.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilation9 joined the game
-[02May2025 19:08:17.431] [Server thread/INFO] [Jade/]: Syncing config to camilation9 (8df07177-7cc9-354b-a4d4-c024e4bf10d2)
-[02May2025 19:08:24.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oinatzz has made the advancement [Ashes 'n Bones]
-[02May2025 19:08:26.988] [Server thread/ERROR] [net.minecraft.world.entity.ai.village.poi.PoiSection/]: POI data mismatch: never registered at BlockPos{x=1728, y=66, z=127}
-[02May2025 19:08:29.243] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3022ms or 60 ticks behind
-[02May2025 19:08:29.650] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemOnPacket@4e963283, suppressing error
-java.util.NoSuchElementException: No value present
-	at java.util.Optional.get(Optional.java:143) ~[?:?]
-	at com.nyfaria.perfectplushieapi.loot.VillageLootModifier.doApply(VillageLootModifier.java:43) ~[perfectplushieapi-forge-1.20.1-0.1.1.jar%23284!/:0.1.1]
-	at net.minecraftforge.common.loot.LootModifier.apply(LootModifier.java:58) ~[forge-1.20.1-47.3.7-universal.jar%23254!/:?]
-	at net.minecraftforge.common.ForgeHooks.modifyLoot(ForgeHooks.java:1186) ~[forge-1.20.1-47.3.7-universal.jar%23254!/:?]
-	at net.minecraft.world.level.storage.loot.LootTable.m_230922_(LootTable.java:118) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.world.level.storage.loot.LootTable.m_287188_(LootTable.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at noobanidus.mods.lootr.block.entities.LootrChestBlockEntity.unpackLootTable(LootrChestBlockEntity.java:279) ~[lootr-forge-1.20-0.7.35.90.jar%23220!/:0.7.35.90]
-	at noobanidus.mods.lootr.data.ChestData.createInventory(ChestData.java:363) ~[lootr-forge-1.20-0.7.35.90.jar%23220!/:0.7.35.90]
-	at noobanidus.mods.lootr.data.DataStorage.getInventory(DataStorage.java:338) ~[lootr-forge-1.20-0.7.35.90.jar%23220!/:0.7.35.90]
-	at noobanidus.mods.lootr.util.ChestUtil.handleLootChest(ChestUtil.java:142) ~[lootr-forge-1.20-0.7.35.90.jar%23220!/:0.7.35.90]
-	at noobanidus.mods.lootr.block.LootrChestBlock.m_6227_(LootrChestBlock.java:50) ~[lootr-forge-1.20-0.7.35.90.jar%23220!/:0.7.35.90]
-	at net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.m_60664_(BlockBehaviour.java:778) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:343) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1055) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[02May2025 19:08:30.366] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemOnPacket@534082b1, suppressing error
-java.util.NoSuchElementException: No value present
-	at java.util.Optional.get(Optional.java:143) ~[?:?]
-	at com.nyfaria.perfectplushieapi.loot.VillageLootModifier.doApply(VillageLootModifier.java:43) ~[perfectplushieapi-forge-1.20.1-0.1.1.jar%23284!/:0.1.1]
-	at net.minecraftforge.common.loot.LootModifier.apply(LootModifier.java:58) ~[forge-1.20.1-47.3.7-universal.jar%23254!/:?]
-	at net.minecraftforge.common.ForgeHooks.modifyLoot(ForgeHooks.java:1186) ~[forge-1.20.1-47.3.7-universal.jar%23254!/:?]
-	at net.minecraft.world.level.storage.loot.LootTable.m_230922_(LootTable.java:118) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.world.level.storage.loot.LootTable.m_287188_(LootTable.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at noobanidus.mods.lootr.block.entities.LootrChestBlockEntity.unpackLootTable(LootrChestBlockEntity.java:279) ~[lootr-forge-1.20-0.7.35.90.jar%23220!/:0.7.35.90]
-	at noobanidus.mods.lootr.data.ChestData.createInventory(ChestData.java:363) ~[lootr-forge-1.20-0.7.35.90.jar%23220!/:0.7.35.90]
-	at noobanidus.mods.lootr.data.DataStorage.getInventory(DataStorage.java:338) ~[lootr-forge-1.20-0.7.35.90.jar%23220!/:0.7.35.90]
-	at noobanidus.mods.lootr.util.ChestUtil.handleLootChest(ChestUtil.java:142) ~[lootr-forge-1.20-0.7.35.90.jar%23220!/:0.7.35.90]
-	at noobanidus.mods.lootr.block.LootrChestBlock.m_6227_(LootrChestBlock.java:50) ~[lootr-forge-1.20-0.7.35.90.jar%23220!/:0.7.35.90]
-	at net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.m_60664_(BlockBehaviour.java:778) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:343) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1055) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[02May2025 19:08:32.307] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6a7650e4[id=<null>,name=NDNatsu,properties={},legacy=false] (/127.78.202.76:45757) lost connection: Disconnected
-[02May2025 19:08:38.044] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Apatata2[/127.172.79.56:59481] logged in with entity id 3663 at (23.5, 63.0, 26.5)
-[02May2025 19:08:38.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Apatata2 joined the game
-[02May2025 19:08:38.194] [Server thread/INFO] [Jade/]: Syncing config to Apatata2 (8cded0b7-9bc6-372c-b7a7-316343a813b4)
-[02May2025 19:08:38.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Apatata2 has made the advancement [Ice and Fire]
-[02May2025 19:08:41.361] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NDNatsu[/127.78.202.76:42991] logged in with entity id 3915 at (-1612.2901555919047, 61.85611207111073, -906.4693330384953)
-[02May2025 19:08:41.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NDNatsu joined the game
-[02May2025 19:08:41.415] [Server thread/INFO] [Jade/]: Syncing config to NDNatsu (fdd3900c-e272-360a-81eb-35b982fbe309)
-[02May2025 19:08:43.038] [Server thread/WARN] [tombstone/]: The death event of the player Elenitive was canceled by another mod
-[02May2025 19:08:43.107] [Server thread/INFO] [tombstone/]: The player Elenitive has successfully been saved
-[02May2025 19:08:47.360] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3139ms or 62 ticks behind
-[02May2025 19:08:52.542] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Christianico79[/127.7.52.162:48787] logged in with entity id 4114 at (-634.1074347684814, 65.25220334025373, 910.0682710209035)
-[02May2025 19:08:52.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Christianico79 joined the game
-[02May2025 19:08:52.573] [Server thread/INFO] [Jade/]: Syncing config to Christianico79 (de749e46-4d34-3fd9-99d9-092d880a1707)
-[02May2025 19:08:57.716] [Server thread/WARN] [tombstone/]: The death event of the player NDNatsu was canceled by another mod
-[02May2025 19:08:57.748] [Server thread/INFO] [tombstone/]: The player NDNatsu has successfully been saved
-[02May2025 19:08:59.840] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Apatata2 lost connection: Disconnected
-[02May2025 19:08:59.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Apatata2 left the game
-[02May2025 19:09:07.663] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5342ms or 106 ticks behind
-[02May2025 19:09:19.381] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityAnteater['Anteater'/5066, l='ServerLevel[world]', x=-632.50, y=63.00, z=883.50]
-[02May2025 19:09:20.924] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2ba6b084[id=<null>,name=aaleexx17,properties={},legacy=false] (/127.165.157.203:59485) lost connection: Timed out
-[02May2025 19:09:22.180] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YiruiKonigLover[/127.192.218.146:33785] logged in with entity id 5156 at (-667.4154633190641, 66.0, 816.858238093944)
-[02May2025 19:09:22.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YiruiKonigLover joined the game
-[02May2025 19:09:22.235] [Server thread/INFO] [Jade/]: Syncing config to YiruiKonigLover (a30da2c7-2784-3181-917c-adcd1b7b8875)
-[02May2025 19:09:29.793] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7172ms or 143 ticks behind
-[02May2025 19:09:33.180] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Apatata2[/127.172.79.56:34947] logged in with entity id 5434 at (22.956031413157586, 63.0, 28.42519315206391)
-[02May2025 19:09:33.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Apatata2 joined the game
-[02May2025 19:09:33.248] [Server thread/INFO] [Jade/]: Syncing config to Apatata2 (8cded0b7-9bc6-372c-b7a7-316343a813b4)
-[02May2025 19:09:38.174] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: aaleexx17[/127.165.157.203:43233] logged in with entity id 5663 at (-7.699999988079071, -58.0, -2541.3173537059915)
-[02May2025 19:09:38.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 joined the game
-[02May2025 19:09:38.204] [Server thread/INFO] [Jade/]: Syncing config to aaleexx17 (da3b3c16-4900-3258-b19f-de1883847307)
-[02May2025 19:09:47.338] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2567ms or 51 ticks behind
-[02May2025 19:09:49.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Apatata2> Ke pasa
-[02May2025 19:09:58.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ich1goM1rukuu> aloo
-[02May2025 19:10:07.723] [Server thread/WARN] [tombstone/]: The death event of the player aaleexx17 was canceled by another mod
-[02May2025 19:10:07.727] [Server thread/INFO] [tombstone/]: The player aaleexx17 has successfully been saved
-[02May2025 19:10:07.800] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5479ms or 109 ticks behind
-[02May2025 19:10:09.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elenitive has made the advancement [Draconic Evolution]
-[02May2025 19:10:18.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 suffocated in a wall
-[02May2025 19:10:18.886] [Server thread/INFO] [tombstone/]: The player aaleexx17 has successfully been saved
-[02May2025 19:10:22.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Mhhh will it cut wood?]
-[02May2025 19:10:28.811] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6040ms or 120 ticks behind
-[02May2025 19:10:31.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NDNatsu has made the advancement [Not Today, Thank You]
-[02May2025 19:10:33.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NDNatsu has made the advancement [Ambush]
-[02May2025 19:10:41.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Book of Monsters]
-[02May2025 19:10:43.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Would you Like to Know More?]
-[02May2025 19:10:48.562] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4791ms or 95 ticks behind
-[02May2025 19:11:08.901] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5380ms or 107 ticks behind
-[02May2025 19:11:30.279] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6408ms or 128 ticks behind
-[02May2025 19:11:40.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YiruiKonigLover has made the advancement [Amateur Archaeologist]
-[02May2025 19:11:46.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YiruiKonigLover has made the advancement [Ice Bucket Challenge]
-[02May2025 19:11:47.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: delaromer has made the advancement [Once Upon a Cave]
-[02May2025 19:11:53.542] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8272ms or 165 ticks behind
-[02May2025 19:12:19.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Chompy]
-[02May2025 19:12:19.839] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11318ms or 226 ticks behind
-[02May2025 19:12:46.132] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11311ms or 226 ticks behind
-[02May2025 19:13:05.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has completed the challenge [Centennial]
-[02May2025 19:13:09.899] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8778ms or 175 ticks behind
-[02May2025 19:13:31.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <aaleexx17> al proximo que haga que pete el server haciendo cosas que no se pueden lo mato hasta q se canse de jugar, buenas tardes
-[02May2025 19:13:33.381] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8510ms or 170 ticks behind
-[02May2025 19:13:55.219] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6848ms or 136 ticks behind
-[02May2025 19:14:22.094] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11923ms or 238 ticks behind
-[02May2025 19:14:25.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Rotten to the Core]
-[02May2025 19:14:44.050] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6979ms or 139 ticks behind
-[02May2025 19:14:45.214] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: delaromer lost connection: Disconnected
-[02May2025 19:14:45.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: delaromer left the game
-[02May2025 19:14:45.820] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NDNatsu lost connection: Disconnected
-[02May2025 19:14:45.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NDNatsu left the game
-[02May2025 19:14:52.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ich1goM1rukuu> q paso?
-[02May2025 19:14:59.227] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NDNatsu[/127.78.202.76:60893] logged in with entity id 12705 at (-2026.436727774846, 62.726835527210994, -1557.668460350261)
-[02May2025 19:14:59.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NDNatsu joined the game
-[02May2025 19:14:59.253] [Server thread/INFO] [Jade/]: Syncing config to NDNatsu (fdd3900c-e272-360a-81eb-35b982fbe309)
-[02May2025 19:15:04.995] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5975ms or 119 ticks behind
-[02May2025 19:15:28.317] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8346ms or 166 ticks behind
-[02May2025 19:15:28.874] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@356c8e8b[id=<null>,name=delaromer,properties={},legacy=false] (/127.207.64.158:35203) lost connection: Disconnected
-[02May2025 19:15:29.650] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: darkblader69 lost connection: Disconnected
-[02May2025 19:15:29.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 left the game
-[02May2025 19:15:48.315] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: darkblader69[/127.79.89.20:54515] logged in with entity id 13905 at (1795.681658037384, 63.0, 175.29186914274894)
-[02May2025 19:15:48.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 joined the game
-[02May2025 19:15:48.410] [Server thread/INFO] [Jade/]: Syncing config to darkblader69 (c5ed7fb1-b56d-3780-a140-29be33768a49)
-[02May2025 19:15:56.809] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13538ms or 270 ticks behind
-[02May2025 19:16:07.312] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@12104731[id=<null>,name=delaromer,properties={},legacy=false] (/127.207.64.158:40219) lost connection: Disconnected
-[02May2025 19:16:18.186] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6415ms or 128 ticks behind
-[02May2025 19:16:18.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ich1goM1rukuu> estoy en un pueblo
-[02May2025 19:16:20.329] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-475, y=63, z=-31} BlockPos{x=-477, y=62, z=-31}
-[02May2025 19:16:20.410] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-475, y=63, z=-31} BlockPos{x=-477, y=62, z=-31}
-[02May2025 19:16:21.885] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: delaromer[/127.207.64.158:33201] logged in with entity id 14991 at (-2025.0808315700654, 63.08576431274413, -1555.8610209387823)
-[02May2025 19:16:21.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: delaromer joined the game
-[02May2025 19:16:21.943] [Server thread/INFO] [Jade/]: Syncing config to delaromer (1cd30115-5386-3404-bf03-6a4199d9f014)
-[02May2025 19:16:21.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has completed the challenge [Centennial]
-[02May2025 19:16:24.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ich1goM1rukuu> si alguien quiere venir
-[02May2025 19:16:30.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Apatata2 has made the advancement [Monster Hunter]
-[02May2025 19:16:39.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ich1goM1rukuu> hay waypoint para q los guardeis y podais venir cuando necesiteis
-[02May2025 19:16:40.888] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7718ms or 154 ticks behind
-[02May2025 19:16:42.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Apatata2 has made the advancement [A Strange Grave Dust]
-[02May2025 19:17:06.687] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10816ms or 216 ticks behind
-[02May2025 19:17:22.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franramen> puede dormir alguien??
-[02May2025 19:17:32.146] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10475ms or 209 ticks behind
-[02May2025 19:17:42.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franramen> ty
-[02May2025 19:17:46.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ich1goM1rukuu> ^^
-[02May2025 19:18:01.105] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13984ms or 279 ticks behind
-[02May2025 19:18:25.500] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9429ms or 188 ticks behind
-[02May2025 19:18:56.112] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15642ms or 312 ticks behind
-[02May2025 19:19:23.585] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12514ms or 250 ticks behind
-[02May2025 19:19:24.502] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemOnPacket@5cf652b9, suppressing error
-java.util.NoSuchElementException: No value present
-	at java.util.Optional.get(Optional.java:143) ~[?:?]
-	at com.nyfaria.perfectplushieapi.loot.VillageLootModifier.doApply(VillageLootModifier.java:43) ~[perfectplushieapi-forge-1.20.1-0.1.1.jar%23284!/:0.1.1]
-	at net.minecraftforge.common.loot.LootModifier.apply(LootModifier.java:58) ~[forge-1.20.1-47.3.7-universal.jar%23254!/:?]
-	at net.minecraftforge.common.ForgeHooks.modifyLoot(ForgeHooks.java:1186) ~[forge-1.20.1-47.3.7-universal.jar%23254!/:?]
-	at net.minecraft.world.level.storage.loot.LootTable.m_230922_(LootTable.java:118) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.world.level.storage.loot.LootTable.m_287188_(LootTable.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at noobanidus.mods.lootr.block.entities.LootrChestBlockEntity.unpackLootTable(LootrChestBlockEntity.java:279) ~[lootr-forge-1.20-0.7.35.90.jar%23220!/:0.7.35.90]
-	at noobanidus.mods.lootr.data.ChestData.createInventory(ChestData.java:363) ~[lootr-forge-1.20-0.7.35.90.jar%23220!/:0.7.35.90]
-	at noobanidus.mods.lootr.data.DataStorage.getInventory(DataStorage.java:338) ~[lootr-forge-1.20-0.7.35.90.jar%23220!/:0.7.35.90]
-	at noobanidus.mods.lootr.util.ChestUtil.handleLootChest(ChestUtil.java:142) ~[lootr-forge-1.20-0.7.35.90.jar%23220!/:0.7.35.90]
-	at noobanidus.mods.lootr.block.LootrChestBlock.m_6227_(LootrChestBlock.java:50) ~[lootr-forge-1.20-0.7.35.90.jar%23220!/:0.7.35.90]
-	at net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.m_60664_(BlockBehaviour.java:778) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:343) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1055) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[02May2025 19:19:52.424] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13853ms or 277 ticks behind
-[02May2025 19:20:35.436] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 28015ms or 560 ticks behind
-[02May2025 19:21:13.557] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NDNatsu) moved wrongly! 0.48298764989112897
-[02May2025 19:21:13.852] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NDNatsu) moved wrongly! 0.4421440786304629
-[02May2025 19:21:13.873] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NDNatsu) moved wrongly! 0.434120362538124
-[02May2025 19:21:13.875] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NDNatsu) moved wrongly! 0.6809979965228194
-[02May2025 19:21:13.877] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NDNatsu) moved wrongly! 0.9190567410773838
-[02May2025 19:21:14.023] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NDNatsu) moved wrongly! 1.5578062674803732
-[02May2025 19:21:14.028] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NDNatsu) moved wrongly! 1.195398748685875
-[02May2025 19:21:14.033] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NDNatsu) moved wrongly! 0.8268482596645299
-[02May2025 19:21:14.037] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NDNatsu) moved wrongly! 0.4645599371233402
-[02May2025 19:21:14.217] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NDNatsu) moved wrongly! 0.5142842308064246
-[02May2025 19:21:14.218] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NDNatsu) moved wrongly! 0.5142842308064246
-[02May2025 19:21:14.219] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NDNatsu) moved wrongly! 0.5142842308064246
-[02May2025 19:21:14.220] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NDNatsu) moved wrongly! 0.5142842308064246
-[02May2025 19:21:14.221] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NDNatsu) moved wrongly! 0.7048081246034599
-[02May2025 19:21:14.306] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NDNatsu) moved wrongly! 0.5812884069455322
-[02May2025 19:21:14.307] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NDNatsu) moved wrongly! 0.5812884069455322
-[02May2025 19:21:14.307] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NDNatsu) moved wrongly! 0.5812884069455322
-[02May2025 19:21:14.307] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NDNatsu) moved wrongly! 0.5812884069455322
-[02May2025 19:21:14.307] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NDNatsu) moved wrongly! 0.5812884069455322
-[02May2025 19:21:14.312] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NDNatsu) moved wrongly! 0.3004758935335303
-[02May2025 19:21:14.496] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 24075ms or 481 ticks behind
-[02May2025 19:21:14.777] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sunny_del[/127.186.175.28:60063] logged in with entity id 22673 at (817.9255434491859, 66.0, 798.0438381190712)
-[02May2025 19:21:14.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sunny_del joined the game
-[02May2025 19:21:14.872] [Server thread/INFO] [Jade/]: Syncing config to sunny_del (018dc36d-6b0f-3b86-b4a3-ed01da651794)
-[02May2025 19:21:22.340] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Apatata2 lost connection: Disconnected
-[02May2025 19:21:22.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Apatata2 left the game
-[02May2025 19:21:32.472] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: delaromer moved wrongly!
-[02May2025 19:21:45.558] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16087ms or 321 ticks behind
-[02May2025 19:22:09.327] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8806ms or 176 ticks behind
-[02May2025 19:22:15.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Elenitive a server operator
-[02May2025 19:22:25.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Spectator Mode]
-[02May2025 19:22:25.867] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3ff54896[id=<null>,name=Apatata2,properties={},legacy=false] (/127.172.79.56:43451) lost connection: Disconnected
-[02May2025 19:22:32.419] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8098ms or 161 ticks behind
-[02May2025 19:22:36.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Teleported Elenitive to camilation9]
-[02May2025 19:22:47.163] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Apatata2[/127.172.79.56:51087] logged in with entity id 25522 at (-472.9912077534121, 62.0, -26.69999998807907)
-[02May2025 19:22:47.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Apatata2 joined the game
-[02May2025 19:22:47.248] [Server thread/INFO] [Jade/]: Syncing config to Apatata2 (8cded0b7-9bc6-372c-b7a7-316343a813b4)
-[02May2025 19:22:52.170] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4800ms or 96 ticks behind
-[02May2025 19:22:54.418] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NDNatsu lost connection: Disconnected
-[02May2025 19:22:54.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NDNatsu left the game
-[02May2025 19:23:08.542] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: delaromer lost connection: Disconnected
-[02May2025 19:23:08.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: delaromer left the game
-[02May2025 19:23:09.523] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NDNatsu[/127.78.202.76:36709] logged in with entity id 26258 at (-2590.3572650498945, 66.0, -2318.245505386838)
-[02May2025 19:23:09.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NDNatsu joined the game
-[02May2025 19:23:09.549] [Server thread/INFO] [Jade/]: Syncing config to NDNatsu (fdd3900c-e272-360a-81eb-35b982fbe309)
-[02May2025 19:23:12.503] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5332ms or 106 ticks behind
-[02May2025 19:23:13.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Teleported Elenitive to Christianico79]
-[02May2025 19:23:30.447] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: delaromer[/127.207.64.158:60475] logged in with entity id 26725 at (-2590.9751360102455, 67.0, -2319.697794850968)
-[02May2025 19:23:30.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: delaromer joined the game
-[02May2025 19:23:30.485] [Server thread/INFO] [Jade/]: Syncing config to delaromer (1cd30115-5386-3404-bf03-6a4199d9f014)
-[02May2025 19:23:32.804] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5333ms or 106 ticks behind
-[02May2025 19:23:52.132] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4361ms or 87 ticks behind
-[02May2025 19:24:13.310] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6189ms or 123 ticks behind
-[02May2025 19:24:35.260] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6989ms or 139 ticks behind
-[02May2025 19:24:58.561] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NDNatsu) moved wrongly! 0.2700753210865514
-[02May2025 19:24:58.570] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NDNatsu) moved wrongly! 0.5161968665402128
-[02May2025 19:24:58.574] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NDNatsu) moved wrongly! 0.6665007420060647
-[02May2025 19:24:58.698] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NDNatsu) moved wrongly! 0.8017742263418768
-[02May2025 19:24:59.642] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NDNatsu) moved wrongly! 0.2701540946932255
-[02May2025 19:24:59.717] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NDNatsu) moved wrongly! 0.258308651182233
-[02May2025 19:25:00.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Christianico79 has made the advancement [We do a little trolling...]
-[02May2025 19:25:04.288] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14067ms or 281 ticks behind
-[02May2025 19:25:22.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Teleported Elenitive to delaromer]
-[02May2025 19:25:26.868] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7597ms or 151 ticks behind
-[02May2025 19:25:42.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Apatata2 has made the advancement ['X' Marks the Spot]
-[02May2025 19:25:49.390] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7569ms or 151 ticks behind
-[02May2025 19:25:52.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Apatata2 has made the advancement [Acquire Hardware]
-[02May2025 19:26:13.099] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8729ms or 174 ticks behind
-[02May2025 19:26:14.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Survival Mode]
-[02May2025 19:26:16.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Made Elenitive no longer a server operator]
-[02May2025 19:26:38.430] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10359ms or 207 ticks behind
-[02May2025 19:26:59.128] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Apatata2 moved too quickly! 2.4491800501552916,0.4186640077748365,-9.750553312918782
-[02May2025 19:26:59.133] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ivii moved too quickly! 9.82721813447182,0.7967356006687112,2.3941131644179308
-[02May2025 19:26:59.137] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elenitive moved too quickly! 9.3711810326472,2.252203340253729,-2.7983945757576834
-[02May2025 19:27:04.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 has made the advancement [Getting an Upgrade]
-[02May2025 19:27:14.643] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21222ms or 424 ticks behind
-[02May2025 19:27:22.609] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Apatata2 lost connection: Disconnected
-[02May2025 19:27:22.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Apatata2 left the game
-[02May2025 19:27:22.880] [Server thread/WARN] [tombstone/]: The death event of the player oinatzz was canceled by another mod
-[02May2025 19:27:22.897] [Server thread/INFO] [tombstone/]: The player oinatzz has successfully been saved
-[02May2025 19:27:38.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Christianico79 has made the advancement [Stone Age]
-[02May2025 19:27:45.866] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16245ms or 324 ticks behind
-[02May2025 19:27:57.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oinatzz was slain by Cachalot Whale
-[02May2025 19:28:25.416] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 24595ms or 491 ticks behind
-[02May2025 19:28:28.798] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaleexx17 lost connection: Disconnected
-[02May2025 19:28:28.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 left the game
-[02May2025 19:28:29.114] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[02May2025 19:28:56.368] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15997ms or 319 ticks behind
-[02May2025 19:29:27.384] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16063ms or 321 ticks behind
-[02May2025 19:29:53.467] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11096ms or 221 ticks behind
-[02May2025 19:30:14.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Race Against The Clock]
-[02May2025 19:30:23.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Mine? Mine? Mine?]
-[02May2025 19:30:31.198] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 22777ms or 455 ticks behind
-[02May2025 19:30:59.709] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13538ms or 270 ticks behind
-[02May2025 19:31:21.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Race Against The Clock]
-[02May2025 19:31:33.182] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18511ms or 370 ticks behind
-[02May2025 19:32:02.393] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14223ms or 284 ticks behind
-[02May2025 19:32:30.328] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12958ms or 259 ticks behind
-[02May2025 19:32:59.779] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14458ms or 289 ticks behind
-[02May2025 19:33:28.173] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13402ms or 268 ticks behind
-[02May2025 19:33:55.867] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12696ms or 253 ticks behind
-[02May2025 19:34:23.269] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12449ms or 248 ticks behind
-[02May2025 19:34:34.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [It Belongs in a Museum]
-[02May2025 19:34:41.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [It Belongs in a Museum]
-[02May2025 19:34:56.457] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18236ms or 364 ticks behind
-[02May2025 19:35:21.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Christianico79 has made the advancement [Disme A Dozen]
-[02May2025 19:35:24.443] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13022ms or 260 ticks behind
-[02May2025 19:35:52.137] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12716ms or 254 ticks behind
-[02May2025 19:36:17.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elenitive> KAKSJDKSL
-[02May2025 19:36:18.893] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11772ms or 235 ticks behind
-[02May2025 19:36:45.751] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11880ms or 237 ticks behind
-[02May2025 19:37:09.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elenitive> VAMONOSSSS
-[02May2025 19:37:13.747] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13027ms or 260 ticks behind
-[02May2025 19:37:44.143] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15422ms or 308 ticks behind
-[02May2025 19:37:59.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elenitive> voy a cenar guapossss
-[02May2025 19:38:02.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elenitive> cualquier cosa me mencionais
-[02May2025 19:38:08.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YiruiKonigLover> cene biennn
-[02May2025 19:38:11.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <delaromer> oki
-[02May2025 19:38:14.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ivii> que aproveches
-[02May2025 19:38:14.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <delaromer> uwu
-[02May2025 19:38:16.503] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17382ms or 347 ticks behind
-[02May2025 19:38:48.279] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16808ms or 336 ticks behind
-[02May2025 19:39:12.388] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of oinatzz) moved too quickly! 6.959415102128503,0.0,-7.711339539670462
-[02May2025 19:39:12.391] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of oinatzz) moved too quickly! 7.221652877157453,0.0,-8.013247846352186
-[02May2025 19:39:12.396] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of oinatzz) moved too quickly! 7.48372692996054,0.0,-8.315311207701342
-[02May2025 19:39:12.401] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of oinatzz) moved too quickly! 7.745650723312565,0.0,-8.617516616054644
-[02May2025 19:39:12.405] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of oinatzz) moved too quickly! 8.007436371847803,0.0,-8.919852362652776
-[02May2025 19:39:26.818] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 23547ms or 470 ticks behind
-[02May2025 19:39:40.092] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemOnPacket@6f9e3fd7, suppressing error
-java.util.NoSuchElementException: No value present
-	at java.util.Optional.get(Optional.java:143) ~[?:?]
-	at com.nyfaria.perfectplushieapi.loot.VillageLootModifier.doApply(VillageLootModifier.java:43) ~[perfectplushieapi-forge-1.20.1-0.1.1.jar%23284!/:0.1.1]
-	at net.minecraftforge.common.loot.LootModifier.apply(LootModifier.java:58) ~[forge-1.20.1-47.3.7-universal.jar%23254!/:?]
-	at net.minecraftforge.common.ForgeHooks.modifyLoot(ForgeHooks.java:1186) ~[forge-1.20.1-47.3.7-universal.jar%23254!/:?]
-	at net.minecraft.world.level.storage.loot.LootTable.m_230922_(LootTable.java:118) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.world.level.storage.loot.LootTable.m_287188_(LootTable.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at noobanidus.mods.lootr.block.entities.LootrChestBlockEntity.unpackLootTable(LootrChestBlockEntity.java:279) ~[lootr-forge-1.20-0.7.35.90.jar%23220!/:0.7.35.90]
-	at noobanidus.mods.lootr.data.ChestData.createInventory(ChestData.java:363) ~[lootr-forge-1.20-0.7.35.90.jar%23220!/:0.7.35.90]
-	at noobanidus.mods.lootr.data.DataStorage.getInventory(DataStorage.java:338) ~[lootr-forge-1.20-0.7.35.90.jar%23220!/:0.7.35.90]
-	at noobanidus.mods.lootr.util.ChestUtil.handleLootChest(ChestUtil.java:142) ~[lootr-forge-1.20-0.7.35.90.jar%23220!/:0.7.35.90]
-	at noobanidus.mods.lootr.block.LootrChestBlock.m_6227_(LootrChestBlock.java:50) ~[lootr-forge-1.20-0.7.35.90.jar%23220!/:0.7.35.90]
-	at net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.m_60664_(BlockBehaviour.java:778) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:343) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1055) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[02May2025 19:39:53.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franramen> alguien puede dormir?
-[02May2025 19:39:55.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: delaromer has made the advancement [Sweet Dreams]
-[02May2025 19:39:56.376] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14605ms or 292 ticks behind
-[02May2025 19:40:03.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilation9 has made the advancement [Sweet Dreams]
-[02May2025 19:40:09.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franramen> ty
-[02May2025 19:40:17.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <delaromer> u welcome
-[02May2025 19:40:25.172] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13802ms or 276 ticks behind
-[02May2025 19:40:30.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Christianico79 has made the advancement [Would you Like to Know More?]
-[02May2025 19:40:33.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Christianico79 has made the advancement [Book of Monsters]
-[02May2025 19:40:35.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilation9 has made the advancement [Disme A Dozen]
-[02May2025 19:40:55.669] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15498ms or 309 ticks behind
-[02May2025 19:41:26.602] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15982ms or 319 ticks behind
-[02May2025 19:41:56.734] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15164ms or 303 ticks behind
-[02May2025 19:42:24.158] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12438ms or 248 ticks behind
-[02May2025 19:42:45.869] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemOnPacket@3c763854, suppressing error
-java.util.NoSuchElementException: No value present
-	at java.util.Optional.get(Optional.java:143) ~[?:?]
-	at com.nyfaria.perfectplushieapi.loot.VillageLootModifier.doApply(VillageLootModifier.java:43) ~[perfectplushieapi-forge-1.20.1-0.1.1.jar%23284!/:0.1.1]
-	at net.minecraftforge.common.loot.LootModifier.apply(LootModifier.java:58) ~[forge-1.20.1-47.3.7-universal.jar%23254!/:?]
-	at net.minecraftforge.common.ForgeHooks.modifyLoot(ForgeHooks.java:1186) ~[forge-1.20.1-47.3.7-universal.jar%23254!/:?]
-	at net.minecraft.world.level.storage.loot.LootTable.m_230922_(LootTable.java:118) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.world.level.storage.loot.LootTable.m_287188_(LootTable.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at noobanidus.mods.lootr.block.entities.LootrChestBlockEntity.unpackLootTable(LootrChestBlockEntity.java:279) ~[lootr-forge-1.20-0.7.35.90.jar%23220!/:0.7.35.90]
-	at noobanidus.mods.lootr.data.ChestData.createInventory(ChestData.java:363) ~[lootr-forge-1.20-0.7.35.90.jar%23220!/:0.7.35.90]
-	at noobanidus.mods.lootr.data.DataStorage.getInventory(DataStorage.java:338) ~[lootr-forge-1.20-0.7.35.90.jar%23220!/:0.7.35.90]
-	at noobanidus.mods.lootr.util.ChestUtil.handleLootChest(ChestUtil.java:142) ~[lootr-forge-1.20-0.7.35.90.jar%23220!/:0.7.35.90]
-	at noobanidus.mods.lootr.block.LootrChestBlock.m_6227_(LootrChestBlock.java:50) ~[lootr-forge-1.20-0.7.35.90.jar%23220!/:0.7.35.90]
-	at net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.m_60664_(BlockBehaviour.java:778) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:343) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1055) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[02May2025 19:42:46.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Christianico79 has made the advancement [Close Quarters]
-[02May2025 19:42:53.341] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14220ms or 284 ticks behind
-[02May2025 19:43:19.818] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ivii) moved wrongly! 0.35658328816612084
-[02May2025 19:43:19.922] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ivii) moved wrongly! 0.6664450061024354
-[02May2025 19:43:19.926] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ivii) moved wrongly! 0.3057965672244336
-[02May2025 19:43:20.015] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ivii) moved wrongly! 0.6194638704261024
-[02May2025 19:43:20.021] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ivii) moved wrongly! 0.254800615586646
-[02May2025 19:43:20.117] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ivii) moved wrongly! 0.5716304346565266
-[02May2025 19:43:20.122] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11801ms or 236 ticks behind
-[02May2025 19:43:48.536] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13415ms or 268 ticks behind
-[02May2025 19:44:15.832] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12311ms or 246 ticks behind
-[02May2025 19:44:42.291] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11471ms or 229 ticks behind
-[02May2025 19:45:09.854] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12583ms or 251 ticks behind
-[02May2025 19:45:28.202] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elenitive lost connection: Disconnected
-[02May2025 19:45:28.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elenitive left the game
-[02May2025 19:45:36.652] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11831ms or 236 ticks behind
-[02May2025 19:46:00.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has reached the goal [Magic Siphoner]
-[02May2025 19:46:07.108] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15488ms or 309 ticks behind
-[02May2025 19:46:37.689] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15618ms or 312 ticks behind
-[02May2025 19:47:02.869] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10198ms or 203 ticks behind
-[02May2025 19:47:28.937] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11116ms or 222 ticks behind
-[02May2025 19:48:02.792] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18871ms or 377 ticks behind
-[02May2025 19:48:34.935] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17164ms or 343 ticks behind
-[02May2025 19:49:06.507] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16586ms or 331 ticks behind
-[02May2025 19:49:33.174] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11703ms or 234 ticks behind
-[02May2025 19:50:00.383] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12212ms or 244 ticks behind
-[02May2025 19:50:14.035] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemOnPacket@26b997e0, suppressing error
-java.util.NoSuchElementException: No value present
-	at java.util.Optional.get(Optional.java:143) ~[?:?]
-	at com.nyfaria.perfectplushieapi.loot.VillageLootModifier.doApply(VillageLootModifier.java:43) ~[perfectplushieapi-forge-1.20.1-0.1.1.jar%23284!/:0.1.1]
-	at net.minecraftforge.common.loot.LootModifier.apply(LootModifier.java:58) ~[forge-1.20.1-47.3.7-universal.jar%23254!/:?]
-	at net.minecraftforge.common.ForgeHooks.modifyLoot(ForgeHooks.java:1186) ~[forge-1.20.1-47.3.7-universal.jar%23254!/:?]
-	at net.minecraft.world.level.storage.loot.LootTable.m_230922_(LootTable.java:118) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.world.level.storage.loot.LootTable.m_287188_(LootTable.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at noobanidus.mods.lootr.block.entities.LootrChestBlockEntity.unpackLootTable(LootrChestBlockEntity.java:279) ~[lootr-forge-1.20-0.7.35.90.jar%23220!/:0.7.35.90]
-	at noobanidus.mods.lootr.data.ChestData.createInventory(ChestData.java:363) ~[lootr-forge-1.20-0.7.35.90.jar%23220!/:0.7.35.90]
-	at noobanidus.mods.lootr.data.DataStorage.getInventory(DataStorage.java:338) ~[lootr-forge-1.20-0.7.35.90.jar%23220!/:0.7.35.90]
-	at noobanidus.mods.lootr.util.ChestUtil.handleLootChest(ChestUtil.java:142) ~[lootr-forge-1.20-0.7.35.90.jar%23220!/:0.7.35.90]
-	at noobanidus.mods.lootr.block.LootrChestBlock.m_6227_(LootrChestBlock.java:50) ~[lootr-forge-1.20-0.7.35.90.jar%23220!/:0.7.35.90]
-	at net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.m_60664_(BlockBehaviour.java:778) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:343) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1055) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[02May2025 19:50:28.853] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13482ms or 269 ticks behind
-[02May2025 19:50:53.403] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemOnPacket@4667d302, suppressing error
-java.util.NoSuchElementException: No value present
-	at java.util.Optional.get(Optional.java:143) ~[?:?]
-	at com.nyfaria.perfectplushieapi.loot.VillageLootModifier.doApply(VillageLootModifier.java:43) ~[perfectplushieapi-forge-1.20.1-0.1.1.jar%23284!/:0.1.1]
-	at net.minecraftforge.common.loot.LootModifier.apply(LootModifier.java:58) ~[forge-1.20.1-47.3.7-universal.jar%23254!/:?]
-	at net.minecraftforge.common.ForgeHooks.modifyLoot(ForgeHooks.java:1186) ~[forge-1.20.1-47.3.7-universal.jar%23254!/:?]
-	at net.minecraft.world.level.storage.loot.LootTable.m_230922_(LootTable.java:118) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.world.level.storage.loot.LootTable.m_287188_(LootTable.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at noobanidus.mods.lootr.block.entities.LootrChestBlockEntity.unpackLootTable(LootrChestBlockEntity.java:279) ~[lootr-forge-1.20-0.7.35.90.jar%23220!/:0.7.35.90]
-	at noobanidus.mods.lootr.data.ChestData.createInventory(ChestData.java:363) ~[lootr-forge-1.20-0.7.35.90.jar%23220!/:0.7.35.90]
-	at noobanidus.mods.lootr.data.DataStorage.getInventory(DataStorage.java:338) ~[lootr-forge-1.20-0.7.35.90.jar%23220!/:0.7.35.90]
-	at noobanidus.mods.lootr.util.ChestUtil.handleLootChest(ChestUtil.java:142) ~[lootr-forge-1.20-0.7.35.90.jar%23220!/:0.7.35.90]
-	at noobanidus.mods.lootr.block.LootrChestBlock.m_6227_(LootrChestBlock.java:50) ~[lootr-forge-1.20-0.7.35.90.jar%23220!/:0.7.35.90]
-	at net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.m_60664_(BlockBehaviour.java:778) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:343) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1055) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[02May2025 19:50:57.653] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13832ms or 276 ticks behind
-[02May2025 19:51:26.130] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13509ms or 270 ticks behind
-[02May2025 19:51:33.597] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemOnPacket@6711b185, suppressing error
-java.util.NoSuchElementException: No value present
-	at java.util.Optional.get(Optional.java:143) ~[?:?]
-	at com.nyfaria.perfectplushieapi.loot.VillageLootModifier.doApply(VillageLootModifier.java:43) ~[perfectplushieapi-forge-1.20.1-0.1.1.jar%23284!/:0.1.1]
-	at net.minecraftforge.common.loot.LootModifier.apply(LootModifier.java:58) ~[forge-1.20.1-47.3.7-universal.jar%23254!/:?]
-	at net.minecraftforge.common.ForgeHooks.modifyLoot(ForgeHooks.java:1186) ~[forge-1.20.1-47.3.7-universal.jar%23254!/:?]
-	at net.minecraft.world.level.storage.loot.LootTable.m_230922_(LootTable.java:118) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.world.level.storage.loot.LootTable.m_287188_(LootTable.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at noobanidus.mods.lootr.block.entities.LootrChestBlockEntity.unpackLootTable(LootrChestBlockEntity.java:279) ~[lootr-forge-1.20-0.7.35.90.jar%23220!/:0.7.35.90]
-	at noobanidus.mods.lootr.data.ChestData.createInventory(ChestData.java:363) ~[lootr-forge-1.20-0.7.35.90.jar%23220!/:0.7.35.90]
-	at noobanidus.mods.lootr.data.DataStorage.getInventory(DataStorage.java:338) ~[lootr-forge-1.20-0.7.35.90.jar%23220!/:0.7.35.90]
-	at noobanidus.mods.lootr.util.ChestUtil.handleLootChest(ChestUtil.java:142) ~[lootr-forge-1.20-0.7.35.90.jar%23220!/:0.7.35.90]
-	at noobanidus.mods.lootr.block.LootrChestBlock.m_6227_(LootrChestBlock.java:50) ~[lootr-forge-1.20-0.7.35.90.jar%23220!/:0.7.35.90]
-	at net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.m_60664_(BlockBehaviour.java:778) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:343) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1055) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[02May2025 19:51:53.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilation9 has made the advancement [Gone Bananas!]
-[02May2025 19:51:54.637] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13517ms or 270 ticks behind
-[02May2025 19:52:23.456] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13835ms or 276 ticks behind
-[02May2025 19:52:39.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Christianico79 has made the advancement [Penteconter]
-[02May2025 19:52:54.051] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15630ms or 312 ticks behind
-[02May2025 19:53:23.056] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14036ms or 280 ticks behind
-[02May2025 19:53:53.625] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15604ms or 312 ticks behind
-[02May2025 19:54:26.852] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18232ms or 364 ticks behind
-[02May2025 19:54:55.980] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14159ms or 283 ticks behind
-[02May2025 19:55:25.911] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14940ms or 298 ticks behind
-[02May2025 19:55:56.870] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15999ms or 319 ticks behind
-[02May2025 19:56:08.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has reached the goal [Bone Crusher]
-[02May2025 19:56:30.916] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19096ms or 381 ticks behind
-[02May2025 19:57:05.899] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20028ms or 400 ticks behind
-[02May2025 19:57:12.853] [Server thread/WARN] [tombstone/]: The death event of the player oinatzz was canceled by another mod
-[02May2025 19:57:12.886] [Server thread/INFO] [tombstone/]: The player oinatzz has successfully been saved
-[02May2025 19:57:19.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oinatzz burned to death
-[02May2025 19:57:19.024] [Server thread/INFO] [tombstone/]: The player oinatzz has successfully been saved
-[02May2025 19:57:29.799] [Server thread/WARN] [tombstone/]: The death event of the player darkblader69 was canceled by another mod
-[02May2025 19:57:29.811] [Server thread/INFO] [tombstone/]: The player darkblader69 has successfully been saved
-[02May2025 19:57:37.611] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16740ms or 334 ticks behind
-[02May2025 19:57:55.891] [Server thread/WARN] [tombstone/]: The death event of the player darkblader69 was canceled by another mod
-[02May2025 19:57:55.896] [Server thread/INFO] [tombstone/]: The player darkblader69 has successfully been saved
-[02May2025 19:58:05.032] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12461ms or 249 ticks behind
-[02May2025 19:58:05.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NDNatsu has made the advancement [Chest Slayer]
-[02May2025 19:58:22.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YiruiKonigLover has made the advancement [Ant Farm]
-[02May2025 19:58:32.556] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12535ms or 250 ticks behind
-[02May2025 19:59:04.596] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17076ms or 341 ticks behind
-[02May2025 19:59:31.780] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12209ms or 244 ticks behind
-[02May2025 19:59:56.107] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9336ms or 186 ticks behind
-[02May2025 20:00:18.541] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7470ms or 149 ticks behind
-[02May2025 20:00:41.677] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8156ms or 163 ticks behind
-[02May2025 20:01:05.141] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8470ms or 169 ticks behind
-[02May2025 20:01:28.475] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8354ms or 167 ticks behind
-[02May2025 20:01:51.239] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7768ms or 155 ticks behind
-[02May2025 20:02:12.951] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6730ms or 134 ticks behind
-[02May2025 20:02:35.115] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7195ms or 143 ticks behind
-[02May2025 20:02:58.162] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8091ms or 161 ticks behind
-[02May2025 20:03:20.867] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7746ms or 154 ticks behind
-[02May2025 20:03:34.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Christianico79 has made the advancement [We Need to Go Deeper]
-[02May2025 20:03:46.536] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10716ms or 214 ticks behind
-[02May2025 20:04:16.475] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14954ms or 299 ticks behind
-[02May2025 20:04:50.540] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19070ms or 381 ticks behind
-[02May2025 20:05:23.281] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17761ms or 355 ticks behind
-[02May2025 20:05:30.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Your First Receptacle]
-[02May2025 20:05:44.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Your First Receptacle]
-[02May2025 20:05:56.739] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18468ms or 369 ticks behind
-[02May2025 20:06:30.272] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18551ms or 371 ticks behind
-[02May2025 20:07:05.543] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20272ms or 405 ticks behind
+[02May2025 20:18:06.252] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[02May2025 20:18:06.252] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[02May2025 20:18:06.253] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[02May2025 20:18:06.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[02May2025 20:18:06.385] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[02May2025 20:18:06.412] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[02May2025 20:18:06.519] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02May2025 20:18:06.520] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[02May2025 20:18:06.521] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02May2025 20:18:06.521] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[02May2025 20:18:06.541] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[02May2025 20:18:06.542] [Thread-2/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[02May2025 20:18:06.545] [Thread-2/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[02May2025 20:18:06.557] [Server thread/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: Loading "Easier Sleeping" SERVER Config
+[02May2025 20:18:06.557] [Server thread/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: sleep_message = is now in bed.
+[02May2025 20:18:06.557] [Server thread/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: dimension_list_type = SLEEP_ACTIVE
+[02May2025 20:18:06.557] [Server thread/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: wake_message = stood up.
+[02May2025 20:18:06.558] [Server thread/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: block_blacklist = []
+[02May2025 20:18:06.558] [Server thread/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: sleep_percent = 50
+[02May2025 20:18:06.558] [Server thread/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: morning_message = Good Morning
+[02May2025 20:18:06.558] [Server thread/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: all_players_rest = false
+[02May2025 20:18:06.559] [Server thread/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: dimensions = [minecraft:overworld]
+[02May2025 20:18:06.559] [Server thread/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: "Easier Sleeping" SERVER Config loaded
+[02May2025 20:18:06.561] [Thread-2/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: Loading "Easier Sleeping" SERVER Config
+[02May2025 20:18:06.562] [Thread-2/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: sleep_message = is now in bed.
+[02May2025 20:18:06.562] [Thread-2/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: dimension_list_type = SLEEP_ACTIVE
+[02May2025 20:18:06.563] [Thread-2/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: wake_message = stood up.
+[02May2025 20:18:06.567] [Thread-2/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: block_blacklist = []
+[02May2025 20:18:06.567] [Thread-2/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: sleep_percent = 50
+[02May2025 20:18:06.568] [Thread-2/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: morning_message = Good Morning
+[02May2025 20:18:06.570] [Thread-2/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: all_players_rest = false
+[02May2025 20:18:06.571] [Thread-2/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: dimensions = [minecraft:overworld]
+[02May2025 20:18:06.571] [Thread-2/INFO] [de.geheimagentnr1.minecraft_forge_api.config.AbstractConfig/]: "Easier Sleeping" SERVER Config loaded
+[02May2025 20:18:07.577] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[02May2025 20:18:07.577] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[02May2025 20:18:07.580] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[02May2025 20:18:08.547] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyBedEntity
+[02May2025 20:18:08.549] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyBedEntity
+[02May2025 20:18:08.550] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyBedEntity
+[02May2025 20:18:08.551] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyBedEntity
+[02May2025 20:18:08.553] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyBedEntity
+[02May2025 20:18:08.554] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyBedEntity
+[02May2025 20:18:08.555] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.heyimamethyst.fairyfactions.entities.FairyEntity from class net.heyimamethyst.fairyfactions.entities.FairyBedEntity
+[02May2025 20:18:08.561] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.projectile.FishingHook from class net.heyimamethyst.fairyfactions.entities.FairyFishHookEntity
+[02May2025 20:18:08.562] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.projectile.FishingHook from class net.heyimamethyst.fairyfactions.entities.FairyFishHookEntity
+[02May2025 20:18:14.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[02May2025 20:18:16.451] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02May2025 20:18:16.454] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02May2025 20:18:16.458] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02May2025 20:18:16.458] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02May2025 20:18:16.463] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02May2025 20:18:16.966] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02May2025 20:18:17.466] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02May2025 20:18:18.107] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02May2025 20:18:18.465] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02May2025 20:18:18.969] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02May2025 20:18:19.614] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02May2025 20:18:20.191] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02May2025 20:18:20.463] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02May2025 20:18:20.963] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 32%
+[02May2025 20:18:21.421] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6958 ms
+[02May2025 20:18:21.422] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (14.884s)! For help, type "help"
+[02May2025 20:18:21.519] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[02May2025 20:18:21.560] [Server thread/INFO] [com.chiki.dragonfinder.DragonFinder/]: HELLO from server starting
+[02May2025 20:18:22.898] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[02May2025 20:18:22.898] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[02May2025 20:18:41.501] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[02May2025 20:18:41.650] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Christianico79[/127.7.52.162:44919] logged in with entity id 686 at (71.30000001192093, 65.0, -646.0439422966093)
+[02May2025 20:18:41.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Christianico79 joined the game
+[02May2025 20:18:41.917] [Server thread/INFO] [Jade/]: Syncing config to Christianico79 (de749e46-4d34-3fd9-99d9-092d880a1707)
+[02May2025 20:18:43.764] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2166ms or 43 ticks behind
+[02May2025 20:18:47.544] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ich1goM1rukuu[/127.212.133.0:49673] logged in with entity id 1209 at (2144.883910291012, 1.0, 112.26825445848425)
+[02May2025 20:18:47.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu joined the game
+[02May2025 20:18:47.607] [Server thread/INFO] [Jade/]: Syncing config to Ich1goM1rukuu (1bb4c909-b771-3893-aca7-1b6637a25cff)
+[02May2025 20:19:00.792] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4ec85109[id=<null>,name=darkblader69,properties={},legacy=false] (/127.79.89.20:57417) lost connection: Disconnected
+[02May2025 20:19:58.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Christianico79 has made the advancement [Where Is The Stone Pen?]
+[02May2025 20:19:58.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Christianico79 has made the advancement [Ice Bucket Challenge]
+[02May2025 20:22:51.521] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@372a83cb[id=<null>,name=darkblader69,properties={},legacy=false] (/127.79.89.20:38703) lost connection: Disconnected
+[02May2025 20:22:55.156] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NDNatsu[/127.78.202.76:45899] logged in with entity id 3522 at (287.61419236041166, 70.0, -5003.310836219006)
+[02May2025 20:22:55.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NDNatsu joined the game
+[02May2025 20:22:55.230] [Server thread/INFO] [Jade/]: Syncing config to NDNatsu (fdd3900c-e272-360a-81eb-35b982fbe309)
+[02May2025 20:22:58.247] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2949ms or 58 ticks behind
+[02May2025 20:23:33.737] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2790ms or 55 ticks behind
+[02May2025 20:23:44.116] [Server thread/WARN] [tombstone/]: The death event of the player Ich1goM1rukuu was canceled by another mod
+[02May2025 20:23:44.175] [Server thread/INFO] [tombstone/]: The player Ich1goM1rukuu has successfully been saved
+[02May2025 20:23:56.329] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Christianico79 lost connection: Disconnected
+[02May2025 20:23:56.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Christianico79 left the game
+[02May2025 20:24:16.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NDNatsu> JAJAJA
+[02May2025 20:24:19.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ich1goM1rukuu> muchas gracias
+[02May2025 20:24:37.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NDNatsu> muy duro eso
+[02May2025 20:24:48.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NDNatsu has made the advancement [Tricking a Rock Into Thinking]
+[02May2025 20:24:49.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ich1goM1rukuu> man violao
+[02May2025 20:24:54.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NDNatsu> ya veo
+[02May2025 20:24:55.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ich1goM1rukuu> 20 negros
+[02May2025 20:25:00.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NDNatsu> mas duro a un
+[02May2025 20:25:16.054] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: darkblader69[/127.79.89.20:52367] logged in with entity id 5386 at (2147.9075399424246, 1.0, 111.27942942567952)
+[02May2025 20:25:16.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 joined the game
+[02May2025 20:25:16.174] [Server thread/INFO] [Jade/]: Syncing config to darkblader69 (c5ed7fb1-b56d-3780-a140-29be33768a49)
+[02May2025 20:25:58.120] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2723ms or 54 ticks behind
+[02May2025 20:25:58.166] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ich1goM1rukuu moved too quickly! -10.178738207441711,0.0,-0.1044605682948827
+[02May2025 20:26:40.594] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [alexsmobs:main_channel] rejected their client side version number
+[02May2025 20:26:40.595] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[02May2025 20:26:40.640] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4c203931[id=<null>,name=babydamemas,properties={},legacy=false] (/127.31.68.89:56597) lost connection: Connection closed - mismatched mod channel list
+[02May2025 20:27:15.164] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ivii[/127.1.114.128:51405] logged in with entity id 6501 at (560.7632965176712, 125.0, -948.4655693949447)
+[02May2025 20:27:15.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivii joined the game
+[02May2025 20:27:15.196] [Server thread/INFO] [Jade/]: Syncing config to ivii (7cdb0d64-19f0-3c6c-95d6-c3907a315282)
+[02May2025 20:27:17.273] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2075ms or 41 ticks behind
+[02May2025 20:27:39.463] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2415ms or 48 ticks behind
+[02May2025 20:28:58.076] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/3625, l='ServerLevel[world]', x=292.10, y=62.48, z=-4942.31] died, message: 'Unemployed was slain by Drowned'
+[02May2025 20:29:05.177] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/3626, l='ServerLevel[world]', x=292.70, y=62.04, z=-4940.30] died, message: 'Farmer was slain by Drowned'
+[02May2025 20:33:36.546] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@28f737d0[id=<null>,name=YiruiKonigLover,properties={},legacy=false] (/127.192.218.146:52133) lost connection: Disconnected
+[02May2025 20:34:25.343] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@12ee092c[id=<null>,name=YiruiKonigLover,properties={},legacy=false] (/127.192.218.146:60025) lost connection: Disconnected
+[02May2025 20:34:44.403] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YiruiKonigLover[/127.192.218.146:37831] logged in with entity id 12874 at (-519.9750086145597, 64.0, 863.7312023143087)
+[02May2025 20:34:44.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YiruiKonigLover joined the game
+[02May2025 20:34:44.435] [Server thread/INFO] [Jade/]: Syncing config to YiruiKonigLover (a30da2c7-2784-3181-917c-adcd1b7b8875)
+[02May2025 20:34:46.807] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YiruiKonigLover lost connection: Disconnected
+[02May2025 20:34:46.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YiruiKonigLover left the game
+[02May2025 20:34:46.868] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2420ms or 48 ticks behind
+[02May2025 20:34:46.913] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[02May2025 20:35:46.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Chest Slayer]
+[02May2025 20:37:35.048] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 6BlueBird9[/127.112.131.49:51361] logged in with entity id 14756 at (23.5, 63.0, 22.5)
+[02May2025 20:37:35.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 6BlueBird9 joined the game
+[02May2025 20:37:35.520] [Server thread/INFO] [Jade/]: Syncing config to 6BlueBird9 (63ac96dc-a71b-3ed0-b556-ab6f2d2ef366)
+[02May2025 20:37:35.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 6BlueBird9 has made the advancement [Ice and Fire]
