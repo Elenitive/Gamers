@@ -69,6 +69,7 @@
       "spider_nest": "2025-05-02 16:58:59 +0000",
       "forested_field": "2025-05-02 18:39:56 +0000",
       "redwood_forest": "2025-05-02 15:23:43 +0000",
+      "fir_clearing": "2025-05-02 19:25:36 +0000",
       "grassland": "2025-05-02 15:19:08 +0000",
       "gravel_beach": "2025-05-02 18:36:17 +0000",
       "ominous_woods": "2025-05-02 18:43:50 +0000"
@@ -2303,6 +2304,7 @@
       "minecraft:cave_spider": "2025-05-02 17:28:11 +0000",
       "minecraft:enderman": "2025-05-02 18:02:41 +0000",
       "minecraft:silverfish": "2025-05-02 17:28:36 +0000",
+      "minecraft:stray": "2025-05-02 19:32:57 +0000",
       "minecraft:zombie": "2025-05-02 16:53:04 +0000"
     },
     "done": false
@@ -4990,7 +4992,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2025-05-02 18:36:04 +0000",
-      "minecraft:river": "2025-05-02 18:36:34 +0000"
+      "minecraft:river": "2025-05-02 18:36:34 +0000",
+      "minecraft:cold_ocean": "2025-05-02 19:32:03 +0000",
+      "minecraft:plains": "2025-05-02 19:25:12 +0000"
     },
     "done": false
   },
@@ -5690,9 +5694,153 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-05-02 19:22:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/spruce_window": {
+    "criteria": {
+      "has_ingredient": "2025-05-02 19:22:40 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/ender_flu": {
+    "criteria": {
+      "all_effects": "2025-05-02 19:31:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-05-02 19:22:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-05-02 19:26:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-02 19:22:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-05-02 19:33:08 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/naturalist/bug_net": {
+    "criteria": {
+      "has_bamboo": "2025-05-02 19:34:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-05-02 19:26:10 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/snorkel": {
+    "criteria": {
+      "has_bamboo": "2025-05-02 19:34:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-05-02 19:22:40 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-05-02 19:30:23 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-05-02 19:34:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-05-02 19:22:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
+    "criteria": {
+      "has_silver_nugget": "2025-05-02 19:23:46 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/iron_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2025-05-02 19:36:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-02 19:22:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-05-02 19:22:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-02 19:22:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-05-02 19:34:35 +0000"
+    },
+    "done": true
+  },
   "lootr:100loot": {
     "criteria": {
       "loot_stat": "2025-05-02 19:16:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-05-02 19:34:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-02 19:22:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-05-02 19:34:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-05-02 19:26:10 +0000"
     },
     "done": true
   },

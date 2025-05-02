@@ -71,6 +71,7 @@
       "forested_field": "2025-05-02 18:41:16 +0000",
       "redwood_forest": "2025-05-02 15:21:38 +0000",
       "lavender_field": "2025-05-02 16:16:57 +0000",
+      "fir_clearing": "2025-05-02 19:26:26 +0000",
       "grassland": "2025-05-02 12:42:48 +0000",
       "prairie": "2025-05-02 13:32:34 +0000",
       "gravel_beach": "2025-05-02 18:36:34 +0000",
@@ -95,6 +96,7 @@
       "minecraft:mangrove_swamp": "2025-05-02 13:41:21 +0000",
       "minecraft:river": "2025-05-02 12:50:56 +0000",
       "minecraft:swamp": "2025-05-02 13:35:14 +0000",
+      "minecraft:cold_ocean": "2025-05-02 19:28:00 +0000",
       "minecraft:forest": "2025-05-02 12:52:09 +0000",
       "minecraft:lush_caves": "2025-05-02 15:04:18 +0000",
       "minecraft:ocean": "2025-05-02 12:44:44 +0000",
@@ -3139,6 +3141,7 @@
       "apple": "2025-05-02 14:59:10 +0000",
       "potato": "2025-05-02 17:20:05 +0000",
       "golden_apple": "2025-05-02 17:45:08 +0000",
+      "bread": "2025-05-02 19:23:43 +0000",
       "golden_carrot": "2025-05-02 18:31:47 +0000",
       "cooked_salmon": "2025-05-02 14:21:01 +0000"
     },
@@ -5208,6 +5211,42 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-05-02 19:22:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/spruce_window": {
+    "criteria": {
+      "has_ingredient": "2025-05-02 19:22:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-05-02 19:31:02 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/ender_flu": {
+    "criteria": {
+      "all_effects": "2025-05-02 19:30:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-05-02 19:22:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-02 19:22:48 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/bestiary": {
     "criteria": {
       "bestiary": "2025-05-02 19:08:08 +0000"
@@ -5220,9 +5259,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-05-02 19:31:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-05-02 19:22:48 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-05-02 19:34:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-05-02 19:22:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template": {
+    "criteria": {
+      "has_wild_armor_trim_smithing_template": "2025-05-02 19:34:43 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
     "criteria": {
       "has_silver_nugget": "2025-05-02 19:08:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-05-02 19:34:43 +0000"
     },
     "done": true
   },
@@ -5232,15 +5307,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-05-02 19:31:02 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/forest_troll_leather_helmet": {
     "criteria": {
       "has_item": "2025-05-02 19:10:22 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-02 19:22:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-05-02 19:22:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-02 19:22:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-05-02 19:31:02 +0000"
+    },
+    "done": true
+  },
   "lootr:100loot": {
     "criteria": {
       "loot_stat": "2025-05-02 19:13:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-02 19:22:48 +0000"
     },
     "done": true
   },

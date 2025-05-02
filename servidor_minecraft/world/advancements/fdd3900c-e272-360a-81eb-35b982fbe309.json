@@ -177,6 +177,7 @@
       "minecraft:lush_caves": "2025-05-02 14:54:33 +0000",
       "minecraft:ocean": "2025-05-02 14:13:02 +0000",
       "minecraft:jungle": "2025-05-02 18:42:27 +0000",
+      "minecraft:windswept_savanna": "2025-05-02 19:24:01 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-05-02 14:13:38 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-02 15:38:26 +0000",
       "minecraft:savanna": "2025-05-02 14:15:55 +0000",
@@ -6099,6 +6100,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-05-02 19:27:10 +0000",
       "minecraft:nether_wastes": "2025-05-02 17:47:25 +0000",
       "minecraft:warped_forest": "2025-05-02 17:20:18 +0000"
     },

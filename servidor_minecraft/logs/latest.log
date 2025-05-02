@@ -1134,3 +1134,172 @@ java.util.NoSuchElementException: No value present
 [02May2025 19:23:32.804] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5333ms or 106 ticks behind
 [02May2025 19:23:52.132] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4361ms or 87 ticks behind
 [02May2025 19:24:13.310] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6189ms or 123 ticks behind
+[02May2025 19:24:35.260] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6989ms or 139 ticks behind
+[02May2025 19:24:58.561] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NDNatsu) moved wrongly! 0.2700753210865514
+[02May2025 19:24:58.570] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NDNatsu) moved wrongly! 0.5161968665402128
+[02May2025 19:24:58.574] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NDNatsu) moved wrongly! 0.6665007420060647
+[02May2025 19:24:58.698] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NDNatsu) moved wrongly! 0.8017742263418768
+[02May2025 19:24:59.642] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NDNatsu) moved wrongly! 0.2701540946932255
+[02May2025 19:24:59.717] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NDNatsu) moved wrongly! 0.258308651182233
+[02May2025 19:25:00.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Christianico79 has made the advancement [We do a little trolling...]
+[02May2025 19:25:04.288] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14067ms or 281 ticks behind
+[02May2025 19:25:22.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Teleported Elenitive to delaromer]
+[02May2025 19:25:26.868] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7597ms or 151 ticks behind
+[02May2025 19:25:42.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Apatata2 has made the advancement ['X' Marks the Spot]
+[02May2025 19:25:49.390] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7569ms or 151 ticks behind
+[02May2025 19:25:52.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Apatata2 has made the advancement [Acquire Hardware]
+[02May2025 19:26:13.099] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8729ms or 174 ticks behind
+[02May2025 19:26:14.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Survival Mode]
+[02May2025 19:26:16.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Made Elenitive no longer a server operator]
+[02May2025 19:26:38.430] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10359ms or 207 ticks behind
+[02May2025 19:26:59.128] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Apatata2 moved too quickly! 2.4491800501552916,0.4186640077748365,-9.750553312918782
+[02May2025 19:26:59.133] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ivii moved too quickly! 9.82721813447182,0.7967356006687112,2.3941131644179308
+[02May2025 19:26:59.137] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elenitive moved too quickly! 9.3711810326472,2.252203340253729,-2.7983945757576834
+[02May2025 19:27:04.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 has made the advancement [Getting an Upgrade]
+[02May2025 19:27:14.643] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21222ms or 424 ticks behind
+[02May2025 19:27:22.609] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Apatata2 lost connection: Disconnected
+[02May2025 19:27:22.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Apatata2 left the game
+[02May2025 19:27:22.880] [Server thread/WARN] [tombstone/]: The death event of the player oinatzz was canceled by another mod
+[02May2025 19:27:22.897] [Server thread/INFO] [tombstone/]: The player oinatzz has successfully been saved
+[02May2025 19:27:38.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Christianico79 has made the advancement [Stone Age]
+[02May2025 19:27:45.866] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16245ms or 324 ticks behind
+[02May2025 19:27:57.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oinatzz was slain by Cachalot Whale
+[02May2025 19:28:25.416] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 24595ms or 491 ticks behind
+[02May2025 19:28:28.798] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaleexx17 lost connection: Disconnected
+[02May2025 19:28:28.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 left the game
+[02May2025 19:28:29.114] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[02May2025 19:28:56.368] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15997ms or 319 ticks behind
+[02May2025 19:29:27.384] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16063ms or 321 ticks behind
+[02May2025 19:29:53.467] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11096ms or 221 ticks behind
+[02May2025 19:30:14.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Race Against The Clock]
+[02May2025 19:30:23.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Mine? Mine? Mine?]
+[02May2025 19:30:31.198] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 22777ms or 455 ticks behind
+[02May2025 19:30:59.709] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13538ms or 270 ticks behind
+[02May2025 19:31:21.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Race Against The Clock]
+[02May2025 19:31:33.182] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18511ms or 370 ticks behind
+[02May2025 19:32:02.393] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14223ms or 284 ticks behind
+[02May2025 19:32:30.328] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12958ms or 259 ticks behind
+[02May2025 19:32:59.779] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14458ms or 289 ticks behind
+[02May2025 19:33:28.173] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13402ms or 268 ticks behind
+[02May2025 19:33:55.867] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12696ms or 253 ticks behind
+[02May2025 19:34:23.269] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12449ms or 248 ticks behind
+[02May2025 19:34:34.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [It Belongs in a Museum]
+[02May2025 19:34:41.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [It Belongs in a Museum]
+[02May2025 19:34:56.457] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18236ms or 364 ticks behind
+[02May2025 19:35:21.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Christianico79 has made the advancement [Disme A Dozen]
+[02May2025 19:35:24.443] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13022ms or 260 ticks behind
+[02May2025 19:35:52.137] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12716ms or 254 ticks behind
+[02May2025 19:36:17.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elenitive> KAKSJDKSL
+[02May2025 19:36:18.893] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11772ms or 235 ticks behind
+[02May2025 19:36:45.751] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11880ms or 237 ticks behind
+[02May2025 19:37:09.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elenitive> VAMONOSSSS
+[02May2025 19:37:13.747] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13027ms or 260 ticks behind
+[02May2025 19:37:44.143] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15422ms or 308 ticks behind
+[02May2025 19:37:59.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elenitive> voy a cenar guapossss
+[02May2025 19:38:02.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elenitive> cualquier cosa me mencionais
+[02May2025 19:38:08.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YiruiKonigLover> cene biennn
+[02May2025 19:38:11.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <delaromer> oki
+[02May2025 19:38:14.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ivii> que aproveches
+[02May2025 19:38:14.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <delaromer> uwu
+[02May2025 19:38:16.503] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17382ms or 347 ticks behind
+[02May2025 19:38:48.279] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16808ms or 336 ticks behind
+[02May2025 19:39:12.388] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of oinatzz) moved too quickly! 6.959415102128503,0.0,-7.711339539670462
+[02May2025 19:39:12.391] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of oinatzz) moved too quickly! 7.221652877157453,0.0,-8.013247846352186
+[02May2025 19:39:12.396] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of oinatzz) moved too quickly! 7.48372692996054,0.0,-8.315311207701342
+[02May2025 19:39:12.401] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of oinatzz) moved too quickly! 7.745650723312565,0.0,-8.617516616054644
+[02May2025 19:39:12.405] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of oinatzz) moved too quickly! 8.007436371847803,0.0,-8.919852362652776
+[02May2025 19:39:26.818] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 23547ms or 470 ticks behind
+[02May2025 19:39:40.092] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemOnPacket@6f9e3fd7, suppressing error
+java.util.NoSuchElementException: No value present
+	at java.util.Optional.get(Optional.java:143) ~[?:?]
+	at com.nyfaria.perfectplushieapi.loot.VillageLootModifier.doApply(VillageLootModifier.java:43) ~[perfectplushieapi-forge-1.20.1-0.1.1.jar%23284!/:0.1.1]
+	at net.minecraftforge.common.loot.LootModifier.apply(LootModifier.java:58) ~[forge-1.20.1-47.3.7-universal.jar%23254!/:?]
+	at net.minecraftforge.common.ForgeHooks.modifyLoot(ForgeHooks.java:1186) ~[forge-1.20.1-47.3.7-universal.jar%23254!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable.m_230922_(LootTable.java:118) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable.m_287188_(LootTable.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at noobanidus.mods.lootr.block.entities.LootrChestBlockEntity.unpackLootTable(LootrChestBlockEntity.java:279) ~[lootr-forge-1.20-0.7.35.90.jar%23220!/:0.7.35.90]
+	at noobanidus.mods.lootr.data.ChestData.createInventory(ChestData.java:363) ~[lootr-forge-1.20-0.7.35.90.jar%23220!/:0.7.35.90]
+	at noobanidus.mods.lootr.data.DataStorage.getInventory(DataStorage.java:338) ~[lootr-forge-1.20-0.7.35.90.jar%23220!/:0.7.35.90]
+	at noobanidus.mods.lootr.util.ChestUtil.handleLootChest(ChestUtil.java:142) ~[lootr-forge-1.20-0.7.35.90.jar%23220!/:0.7.35.90]
+	at noobanidus.mods.lootr.block.LootrChestBlock.m_6227_(LootrChestBlock.java:50) ~[lootr-forge-1.20-0.7.35.90.jar%23220!/:0.7.35.90]
+	at net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.m_60664_(BlockBehaviour.java:778) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:343) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1055) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[02May2025 19:39:53.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franramen> alguien puede dormir?
+[02May2025 19:39:55.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: delaromer has made the advancement [Sweet Dreams]
+[02May2025 19:39:56.376] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14605ms or 292 ticks behind
+[02May2025 19:40:03.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilation9 has made the advancement [Sweet Dreams]
+[02May2025 19:40:09.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franramen> ty
+[02May2025 19:40:17.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <delaromer> u welcome
+[02May2025 19:40:25.172] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13802ms or 276 ticks behind
+[02May2025 19:40:30.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Christianico79 has made the advancement [Would you Like to Know More?]
+[02May2025 19:40:33.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Christianico79 has made the advancement [Book of Monsters]
+[02May2025 19:40:35.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilation9 has made the advancement [Disme A Dozen]
+[02May2025 19:40:55.669] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15498ms or 309 ticks behind
+[02May2025 19:41:26.602] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15982ms or 319 ticks behind
+[02May2025 19:41:56.734] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15164ms or 303 ticks behind
+[02May2025 19:42:24.158] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12438ms or 248 ticks behind
+[02May2025 19:42:45.869] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemOnPacket@3c763854, suppressing error
+java.util.NoSuchElementException: No value present
+	at java.util.Optional.get(Optional.java:143) ~[?:?]
+	at com.nyfaria.perfectplushieapi.loot.VillageLootModifier.doApply(VillageLootModifier.java:43) ~[perfectplushieapi-forge-1.20.1-0.1.1.jar%23284!/:0.1.1]
+	at net.minecraftforge.common.loot.LootModifier.apply(LootModifier.java:58) ~[forge-1.20.1-47.3.7-universal.jar%23254!/:?]
+	at net.minecraftforge.common.ForgeHooks.modifyLoot(ForgeHooks.java:1186) ~[forge-1.20.1-47.3.7-universal.jar%23254!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable.m_230922_(LootTable.java:118) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable.m_287188_(LootTable.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at noobanidus.mods.lootr.block.entities.LootrChestBlockEntity.unpackLootTable(LootrChestBlockEntity.java:279) ~[lootr-forge-1.20-0.7.35.90.jar%23220!/:0.7.35.90]
+	at noobanidus.mods.lootr.data.ChestData.createInventory(ChestData.java:363) ~[lootr-forge-1.20-0.7.35.90.jar%23220!/:0.7.35.90]
+	at noobanidus.mods.lootr.data.DataStorage.getInventory(DataStorage.java:338) ~[lootr-forge-1.20-0.7.35.90.jar%23220!/:0.7.35.90]
+	at noobanidus.mods.lootr.util.ChestUtil.handleLootChest(ChestUtil.java:142) ~[lootr-forge-1.20-0.7.35.90.jar%23220!/:0.7.35.90]
+	at noobanidus.mods.lootr.block.LootrChestBlock.m_6227_(LootrChestBlock.java:50) ~[lootr-forge-1.20-0.7.35.90.jar%23220!/:0.7.35.90]
+	at net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.m_60664_(BlockBehaviour.java:778) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:343) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1055) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[02May2025 19:42:46.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Christianico79 has made the advancement [Close Quarters]
+[02May2025 19:42:53.341] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14220ms or 284 ticks behind
+[02May2025 19:43:19.818] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ivii) moved wrongly! 0.35658328816612084
+[02May2025 19:43:19.922] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ivii) moved wrongly! 0.6664450061024354
+[02May2025 19:43:19.926] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ivii) moved wrongly! 0.3057965672244336
+[02May2025 19:43:20.015] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ivii) moved wrongly! 0.6194638704261024
+[02May2025 19:43:20.021] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ivii) moved wrongly! 0.254800615586646
+[02May2025 19:43:20.117] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ivii) moved wrongly! 0.5716304346565266
+[02May2025 19:43:20.122] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11801ms or 236 ticks behind
+[02May2025 19:43:48.536] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13415ms or 268 ticks behind
+[02May2025 19:44:15.832] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12311ms or 246 ticks behind
+[02May2025 19:44:42.291] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11471ms or 229 ticks behind
+[02May2025 19:45:09.854] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12583ms or 251 ticks behind
+[02May2025 19:45:28.202] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elenitive lost connection: Disconnected
+[02May2025 19:45:28.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elenitive left the game
+[02May2025 19:45:36.652] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11831ms or 236 ticks behind

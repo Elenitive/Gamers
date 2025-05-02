@@ -61,9 +61,13 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "woodland": "2025-05-02 19:24:34 +0000",
       "rocky_shrubland": "2025-05-02 18:09:52 +0000",
       "old_growth_woodland": "2025-05-02 18:56:58 +0000",
       "moor": "2025-05-02 18:20:02 +0000",
+      "overgrown_greens": "2025-05-02 19:23:26 +0000",
+      "redwood_forest": "2025-05-02 19:23:24 +0000",
+      "dune_beach": "2025-05-02 19:37:55 +0000",
       "lavender_field": "2025-05-02 18:28:05 +0000",
       "grassland": "2025-05-02 15:26:51 +0000"
     },
@@ -87,8 +91,10 @@
       "minecraft:beach": "2025-05-02 16:07:21 +0000",
       "minecraft:dark_forest": "2025-05-02 15:30:49 +0000",
       "minecraft:river": "2025-05-02 15:32:01 +0000",
+      "minecraft:lukewarm_ocean": "2025-05-02 19:26:48 +0000",
       "minecraft:forest": "2025-05-02 15:31:35 +0000",
       "minecraft:lush_caves": "2025-05-02 15:38:41 +0000",
+      "minecraft:ocean": "2025-05-02 19:34:46 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-02 15:30:54 +0000",
       "minecraft:meadow": "2025-05-02 18:25:18 +0000",
       "minecraft:plains": "2025-05-02 15:32:56 +0000"
@@ -5303,6 +5309,192 @@
   "minecraft:recipes/misc/red_dye_from_rose_bush": {
     "criteria": {
       "has_rose_bush": "2025-05-02 18:58:16 +0000"
+    },
+    "done": true
+  },
+  "mysticsbiomes:recipes/transportation/tropical_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-02 19:34:04 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/jacaranda_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-02 19:34:04 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/pine_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-02 19:34:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-02 19:34:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-02 19:34:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-02 19:34:04 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/fir_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-02 19:34:04 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/maple_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-02 19:34:04 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-02 19:34:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-02 19:34:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-05-02 19:34:04 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/hellbark_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-02 19:34:04 +0000"
+    },
+    "done": true
+  },
+  "mysticsbiomes:recipes/transportation/peach_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-02 19:34:04 +0000"
+    },
+    "done": true
+  },
+  "mysticsbiomes:recipes/transportation/strawberry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-02 19:34:04 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/umbran_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-02 19:34:04 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-02 19:34:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-05-02 19:30:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-02 19:34:04 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-02 19:34:04 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/redwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-02 19:34:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-02 19:34:04 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/empyreal_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-02 19:34:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-02 19:34:04 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/dead_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-02 19:34:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-02 19:34:04 +0000"
+    },
+    "done": true
+  },
+  "mysticsbiomes:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-02 19:34:04 +0000"
+    },
+    "done": true
+  },
+  "mysticsbiomes:recipes/transportation/jacaranda_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-02 19:34:04 +0000"
+    },
+    "done": true
+  },
+  "mysticsbiomes:recipes/transportation/sea_foam_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-02 19:34:04 +0000"
+    },
+    "done": true
+  },
+  "mysticsbiomes:recipes/transportation/maple_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-02 19:34:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-05-02 19:30:33 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/mahogany_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-02 19:34:04 +0000"
     },
     "done": true
   },

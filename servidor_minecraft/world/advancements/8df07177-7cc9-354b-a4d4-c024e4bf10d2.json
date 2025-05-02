@@ -61,15 +61,19 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "woodland": "2025-05-02 19:26:35 +0000",
       "shrubland": "2025-05-02 18:14:14 +0000",
       "rocky_shrubland": "2025-05-02 17:56:21 +0000",
+      "bayou": "2025-05-02 19:30:07 +0000",
       "floodplain": "2025-05-02 19:14:57 +0000",
       "old_growth_woodland": "2025-05-02 18:36:57 +0000",
       "orchard": "2025-05-02 18:19:03 +0000",
       "overgrown_greens": "2025-05-02 18:36:42 +0000",
+      "mediterranean_forest": "2025-05-02 19:25:45 +0000",
       "redwood_forest": "2025-05-02 18:36:50 +0000",
       "dune_beach": "2025-05-02 18:51:25 +0000",
       "rocky_rainforest": "2025-05-02 19:15:05 +0000",
+      "volcanic_plains": "2025-05-02 19:23:00 +0000",
       "lavender_field": "2025-05-02 18:04:39 +0000",
       "grassland": "2025-05-02 17:44:56 +0000",
       "rainforest": "2025-05-02 19:14:46 +0000"
@@ -102,6 +106,7 @@
       "minecraft:deep_lukewarm_ocean": "2025-05-02 18:18:18 +0000",
       "minecraft:flower_forest": "2025-05-02 18:07:05 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-02 17:56:22 +0000",
+      "minecraft:savanna": "2025-05-02 19:28:49 +0000",
       "minecraft:plains": "2025-05-02 17:59:58 +0000"
     },
     "done": false
@@ -4071,6 +4076,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-05-02 19:29:34 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/gold_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-05-02 19:29:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/melon": {
     "criteria": {
       "has_melon": "2025-05-02 19:19:13 +0000"
@@ -4095,9 +4112,27 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/gold_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2025-05-02 19:29:34 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/gold_destructor_hammer": {
+    "criteria": {
+      "has_material": "2025-05-02 19:29:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glistering_melon_slice": {
     "criteria": {
       "has_melon": "2025-05-02 19:19:13 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/gold_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-05-02 19:29:34 +0000"
     },
     "done": true
   },

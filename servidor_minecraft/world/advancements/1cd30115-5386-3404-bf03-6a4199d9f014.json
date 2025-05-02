@@ -118,6 +118,7 @@
       "minecraft:forest": "2025-05-02 14:15:24 +0000",
       "minecraft:lush_caves": "2025-05-02 14:56:52 +0000",
       "minecraft:ocean": "2025-05-02 14:13:08 +0000",
+      "minecraft:windswept_savanna": "2025-05-02 19:24:01 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-05-02 14:13:38 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-02 14:48:05 +0000",
       "minecraft:savanna": "2025-05-02 14:15:56 +0000",
@@ -2533,7 +2534,8 @@
       "minecraft:cave_spider": "2025-05-02 15:12:24 +0000",
       "minecraft:piglin": "2025-05-02 17:34:15 +0000",
       "minecraft:stray": "2025-05-02 15:00:18 +0000",
-      "minecraft:zombie": "2025-05-02 14:54:38 +0000"
+      "minecraft:zombie": "2025-05-02 14:54:38 +0000",
+      "minecraft:drowned": "2025-05-02 19:26:12 +0000"
     },
     "done": false
   },
@@ -4801,6 +4803,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-05-02 19:27:11 +0000",
+      "minecraft:nether_wastes": "2025-05-02 19:27:44 +0000",
       "minecraft:warped_forest": "2025-05-02 17:20:19 +0000"
     },
     "done": false
