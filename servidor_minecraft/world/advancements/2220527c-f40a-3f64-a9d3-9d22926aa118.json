@@ -63,7 +63,9 @@
     "criteria": {
       "shrubland": "2025-05-02 16:13:10 +0000",
       "scrubland": "2025-05-02 16:12:10 +0000",
-      "grassland": "2025-05-02 12:29:40 +0000"
+      "overgrown_greens": "2025-05-02 16:37:55 +0000",
+      "grassland": "2025-05-02 12:29:40 +0000",
+      "prairie": "2025-05-02 16:32:49 +0000"
     },
     "done": false
   },
@@ -73,7 +75,9 @@
       "minecraft:beach": "2025-05-02 16:12:23 +0000",
       "minecraft:dark_forest": "2025-05-02 16:20:09 +0000",
       "minecraft:river": "2025-05-02 16:25:34 +0000",
+      "minecraft:grove": "2025-05-02 16:36:11 +0000",
       "minecraft:forest": "2025-05-02 16:32:22 +0000",
+      "minecraft:frozen_peaks": "2025-05-02 16:36:03 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-02 16:28:17 +0000"
     },
     "done": false
@@ -1340,6 +1344,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-05-02 16:36:25 +0000",
+      "minecraft:creeper": "2025-05-02 16:40:50 +0000",
       "minecraft:zombie": "2025-05-02 16:20:56 +0000"
     },
     "done": false
@@ -1383,6 +1389,12 @@
   "securitycraft:recipes/redstone/reinforced_jungle_fence_gate": {
     "criteria": {
       "has_stick": "2025-05-02 16:24:21 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/tnt_from_bop_sand": {
+    "criteria": {
+      "has_gunpowder": "2025-05-02 16:40:51 +0000"
     },
     "done": true
   },
@@ -1464,6 +1476,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-05-02 16:39:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2025-05-02 16:24:21 +0000"
@@ -1494,6 +1512,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-05-02 16:39:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2025-05-02 16:23:01 +0000"
@@ -1503,6 +1527,12 @@
   "securitycraft:recipes/misc/reinforced_birch_fence": {
     "criteria": {
       "has_stick": "2025-05-02 16:24:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-05-02 16:40:51 +0000"
     },
     "done": true
   },
@@ -1560,6 +1590,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_meal": {
+    "criteria": {
+      "has_item": "2025-05-02 16:39:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-05-02 16:23:01 +0000"
@@ -1569,6 +1605,12 @@
   "minecraft:recipes/redstone/dark_oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-05-02 16:23:01 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/food/uncooked_rice_bowl": {
+    "criteria": {
+      "has_dtn_rice_grains": "2025-05-02 16:37:59 +0000"
     },
     "done": true
   },
@@ -1587,6 +1629,12 @@
   "securitycraft:recipes/misc/reinforced_warped_fence": {
     "criteria": {
       "has_stick": "2025-05-02 16:24:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-05-02 16:39:24 +0000"
     },
     "done": true
   },
@@ -1650,6 +1698,12 @@
     },
     "done": true
   },
+  "doggytalents:recipes/food/training_treat": {
+    "criteria": {
+      "has_dtn_rice_grains": "2025-05-02 16:37:59 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_mangrove_fence_gate": {
     "criteria": {
       "has_stick": "2025-05-02 16:24:21 +0000"
@@ -1659,6 +1713,12 @@
   "securitycraft:recipes/misc/reinforced_mangrove_fence": {
     "criteria": {
       "has_stick": "2025-05-02 16:24:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-05-02 16:40:51 +0000"
     },
     "done": true
   },

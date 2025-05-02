@@ -1855,7 +1855,8 @@
     "criteria": {
       "minecraft:skeleton": "2025-05-02 14:48:51 +0000",
       "minecraft:spider": "2025-05-02 14:43:16 +0000",
-      "minecraft:zombie": "2025-05-02 14:41:53 +0000"
+      "minecraft:zombie": "2025-05-02 14:41:53 +0000",
+      "minecraft:drowned": "2025-05-02 16:33:41 +0000"
     },
     "done": false
   },
@@ -1910,6 +1911,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-05-02 15:27:22 +0000",
+      "chicken": "2025-05-02 16:39:17 +0000",
       "apple": "2025-05-02 14:43:48 +0000"
     },
     "done": false
@@ -3285,6 +3287,42 @@
   "artifacts:amateur_archaeologist": {
     "criteria": {
       "find_artifact": "2025-05-02 15:36:36 +0000"
+    },
+    "done": true
+  },
+  "mysticsbiomes:mysticsbiomes/root": {
+    "criteria": {
+      "strawberry_fields": "2025-05-02 16:33:44 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/baker_hat": {
+    "criteria": {
+      "has_bread": "2025-05-02 16:40:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-05-02 16:40:15 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/hot_dog": {
+    "criteria": {
+      "has_bread": "2025-05-02 16:40:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-05-02 16:40:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-05-02 16:40:15 +0000"
     },
     "done": true
   },
