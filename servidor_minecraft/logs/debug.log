@@ -10601,3 +10601,8 @@ To disable a bonus drop for a default definition, set the amount to 0.
 [02May2025 00:47:06.620] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@77a4e9d8[id=<null>,name=aaleexx17,properties={},legacy=false] (/127.165.157.203:32993) lost connection: Unexpected custom data from client
 [02May2025 00:49:19.313] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [02May2025 00:49:19.374] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02May2025 00:54:19.307] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02May2025 00:54:19.367] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02May2025 00:55:34.676] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/35661, l='ServerLevel[world]', x=957.72, y=82.00, z=1048.63] died, message: 'Unemployed suffocated in a wall'
+[02May2025 00:59:19.317] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02May2025 00:59:19.398] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
