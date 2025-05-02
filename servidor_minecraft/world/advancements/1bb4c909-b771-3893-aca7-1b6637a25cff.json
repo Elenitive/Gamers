@@ -3487,7 +3487,8 @@
       "minecraft:cave_spider": "2025-05-02 17:04:02 +0000",
       "minecraft:stray": "2025-05-02 17:17:37 +0000",
       "minecraft:silverfish": "2025-05-02 17:28:59 +0000",
-      "minecraft:zombie": "2025-05-02 14:13:52 +0000"
+      "minecraft:zombie": "2025-05-02 14:13:52 +0000",
+      "minecraft:drowned": "2025-05-02 19:17:20 +0000"
     },
     "done": false
   },
@@ -5213,6 +5214,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2025-05-02 19:12:19 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
     "criteria": {
       "has_silver_nugget": "2025-05-02 19:08:00 +0000"
@@ -5228,6 +5235,12 @@
   "iceandfire:recipes/combat/forest_troll_leather_helmet": {
     "criteria": {
       "has_item": "2025-05-02 19:10:22 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-05-02 19:13:05 +0000"
     },
     "done": true
   },

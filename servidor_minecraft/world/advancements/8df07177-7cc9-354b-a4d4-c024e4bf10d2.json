@@ -63,13 +63,16 @@
     "criteria": {
       "shrubland": "2025-05-02 18:14:14 +0000",
       "rocky_shrubland": "2025-05-02 17:56:21 +0000",
+      "floodplain": "2025-05-02 19:14:57 +0000",
       "old_growth_woodland": "2025-05-02 18:36:57 +0000",
       "orchard": "2025-05-02 18:19:03 +0000",
       "overgrown_greens": "2025-05-02 18:36:42 +0000",
       "redwood_forest": "2025-05-02 18:36:50 +0000",
       "dune_beach": "2025-05-02 18:51:25 +0000",
+      "rocky_rainforest": "2025-05-02 19:15:05 +0000",
       "lavender_field": "2025-05-02 18:04:39 +0000",
-      "grassland": "2025-05-02 17:44:56 +0000"
+      "grassland": "2025-05-02 17:44:56 +0000",
+      "rainforest": "2025-05-02 19:14:46 +0000"
     },
     "done": false
   },
@@ -95,6 +98,7 @@
       "minecraft:river": "2025-05-02 18:04:37 +0000",
       "minecraft:forest": "2025-05-02 17:58:45 +0000",
       "minecraft:ocean": "2025-05-02 18:17:11 +0000",
+      "minecraft:jungle": "2025-05-02 19:18:24 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-05-02 18:18:18 +0000",
       "minecraft:flower_forest": "2025-05-02 18:07:05 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-02 17:56:22 +0000",
@@ -2562,6 +2566,7 @@
       "beef": "2025-05-02 18:09:20 +0000",
       "mutton": "2025-05-02 18:04:08 +0000",
       "golden_apple": "2025-05-02 18:15:17 +0000",
+      "melon_slice": "2025-05-02 19:19:31 +0000",
       "golden_carrot": "2025-05-02 18:22:57 +0000"
     },
     "done": false
@@ -4063,6 +4068,36 @@
   "doggytalents:recipes/decorations/locator_orb_gi": {
     "criteria": {
       "has_string": "2025-05-02 18:49:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-05-02 19:19:13 +0000"
+    },
+    "done": true
+  },
+  "buntsy:recipes/misc/caramel_strawberries": {
+    "criteria": {
+      "has_strawberry": "2025-05-02 19:13:53 +0000"
+    },
+    "done": true
+  },
+  "buntsy:recipes/misc/strawberry_seeds": {
+    "criteria": {
+      "has_strawberry": "2025-05-02 19:13:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-05-02 19:19:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-05-02 19:19:13 +0000"
     },
     "done": true
   },

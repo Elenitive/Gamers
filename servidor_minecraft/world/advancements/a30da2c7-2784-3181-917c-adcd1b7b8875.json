@@ -3946,9 +3946,45 @@
     },
     "done": true
   },
+  "buntsy:recipes/misc/gentlit_planks": {
+    "criteria": {
+      "TagKey[minecraft:item / buntsy:gentlit_logs]": "2025-05-02 19:13:08 +0000"
+    },
+    "done": true
+  },
+  "buntsy:recipes/misc/fairy_collection_tray": {
+    "criteria": {
+      "has_gentlit_log": "2025-05-02 19:13:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_sword": "2025-05-02 19:11:41 +0000"
+    },
+    "done": true
+  },
+  "buntsy:recipes/misc/infusion_pedestal": {
+    "criteria": {
+      "has_gentlit_log": "2025-05-02 19:13:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/ornate_iron_window": {
+    "criteria": {
+      "has_ingredient": "2025-05-02 19:11:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-05-02 19:11:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-05-02 19:11:44 +0000"
     },
     "done": true
   },
@@ -3958,9 +3994,39 @@
     },
     "done": true
   },
+  "buntsy:recipes/misc/fairy_infusion_bench": {
+    "criteria": {
+      "has_gentlit_log": "2025-05-02 19:13:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-05-02 19:11:46 +0000"
+    },
+    "done": true
+  },
+  "buntsy:recipes/misc/fairy_offering_bench": {
+    "criteria": {
+      "has_gentlit_log": "2025-05-02 19:13:08 +0000"
+    },
+    "done": true
+  },
   "artifacts:amateur_archaeologist": {
     "criteria": {
       "find_artifact": "2025-05-02 19:11:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "golden_carrot": "2025-05-02 19:15:37 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-05-02 19:11:46 +0000"
     },
     "done": true
   },
