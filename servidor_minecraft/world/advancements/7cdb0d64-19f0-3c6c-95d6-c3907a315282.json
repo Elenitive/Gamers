@@ -68,6 +68,7 @@
       "moor": "2025-05-02 17:47:53 +0000",
       "redwood_forest": "2025-05-02 16:57:41 +0000",
       "dune_beach": "2025-05-02 16:57:43 +0000",
+      "lavender_field": "2025-05-02 18:20:46 +0000",
       "grassland": "2025-05-02 14:37:54 +0000"
     },
     "done": false
@@ -81,7 +82,10 @@
       "minecraft:forest": "2025-05-02 16:28:13 +0000",
       "minecraft:lush_caves": "2025-05-02 14:43:30 +0000",
       "minecraft:ocean": "2025-05-02 16:56:43 +0000",
-      "minecraft:old_growth_birch_forest": "2025-05-02 16:19:31 +0000"
+      "minecraft:flower_forest": "2025-05-02 18:20:12 +0000",
+      "minecraft:old_growth_birch_forest": "2025-05-02 16:19:31 +0000",
+      "minecraft:meadow": "2025-05-02 18:16:51 +0000",
+      "minecraft:plains": "2025-05-02 18:17:14 +0000"
     },
     "done": false
   },
@@ -4159,6 +4163,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-05-02 18:21:12 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/blast_furnace_mine": {
     "criteria": {
       "has_mine": "2025-05-02 17:50:49 +0000"
@@ -4219,15 +4229,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-05-02 18:21:12 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/deepslate_iron_mine": {
     "criteria": {
       "has_mine": "2025-05-02 17:50:49 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-05-02 18:17:31 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/tools/remote_access_mine": {
     "criteria": {
       "has_mine": "2025-05-02 17:50:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-05-02 18:21:57 +0000"
     },
     "done": true
   },
@@ -4240,6 +4268,12 @@
   "securitycraft:recipes/building_blocks/deepslate_gold_mine": {
     "criteria": {
       "has_mine": "2025-05-02 17:50:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-05-02 18:21:57 +0000"
     },
     "done": true
   },
@@ -4258,6 +4292,12 @@
   "securitycraft:recipes/building_blocks/suspicious_sand_mine": {
     "criteria": {
       "has_mine": "2025-05-02 17:50:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-05-02 18:17:31 +0000"
     },
     "done": true
   },
@@ -4288,6 +4328,18 @@
   "securitycraft:recipes/building_blocks/smoker_mine": {
     "criteria": {
       "has_mine": "2025-05-02 17:50:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-05-02 18:14:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-05-02 18:21:12 +0000"
     },
     "done": true
   },
@@ -4357,6 +4409,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-05-02 18:21:57 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/diamond_mine": {
     "criteria": {
       "has_mine": "2025-05-02 17:50:49 +0000"
@@ -4384,6 +4442,12 @@
   "securitycraft:recipes/building_blocks/deepslate_emerald_mine": {
     "criteria": {
       "has_mine": "2025-05-02 17:50:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-05-02 18:17:31 +0000"
     },
     "done": true
   },

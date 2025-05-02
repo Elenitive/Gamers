@@ -90,7 +90,8 @@
   },
   "lootr:social": {
     "criteria": {
-      "opened_chest": "2025-05-02 16:17:42 +0000"
+      "opened_chest": "2025-05-02 16:17:42 +0000",
+      "opened_cart": "2025-05-02 18:20:47 +0000"
     },
     "done": false
   },
@@ -4625,9 +4626,45 @@
     },
     "done": true
   },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2025-05-02 18:20:47 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/baker_hat": {
+    "criteria": {
+      "has_bread": "2025-05-02 18:21:25 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/hot_dog": {
+    "criteria": {
+      "has_bread": "2025-05-02 18:21:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2025-05-02 18:04:23 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_dinosaur": {
+    "criteria": {
+      "killed_by_vallumraptor": "2025-05-02 18:16:52 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/limestone": {
+    "criteria": {
+      "limestone": "2025-05-02 18:13:46 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-05-02 18:21:09 +0000"
     },
     "done": true
   },

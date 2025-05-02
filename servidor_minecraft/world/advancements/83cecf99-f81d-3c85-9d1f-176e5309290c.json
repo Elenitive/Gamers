@@ -62,6 +62,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "rocky_shrubland": "2025-05-02 18:09:52 +0000",
+      "moor": "2025-05-02 18:20:02 +0000",
       "grassland": "2025-05-02 15:26:51 +0000"
     },
     "done": false
@@ -611,12 +612,14 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "chicken": "2025-05-02 18:18:36 +0000",
       "cooked_beef": "2025-05-02 15:40:25 +0000",
       "tropical_fish": "2025-05-02 16:57:39 +0000",
       "apple": "2025-05-02 16:39:17 +0000",
       "mutton": "2025-05-02 18:10:37 +0000",
       "bread": "2025-05-02 17:08:46 +0000",
       "golden_apple": "2025-05-02 16:34:15 +0000",
+      "golden_carrot": "2025-05-02 18:10:51 +0000",
       "cooked_rabbit": "2025-05-02 17:53:31 +0000",
       "enchanted_golden_apple": "2025-05-02 16:40:42 +0000",
       "carrot": "2025-05-02 16:16:54 +0000"
@@ -4663,6 +4666,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-05-02 18:13:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2025-05-02 18:10:34 +0000"
@@ -4717,6 +4726,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-05-02 18:21:03 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/secret_crimson_hanging_sign": {
     "criteria": {
       "has_sign": "2025-05-02 17:31:26 +0000"
@@ -4726,6 +4741,12 @@
   "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
     "criteria": {
       "has_cooked_rabbit": "2025-05-02 17:53:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-05-02 18:13:09 +0000"
     },
     "done": true
   },
@@ -4741,15 +4762,45 @@
     },
     "done": true
   },
+  "buntsy:recipes/misc/caramel_strawberries": {
+    "criteria": {
+      "has_strawberry": "2025-05-02 18:22:41 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-05-02 18:21:39 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/secret_acacia_hanging_sign": {
     "criteria": {
       "has_sign": "2025-05-02 17:31:26 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-05-02 18:15:21 +0000"
+    },
+    "done": true
+  },
+  "buntsy:recipes/misc/strawberry_seeds": {
+    "criteria": {
+      "has_strawberry": "2025-05-02 18:22:41 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/secret_sign_item": {
     "criteria": {
       "has_sign": "2025-05-02 17:31:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-05-02 18:13:09 +0000"
     },
     "done": true
   },
@@ -4762,6 +4813,12 @@
   "securitycraft:recipes/building_blocks/secret_warped_sign_item": {
     "criteria": {
       "has_sign": "2025-05-02 17:31:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-05-02 18:21:03 +0000"
     },
     "done": true
   },

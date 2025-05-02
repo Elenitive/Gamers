@@ -4406,18 +4406,6 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/ender_flu": {
-    "criteria": {
-      "all_effects": "2025-05-02 17:49:12 +0000"
-    },
-    "done": true
-  },
-  "lootr:50loot": {
-    "criteria": {
-      "loot_stat": "2025-05-02 18:02:59 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/redstone/reinforced_sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-05-02 17:39:45 +0000"
@@ -4430,27 +4418,9 @@
     },
     "done": true
   },
-  "tombstone:adventure/teleport_to_grave": {
-    "criteria": {
-      "coded_trigger": "2025-05-02 17:53:25 +0000"
-    },
-    "done": true
-  },
-  "doggytalents:recipes/food/super_treat": {
-    "criteria": {
-      "has_golden_apple": "2025-05-02 17:44:59 +0000"
-    },
-    "done": true
-  },
   "doggytalents:recipes/tools/throw_stick": {
     "criteria": {
       "has_slime_ball": "2025-05-02 17:39:45 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/discover_dinosaur": {
-    "criteria": {
-      "killed_by_vallumraptor": "2025-05-02 18:10:12 +0000"
     },
     "done": true
   },
@@ -4472,15 +4442,45 @@
     },
     "done": true
   },
-  "tombstone:adventure/create_magic_scroll": {
+  "doggytalents:recipes/food/super_treat": {
     "criteria": {
-      "has_magic_scroll": "2025-05-02 17:56:19 +0000"
+      "has_golden_apple": "2025-05-02 17:44:59 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/ender_flu": {
+    "criteria": {
+      "all_effects": "2025-05-02 17:49:12 +0000"
     },
     "done": true
   },
   "tombstone:adventure/enchant_grave_key": {
     "criteria": {
       "has_upgraded_grave_key": "2025-05-02 17:53:07 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-05-02 17:53:25 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-05-02 17:56:19 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-05-02 18:02:59 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_dinosaur": {
+    "criteria": {
+      "killed_by_vallumraptor": "2025-05-02 18:10:12 +0000"
     },
     "done": true
   },

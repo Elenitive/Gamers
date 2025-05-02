@@ -2534,6 +2534,7 @@
       "cooked_beef": "2025-05-02 17:37:02 +0000",
       "mutton": "2025-05-02 15:26:28 +0000",
       "golden_apple": "2025-05-02 18:02:46 +0000",
+      "golden_carrot": "2025-05-02 18:15:38 +0000",
       "carrot": "2025-05-02 17:48:10 +0000"
     },
     "done": false
@@ -4524,6 +4525,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-05-02 18:21:27 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/cancel_ghostly_shape": {
     "criteria": {
       "coded_trigger": "2025-05-02 17:29:22 +0000"
@@ -4638,6 +4645,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/jacaranda_wood": {
+    "criteria": {
+      "has_log": "2025-05-02 18:21:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_wall": {
     "criteria": {
       "has_nether_bricks": "2025-05-02 17:50:55 +0000"
@@ -4728,9 +4741,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/jacaranda_planks": {
+    "criteria": {
+      "has_logs": "2025-05-02 18:21:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-05-02 17:50:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-05-02 18:21:27 +0000"
     },
     "done": true
   },
@@ -4857,6 +4882,12 @@
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-05-02 17:52:02 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/purple_dye_from_lavender": {
+    "criteria": {
+      "has_lavender": "2025-05-02 18:21:33 +0000"
     },
     "done": true
   },
