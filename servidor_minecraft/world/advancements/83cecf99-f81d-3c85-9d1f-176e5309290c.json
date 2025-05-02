@@ -87,11 +87,13 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cherry_grove": "2025-05-02 19:52:33 +0000",
       "minecraft:birch_forest": "2025-05-02 15:31:03 +0000",
       "minecraft:beach": "2025-05-02 16:07:21 +0000",
       "minecraft:dark_forest": "2025-05-02 15:30:49 +0000",
       "minecraft:river": "2025-05-02 15:32:01 +0000",
       "minecraft:lukewarm_ocean": "2025-05-02 19:26:48 +0000",
+      "minecraft:dripstone_caves": "2025-05-02 19:54:13 +0000",
       "minecraft:forest": "2025-05-02 15:31:35 +0000",
       "minecraft:lush_caves": "2025-05-02 15:38:41 +0000",
       "minecraft:ocean": "2025-05-02 19:34:46 +0000",
@@ -623,6 +625,7 @@
     "criteria": {
       "chicken": "2025-05-02 18:18:36 +0000",
       "cooked_beef": "2025-05-02 15:40:25 +0000",
+      "beef": "2025-05-02 19:56:42 +0000",
       "porkchop": "2025-05-02 18:28:27 +0000",
       "tropical_fish": "2025-05-02 16:57:39 +0000",
       "apple": "2025-05-02 16:39:17 +0000",
@@ -5318,6 +5321,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-05-02 19:51:06 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/jacaranda_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-02 19:34:04 +0000"
@@ -5333,6 +5342,18 @@
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-02 19:34:04 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/plague_doctor_mask": {
+    "criteria": {
+      "has_leather": "2025-05-02 19:51:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-05-02 19:51:06 +0000"
     },
     "done": true
   },
@@ -5366,6 +5387,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-05-02 19:51:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-02 19:34:04 +0000"
@@ -5378,9 +5405,33 @@
     },
     "done": true
   },
+  "doggytalents:recipes/decorations/tantan_cape": {
+    "criteria": {
+      "has_leather": "2025-05-02 19:51:06 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2025-05-02 19:51:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-05-02 19:51:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/bamboo_chest_raft": {
     "criteria": {
       "has_boat": "2025-05-02 19:34:04 +0000"
+    },
+    "done": true
+  },
+  "material_elements:recipes/leather/leather_strip_from_leather": {
+    "criteria": {
+      "has_leather": "2025-05-02 19:51:06 +0000"
     },
     "done": true
   },
@@ -5390,9 +5441,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-05-02 19:51:06 +0000"
+    },
+    "done": true
+  },
   "mysticsbiomes:recipes/transportation/peach_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-02 19:34:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-05-02 19:51:06 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/cape_coloured": {
+    "criteria": {
+      "has_leather": "2025-05-02 19:51:06 +0000"
     },
     "done": true
   },
@@ -5411,6 +5480,36 @@
   "biomesoplenty:recipes/transportation/willow_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-02 19:34:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-05-02 19:51:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-05-02 19:52:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-05-02 19:51:06 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/leather_jacket": {
+    "criteria": {
+      "has_leather": "2025-05-02 19:51:06 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/blindfold": {
+    "criteria": {
+      "has_item": "2025-05-02 19:51:06 +0000"
     },
     "done": true
   },
@@ -5462,9 +5561,27 @@
     },
     "done": true
   },
+  "doggytalents:recipes/tools/treat_bag": {
+    "criteria": {
+      "has_leather": "2025-05-02 19:51:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-02 19:34:04 +0000"
+    },
+    "done": true
+  },
+  "material_elements:recipes/leather/leather_shears": {
+    "criteria": {
+      "has_leather": "2025-05-02 19:51:06 +0000"
+    },
+    "done": true
+  },
+  "material_elements:recipes/leather/leather_sheet_from_leather": {
+    "criteria": {
+      "has_leather": "2025-05-02 19:51:06 +0000"
     },
     "done": true
   },
@@ -5477,6 +5594,12 @@
   "mysticsbiomes:recipes/transportation/jacaranda_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-02 19:34:04 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2025-05-02 19:51:06 +0000"
     },
     "done": true
   },
@@ -5513,6 +5636,12 @@
   "tombstone:adventure/ashes_and_bones": {
     "criteria": {
       "coded_trigger": "2025-05-02 19:08:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-05-02 19:51:41 +0000"
     },
     "done": true
   },

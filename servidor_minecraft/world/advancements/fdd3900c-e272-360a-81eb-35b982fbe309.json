@@ -74,6 +74,7 @@
       "pasture": "2025-05-02 16:25:05 +0000",
       "lavender_field": "2025-05-02 15:48:42 +0000",
       "fir_clearing": "2025-05-02 17:57:45 +0000",
+      "pumpkin_patch": "2025-05-02 19:53:38 +0000",
       "grassland": "2025-05-02 14:03:38 +0000",
       "prairie": "2025-05-02 15:43:01 +0000",
       "glowing_grotto": "2025-05-02 14:57:22 +0000"
@@ -7288,9 +7289,33 @@
     },
     "done": true
   },
+  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-05-02 19:57:01 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-05-02 19:58:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-05-02 19:57:01 +0000"
+    },
+    "done": true
+  },
   "create:recipes/combat/crafting/appliances/netherite_diving_boots_from_netherite": {
     "criteria": {
       "has_item": "2025-05-02 19:42:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/raw_zinc_block": {
+    "criteria": {
+      "has_item": "2025-05-02 19:57:01 +0000"
     },
     "done": true
   },

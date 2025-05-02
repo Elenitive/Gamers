@@ -85,6 +85,7 @@
       "minecraft:dark_forest": "2025-05-02 14:39:37 +0000",
       "minecraft:river": "2025-05-02 16:27:44 +0000",
       "minecraft:lukewarm_ocean": "2025-05-02 18:49:31 +0000",
+      "minecraft:dripstone_caves": "2025-05-02 19:50:05 +0000",
       "minecraft:forest": "2025-05-02 16:28:13 +0000",
       "minecraft:lush_caves": "2025-05-02 14:43:30 +0000",
       "minecraft:ocean": "2025-05-02 16:56:43 +0000",
@@ -4662,9 +4663,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-05-02 19:56:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2025-05-02 19:25:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_cherry_wood": {
+    "criteria": {
+      "has_log": "2025-05-02 19:56:02 +0000"
     },
     "done": true
   },
@@ -4674,9 +4687,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cherry_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-05-02 19:56:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-05-02 19:55:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_smelts_to_glass": "2025-05-02 19:33:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-05-02 19:57:48 +0000"
     },
     "done": true
   },
