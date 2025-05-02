@@ -1917,7 +1917,9 @@
     "criteria": {
       "cooked_porkchop": "2025-05-02 15:27:22 +0000",
       "chicken": "2025-05-02 16:39:17 +0000",
+      "baked_potato": "2025-05-02 17:03:18 +0000",
       "apple": "2025-05-02 14:43:48 +0000",
+      "potato": "2025-05-02 17:03:50 +0000",
       "bread": "2025-05-02 16:47:08 +0000",
       "rotten_flesh": "2025-05-02 16:55:36 +0000",
       "salmon": "2025-05-02 17:01:05 +0000"
@@ -3316,6 +3318,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/stolen_magic": {
+    "criteria": {
+      "coded_trigger": "2025-05-02 17:08:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-05-02 16:42:19 +0000"
@@ -3340,6 +3348,12 @@
     },
     "done": true
   },
+  "doggytalents:recipes/decorations/ceremonial_garb": {
+    "criteria": {
+      "has_lead": "2025-05-02 17:04:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2025-05-02 16:41:58 +0000"
@@ -3358,6 +3372,12 @@
     },
     "done": true
   },
+  "doggytalents:recipes/decorations/pianist_suit": {
+    "criteria": {
+      "has_string": "2025-05-02 17:07:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-05-02 16:42:18 +0000"
@@ -3367,6 +3387,12 @@
   "minecraft:recipes/tools/golden_shovel": {
     "criteria": {
       "has_gold_ingot": "2025-05-02 16:42:19 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/bowtie": {
+    "criteria": {
+      "has_string": "2025-05-02 17:07:44 +0000"
     },
     "done": true
   },
@@ -3418,6 +3444,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-05-02 17:06:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2025-05-02 16:42:18 +0000"
@@ -3460,6 +3492,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-05-02 17:07:44 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/wig": {
+    "criteria": {
+      "has_string": "2025-05-02 17:07:44 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/transportation/track_mine": {
     "criteria": {
       "has_iron": "2025-05-02 16:42:18 +0000"
@@ -3469,6 +3513,12 @@
   "create:recipes/misc/crafting/materials/andesite_alloy": {
     "criteria": {
       "has_item": "2025-05-02 16:42:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-05-02 17:07:44 +0000"
     },
     "done": true
   },
@@ -3508,6 +3558,12 @@
     },
     "done": true
   },
+  "doggytalents:recipes/decorations/locator_orb_shin": {
+    "criteria": {
+      "has_string": "2025-05-02 17:07:44 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/security_camera": {
     "criteria": {
       "has_iron": "2025-05-02 16:42:18 +0000"
@@ -3517,6 +3573,12 @@
   "doggytalents:recipes/decorations/head_band_blank": {
     "criteria": {
       "has_paper": "2025-05-02 16:41:41 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/bach_wig": {
+    "criteria": {
+      "has_string": "2025-05-02 17:07:44 +0000"
     },
     "done": true
   },
@@ -3541,6 +3603,12 @@
   "securitycraft:recipes/redstone/reinforced_fence_gate": {
     "criteria": {
       "has_iron": "2025-05-02 16:42:18 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/food/golden_a_five_wagyu": {
+    "criteria": {
+      "has_cooked_beef": "2025-05-02 17:07:18 +0000"
     },
     "done": true
   },
@@ -3622,9 +3690,21 @@
     },
     "done": true
   },
+  "doggytalents:recipes/decorations/wool_collar": {
+    "criteria": {
+      "has_string": "2025-05-02 17:07:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-05-02 16:41:58 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/misc/gender_bone": {
+    "criteria": {
+      "has_string": "2025-05-02 17:07:44 +0000"
     },
     "done": true
   },
@@ -3772,6 +3852,12 @@
     },
     "done": true
   },
+  "doggytalents:recipes/decorations/locator_orb_dyable": {
+    "criteria": {
+      "has_string": "2025-05-02 17:07:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-05-02 16:42:18 +0000"
@@ -3787,6 +3873,12 @@
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2025-05-02 16:42:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-05-02 17:03:42 +0000"
     },
     "done": true
   },
@@ -3844,6 +3936,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-05-02 17:07:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-05-02 16:42:18 +0000"
@@ -3853,6 +3951,12 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2025-05-02 16:42:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-05-02 17:03:42 +0000"
     },
     "done": true
   },
@@ -3892,9 +3996,21 @@
     },
     "done": true
   },
+  "doggytalents:recipes/decorations/guard_suit": {
+    "criteria": {
+      "has_string": "2025-05-02 17:07:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-05-02 16:42:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-05-02 17:07:44 +0000"
     },
     "done": true
   },
@@ -3922,6 +4038,12 @@
     },
     "done": true
   },
+  "doggytalents:recipes/decorations/locator_orb_rei": {
+    "criteria": {
+      "has_string": "2025-05-02 17:07:44 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/tools/magnifying_bone": {
     "criteria": {
       "has_gold_ingot": "2025-05-02 16:42:19 +0000"
@@ -3931,6 +4053,12 @@
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-05-02 16:42:18 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/wool_collar_thicc": {
+    "criteria": {
+      "has_string": "2025-05-02 17:07:44 +0000"
     },
     "done": true
   },
@@ -3976,6 +4104,12 @@
     },
     "done": true
   },
+  "doggytalents:recipes/tools/empty_locator_orb": {
+    "criteria": {
+      "has_string": "2025-05-02 17:07:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2025-05-02 16:42:18 +0000"
@@ -3994,6 +4128,12 @@
     },
     "done": true
   },
+  "doggytalents:recipes/decorations/tengu_mask": {
+    "criteria": {
+      "has_string": "2025-05-02 17:07:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
       "has_salmon": "2025-05-02 16:40:15 +0000"
@@ -4006,15 +4146,63 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/discover_primordial_caves": {
+    "criteria": {
+      "discover": "2025-05-02 17:05:58 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/harming_module": {
     "criteria": {
       "has_iron": "2025-05-02 16:42:18 +0000"
     },
     "done": true
   },
+  "doggytalents:recipes/decorations/locator_orb_jin": {
+    "criteria": {
+      "has_string": "2025-05-02 17:07:44 +0000"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-05-02 17:04:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-05-02 17:03:42 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/kitsune_mask": {
+    "criteria": {
+      "has_string": "2025-05-02 17:07:44 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/smart_module": {
     "criteria": {
       "has_iron": "2025-05-02 16:42:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-05-02 17:07:44 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/locator_orb_chu": {
+    "criteria": {
+      "has_string": "2025-05-02 17:07:44 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/locator_orb_chi": {
+    "criteria": {
+      "has_string": "2025-05-02 17:07:44 +0000"
     },
     "done": true
   },
@@ -4030,6 +4218,12 @@
     },
     "done": true
   },
+  "doggytalents:recipes/decorations/locator_orb_tei": {
+    "criteria": {
+      "has_string": "2025-05-02 17:07:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-05-02 16:42:19 +0000"
@@ -4039,6 +4233,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-05-02 16:57:34 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/locator_orb_ko": {
+    "criteria": {
+      "has_string": "2025-05-02 17:07:44 +0000"
     },
     "done": true
   },
@@ -4054,9 +4254,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-05-02 17:07:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-05-02 16:41:58 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/locator_orb_gi": {
+    "criteria": {
+      "has_string": "2025-05-02 17:07:44 +0000"
     },
     "done": true
   },

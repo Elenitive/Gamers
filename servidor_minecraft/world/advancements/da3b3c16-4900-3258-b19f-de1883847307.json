@@ -3751,6 +3751,8 @@
     "criteria": {
       "minecraft:skeleton": "2025-05-02 16:59:33 +0000",
       "minecraft:creeper": "2025-05-02 16:59:30 +0000",
+      "minecraft:cave_spider": "2025-05-02 17:03:36 +0000",
+      "minecraft:enderman": "2025-05-02 17:04:26 +0000",
       "minecraft:zombie": "2025-05-02 17:01:40 +0000",
       "minecraft:zombie_villager": "2025-05-02 16:18:01 +0000"
     },
@@ -3996,6 +3998,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-05-02 17:02:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-05-02 17:02:35 +0000"
@@ -4011,6 +4019,12 @@
   "minecraft:recipes/building_blocks/smooth_sandstone": {
     "criteria": {
       "has_sandstone": "2025-05-02 16:54:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-05-02 17:02:52 +0000"
     },
     "done": true
   },
@@ -4170,6 +4184,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/discover_primordial_caves": {
+    "criteria": {
+      "discover": "2025-05-02 17:05:22 +0000"
+    },
+    "done": true
+  },
   "mysticsbiomes:recipes/transportation/cherry_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-02 16:47:34 +0000"
@@ -4179,6 +4199,12 @@
   "mysticsbiomes:recipes/transportation/jacaranda_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-02 16:47:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-05-02 17:04:13 +0000"
     },
     "done": true
   },
@@ -4209,6 +4235,12 @@
   "lootr:10loot": {
     "criteria": {
       "loot_stat": "2025-05-02 17:01:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-05-02 17:02:52 +0000"
     },
     "done": true
   },
