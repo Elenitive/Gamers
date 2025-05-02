@@ -2421,6 +2421,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-05-02 16:58:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-05-02 16:52:23 +0000"
@@ -3406,6 +3412,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2025-05-02 16:59:14 +0000"
+    },
+    "done": true
+  },
   "lootr:10loot": {
     "criteria": {
       "loot_stat": "2025-05-02 16:27:23 +0000"
@@ -3536,6 +3548,7 @@
     "criteria": {
       "apple": "2025-05-02 16:24:18 +0000",
       "melon_slice": "2025-05-02 16:44:06 +0000",
+      "golden_carrot": "2025-05-02 16:58:17 +0000",
       "carrot": "2025-05-02 16:50:54 +0000"
     },
     "done": false

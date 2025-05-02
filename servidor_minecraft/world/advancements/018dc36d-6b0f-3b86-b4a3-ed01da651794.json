@@ -1859,6 +1859,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-05-02 14:48:51 +0000",
       "minecraft:spider": "2025-05-02 14:43:16 +0000",
+      "minecraft:creeper": "2025-05-02 17:00:15 +0000",
       "minecraft:zombie": "2025-05-02 14:41:53 +0000",
       "minecraft:drowned": "2025-05-02 16:33:41 +0000"
     },
@@ -1917,7 +1918,9 @@
       "cooked_porkchop": "2025-05-02 15:27:22 +0000",
       "chicken": "2025-05-02 16:39:17 +0000",
       "apple": "2025-05-02 14:43:48 +0000",
-      "bread": "2025-05-02 16:47:08 +0000"
+      "bread": "2025-05-02 16:47:08 +0000",
+      "rotten_flesh": "2025-05-02 16:55:36 +0000",
+      "salmon": "2025-05-02 17:01:05 +0000"
     },
     "done": false
   },
@@ -3307,6 +3310,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/tnt_from_bop_sand": {
+    "criteria": {
+      "has_gunpowder": "2025-05-02 16:57:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-05-02 16:42:19 +0000"
@@ -3445,6 +3454,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-05-02 16:57:42 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/transportation/track_mine": {
     "criteria": {
       "has_iron": "2025-05-02 16:42:18 +0000"
@@ -3478,6 +3493,12 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2025-05-02 16:41:58 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-05-02 16:56:35 +0000"
     },
     "done": true
   },
@@ -3619,6 +3640,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-05-02 16:57:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2025-05-02 16:42:19 +0000"
@@ -3682,6 +3709,12 @@
   "securitycraft:recipes/misc/speed_module": {
     "criteria": {
       "has_iron": "2025-05-02 16:42:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-05-02 16:57:34 +0000"
     },
     "done": true
   },
@@ -4003,9 +4036,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-05-02 16:57:34 +0000"
+    },
+    "done": true
+  },
   "material_elements:recipes/rods/gold_rod_from_gold_ingot": {
     "criteria": {
       "has_gold_ingot": "2025-05-02 16:42:19 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-05-02 16:56:35 +0000"
     },
     "done": true
   },

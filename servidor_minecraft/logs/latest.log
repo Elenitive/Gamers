@@ -1406,3 +1406,128 @@ java.util.NoSuchElementException: No value present
 [02May2025 16:54:49.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Franramen has made the advancement [Magic Writing]
 [02May2025 16:54:59.995] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9104ms or 182 ticks behind
 [02May2025 16:55:22.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Ashes 'n Bones]
+[02May2025 16:55:30.846] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15855ms or 317 ticks behind
+[02May2025 16:55:34.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Knowledge raises the soul]
+[02May2025 16:56:02.247] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16407ms or 328 ticks behind
+[02May2025 16:56:04.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elenitive has made the advancement [Stone Age]
+[02May2025 16:56:29.004] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11763ms or 235 ticks behind
+[02May2025 16:56:35.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sunny_del has made the advancement [Knowledge of Death]
+[02May2025 16:56:35.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sunny_del has made the advancement [Ashes 'n Bones]
+[02May2025 16:56:54.764] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10773ms or 215 ticks behind
+[02May2025 16:57:03.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NDNatsu has made the advancement [Mhhh will it cut wood?]
+[02May2025 16:57:16.874] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from NDNatsu: Location (292.00982916355133, 63.90976804494858, -4978.759750530124) too far away from hit block BlockPos{x=293, y=63, z=-4979}.
+[02May2025 16:57:16.874] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from NDNatsu: Location (292.00982916355133, 63.90976804494858, -4978.759750530124) too far away from hit block BlockPos{x=293, y=63, z=-4979}.
+[02May2025 16:57:17.352] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from NDNatsu: Location (292.3995640873909, 64.09376919269562, -4978.84296874702) too far away from hit block BlockPos{x=293, y=63, z=-4979}.
+[02May2025 16:57:17.352] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from NDNatsu: Location (292.3995640873909, 64.09376919269562, -4978.84296874702) too far away from hit block BlockPos{x=293, y=63, z=-4979}.
+[02May2025 16:57:20.224] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from NDNatsu: Location (293.5948587656021, 64.60516250133514, -4978.467492997646) too far away from hit block BlockPos{x=293, y=63, z=-4979}.
+[02May2025 16:57:20.224] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from NDNatsu: Location (293.5948587656021, 64.60516250133514, -4978.467492997646) too far away from hit block BlockPos{x=293, y=63, z=-4979}.
+[02May2025 16:57:20.747] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from NDNatsu: Location (293.5208298563957, 64.60516250133514, -4978.461763203144) too far away from hit block BlockPos{x=293, y=63, z=-4979}.
+[02May2025 16:57:20.749] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from NDNatsu: Location (293.5208298563957, 64.60516250133514, -4978.461763203144) too far away from hit block BlockPos{x=293, y=63, z=-4979}.
+[02May2025 16:57:21.024] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11283ms or 225 ticks behind
+[02May2025 16:57:21.103] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from NDNatsu: Location (293.52045571804047, 64.60516250133514, -4978.462205350399) too far away from hit block BlockPos{x=293, y=63, z=-4979}.
+[02May2025 16:57:21.103] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from NDNatsu: Location (293.52045571804047, 64.60516250133514, -4978.462205350399) too far away from hit block BlockPos{x=293, y=63, z=-4979}.
+[02May2025 16:57:24.206] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from delaromer: Location (294.5625, 64.57129490375519, -4978.822548642755) too far away from hit block BlockPos{x=293, y=63, z=-4979}.
+[02May2025 16:57:24.207] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from delaromer: Location (294.5625, 64.57129490375519, -4978.822548642755) too far away from hit block BlockPos{x=293, y=63, z=-4979}.
+[02May2025 16:57:24.571] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from delaromer: Location (294.5625, 64.57696688175201, -4978.821539118886) too far away from hit block BlockPos{x=293, y=63, z=-4979}.
+[02May2025 16:57:24.572] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from delaromer: Location (294.5625, 64.57696688175201, -4978.821539118886) too far away from hit block BlockPos{x=293, y=63, z=-4979}.
+[02May2025 16:57:30.756] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from delaromer: Location (293.51479279994965, 64.60516250133514, -4978.936928033829) too far away from hit block BlockPos{x=293, y=63, z=-4980}.
+[02May2025 16:57:30.760] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from delaromer: Location (293.51479279994965, 64.60516250133514, -4978.936928033829) too far away from hit block BlockPos{x=293, y=63, z=-4980}.
+[02May2025 16:57:41.024] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from NDNatsu: Location (292.2837464809418, 64.5625, -4980.45432382822) too far away from hit block BlockPos{x=293, y=63, z=-4981}.
+[02May2025 16:57:41.024] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from NDNatsu: Location (292.2837464809418, 64.5625, -4980.45432382822) too far away from hit block BlockPos{x=293, y=63, z=-4981}.
+[02May2025 16:57:41.356] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from NDNatsu: Location (292.6170385479927, 64.57657623291016, -4980.476640820503) too far away from hit block BlockPos{x=293, y=63, z=-4981}.
+[02May2025 16:57:41.356] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from NDNatsu: Location (292.6170385479927, 64.57657623291016, -4980.476640820503) too far away from hit block BlockPos{x=293, y=63, z=-4981}.
+[02May2025 16:57:41.685] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from NDNatsu: Location (292.9977255691774, 64.60516250133514, -4980.478108882904) too far away from hit block BlockPos{x=293, y=63, z=-4981}.
+[02May2025 16:57:41.685] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from NDNatsu: Location (292.9977255691774, 64.60516250133514, -4980.478108882904) too far away from hit block BlockPos{x=293, y=63, z=-4981}.
+[02May2025 16:57:42.196] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from NDNatsu: Location (292.40188294649124, 64.5625, -4980.679565012455) too far away from hit block BlockPos{x=293, y=63, z=-4981}.
+[02May2025 16:57:42.196] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from NDNatsu: Location (292.40188294649124, 64.5625, -4980.679565012455) too far away from hit block BlockPos{x=293, y=63, z=-4981}.
+[02May2025 16:57:46.726] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10735ms or 214 ticks behind
+[02May2025 16:58:01.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elenitive> AAAAAAAAAAAAAA
+[02May2025 16:58:03.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elenitive> JUSTO ME FUI
+[02May2025 16:58:05.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elenitive> KASJHFJDSKJFDK
+[02May2025 16:58:10.931] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9240ms or 184 ticks behind
+[02May2025 16:58:13.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franramen> jajaja
+[02May2025 16:58:16.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ivii> que feo eso
+[02May2025 16:58:19.786] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from NDNatsu: Location (289.01597970724106, 64.3125, -4977.438635349274) too far away from hit block BlockPos{x=290, y=63, z=-4978}.
+[02May2025 16:58:19.786] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from NDNatsu: Location (289.01597970724106, 64.3125, -4977.438635349274) too far away from hit block BlockPos{x=290, y=63, z=-4978}.
+[02May2025 16:58:35.081] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9190ms or 183 ticks behind
+[02May2025 16:58:48.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asaam has made the advancement [Alex's Caves]
+[02May2025 16:58:55.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LalaaDragons has made the advancement [Alex's Caves]
+[02May2025 16:58:58.934] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8893ms or 177 ticks behind
+[02May2025 16:59:03.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asaam has made the advancement [Once Upon a Cave]
+[02May2025 16:59:08.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asaam has made the advancement [Diamonds!]
+[02May2025 16:59:14.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LalaaDragons has made the advancement [Once Upon a Cave]
+[02May2025 16:59:19.687] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5796ms or 115 ticks behind
+[02May2025 16:59:21.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Franramen has made the advancement [Funeral Theft]
+[02May2025 16:59:35.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivii has made the advancement [Draconic Evolution]
+[02May2025 16:59:40.573] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5932ms or 118 ticks behind
+[02May2025 16:59:42.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Franramen has made the advancement [A Lighthouse in Your Eyes]
+[02May2025 16:59:44.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has reached the goal [The Cave That Time Forgot]
+[02May2025 17:00:02.260] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6719ms or 134 ticks behind
+[02May2025 17:00:15.330] [Server thread/WARN] [tombstone/]: The death event of the player Franramen was canceled by another mod
+[02May2025 17:00:15.408] [Server thread/INFO] [tombstone/]: The player Franramen has successfully been saved
+[02May2025 17:00:23.842] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6601ms or 132 ticks behind
+[02May2025 17:00:38.676] [Server thread/WARN] [tombstone/]: The death event of the player sunny_del was canceled by another mod
+[02May2025 17:00:38.706] [Server thread/INFO] [tombstone/]: The player sunny_del has successfully been saved
+[02May2025 17:00:42.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Knowledge of Death]
+[02May2025 17:00:42.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Ashes 'n Bones]
+[02May2025 17:00:45.697] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6857ms or 137 ticks behind
+[02May2025 17:01:05.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elenitive has reached the goal [The Cave That Time Forgot]
+[02May2025 17:01:06.664] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5973ms or 119 ticks behind
+[02May2025 17:01:16.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 has made the advancement [Disme A Dozen]
+[02May2025 17:01:20.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 has made the advancement [Amateur Archaeologist]
+[02May2025 17:01:27.720] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6080ms or 121 ticks behind
+[02May2025 17:01:42.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Disme A Dozen]
+[02May2025 17:01:48.199] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5508ms or 110 ticks behind
+[02May2025 17:02:07.989] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4798ms or 95 ticks behind
+[02May2025 17:02:28.433] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5492ms or 109 ticks behind
+[02May2025 17:02:44.707] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Franramen) moved wrongly! 0.4885211442859827
+[02May2025 17:02:44.770] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Franramen) moved wrongly! 0.632311881313683
+[02May2025 17:02:49.427] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6037ms or 120 ticks behind
+[02May2025 17:03:10.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elenitive has made the advancement [Disme A Dozen]
+[02May2025 17:03:12.429] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8038ms or 160 ticks behind
+[02May2025 17:03:22.077] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemOnPacket@47835eae, suppressing error
+java.util.NoSuchElementException: No value present
+	at java.util.Optional.get(Optional.java:143) ~[?:?]
+	at com.nyfaria.perfectplushieapi.loot.VillageLootModifier.doApply(VillageLootModifier.java:43) ~[perfectplushieapi-forge-1.20.1-0.1.1.jar%23282!/:0.1.1]
+	at net.minecraftforge.common.loot.LootModifier.apply(LootModifier.java:58) ~[forge-1.20.1-47.3.7-universal.jar%23252!/:?]
+	at net.minecraftforge.common.ForgeHooks.modifyLoot(ForgeHooks.java:1186) ~[forge-1.20.1-47.3.7-universal.jar%23252!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable.m_230922_(LootTable.java:118) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable.m_287188_(LootTable.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at noobanidus.mods.lootr.block.entities.LootrChestBlockEntity.unpackLootTable(LootrChestBlockEntity.java:279) ~[lootr-forge-1.20-0.7.35.90.jar%23218!/:0.7.35.90]
+	at noobanidus.mods.lootr.data.ChestData.createInventory(ChestData.java:363) ~[lootr-forge-1.20-0.7.35.90.jar%23218!/:0.7.35.90]
+	at noobanidus.mods.lootr.data.DataStorage.getInventory(DataStorage.java:338) ~[lootr-forge-1.20-0.7.35.90.jar%23218!/:0.7.35.90]
+	at noobanidus.mods.lootr.util.ChestUtil.handleLootChest(ChestUtil.java:142) ~[lootr-forge-1.20-0.7.35.90.jar%23218!/:0.7.35.90]
+	at noobanidus.mods.lootr.block.LootrChestBlock.m_6227_(LootrChestBlock.java:50) ~[lootr-forge-1.20-0.7.35.90.jar%23218!/:0.7.35.90]
+	at net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.m_60664_(BlockBehaviour.java:778) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:343) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1055) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[02May2025 17:03:32.520] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5129ms or 102 ticks behind
+[02May2025 17:03:52.600] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5109ms or 102 ticks behind
+[02May2025 17:04:13.593] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6002ms or 120 ticks behind
+[02May2025 17:04:34.233] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5642ms or 112 ticks behind
+[02May2025 17:04:37.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Diamonds!]
+[02May2025 17:04:46.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Amateur Archaeologist]
+[02May2025 17:04:51.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sunny_del has made the advancement [Disme A Dozen]
+[02May2025 17:04:54.802] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5611ms or 112 ticks behind
+[02May2025 17:05:15.021] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5230ms or 104 ticks behind
+[02May2025 17:05:22.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 has reached the goal [The Cave That Time Forgot]
+[02May2025 17:05:30.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Disme A Dozen]
+[02May2025 17:05:36.629] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6638ms or 132 ticks behind
+[02May2025 17:05:58.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sunny_del has reached the goal [The Cave That Time Forgot]
+[02May2025 17:05:59.005] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7414ms or 148 ticks behind
