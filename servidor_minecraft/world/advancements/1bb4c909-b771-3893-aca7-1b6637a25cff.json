@@ -59,6 +59,8 @@
       "fungal_jungle": "2025-05-02 14:12:39 +0000",
       "floodplain": "2025-05-02 14:10:47 +0000",
       "mystic_grove": "2025-05-02 14:51:52 +0000",
+      "overgrown_greens": "2025-05-02 15:19:32 +0000",
+      "redwood_forest": "2025-05-02 15:21:38 +0000",
       "grassland": "2025-05-02 12:42:48 +0000",
       "prairie": "2025-05-02 13:32:34 +0000",
       "rainforest": "2025-05-02 14:12:01 +0000"
@@ -4177,6 +4179,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/food/ambrosia": {
+    "criteria": {
+      "has_item": "2025-05-02 15:24:30 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/pink_dye_from_pink_daffodil": {
     "criteria": {
       "has_pink_daffodil": "2025-05-02 14:52:49 +0000"
@@ -4192,6 +4200,12 @@
   "sophisticatedbackpacks:recipes/misc/copper_backpack": {
     "criteria": {
       "has_backpack": "2025-05-02 14:33:05 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_owner_changer": {
+    "criteria": {
+      "has_name_tag": "2025-05-02 15:28:23 +0000"
     },
     "done": true
   },

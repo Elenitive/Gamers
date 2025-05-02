@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_mercy": {
+    "criteria": {
+      "has_magic_scroll": "2025-05-02 15:18:29 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_birch_fence_gate": {
     "criteria": {
       "has_stick": "2025-05-02 14:35:34 +0000"
@@ -155,6 +161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-05-02 15:20:56 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/willow_boat": {
     "criteria": {
       "in_water": "2025-05-02 14:49:04 +0000"
@@ -170,6 +182,18 @@
   "fairyfactions:recipes/decorations/cherry_brown_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-02 14:34:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-05-02 15:32:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-05-02 15:32:28 +0000"
     },
     "done": true
   },
@@ -224,6 +248,12 @@
   "fairyfactions:recipes/decorations/dark_oak_magenta_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-02 14:34:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-05-02 15:32:28 +0000"
     },
     "done": true
   },
@@ -461,6 +491,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-05-02 15:16:11 +0000"
+    },
+    "done": true
+  },
   "miniutilities:recipes/misc/cursed_earth": {
     "criteria": {
       "has_item": "2025-05-02 14:35:54 +0000"
@@ -521,11 +557,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-05-02 15:32:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-05-02 15:01:44 +0000",
       "minecraft:spider": "2025-05-02 14:56:45 +0000",
       "minecraft:cave_spider": "2025-05-02 15:10:54 +0000",
+      "minecraft:stray": "2025-05-02 15:21:52 +0000",
       "minecraft:zombie": "2025-05-02 14:59:30 +0000"
     },
     "done": false
@@ -680,6 +723,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-05-02 15:32:28 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/logistics/cyan_table_cloth": {
     "criteria": {
       "has_wool": "2025-05-02 14:46:18 +0000"
@@ -689,6 +738,18 @@
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2025-05-02 14:35:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-05-02 15:32:28 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-05-02 15:18:29 +0000"
     },
     "done": true
   },
@@ -830,6 +891,12 @@
     },
     "done": true
   },
+  "doggytalents:recipes/decorations/baker_hat": {
+    "criteria": {
+      "has_bread": "2025-05-02 15:20:28 +0000"
+    },
+    "done": true
+  },
   "miniutilities:recipes/misc/blessed_earth": {
     "criteria": {
       "has_item": "2025-05-02 14:35:54 +0000"
@@ -868,6 +935,7 @@
   },
   "lootr:social": {
     "criteria": {
+      "opened_barrel": "2025-05-02 15:28:34 +0000",
       "opened_chest": "2025-05-02 14:53:46 +0000"
     },
     "done": false
@@ -992,6 +1060,12 @@
     },
     "done": true
   },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-05-02 15:17:36 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/dark_oak_light_gray_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-02 14:34:53 +0000"
@@ -1106,6 +1180,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-05-02 15:32:28 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/birch_blue_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-02 14:34:53 +0000"
@@ -1115,6 +1195,12 @@
   "miniutilities:recipes/misc/ender_tile": {
     "criteria": {
       "has_item": "2025-05-02 14:35:54 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-05-02 15:28:34 +0000"
     },
     "done": true
   },
@@ -1322,6 +1408,12 @@
     },
     "done": true
   },
+  "doggytalents:recipes/decorations/hot_dog": {
+    "criteria": {
+      "has_bread": "2025-05-02 15:20:28 +0000"
+    },
+    "done": true
+  },
   "miniutilities:recipes/misc/speed_upgrade": {
     "criteria": {
       "has_item": "2025-05-02 14:35:54 +0000"
@@ -1367,6 +1459,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-05-02 14:35:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-05-02 15:32:28 +0000"
     },
     "done": true
   },
@@ -1511,6 +1609,12 @@
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_planks": "2025-05-02 14:35:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-05-02 15:32:28 +0000"
     },
     "done": true
   },
@@ -1706,6 +1810,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-05-02 15:32:28 +0000"
+    },
+    "done": true
+  },
   "miniutilities:recipes/misc/ethereal_glass": {
     "criteria": {
       "has_item": "2025-05-02 14:35:54 +0000"
@@ -1733,6 +1843,12 @@
   "fairyfactions:recipes/decorations/birch_magenta_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-02 14:34:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-05-02 15:20:56 +0000"
     },
     "done": true
   },
@@ -2232,7 +2348,9 @@
     "criteria": {
       "shrubland": "2025-05-02 14:49:24 +0000",
       "rocky_shrubland": "2025-05-02 14:47:58 +0000",
-      "grassland": "2025-05-02 14:31:44 +0000"
+      "moor": "2025-05-02 15:28:26 +0000",
+      "grassland": "2025-05-02 14:31:44 +0000",
+      "glowing_grotto": "2025-05-02 15:18:37 +0000"
     },
     "done": false
   },
@@ -2536,6 +2654,12 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/diamond_hammer": {
+    "criteria": {
+      "has_material": "2025-05-02 15:32:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-05-02 14:55:56 +0000"
@@ -2584,6 +2708,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2025-05-02 15:20:01 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/acacia_blue_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-02 14:34:53 +0000"
@@ -2629,6 +2759,12 @@
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_planks": "2025-05-02 14:35:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-05-02 15:32:28 +0000"
     },
     "done": true
   },
@@ -3315,7 +3451,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-05-02 14:42:24 +0000",
-      "cooked_mutton": "2025-05-02 14:49:59 +0000"
+      "cooked_mutton": "2025-05-02 14:49:59 +0000",
+      "cooked_beef": "2025-05-02 15:23:47 +0000"
     },
     "done": false
   },
@@ -3352,6 +3489,12 @@
   "fairyfactions:recipes/decorations/mangrove_pink_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-02 14:34:53 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-05-02 15:18:23 +0000"
     },
     "done": true
   },
@@ -3406,6 +3549,12 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-05-02 14:56:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-05-02 15:32:28 +0000"
     },
     "done": true
   },

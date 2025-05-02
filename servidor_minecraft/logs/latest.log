@@ -1105,3 +1105,198 @@ java.util.NoSuchElementException: No value present
 [02May2025 15:19:07.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 joined the game
 [02May2025 15:19:07.861] [Server thread/INFO] [Jade/]: Syncing config to darkblader69 (c5ed7fb1-b56d-3780-a140-29be33768a49)
 [02May2025 15:19:07.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Ice and Fire]
+[02May2025 15:20:01.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lamborghiny18 has made the advancement [Where Is The Stone Pen?]
+[02May2025 15:20:04.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Franramen has made the advancement [A Strange Grave Dust]
+[02May2025 15:20:16.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NDNatsu has made the advancement [Penteconter]
+[02May2025 15:21:11.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Stone Age]
+[02May2025 15:21:20.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Getting an Upgrade]
+[02May2025 15:21:30.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NDNatsu has reached the goal [Great minds think alike]
+[02May2025 15:22:35.334] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sunny_del[/127.186.175.28:42263] logged in with entity id 44902 at (1268.7219346031088, 64.0, -120.39097322977848)
+[02May2025 15:22:35.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sunny_del joined the game
+[02May2025 15:22:35.388] [Server thread/INFO] [Jade/]: Syncing config to sunny_del (018dc36d-6b0f-3b86-b4a3-ed01da651794)
+[02May2025 15:23:17.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivii has made the advancement [Knowledge of Death]
+[02May2025 15:23:17.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivii has made the advancement [Ashes 'n Bones]
+[02May2025 15:23:25.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NDNatsu has made the advancement [Cover Me with Diamonds]
+[02May2025 15:23:53.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Sweet Dreams]
+[02May2025 15:23:59.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Franramen has made the advancement [Close Quarters]
+[02May2025 15:24:20.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivii has made the advancement [Magic Writing]
+[02May2025 15:24:21.179] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemOnPacket@974642f, suppressing error
+java.util.NoSuchElementException: No value present
+	at java.util.Optional.get(Optional.java:143) ~[?:?]
+	at com.nyfaria.perfectplushieapi.loot.VillageLootModifier.doApply(VillageLootModifier.java:43) ~[perfectplushieapi-forge-1.20.1-0.1.1.jar%23282!/:0.1.1]
+	at net.minecraftforge.common.loot.LootModifier.apply(LootModifier.java:58) ~[forge-1.20.1-47.3.7-universal.jar%23252!/:?]
+	at net.minecraftforge.common.ForgeHooks.modifyLoot(ForgeHooks.java:1186) ~[forge-1.20.1-47.3.7-universal.jar%23252!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable.m_230922_(LootTable.java:118) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable.m_287188_(LootTable.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at noobanidus.mods.lootr.block.entities.LootrChestBlockEntity.unpackLootTable(LootrChestBlockEntity.java:279) ~[lootr-forge-1.20-0.7.35.90.jar%23218!/:0.7.35.90]
+	at noobanidus.mods.lootr.data.ChestData.createInventory(ChestData.java:363) ~[lootr-forge-1.20-0.7.35.90.jar%23218!/:0.7.35.90]
+	at noobanidus.mods.lootr.data.DataStorage.getInventory(DataStorage.java:338) ~[lootr-forge-1.20-0.7.35.90.jar%23218!/:0.7.35.90]
+	at noobanidus.mods.lootr.util.ChestUtil.handleLootChest(ChestUtil.java:142) ~[lootr-forge-1.20-0.7.35.90.jar%23218!/:0.7.35.90]
+	at noobanidus.mods.lootr.block.LootrChestBlock.m_6227_(LootrChestBlock.java:50) ~[lootr-forge-1.20-0.7.35.90.jar%23218!/:0.7.35.90]
+	at net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.m_60664_(BlockBehaviour.java:778) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:343) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1055) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[02May2025 15:24:49.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivii has made the advancement [Mutual Aid]
+[02May2025 15:24:49.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivii has reached the goal [Traveling lightning rod]
+[02May2025 15:24:54.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivii has made the advancement [Close Quarters]
+[02May2025 15:25:20.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Franramen has made the advancement [Mutual Aid]
+[02May2025 15:25:20.621] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sunny_del lost connection: Timed out
+[02May2025 15:25:20.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sunny_del left the game
+[02May2025 15:25:23.022] [Server thread/WARN] [tombstone/]: The death event of the player lamborghiny18 was canceled by another mod
+[02May2025 15:25:23.024] [Server thread/INFO] [tombstone/]: The player lamborghiny18 has successfully been saved
+[02May2025 15:25:40.182] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sunny_del[/127.186.175.28:37349] logged in with entity id 47253 at (977.5890925271289, 68.0, 283.86503451901905)
+[02May2025 15:25:40.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sunny_del joined the game
+[02May2025 15:25:40.258] [Server thread/INFO] [Jade/]: Syncing config to sunny_del (018dc36d-6b0f-3b86-b4a3-ed01da651794)
+[02May2025 15:25:41.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Monster Hunter]
+[02May2025 15:25:47.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement ['X' Marks the Spot]
+[02May2025 15:25:47.875] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemOnPacket@792daf04, suppressing error
+java.util.NoSuchElementException: No value present
+	at java.util.Optional.get(Optional.java:143) ~[?:?]
+	at com.nyfaria.perfectplushieapi.loot.VillageLootModifier.doApply(VillageLootModifier.java:43) ~[perfectplushieapi-forge-1.20.1-0.1.1.jar%23282!/:0.1.1]
+	at net.minecraftforge.common.loot.LootModifier.apply(LootModifier.java:58) ~[forge-1.20.1-47.3.7-universal.jar%23252!/:?]
+	at net.minecraftforge.common.ForgeHooks.modifyLoot(ForgeHooks.java:1186) ~[forge-1.20.1-47.3.7-universal.jar%23252!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable.m_230922_(LootTable.java:118) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable.m_287188_(LootTable.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at noobanidus.mods.lootr.block.entities.LootrChestBlockEntity.unpackLootTable(LootrChestBlockEntity.java:279) ~[lootr-forge-1.20-0.7.35.90.jar%23218!/:0.7.35.90]
+	at noobanidus.mods.lootr.data.ChestData.createInventory(ChestData.java:363) ~[lootr-forge-1.20-0.7.35.90.jar%23218!/:0.7.35.90]
+	at noobanidus.mods.lootr.data.DataStorage.getInventory(DataStorage.java:338) ~[lootr-forge-1.20-0.7.35.90.jar%23218!/:0.7.35.90]
+	at noobanidus.mods.lootr.util.ChestUtil.handleLootChest(ChestUtil.java:142) ~[lootr-forge-1.20-0.7.35.90.jar%23218!/:0.7.35.90]
+	at noobanidus.mods.lootr.block.LootrChestBlock.m_6227_(LootrChestBlock.java:50) ~[lootr-forge-1.20-0.7.35.90.jar%23218!/:0.7.35.90]
+	at net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.m_60664_(BlockBehaviour.java:778) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:343) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1055) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[02May2025 15:26:14.779] [Server thread/WARN] [tombstone/]: The death event of the player sunny_del was canceled by another mod
+[02May2025 15:26:14.784] [Server thread/INFO] [tombstone/]: The player sunny_del has successfully been saved
+[02May2025 15:26:24.627] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemOnPacket@2b2607dc, suppressing error
+java.util.NoSuchElementException: No value present
+	at java.util.Optional.get(Optional.java:143) ~[?:?]
+	at com.nyfaria.perfectplushieapi.loot.VillageLootModifier.doApply(VillageLootModifier.java:43) ~[perfectplushieapi-forge-1.20.1-0.1.1.jar%23282!/:0.1.1]
+	at net.minecraftforge.common.loot.LootModifier.apply(LootModifier.java:58) ~[forge-1.20.1-47.3.7-universal.jar%23252!/:?]
+	at net.minecraftforge.common.ForgeHooks.modifyLoot(ForgeHooks.java:1186) ~[forge-1.20.1-47.3.7-universal.jar%23252!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable.m_230922_(LootTable.java:118) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable.m_287188_(LootTable.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at noobanidus.mods.lootr.block.entities.LootrChestBlockEntity.unpackLootTable(LootrChestBlockEntity.java:279) ~[lootr-forge-1.20-0.7.35.90.jar%23218!/:0.7.35.90]
+	at noobanidus.mods.lootr.data.ChestData.createInventory(ChestData.java:363) ~[lootr-forge-1.20-0.7.35.90.jar%23218!/:0.7.35.90]
+	at noobanidus.mods.lootr.data.DataStorage.getInventory(DataStorage.java:338) ~[lootr-forge-1.20-0.7.35.90.jar%23218!/:0.7.35.90]
+	at noobanidus.mods.lootr.util.ChestUtil.handleLootChest(ChestUtil.java:142) ~[lootr-forge-1.20-0.7.35.90.jar%23218!/:0.7.35.90]
+	at noobanidus.mods.lootr.block.LootrChestBlock.m_6227_(LootrChestBlock.java:50) ~[lootr-forge-1.20-0.7.35.90.jar%23218!/:0.7.35.90]
+	at net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.m_60664_(BlockBehaviour.java:778) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:343) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1055) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[02May2025 15:26:26.927] [Server thread/WARN] [tombstone/]: The death event of the player delaromer was canceled by another mod
+[02May2025 15:26:26.928] [Server thread/INFO] [tombstone/]: The player delaromer has successfully been saved
+[02May2025 15:26:43.766] [Server thread/WARN] [tombstone/]: The death event of the player sunny_del was canceled by another mod
+[02May2025 15:26:43.769] [Server thread/INFO] [tombstone/]: The player sunny_del has successfully been saved
+[02May2025 15:26:50.280] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: oinatzz[/127.26.24.66:52599] logged in with entity id 47931 at (25.5, 63.0, 21.5)
+[02May2025 15:26:50.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oinatzz joined the game
+[02May2025 15:26:50.387] [Server thread/INFO] [Jade/]: Syncing config to oinatzz (83cecf99-f81d-3c85-9d1f-176e5309290c)
+[02May2025 15:26:50.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oinatzz has made the advancement [Ice and Fire]
+[02May2025 15:28:34.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lamborghiny18 has made the advancement [Barrel Booty]
+[02May2025 15:29:18.784] [Server thread/WARN] [tombstone/]: The death event of the player ivii was canceled by another mod
+[02May2025 15:29:18.790] [Server thread/INFO] [tombstone/]: The player ivii has successfully been saved
+[02May2025 15:29:20.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oinatzz has made the advancement [Alex's Mobs]
+[02May2025 15:30:23.764] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: darkblader69 lost connection: Timed out
+[02May2025 15:30:23.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 left the game
+[02May2025 15:30:50.231] [Server thread/WARN] [tombstone/]: The death event of the player sunny_del was canceled by another mod
+[02May2025 15:30:50.256] [Server thread/INFO] [tombstone/]: The player sunny_del has successfully been saved
+[02May2025 15:30:51.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Franramen has made the advancement [Not Today, Thank You]
+[02May2025 15:30:55.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sunny_del went up in flames
+[02May2025 15:30:55.646] [Server thread/INFO] [tombstone/]: The player sunny_del has successfully been saved
+[02May2025 15:31:08.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ich1goM1rukuu> por aki preguntan si habeis encontrado aldeas ya
+[02May2025 15:31:18.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <delaromer> nop
+[02May2025 15:31:26.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lamborghiny18> noup
+[02May2025 15:31:55.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivii has made the advancement [Diamonds!]
+[02May2025 15:32:13.243] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2e53bd50[id=<null>,name=LalaaDragons,properties={},legacy=false] (/127.132.2.90:35907) lost connection: Disconnected
+[02May2025 15:32:13.790] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: asaam[/127.246.25.221:49747] logged in with entity id 52602 at (104.02389059866289, 69.0, 269.15086179643697)
+[02May2025 15:32:13.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asaam joined the game
+[02May2025 15:32:13.831] [Server thread/INFO] [Jade/]: Syncing config to asaam (daf14beb-1577-39e1-b946-f7101e6f3051)
+[02May2025 15:32:19.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: delaromer has made the advancement [Not Today, Thank You]
+[02May2025 15:32:28.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lamborghiny18 has made the advancement [Diamonds!]
+[02May2025 15:32:30.060] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LalaaDragons[/127.132.2.90:37583] logged in with entity id 52978 at (104.79659230081522, 69.0, 269.46547103105075)
+[02May2025 15:32:30.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LalaaDragons joined the game
+[02May2025 15:32:30.123] [Server thread/INFO] [Jade/]: Syncing config to LalaaDragons (e87aa799-5013-3b36-bef0-f827adf9f16a)
+[02May2025 15:32:40.151] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[02May2025 15:33:01.252] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[02May2025 15:33:18.871] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2628ms or 52 ticks behind
+[02May2025 15:33:43.350] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[02May2025 15:34:10.159] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2817ms or 56 ticks behind
+[02May2025 15:34:34.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <asaam> franitooo
+[02May2025 15:34:34.397] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[02May2025 15:34:42.100] [Server thread/WARN] [tombstone/]: The death event of the player oinatzz was canceled by another mod
+[02May2025 15:34:42.101] [Server thread/INFO] [tombstone/]: The player oinatzz has successfully been saved
+[02May2025 15:34:58.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oinatzz fell from a high place
+[02May2025 15:34:58.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oinatzz has made the advancement [Your First Grave]
+[02May2025 15:35:27.993] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[02May2025 15:35:32.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franramen> asaaaammm
+[02May2025 15:35:45.952] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2960ms or 59 ticks behind
+[02May2025 15:35:52.004] [Server thread/WARN] [tombstone/]: The death event of the player sunny_del was canceled by another mod
+[02May2025 15:35:52.009] [Server thread/INFO] [tombstone/]: The player sunny_del has successfully been saved
+[02May2025 15:35:54.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <asaam> manda ubi
+[02May2025 15:36:00.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oinatzz has reached the goal [Here They Come]
+[02May2025 15:36:08.364] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: aaleexx17[/127.165.157.203:60975] logged in with entity id 56683 at (-117.69999998807907, 120.0, -1463.300000011921)
+[02May2025 15:36:08.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 joined the game
+[02May2025 15:36:08.391] [Server thread/INFO] [Jade/]: Syncing config to aaleexx17 (da3b3c16-4900-3258-b19f-de1883847307)
+[02May2025 15:36:24.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sunny_del was shot by Skeleton
+[02May2025 15:36:29.511] [Server thread/WARN] [tombstone/]: The death event of the player Franramen was canceled by another mod
+[02May2025 15:36:29.516] [Server thread/INFO] [tombstone/]: The player Franramen has successfully been saved
+[02May2025 15:36:32.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sunny_del has made the advancement ['X' Marks the Spot]
+[02May2025 15:36:34.332] [Server thread/WARN] [tombstone/]: The death event of the player oinatzz was canceled by another mod
+[02May2025 15:36:34.366] [Server thread/INFO] [tombstone/]: The player oinatzz has successfully been saved
+[02May2025 15:36:36.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sunny_del has made the advancement [Amateur Archaeologist]
+[02May2025 15:36:42.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oinatzz was slain by Fairy
+[02May2025 15:36:51.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ich1goM1rukuu> ta matao una piruja chaval
+[02May2025 15:36:52.575] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sunny_del lost connection: Disconnected
+[02May2025 15:36:52.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sunny_del left the game
+[02May2025 15:36:54.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LalaaDragons has made the advancement [Monster Hunter]
+[02May2025 15:36:58.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LalaaDragons has made the advancement [Mine? Mine? Mine?]
+[02May2025 15:39:01.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NDNatsu has made the advancement [Ice Bucket Challenge]
+[02May2025 15:39:06.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Franramen has completed the challenge [Eye of the Tiger]
+[02May2025 15:39:19.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lamborghiny18> bailalo rocky

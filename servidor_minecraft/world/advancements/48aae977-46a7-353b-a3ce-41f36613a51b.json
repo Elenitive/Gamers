@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-05-02 15:30:51 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/spruce_brown_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-02 14:37:00 +0000"
@@ -155,6 +161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-05-02 15:17:48 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/willow_boat": {
     "criteria": {
       "in_water": "2025-05-02 14:33:45 +0000"
@@ -200,6 +212,12 @@
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2025-05-02 14:50:31 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-05-02 15:20:04 +0000"
     },
     "done": true
   },
@@ -545,9 +563,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-02 15:33:58 +0000"
+    },
+    "done": true
+  },
   "naturalist:recipes/food/cooked_egg": {
     "criteria": {
       "has_eggs": "2025-05-02 14:32:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-05-02 15:29:13 +0000"
     },
     "done": true
   },
@@ -659,6 +689,12 @@
   "minecraft:recipes/transportation/bamboo_raft": {
     "criteria": {
       "in_water": "2025-05-02 14:33:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-05-02 15:29:13 +0000"
     },
     "done": true
   },
@@ -782,6 +818,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-05-02 15:15:23 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_acacia_fence": {
     "criteria": {
       "has_stick": "2025-05-02 14:38:25 +0000"
@@ -794,9 +836,21 @@
     },
     "done": true
   },
+  "tombstone:adventure/mutual_aid": {
+    "criteria": {
+      "coded_trigger": "2025-05-02 15:25:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-05-02 14:50:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-02 15:33:58 +0000"
     },
     "done": true
   },
@@ -884,6 +938,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-02 15:33:58 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/decorations/head_band_blank": {
     "criteria": {
       "has_paper": "2025-05-02 14:45:14 +0000"
@@ -941,6 +1001,12 @@
   "securitycraft:recipes/misc/briefcase": {
     "criteria": {
       "has_iron": "2025-05-02 14:43:22 +0000"
+    },
+    "done": true
+  },
+  "material_elements:recipes/refining/raw_steel_from_raw_iron_and_coke": {
+    "criteria": {
+      "has_raw_iron": "2025-05-02 15:17:48 +0000"
     },
     "done": true
   },
@@ -1202,6 +1268,12 @@
     },
     "done": true
   },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-05-02 15:23:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-05-02 14:48:08 +0000"
@@ -1295,6 +1367,12 @@
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-05-02 14:38:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-02 15:33:58 +0000"
     },
     "done": true
   },
@@ -1409,6 +1487,12 @@
   "miniutilities:recipes/misc/unpack5x": {
     "criteria": {
       "has_item": "2025-05-02 14:43:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-05-02 15:17:48 +0000"
     },
     "done": true
   },
@@ -1580,6 +1664,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-05-02 15:29:13 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/oak_yellow_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-02 14:37:00 +0000"
@@ -1727,6 +1817,12 @@
   "buntsy:recipes/misc/mixer_block": {
     "criteria": {
       "has_iron_ingot": "2025-05-02 14:43:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-05-02 15:29:13 +0000"
     },
     "done": true
   },
@@ -3015,6 +3111,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-05-02 15:17:48 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/decorations/spruce_black_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-02 14:37:00 +0000"
@@ -3093,6 +3195,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-02 15:33:58 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/harming_module": {
     "criteria": {
       "has_iron": "2025-05-02 14:43:22 +0000"
@@ -3120,6 +3228,12 @@
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2025-05-02 14:38:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-05-02 15:29:13 +0000"
     },
     "done": true
   },
@@ -3528,6 +3642,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-02 15:33:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-05-02 14:34:40 +0000"
@@ -3564,6 +3684,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-05-02 15:29:13 +0000"
+    },
+    "done": true
+  },
   "material_elements:recipes/rods/gold_rod_from_gold_ingot": {
     "criteria": {
       "has_gold_ingot": "2025-05-02 14:50:31 +0000"
@@ -3579,6 +3705,12 @@
   "fairyfactions:recipes/decorations/spruce_yellow_fairy_bed": {
     "criteria": {
       "has_log": "2025-05-02 14:37:00 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-05-02 15:15:23 +0000"
     },
     "done": true
   },
