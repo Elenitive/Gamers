@@ -6166,6 +6166,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/defeat_caniac": {
+    "criteria": {
+      "killed": "2025-05-03 19:18:38 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/decorations/ceremonial_garb": {
     "criteria": {
       "has_lead": "2025-05-03 18:06:19 +0000"
@@ -6187,6 +6193,12 @@
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2025-05-03 18:00:47 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/walk_on_rock_candy": {
+    "criteria": {
+      "cave_book": "2025-05-03 19:14:47 +0000"
     },
     "done": true
   },
@@ -6355,6 +6367,12 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-05-03 18:00:47 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/gingerbread_town": {
+    "criteria": {
+      "gingerbread_town": "2025-05-03 19:18:57 +0000"
     },
     "done": true
   },

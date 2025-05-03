@@ -6559,6 +6559,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/walk_on_rock_candy": {
+    "criteria": {
+      "cave_book": "2025-05-03 19:15:27 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/spruce_window": {
     "criteria": {
       "has_ingredient": "2025-05-03 18:24:52 +0000"
@@ -6664,6 +6670,12 @@
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2025-05-03 18:24:52 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_gumbeeper": {
+    "criteria": {
+      "killed": "2025-05-03 19:15:15 +0000"
     },
     "done": true
   },

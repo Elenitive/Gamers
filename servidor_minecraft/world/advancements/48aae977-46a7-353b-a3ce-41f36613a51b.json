@@ -6298,9 +6298,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-05-03 19:12:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2025-05-03 18:03:06 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/walk_on_rock_candy": {
+    "criteria": {
+      "cave_book": "2025-05-03 19:14:28 +0000"
     },
     "done": true
   },
@@ -6334,6 +6346,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/smelting/scoria": {
+    "criteria": {
+      "has_item": "2025-05-03 19:12:49 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/silver_ingot_to_silver_nugget": {
     "criteria": {
       "has_silver_ingot": "2025-05-03 17:44:38 +0000"
@@ -6358,9 +6376,21 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/defeat_gumbeeper": {
+    "criteria": {
+      "killed": "2025-05-03 19:11:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2025-05-03 18:03:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-05-03 19:12:49 +0000"
     },
     "done": true
   },
@@ -6379,6 +6409,12 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-05-03 18:03:06 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/gingerbread_town": {
+    "criteria": {
+      "gingerbread_town": "2025-05-03 19:19:01 +0000"
     },
     "done": true
   },
