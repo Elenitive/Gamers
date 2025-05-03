@@ -7355,6 +7355,12 @@
     },
     "done": true
   },
+  "mekanism:basic_control_circuit": {
+    "criteria": {
+      "basic_control_circuit": "2025-05-02 20:24:48 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/rose_quartz_lamp": {
     "criteria": {
       "has_item": "2025-05-02 20:38:06 +0000"
@@ -7364,12 +7370,6 @@
   "create:recipes/misc/crafting/kinetics/package_filter": {
     "criteria": {
       "has_item": "2025-05-02 20:38:06 +0000"
-    },
-    "done": true
-  },
-  "mekanism:basic_control_circuit": {
-    "criteria": {
-      "basic_control_circuit": "2025-05-02 20:24:48 +0000"
     },
     "done": true
   },
