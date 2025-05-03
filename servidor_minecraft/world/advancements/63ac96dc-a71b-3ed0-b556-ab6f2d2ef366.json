@@ -64,10 +64,12 @@
       "shrubland": "2025-05-03 01:11:45 +0000",
       "rocky_shrubland": "2025-05-02 20:43:24 +0000",
       "jacaranda_glade": "2025-05-02 22:27:53 +0000",
+      "maple_woods": "2025-05-03 17:43:25 +0000",
       "orchard": "2025-05-03 00:42:32 +0000",
       "field": "2025-05-03 01:20:11 +0000",
       "moor": "2025-05-03 00:52:30 +0000",
       "spider_nest": "2025-05-02 22:28:16 +0000",
+      "forested_field": "2025-05-03 17:42:08 +0000",
       "lavender_field": "2025-05-02 22:29:27 +0000",
       "grassland": "2025-05-02 20:37:36 +0000",
       "glowing_grotto": "2025-05-03 02:47:07 +0000"
@@ -6146,6 +6148,12 @@
   "iceandfire:recipes/misc/dragon_stick": {
     "criteria": {
       "has_item": "2025-05-03 17:16:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sapphire_gem_to_sapphire_block": {
+    "criteria": {
+      "has_sapphire_gem": "2025-05-03 17:44:24 +0000"
     },
     "done": true
   },
