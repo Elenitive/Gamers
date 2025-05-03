@@ -6382,9 +6382,33 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/enter_purple_soda": {
+    "criteria": {
+      "in_purple_soda": "2025-05-03 22:05:43 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/food/energizer_stick": {
+    "criteria": {
+      "has_sugar": "2025-05-03 22:05:42 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/gingerbread_crumbs": {
     "criteria": {
       "crumbs": "2025-05-03 21:59:10 +0000"
+    },
+    "done": true
+  },
+  "buntsy:recipes/misc/sugar_bowl": {
+    "criteria": {
+      "has_sugar": "2025-05-03 22:05:42 +0000"
+    },
+    "done": true
+  },
+  "buntsy:recipes/misc/syrupy_mixture_bowl": {
+    "criteria": {
+      "has_sugar": "2025-05-03 22:05:42 +0000"
     },
     "done": true
   },

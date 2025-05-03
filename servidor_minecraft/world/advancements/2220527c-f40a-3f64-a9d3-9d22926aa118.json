@@ -97,6 +97,7 @@
       "minecraft:dark_forest": "2025-05-02 16:20:09 +0000",
       "minecraft:lukewarm_ocean": "2025-05-02 16:50:44 +0000",
       "minecraft:river": "2025-05-02 16:25:34 +0000",
+      "minecraft:dripstone_caves": "2025-05-03 22:09:01 +0000",
       "minecraft:grove": "2025-05-02 16:36:11 +0000",
       "minecraft:forest": "2025-05-02 16:32:22 +0000",
       "minecraft:ocean": "2025-05-02 19:25:24 +0000",
@@ -6972,6 +6973,60 @@
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2025-05-03 18:37:11 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_candy_cavity": {
+    "criteria": {
+      "discover": "2025-05-03 22:13:39 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_caniac": {
+    "criteria": {
+      "killed": "2025-05-03 22:13:49 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/fedora": {
+    "criteria": {
+      "has_leather_helmet": "2025-05-03 22:06:12 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/walk_on_rock_candy": {
+    "criteria": {
+      "cave_book": "2025-05-03 22:14:28 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/deer_antlers": {
+    "criteria": {
+      "has_leather_helmet": "2025-05-03 22:06:12 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/chef_hat": {
+    "criteria": {
+      "has_leather_helmet": "2025-05-03 22:06:12 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/demon_horns": {
+    "criteria": {
+      "has_leather_helmet": "2025-05-03 22:06:12 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_gumbeeper": {
+    "criteria": {
+      "killed": "2025-05-03 22:16:02 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/gelatin": {
+    "criteria": {
+      "gelatin": "2025-05-03 22:17:08 +0000"
     },
     "done": true
   },
