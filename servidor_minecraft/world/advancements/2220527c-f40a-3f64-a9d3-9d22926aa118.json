@@ -6933,6 +6933,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-05-03 18:21:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/spyglass": {
     "criteria": {
       "has_amethyst_shard": "2025-05-03 18:37:11 +0000"
@@ -6960,12 +6966,6 @@
   "buntsy:recipes/misc/fairy_staff": {
     "criteria": {
       "has_amethyst_shard": "2025-05-03 18:37:11 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/ambush": {
-    "criteria": {
-      "coded_trigger": "2025-05-03 18:21:24 +0000"
     },
     "done": true
   },
