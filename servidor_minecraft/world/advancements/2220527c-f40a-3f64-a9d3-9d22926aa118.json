@@ -6982,6 +6982,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-05-03 22:35:23 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/defeat_gum_worm": {
     "criteria": {
       "killed": "2025-05-03 22:27:56 +0000"
@@ -7012,9 +7018,27 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/caramel": {
+    "criteria": {
+      "mussel": "2025-05-03 22:31:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/follow_ender_eye": {
     "criteria": {
       "in_stronghold": "2025-05-03 22:26:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/gold_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2025-05-03 22:43:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_ingot_from_smelting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-05-03 22:48:51 +0000"
     },
     "done": true
   },
@@ -7024,9 +7048,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-05-03 22:32:51 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/decorations/demon_horns": {
     "criteria": {
       "has_leather_helmet": "2025-05-03 22:06:12 +0000"
+    },
+    "done": true
+  },
+  "material_elements:recipes/brewing/test_tube_glow_from_glowing_item": {
+    "criteria": {
+      "has_glowing_item": "2025-05-03 22:32:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/raw_silver_to_raw_silver_block": {
+    "criteria": {
+      "has_raw_silver": "2025-05-03 22:48:51 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_familiar_receptacle": {
+    "criteria": {
+      "has_receptacle_of_familiar": "2025-05-03 22:46:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_ingot_from_blasting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-05-03 22:48:51 +0000"
     },
     "done": true
   },
@@ -7039,6 +7093,18 @@
   "alexscaves:alexscaves/gelatin": {
     "criteria": {
       "gelatin": "2025-05-03 22:17:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
+    "criteria": {
+      "has_eye_armor_trim_smithing_template": "2025-05-03 22:35:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_arrow": {
+    "criteria": {
+      "has_item": "2025-05-03 22:40:34 +0000"
     },
     "done": true
   },
