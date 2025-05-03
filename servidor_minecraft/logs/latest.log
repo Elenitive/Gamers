@@ -1786,3 +1786,52 @@ java.util.NoSuchElementException: No value present
 [03May2025 18:36:06.091] [Server thread/WARN] [tombstone/]: The death event of the player ivii was canceled by another mod
 [03May2025 18:36:06.098] [Server thread/INFO] [tombstone/]: The player ivii has successfully been saved
 [03May2025 18:38:12.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 6BlueBird9 has made the advancement [Unwrapped Candy]
+[03May2025 18:40:28.315] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2059ms or 41 ticks behind
+[03May2025 18:41:15.724] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemOnPacket@12ed5faf, suppressing error
+java.util.NoSuchElementException: No value present
+	at java.util.Optional.get(Optional.java:143) ~[?:?]
+	at com.nyfaria.perfectplushieapi.loot.VillageLootModifier.doApply(VillageLootModifier.java:43) ~[perfectplushieapi-forge-1.20.1-0.1.1.jar%23289!/:0.1.1]
+	at net.minecraftforge.common.loot.LootModifier.apply(LootModifier.java:58) ~[forge-1.20.1-47.3.7-universal.jar%23258!/:?]
+	at net.minecraftforge.common.ForgeHooks.modifyLoot(ForgeHooks.java:1186) ~[forge-1.20.1-47.3.7-universal.jar%23258!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable.m_230922_(LootTable.java:118) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable.m_287188_(LootTable.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at noobanidus.mods.lootr.block.entities.LootrChestBlockEntity.unpackLootTable(LootrChestBlockEntity.java:279) ~[lootr-forge-1.20-0.7.35.90.jar%23224!/:0.7.35.90]
+	at noobanidus.mods.lootr.data.ChestData.createInventory(ChestData.java:363) ~[lootr-forge-1.20-0.7.35.90.jar%23224!/:0.7.35.90]
+	at noobanidus.mods.lootr.data.DataStorage.getInventory(DataStorage.java:338) ~[lootr-forge-1.20-0.7.35.90.jar%23224!/:0.7.35.90]
+	at noobanidus.mods.lootr.util.ChestUtil.handleLootChest(ChestUtil.java:142) ~[lootr-forge-1.20-0.7.35.90.jar%23224!/:0.7.35.90]
+	at noobanidus.mods.lootr.block.LootrChestBlock.m_6227_(LootrChestBlock.java:50) ~[lootr-forge-1.20-0.7.35.90.jar%23224!/:0.7.35.90]
+	at net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.m_60664_(BlockBehaviour.java:778) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:343) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1055) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[03May2025 18:43:45.458] [Server thread/WARN] [tombstone/]: The death event of the player ivii was canceled by another mod
+[03May2025 18:43:45.461] [Server thread/INFO] [tombstone/]: The player ivii has successfully been saved
+[03May2025 18:44:00.932] [Server thread/WARN] [tombstone/]: The death event of the player 6BlueBird9 was canceled by another mod
+[03May2025 18:44:00.937] [Server thread/INFO] [tombstone/]: The player 6BlueBird9 has successfully been saved
+[03May2025 18:44:38.036] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2580ms or 51 ticks behind
+[03May2025 18:44:38.108] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NDNatsu moved too quickly! 8.028431418275204,-0.12789023820548096,-6.179752047521106
+[03May2025 18:49:10.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Franramen has made the advancement [Race Against The Clock]
+[03May2025 18:49:14.648] [Server thread/WARN] [tombstone/]: The death event of the player Franramen was canceled by another mod
+[03May2025 18:49:14.650] [Server thread/INFO] [tombstone/]: The player Franramen has successfully been saved
+[03May2025 18:49:15.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NDNatsu has made the advancement [Another Brick in the Wall]
+[03May2025 18:49:53.172] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/63430, l='ServerLevel[world]', x=499.06, y=71.74, z=-7537.01]
+[03May2025 18:49:53.172] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/63431, l='ServerLevel[world]', x=499.33, y=71.24, z=-7538.09]
+[03May2025 18:49:53.172] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/63432, l='ServerLevel[world]', x=495.97, y=71.99, z=-7536.69]
+[03May2025 18:49:53.172] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/63433, l='ServerLevel[world]', x=495.30, y=71.62, z=-7537.41]
+[03May2025 18:49:53.172] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/63434, l='ServerLevel[world]', x=494.71, y=71.37, z=-7538.05]
+[03May2025 18:49:53.172] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/63435, l='ServerLevel[world]', x=493.95, y=71.12, z=-7538.87]

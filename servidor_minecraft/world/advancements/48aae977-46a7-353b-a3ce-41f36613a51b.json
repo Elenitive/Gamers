@@ -6304,6 +6304,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/ender_flu": {
+    "criteria": {
+      "all_effects": "2025-05-03 18:49:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2025-05-03 18:03:06 +0000"
