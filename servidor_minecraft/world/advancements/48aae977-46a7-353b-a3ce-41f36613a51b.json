@@ -63,6 +63,7 @@
     "criteria": {
       "shrubland": "2025-05-02 14:34:32 +0000",
       "rocky_shrubland": "2025-05-02 17:08:57 +0000",
+      "highland": "2025-05-03 17:53:18 +0000",
       "jacaranda_glade": "2025-05-02 18:27:08 +0000",
       "mystic_grove": "2025-05-03 01:00:00 +0000",
       "old_growth_woodland": "2025-05-02 18:53:09 +0000",
@@ -73,6 +74,7 @@
       "coniferous_forest": "2025-05-03 01:03:56 +0000",
       "redwood_forest": "2025-05-02 16:57:42 +0000",
       "dune_beach": "2025-05-02 16:57:43 +0000",
+      "seasonal_forest": "2025-05-03 17:46:55 +0000",
       "lavender_field": "2025-05-02 18:26:37 +0000",
       "grassland": "2025-05-02 14:32:21 +0000",
       "prairie": "2025-05-03 01:03:05 +0000",
@@ -6267,6 +6269,24 @@
   "tombstone:adventure/use_home": {
     "criteria": {
       "coded_trigger": "2025-05-03 03:20:28 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_candy_cavity": {
+    "criteria": {
+      "discover": "2025-05-03 17:53:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/silver_ingot_to_silver_nugget": {
+    "criteria": {
+      "has_silver_ingot": "2025-05-03 17:44:38 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_ingot_to_silver_block": {
+    "criteria": {
+      "has_silver_ingot": "2025-05-03 17:44:38 +0000"
     },
     "done": true
   },
