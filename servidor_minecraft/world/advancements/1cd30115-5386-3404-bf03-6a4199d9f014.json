@@ -55,29 +55,36 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "woodland": "2025-05-03 01:02:04 +0000",
       "shrubland": "2025-05-02 14:11:44 +0000",
       "rocky_shrubland": "2025-05-02 14:47:14 +0000",
       "floodplain": "2025-05-02 18:40:59 +0000",
       "highland": "2025-05-02 15:47:02 +0000",
       "jacaranda_glade": "2025-05-02 16:15:26 +0000",
       "jade_cliffs": "2025-05-02 16:42:56 +0000",
+      "mystic_grove": "2025-05-03 01:55:45 +0000",
+      "old_growth_woodland": "2025-05-03 01:02:16 +0000",
       "maple_woods": "2025-05-02 20:04:33 +0000",
       "orchard": "2025-05-02 14:12:27 +0000",
       "moor": "2025-05-02 15:28:30 +0000",
       "overgrown_greens": "2025-05-02 15:41:52 +0000",
       "coniferous_forest": "2025-05-02 16:51:42 +0000",
+      "spider_nest": "2025-05-02 23:12:38 +0000",
       "redwood_forest": "2025-05-02 15:42:05 +0000",
       "visceral_heap": "2025-05-02 17:19:26 +0000",
       "aspen_glade": "2025-05-02 19:43:35 +0000",
       "dune_beach": "2025-05-02 19:19:25 +0000",
       "seasonal_forest": "2025-05-02 19:47:42 +0000",
       "pasture": "2025-05-02 16:25:57 +0000",
+      "rocky_rainforest": "2025-05-03 03:20:47 +0000",
       "lavender_field": "2025-05-02 15:49:16 +0000",
       "fir_clearing": "2025-05-02 19:41:31 +0000",
       "pumpkin_patch": "2025-05-02 19:54:45 +0000",
       "grassland": "2025-05-02 14:05:18 +0000",
       "prairie": "2025-05-02 15:43:03 +0000",
-      "glowing_grotto": "2025-05-02 15:18:28 +0000"
+      "glowing_grotto": "2025-05-02 15:18:28 +0000",
+      "gravel_beach": "2025-05-03 02:37:16 +0000",
+      "rainforest": "2025-05-03 01:01:23 +0000"
     },
     "done": false
   },
@@ -114,14 +121,18 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:deep_ocean": "2025-05-02 14:40:18 +0000",
+      "minecraft:birch_forest": "2025-05-03 02:27:16 +0000",
       "minecraft:beach": "2025-05-02 14:11:48 +0000",
       "minecraft:dark_forest": "2025-05-02 14:48:18 +0000",
       "minecraft:sparse_jungle": "2025-05-02 14:35:09 +0000",
       "minecraft:lukewarm_ocean": "2025-05-02 14:13:22 +0000",
       "minecraft:river": "2025-05-02 14:11:32 +0000",
       "minecraft:stony_shore": "2025-05-02 19:08:56 +0000",
+      "minecraft:dripstone_caves": "2025-05-03 02:09:16 +0000",
+      "minecraft:cold_ocean": "2025-05-03 02:32:25 +0000",
       "minecraft:forest": "2025-05-02 14:15:24 +0000",
       "minecraft:lush_caves": "2025-05-02 14:56:52 +0000",
+      "minecraft:deep_cold_ocean": "2025-05-03 02:32:31 +0000",
       "minecraft:ocean": "2025-05-02 14:13:08 +0000",
       "minecraft:windswept_savanna": "2025-05-02 19:24:01 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-05-02 14:13:38 +0000",
@@ -2322,6 +2333,7 @@
       "baked_potato": "2025-05-02 15:27:13 +0000",
       "apple": "2025-05-02 14:56:17 +0000",
       "bread": "2025-05-02 15:22:21 +0000",
+      "melon_slice": "2025-05-02 23:48:24 +0000",
       "golden_carrot": "2025-05-02 15:47:56 +0000",
       "cooked_chicken": "2025-05-02 14:52:53 +0000",
       "cooked_salmon": "2025-05-02 15:37:36 +0000",
@@ -5144,6 +5156,18 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-05-02 19:39:55 +0000"
+    },
+    "done": true
+  },
+  "mekanism:materials": {
+    "criteria": {
+      "material": "2025-05-02 19:50:50 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_tuff_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-05-02 19:51:09 +0000"
@@ -5162,21 +5186,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2025-05-02 19:39:55 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/polished_cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-05-02 19:51:09 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
-    "criteria": {
-      "has_item": "2025-05-02 19:57:43 +0000"
     },
     "done": true
   },
@@ -5189,12 +5201,6 @@
   "create:recipes/building_blocks/tuff_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-05-02 19:51:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/activator_rail": {
-    "criteria": {
-      "has_rail": "2025-05-02 19:52:26 +0000"
     },
     "done": true
   },
@@ -5216,18 +5222,6 @@
     },
     "done": true
   },
-  "mekanism:materials": {
-    "criteria": {
-      "material": "2025-05-02 19:50:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/powered_rail": {
-    "criteria": {
-      "has_rail": "2025-05-02 19:52:26 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/small_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-05-02 19:51:09 +0000"
@@ -5237,12 +5231,6 @@
   "create:recipes/building_blocks/small_tuff_bricks_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-05-02 19:51:09 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
-    "criteria": {
-      "has_item": "2025-05-02 19:57:43 +0000"
     },
     "done": true
   },
@@ -5270,12 +5258,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/detector_rail": {
-    "criteria": {
-      "has_rail": "2025-05-02 19:52:26 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_tuff_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-05-02 19:51:09 +0000"
@@ -5294,15 +5276,369 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-05-02 19:51:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-05-02 19:52:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-05-02 19:52:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-05-02 19:52:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-05-02 19:57:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-05-02 19:57:43 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/raw_zinc_block": {
     "criteria": {
       "has_item": "2025-05-02 19:57:43 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+  "iceandfire:recipes/combat/diamond_hippogryph_armor": {
     "criteria": {
-      "has_stone_types_tuff": "2025-05-02 19:51:09 +0000"
+      "has_item": "2025-05-02 23:22:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-05-02 23:38:54 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-02 23:41:42 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/redwood_sign": {
+    "criteria": {
+      "has_planks": "2025-05-02 23:41:42 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-02 23:41:42 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_button": {
+    "criteria": {
+      "has_planks": "2025-05-02 23:41:42 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/redwood_fence": {
+    "criteria": {
+      "has_planks": "2025-05-02 23:41:42 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_door": {
+    "criteria": {
+      "has_planks": "2025-05-02 23:41:42 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/redwood_slab": {
+    "criteria": {
+      "has_planks": "2025-05-02 23:41:42 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-02 23:41:42 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/redwood_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-02 23:41:42 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/block_pocket_manager": {
+    "criteria": {
+      "has_redstone_block": "2025-05-02 23:47:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-05-02 23:47:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-05-02 23:48:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-05-02 23:48:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-05-02 23:48:16 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-05-03 02:15:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-05-03 02:34:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-05-03 02:34:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-05-03 02:34:20 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-05-03 02:38:39 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/maple_wood": {
+    "criteria": {
+      "has_log": "2025-05-03 02:39:01 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/maple_planks": {
+    "criteria": {
+      "has_logs": "2025-05-03 02:39:01 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/maple_door": {
+    "criteria": {
+      "has_planks": "2025-05-03 02:39:18 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/maple_slab": {
+    "criteria": {
+      "has_planks": "2025-05-03 02:39:18 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/maple_sign": {
+    "criteria": {
+      "has_planks": "2025-05-03 02:39:18 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/maple_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-03 02:39:18 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/maple_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-03 02:39:18 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/maple_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-03 02:39:18 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/maple_button": {
+    "criteria": {
+      "has_planks": "2025-05-03 02:39:18 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/maple_fence": {
+    "criteria": {
+      "has_planks": "2025-05-03 02:39:18 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/maple_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-03 02:39:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "salmon": "2025-05-03 02:39:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-05-03 02:40:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-05-03 02:40:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-05-03 02:40:43 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2025-05-03 02:42:20 +0000"
+    },
+    "done": true
+  },
+  "buntsy:recipes/misc/hootcat_helmet": {
+    "criteria": {
+      "has_hootcat_feather": "2025-05-03 02:54:16 +0000"
+    },
+    "done": true
+  },
+  "buntsy:recipes/misc/hootcat_chestplate": {
+    "criteria": {
+      "has_hootcat_feather": "2025-05-03 02:54:16 +0000"
+    },
+    "done": true
+  },
+  "buntsy:recipes/misc/hootcat_boots": {
+    "criteria": {
+      "has_hootcat_feather": "2025-05-03 02:54:16 +0000"
+    },
+    "done": true
+  },
+  "buntsy:recipes/misc/hootcat_plume": {
+    "criteria": {
+      "has_hootcat_feather": "2025-05-03 02:54:16 +0000"
+    },
+    "done": true
+  },
+  "buntsy:recipes/misc/hootcat_leggings": {
+    "criteria": {
+      "has_hootcat_feather": "2025-05-03 02:54:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-05-03 03:03:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-05-03 03:03:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-05-03 03:03:16 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/conan_suit": {
+    "criteria": {
+      "has_wool": "2025-05-03 03:06:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-05-03 03:06:10 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/dog_plushie_toy_item": {
+    "criteria": {
+      "has_white_wool": "2025-05-03 03:06:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-05-03 03:06:10 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/beastars_uniform_male": {
+    "criteria": {
+      "has_wool": "2025-05-03 03:06:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-05-03 03:06:10 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/beastars_uniform_female": {
+    "criteria": {
+      "has_wool": "2025-05-03 03:06:10 +0000"
+    },
+    "done": true
+  },
+  "material_elements:stone_cutter/obtain_stonecutter": {
+    "criteria": {
+      "get_stone_cutter": "2025-05-03 03:33:30 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_primordial_caves": {
+    "criteria": {
+      "discover": "2025-05-03 03:23:18 +0000"
     },
     "done": true
   },
