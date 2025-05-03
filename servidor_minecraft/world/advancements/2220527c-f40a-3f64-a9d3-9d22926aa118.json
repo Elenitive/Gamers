@@ -75,6 +75,7 @@
       "spider_nest": "2025-05-02 16:57:58 +0000",
       "redwood_forest": "2025-05-02 16:48:56 +0000",
       "dune_beach": "2025-05-03 17:42:26 +0000",
+      "seasonal_forest": "2025-05-03 18:24:58 +0000",
       "pasture": "2025-05-02 22:08:18 +0000",
       "volcanic_plains": "2025-05-02 19:23:03 +0000",
       "lavender_field": "2025-05-02 21:56:29 +0000",
@@ -1368,6 +1369,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-05-03 18:21:24 +0000",
       "minecraft:skeleton": "2025-05-02 16:36:25 +0000",
       "minecraft:spider": "2025-05-02 17:12:04 +0000",
       "minecraft:creeper": "2025-05-02 16:40:50 +0000",
@@ -6926,6 +6928,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-05-03 13:10:29 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-05-03 18:21:24 +0000"
     },
     "done": true
   },
