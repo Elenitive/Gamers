@@ -6982,6 +6982,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/defeat_gum_worm": {
+    "criteria": {
+      "killed": "2025-05-03 22:27:56 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/defeat_caniac": {
     "criteria": {
       "killed": "2025-05-03 22:13:49 +0000"
@@ -7003,6 +7009,12 @@
   "doggytalents:recipes/decorations/deer_antlers": {
     "criteria": {
       "has_leather_helmet": "2025-05-03 22:06:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-05-03 22:26:30 +0000"
     },
     "done": true
   },

@@ -6388,6 +6388,12 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-05-03 22:26:31 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/food/energizer_stick": {
     "criteria": {
       "has_sugar": "2025-05-03 22:05:42 +0000"
