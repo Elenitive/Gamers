@@ -1835,3 +1835,25 @@ java.util.NoSuchElementException: No value present
 [03May2025 18:49:53.172] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/63433, l='ServerLevel[world]', x=495.30, y=71.62, z=-7537.41]
 [03May2025 18:49:53.172] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/63434, l='ServerLevel[world]', x=494.71, y=71.37, z=-7538.05]
 [03May2025 18:49:53.172] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/63435, l='ServerLevel[world]', x=493.95, y=71.12, z=-7538.87]
+[03May2025 18:51:01.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NDNatsu has made the advancement [Suit Up]
+[03May2025 18:52:07.600] [Server thread/WARN] [tombstone/]: The death event of the player Franramen was canceled by another mod
+[03May2025 18:52:07.604] [Server thread/INFO] [tombstone/]: The player Franramen has successfully been saved
+[03May2025 18:52:12.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Franramen froze to death
+[03May2025 18:52:12.571] [Server thread/INFO] [tombstone/]: The player Franramen has successfully been saved
+[03May2025 18:52:18.022] [Server thread/WARN] [tombstone/]: The death event of the player ivii was canceled by another mod
+[03May2025 18:52:18.074] [Server thread/INFO] [tombstone/]: The player ivii has successfully been saved
+[03May2025 18:52:18.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elenitive> xddd
+[03May2025 18:52:26.307] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2150ms or 43 ticks behind
+[03May2025 18:52:27.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <aaleexx17> t
+[03May2025 18:55:52.934] [Server thread/WARN] [tombstone/]: The death event of the player 6BlueBird9 was canceled by another mod
+[03May2025 18:55:52.937] [Server thread/INFO] [tombstone/]: The player 6BlueBird9 has successfully been saved
+[03May2025 18:56:58.242] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2219, y=32, z=-4397} BlockPos{x=-2220, y=33, z=-4396}
+[03May2025 18:57:53.607] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[03May2025 18:59:14.815] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YiruiKonigLover[/127.192.218.146:44995] logged in with entity id 72372 at (-529.0319985096819, 65.0, 830.2373022722527)
+[03May2025 18:59:14.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YiruiKonigLover joined the game
+[03May2025 18:59:14.855] [Server thread/INFO] [Jade/]: Syncing config to YiruiKonigLover (a30da2c7-2784-3181-917c-adcd1b7b8875)
+[03May2025 18:59:48.535] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YiruiKonigLover was kicked for floating too long!
+[03May2025 18:59:48.536] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YiruiKonigLover lost connection: Disconnected
+[03May2025 18:59:48.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YiruiKonigLover left the game
+[03May2025 18:59:48.592] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[03May2025 19:00:54.566] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1e4ba819[id=<null>,name=YiruiKonigLover,properties={},legacy=false] (/127.192.218.146:33783) lost connection: Disconnected

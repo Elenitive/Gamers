@@ -4297,33 +4297,15 @@
     },
     "done": true
   },
-  "buntsy:recipes/misc/gentlit_fence_gate": {
-    "criteria": {
-      "has_gentlit_planks": "2025-05-03 13:30:38 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/misc/dragon_bone_wall": {
     "criteria": {
       "has_item": "2025-05-03 13:17:57 +0000"
     },
     "done": true
   },
-  "buntsy:recipes/misc/gentlit_fence": {
-    "criteria": {
-      "has_gentlit_planks": "2025-05-03 13:30:38 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/misc/dragon_flute": {
     "criteria": {
       "has_item": "2025-05-03 13:17:57 +0000"
-    },
-    "done": true
-  },
-  "buntsy:recipes/misc/gentlit_door": {
-    "criteria": {
-      "has_gentlit_planks": "2025-05-03 13:30:38 +0000"
     },
     "done": true
   },
@@ -4339,27 +4321,9 @@
     },
     "done": true
   },
-  "buntsy:recipes/misc/gentlit_pressure_plate": {
-    "criteria": {
-      "has_gentlit_planks": "2025-05-03 13:30:38 +0000"
-    },
-    "done": true
-  },
-  "buntsy:recipes/misc/gentlit_slab": {
-    "criteria": {
-      "has_gentlit_planks": "2025-05-03 13:30:38 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/building_blocks/dragon_bone_block": {
     "criteria": {
       "has_dragonbone": "2025-05-03 13:17:57 +0000"
-    },
-    "done": true
-  },
-  "buntsy:recipes/misc/gentlit_trapdoor": {
-    "criteria": {
-      "has_gentlit_planks": "2025-05-03 13:30:38 +0000"
     },
     "done": true
   },
@@ -4372,12 +4336,6 @@
   "iceandfire:recipes/tools/dragonbone_shovel": {
     "criteria": {
       "has_item": "2025-05-03 13:17:57 +0000"
-    },
-    "done": true
-  },
-  "buntsy:recipes/misc/gentlit_stairs": {
-    "criteria": {
-      "has_gentlit_planks": "2025-05-03 13:30:38 +0000"
     },
     "done": true
   },
@@ -4399,15 +4357,57 @@
     },
     "done": true
   },
-  "buntsy:recipes/misc/syrup_extractor": {
+  "iceandfire:recipes/misc/dragon_horn": {
+    "criteria": {
+      "has_item": "2025-05-03 13:17:57 +0000"
+    },
+    "done": true
+  },
+  "buntsy:recipes/misc/gentlit_fence_gate": {
     "criteria": {
       "has_gentlit_planks": "2025-05-03 13:30:38 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/misc/dragon_horn": {
+  "buntsy:recipes/misc/gentlit_fence": {
     "criteria": {
-      "has_item": "2025-05-03 13:17:57 +0000"
+      "has_gentlit_planks": "2025-05-03 13:30:38 +0000"
+    },
+    "done": true
+  },
+  "buntsy:recipes/misc/gentlit_door": {
+    "criteria": {
+      "has_gentlit_planks": "2025-05-03 13:30:38 +0000"
+    },
+    "done": true
+  },
+  "buntsy:recipes/misc/gentlit_pressure_plate": {
+    "criteria": {
+      "has_gentlit_planks": "2025-05-03 13:30:38 +0000"
+    },
+    "done": true
+  },
+  "buntsy:recipes/misc/gentlit_slab": {
+    "criteria": {
+      "has_gentlit_planks": "2025-05-03 13:30:38 +0000"
+    },
+    "done": true
+  },
+  "buntsy:recipes/misc/gentlit_trapdoor": {
+    "criteria": {
+      "has_gentlit_planks": "2025-05-03 13:30:38 +0000"
+    },
+    "done": true
+  },
+  "buntsy:recipes/misc/gentlit_stairs": {
+    "criteria": {
+      "has_gentlit_planks": "2025-05-03 13:30:38 +0000"
+    },
+    "done": true
+  },
+  "buntsy:recipes/misc/syrup_extractor": {
+    "criteria": {
+      "has_gentlit_planks": "2025-05-03 13:30:38 +0000"
     },
     "done": true
   },
