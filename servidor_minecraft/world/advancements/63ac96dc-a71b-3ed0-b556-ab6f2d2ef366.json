@@ -3146,6 +3146,7 @@
       "minecraft:cave_spider": "2025-05-03 02:17:36 +0000",
       "minecraft:enderman": "2025-05-02 23:52:21 +0000",
       "minecraft:silverfish": "2025-05-03 02:36:55 +0000",
+      "minecraft:stray": "2025-05-03 18:25:10 +0000",
       "minecraft:zombie": "2025-05-02 22:41:14 +0000",
       "minecraft:zombie_villager": "2025-05-02 23:30:16 +0000"
     },
@@ -6278,6 +6279,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2025-05-03 18:27:20 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/create_familiar_receptacle": {
     "criteria": {
       "has_receptacle_of_familiar": "2025-05-03 18:14:25 +0000"
@@ -6335,6 +6342,12 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-05-03 18:00:47 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2025-05-03 18:27:20 +0000"
     },
     "done": true
   },
