@@ -6286,6 +6286,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/defeat_caniac": {
+    "criteria": {
+      "killed": "2025-05-03 19:08:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_glazed_terracotta": {
     "criteria": {
       "has_white_terracotta": "2025-05-03 18:02:47 +0000"
