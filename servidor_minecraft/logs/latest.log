@@ -843,3 +843,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:color_essence'
 [04May2025 11:30:21.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 joined the game
 [04May2025 11:30:21.812] [Server thread/INFO] [Jade/]: Syncing config to aaleexx17 (da3b3c16-4900-3258-b19f-de1883847307)
 [04May2025 11:30:24.190] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2607ms or 52 ticks behind
+[04May2025 11:36:29.294] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaleexx17 lost connection: Disconnected
+[04May2025 11:36:29.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 left the game
