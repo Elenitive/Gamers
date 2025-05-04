@@ -319,6 +319,7 @@
       "minecraft:grove": "2025-05-04 00:35:42 +0000",
       "minecraft:forest": "2025-05-02 22:08:36 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-05-03 17:08:53 +0000",
+      "minecraft:frozen_peaks": "2025-05-04 00:54:35 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-02 20:43:40 +0000",
       "minecraft:plains": "2025-05-02 22:14:06 +0000"
     },
@@ -6465,6 +6466,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-05-04 01:03:56 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/ghost_chest": {
     "criteria": {
       "has_item": "2025-05-04 00:03:45 +0000"
@@ -6528,6 +6535,12 @@
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2025-05-03 23:24:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-05-04 01:07:55 +0000"
     },
     "done": true
   },
@@ -6687,6 +6700,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-05-04 00:58:08 +0000"
+    },
+    "done": true
+  },
   "buntsy:recipes/misc/sugar_bowl": {
     "criteria": {
       "has_sugar": "2025-05-03 22:05:42 +0000"
@@ -6765,6 +6784,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-05-04 01:05:25 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_ghost": {
     "criteria": {
       "killed_fire_dragon": "2025-05-04 00:03:37 +0000"
@@ -6792,6 +6817,12 @@
   "securitycraft:recipes/tools/universal_owner_changer": {
     "criteria": {
       "has_name_tag": "2025-05-03 22:57:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-05-04 01:07:55 +0000"
     },
     "done": true
   },
