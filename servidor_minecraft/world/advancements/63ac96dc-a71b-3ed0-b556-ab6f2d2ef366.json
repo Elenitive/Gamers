@@ -7424,6 +7424,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-05-04 05:29:08 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_electric_helmet": {
     "criteria": {
       "has_item": "2025-05-04 04:44:46 +0000"
@@ -7853,6 +7859,12 @@
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2025-05-04 04:58:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-05-04 05:29:08 +0000"
     },
     "done": true
   },
