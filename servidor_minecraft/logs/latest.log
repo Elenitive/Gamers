@@ -947,3 +947,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:color_essence'
 [04May2025 05:01:08.806] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-716, y=64, z=933} BlockPos{x=-717, y=64, z=933}
 [04May2025 05:01:08.905] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-716, y=64, z=933} BlockPos{x=-717, y=64, z=933}
 [04May2025 05:01:23.000] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-720, y=67, z=962} BlockPos{x=-719, y=66, z=963}
+[04May2025 05:09:47.428] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaleexx17 lost connection: Disconnected
+[04May2025 05:09:47.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 left the game
+[04May2025 05:14:00.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Elenitive a server operator
+[04May2025 05:14:05.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Creative Mode]

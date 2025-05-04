@@ -7154,6 +7154,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/jacaranda_wood": {
+    "criteria": {
+      "has_log": "2025-05-04 05:11:50 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_electric_chestplate": {
     "criteria": {
       "has_item": "2025-05-04 04:44:46 +0000"
@@ -7271,6 +7277,12 @@
   "create:recipes/building_blocks/layered_crimsite_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2025-05-04 04:52:43 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/jacaranda_planks": {
+    "criteria": {
+      "has_logs": "2025-05-04 05:11:50 +0000"
     },
     "done": true
   },

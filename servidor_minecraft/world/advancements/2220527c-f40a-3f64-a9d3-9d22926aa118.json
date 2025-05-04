@@ -7726,15 +7726,45 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/diamond_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2025-05-04 05:09:22 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/food/fire_stew": {
     "criteria": {
       "has_item": "2025-05-04 04:04:12 +0000"
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/deposit_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-04 05:08:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/steam_whistle": {
+    "criteria": {
+      "has_item": "2025-05-04 05:14:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_backtank": {
+    "criteria": {
+      "has_item": "2025-05-04 05:14:37 +0000"
+    },
+    "done": true
+  },
   "mysticsbiomes:recipes/building_blocks/strawberry_wood": {
     "criteria": {
       "has_planks": "2025-05-04 03:17:35 +0000"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-05-04 05:14:37 +0000"
     },
     "done": true
   },
@@ -7750,9 +7780,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-05-04 05:16:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/steam_engine": {
+    "criteria": {
+      "has_item": "2025-05-04 05:14:37 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/filter_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-04 05:08:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-04 05:14:37 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/feeding_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-04 05:08:19 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_amythest_leggings": {
     "criteria": {
       "has_item": "2025-05-04 04:02:53 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/battery_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-04 05:08:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2025-05-04 05:16:29 +0000"
     },
     "done": true
   },
@@ -7762,9 +7834,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/copper_tiles_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-05-04 05:14:37 +0000"
+    },
+    "done": true
+  },
   "buntsy:recipes/misc/hootcat_helmet": {
     "criteria": {
       "has_hootcat_feather": "2025-05-04 04:04:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_diving_helmet": {
+    "criteria": {
+      "has_item": "2025-05-04 05:14:37 +0000"
     },
     "done": true
   },
@@ -7774,9 +7858,45 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_3": {
+    "criteria": {
+      "has_stack_upgrade_tier_2": "2025-05-04 05:08:58 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_4": {
+    "criteria": {
+      "has_stack_upgrade_tier_3": "2025-05-04 05:09:33 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-04 05:08:19 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_2": {
+    "criteria": {
+      "has_stack_upgrade_tier_1": "2025-05-04 05:08:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2025-05-04 05:16:29 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/myrmex_jungle_boots": {
     "criteria": {
       "has_item": "2025-05-04 05:00:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_pipe_vertical": {
+    "criteria": {
+      "has_item": "2025-05-04 05:14:37 +0000"
     },
     "done": true
   },
@@ -7786,9 +7906,51 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/mechanical_pump": {
+    "criteria": {
+      "has_item": "2025-05-04 05:14:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-04 05:14:37 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/void_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-04 05:08:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_basalt": {
     "criteria": {
       "has_basalt": "2025-05-04 04:06:04 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/smelting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-04 05:08:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-04 05:14:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_diving_boots": {
+    "criteria": {
+      "has_item": "2025-05-04 05:14:37 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/refill_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-04 05:08:19 +0000"
     },
     "done": true
   },
@@ -7804,6 +7966,48 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/stonecutter_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-04 05:08:19 +0000"
+    },
+    "done": true
+  },
+  "buntsy:recipes/misc/fume_distillery": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-04 05:14:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_table_cloth_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-05-04 05:14:37 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/botanist_workbench_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-04 05:08:19 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/block_pocket_manager": {
+    "criteria": {
+      "has_redstone_block": "2025-05-04 05:15:08 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/pickup_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-04 05:08:19 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/jukebox_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-04 05:08:19 +0000"
+    },
+    "done": true
+  },
   "mysticsbiomes:recipes/building_blocks/strawberry_stairs": {
     "criteria": {
       "has_planks": "2025-05-04 03:17:37 +0000"
@@ -7816,15 +8020,57 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/copper_valve_handle": {
+    "criteria": {
+      "has_item": "2025-05-04 05:14:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/melon": {
     "criteria": {
       "has_melon": "2025-05-04 04:08:23 +0000"
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/smart_fluid_pipe": {
+    "criteria": {
+      "has_item": "2025-05-04 05:14:37 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/pump_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-04 05:08:19 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/soul_reflector": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-04 05:14:37 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/anvil_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-04 05:08:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/copper_valve_handle_from_others": {
+    "criteria": {
+      "has_item": "2025-05-04 05:14:37 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/dragon_egg": {
     "criteria": {
       "egg": "2025-05-04 04:56:58 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/diamond_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-05-04 05:09:22 +0000"
     },
     "done": true
   },
@@ -7837,6 +8083,12 @@
   "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
     "criteria": {
       "has_copper_backpack": "2025-05-04 03:45:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_bars_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-05-04 05:14:37 +0000"
     },
     "done": true
   },
@@ -7864,6 +8116,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/smoking_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-04 05:08:19 +0000"
+    },
+    "done": true
+  },
   "mysticsbiomes:recipes/redstone/strawberry_trapdoor": {
     "criteria": {
       "has_planks": "2025-05-04 03:17:37 +0000"
@@ -7876,9 +8134,27 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/everlasting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-04 05:08:19 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_myrmex": {
     "criteria": {
       "chitin": "2025-05-04 05:00:48 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/mason_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-04 05:08:19 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/carpenters_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-04 05:08:19 +0000"
     },
     "done": true
   },
@@ -7888,9 +8164,45 @@
     },
     "done": true
   },
+  "material_elements:recipes/rods/copper_rod_from_copper_ingot": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-04 05:14:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/copper_nugget": {
+    "criteria": {
+      "has_item": "2025-05-04 05:14:37 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/alchemy_bench_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-04 05:08:19 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_starter_tier": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-04 05:08:19 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_cyclops": {
     "criteria": {
       "killed_fire_dragon": "2025-05-04 03:54:11 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/glassblower_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-04 05:08:19 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/tinkering_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-04 05:08:19 +0000"
     },
     "done": true
   },
@@ -7900,9 +8212,27 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/copper_shingles_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-05-04 05:14:37 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/myrmex_jungle_pickaxe": {
     "criteria": {
       "has_item": "2025-05-04 05:00:48 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/smithing_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-04 05:08:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_pipe": {
+    "criteria": {
+      "has_item": "2025-05-04 05:14:37 +0000"
     },
     "done": true
   },
@@ -7924,9 +8254,21 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/compacting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-04 05:08:19 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/food/ambrosia": {
     "criteria": {
       "has_item": "2025-05-04 03:35:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-05-04 05:15:08 +0000"
     },
     "done": true
   },
@@ -7936,15 +8278,69 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-05-04 05:16:29 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/decorations/copper_pile": {
     "criteria": {
       "has_item": "2025-05-04 04:01:54 +0000"
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/inception_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-04 05:08:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/transmitter": {
+    "criteria": {
+      "has_item": "2025-05-04 05:14:37 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/copper_ingot": {
     "criteria": {
       "has_item": "2025-05-04 04:01:54 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_downgrade_tier_1": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-04 05:08:19 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_downgrade_tier_3": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-04 05:08:19 +0000"
+    },
+    "done": true
+  },
+  "material_elements:recipes/refining/copper_nugget_from_copper_ingot": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-04 05:14:37 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_downgrade_tier_2": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-04 05:08:19 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/blasting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-04 05:08:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_valve": {
+    "criteria": {
+      "has_item": "2025-05-04 05:14:37 +0000"
     },
     "done": true
   },
@@ -7966,9 +8362,21 @@
     },
     "done": true
   },
+  "create:recipes/decorations/copper_ladder_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-05-04 05:14:37 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_copper_chestplate": {
     "criteria": {
       "has_item": "2025-05-04 04:56:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2025-05-04 05:16:29 +0000"
     },
     "done": true
   },
@@ -7984,9 +8392,27 @@
     },
     "done": true
   },
+  "buntsy:recipes/misc/fume_spreader": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-04 05:14:37 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/crackled_to_gravel": {
     "criteria": {
       "has_item": "2025-05-04 04:55:18 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/diamond_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-05-04 05:09:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_scaffolding_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-05-04 05:14:37 +0000"
     },
     "done": true
   },
@@ -8002,6 +8428,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2025-05-04 05:15:24 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/divine_retribution": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-04 05:14:37 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonscales_amythest_to_dragonscale_amythest": {
     "criteria": {
       "has_dragonscales_amythest": "2025-05-04 04:02:53 +0000"
@@ -8014,6 +8452,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/hose_pulley": {
+    "criteria": {
+      "has_item": "2025-05-04 05:14:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-05-04 04:06:04 +0000"
@@ -8023,6 +8467,24 @@
   "buntsy:recipes/misc/hootcat_plume": {
     "criteria": {
       "has_hootcat_feather": "2025-05-04 04:04:50 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/loom_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-04 05:08:19 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/restock_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-04 05:08:19 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/tool_swapper_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-04 05:08:19 +0000"
     },
     "done": true
   },
@@ -8044,6 +8506,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-05-04 05:16:29 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_amythest_chestplate": {
     "criteria": {
       "has_item": "2025-05-04 04:02:53 +0000"
@@ -8056,9 +8524,33 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/tank_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-04 05:08:19 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/crafting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-04 05:08:19 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/diamond_destructor_hammer": {
+    "criteria": {
+      "has_material": "2025-05-04 05:09:22 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_copper_leggings": {
     "criteria": {
       "has_item": "2025-05-04 04:56:58 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_ingot_to_nuggets": {
+    "criteria": {
+      "has_item": "2025-05-04 05:14:37 +0000"
     },
     "done": true
   },
