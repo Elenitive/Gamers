@@ -8491,6 +8491,12 @@
     },
     "done": true
   },
+  "mekanism:hydrogen_powered_flight": {
+    "criteria": {
+      "jetpack": "2025-05-04 14:41:55 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/fluid_pipe_vertical": {
     "criteria": {
       "has_item": "2025-05-04 14:07:13 +0000"

@@ -1185,6 +1185,7 @@
       "bread": "2025-05-03 02:55:09 +0000",
       "golden_apple": "2025-05-03 02:29:02 +0000",
       "melon_slice": "2025-05-04 02:55:32 +0000",
+      "golden_carrot": "2025-05-04 14:50:44 +0000",
       "carrot": "2025-05-03 00:15:46 +0000"
     },
     "done": false
@@ -7931,6 +7932,12 @@
   "sophisticatedbackpacks:recipes/misc/magnet_upgrade": {
     "criteria": {
       "has_pickup_upgrade": "2025-05-04 14:33:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-05-04 14:45:19 +0000"
     },
     "done": true
   },
