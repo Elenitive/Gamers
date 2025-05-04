@@ -951,3 +951,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:color_essence'
 [04May2025 05:09:47.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 left the game
 [04May2025 05:14:00.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Elenitive a server operator
 [04May2025 05:14:05.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Creative Mode]
+[04May2025 05:21:31.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Survival Mode]
+[04May2025 05:26:22.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Creative Mode]
+[04May2025 05:26:48.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Survival Mode]
+[04May2025 05:27:04.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Creative Mode]
+[04May2025 05:27:12.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Survival Mode]
+[04May2025 05:28:01.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elenitive: Set own game mode to Creative Mode]
