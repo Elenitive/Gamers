@@ -843,3 +843,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:color_essence'
 [04May2025 12:34:07.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 1 of a max of 20 players online: Franramen
 [04May2025 12:50:07.773] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Franramen lost connection: Disconnected
 [04May2025 12:50:07.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Franramen left the game
+[04May2025 13:17:11.692] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ivii[/127.1.114.128:59237] logged in with entity id 11301 at (571.6019821326095, 126.0, -957.215147625854)
+[04May2025 13:17:11.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivii joined the game
+[04May2025 13:17:11.731] [Server thread/INFO] [Jade/]: Syncing config to ivii (7cdb0d64-19f0-3c6c-95d6-c3907a315282)
+[04May2025 13:21:57.101] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 6BlueBird9[/127.112.131.49:50559] logged in with entity id 12226 at (570.6493514515718, 126.0, -948.6154842321935)
+[04May2025 13:21:57.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 6BlueBird9 joined the game
+[04May2025 13:21:57.213] [Server thread/INFO] [Jade/]: Syncing config to 6BlueBird9 (63ac96dc-a71b-3ed0-b556-ab6f2d2ef366)
+[04May2025 13:22:38.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivii has made the advancement [Knives Out]
