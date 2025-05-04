@@ -270,3 +270,15 @@
 [04May2025 01:45:46.479] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: aaleexx17[/127.165.157.203:48733] logged in with entity id 136745 at (505.5404179048259, 94.0, -1295.4540371242135)
 [04May2025 01:45:46.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 joined the game
 [04May2025 01:45:46.570] [Server thread/INFO] [Jade/]: Syncing config to aaleexx17 (da3b3c16-4900-3258-b19f-de1883847307)
+[04May2025 02:01:48.292] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 6BlueBird9 moved too quickly! -4.959664696052755,6.178098923195861,-6.264712498704739
+[04May2025 02:03:52.312] [Server thread/WARN] [tombstone/]: The death event of the player 6BlueBird9 was canceled by another mod
+[04May2025 02:03:52.319] [Server thread/INFO] [tombstone/]: The player 6BlueBird9 has successfully been saved
+[04May2025 02:03:53.214] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/149720, l='ServerLevel[world]', x=-415.01, y=73.03, z=-3088.04]
+[04May2025 02:04:33.712] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaleexx17 lost connection: Timed out
+[04May2025 02:04:33.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 left the game
+[04May2025 02:05:35.560] [Server thread/WARN] [tombstone/]: The death event of the player 6BlueBird9 was canceled by another mod
+[04May2025 02:05:35.572] [Server thread/INFO] [tombstone/]: The player 6BlueBird9 has successfully been saved
+[04May2025 02:05:46.610] [Server thread/WARN] [tombstone/]: The death event of the player 6BlueBird9 was canceled by another mod
+[04May2025 02:05:46.612] [Server thread/INFO] [tombstone/]: The player 6BlueBird9 has successfully been saved
+[04May2025 02:06:32.015] [Server thread/WARN] [tombstone/]: The death event of the player 6BlueBird9 was canceled by another mod
+[04May2025 02:06:32.018] [Server thread/INFO] [tombstone/]: The player 6BlueBird9 has successfully been saved
