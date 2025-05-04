@@ -7715,15 +7715,87 @@
     },
     "done": true
   },
+  "mysticsbiomes:recipes/building_blocks/strawberry_wood": {
+    "criteria": {
+      "has_planks": "2025-05-04 03:17:35 +0000"
+    },
+    "done": true
+  },
+  "mysticsbiomes:recipes/building_blocks/strawberry_slab": {
+    "criteria": {
+      "has_planks": "2025-05-04 03:17:37 +0000"
+    },
+    "done": true
+  },
+  "mysticsbiomes:recipes/decorations/strawberry_sign": {
+    "criteria": {
+      "has_planks": "2025-05-04 03:17:37 +0000"
+    },
+    "done": true
+  },
+  "mysticsbiomes:recipes/building_blocks/strawberry_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-04 03:17:37 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/funeral_theft": {
     "criteria": {
       "coded_trigger": "2025-05-04 03:11:41 +0000"
     },
     "done": true
   },
+  "mysticsbiomes:recipes/redstone/strawberry_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-04 03:17:37 +0000"
+    },
+    "done": true
+  },
+  "mysticsbiomes:recipes/redstone/strawberry_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-04 03:17:37 +0000"
+    },
+    "done": true
+  },
+  "mysticsbiomes:recipes/redstone/strawberry_button": {
+    "criteria": {
+      "has_planks": "2025-05-04 03:17:37 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-05-04 03:13:10 +0000"
+    },
+    "done": true
+  },
+  "mysticsbiomes:recipes/building_blocks/strawberry_planks": {
+    "criteria": {
+      "has_logs": "2025-05-04 03:17:35 +0000"
+    },
+    "done": true
+  },
+  "mysticsbiomes:recipes/redstone/strawberry_door": {
+    "criteria": {
+      "has_planks": "2025-05-04 03:17:37 +0000"
+    },
+    "done": true
+  },
+  "mysticsbiomes:recipes/redstone/strawberry_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-04 03:17:37 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/create_spectral_potion": {
     "criteria": {
       "brew_spectral_potion": "2025-05-04 03:11:41 +0000"
+    },
+    "done": true
+  },
+  "mysticsbiomes:recipes/decorations/strawberry_fence": {
+    "criteria": {
+      "has_planks": "2025-05-04 03:17:37 +0000"
     },
     "done": true
   },

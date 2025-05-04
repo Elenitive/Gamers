@@ -892,3 +892,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:color_essence'
 [04May2025 03:11:41.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elenitive has made the advancement [The alchemy of time on the soul]
 [04May2025 03:11:41.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elenitive has made the advancement [Funeral Theft]
 [04May2025 03:13:10.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elenitive has made the advancement [Mine? Mine? Mine?]
+[04May2025 03:16:44.274] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/9037, l='ServerLevel[world]', x=-771.96, y=62.48, z=-1349.74] died, message: 'Unemployed was slain by Siren'
