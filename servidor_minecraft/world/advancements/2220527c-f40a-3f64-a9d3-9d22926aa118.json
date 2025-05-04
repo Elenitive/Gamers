@@ -7130,6 +7130,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragonarmor": {
+    "criteria": {
+      "iron": "2025-05-04 00:07:13 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_silver_helmet": {
     "criteria": {
       "has_item": "2025-05-03 23:17:12 +0000"
@@ -7220,6 +7226,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dread_stone": {
+    "criteria": {
+      "has_item": "2025-05-04 00:06:21 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/gelatin": {
     "criteria": {
       "gelatin": "2025-05-03 22:17:08 +0000"
@@ -7250,9 +7262,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dread_torch": {
+    "criteria": {
+      "has_item": "2025-05-04 00:06:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-05-03 23:56:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_sword_ice": {
+    "criteria": {
+      "has_item": "2025-05-04 00:07:53 +0000"
     },
     "done": true
   },
