@@ -77,6 +77,7 @@
       "redwood_forest": "2025-05-03 23:21:20 +0000",
       "visceral_heap": "2025-05-04 01:29:38 +0000",
       "dune_beach": "2025-05-03 23:29:36 +0000",
+      "pasture": "2025-05-04 03:05:47 +0000",
       "lavender_field": "2025-05-02 22:29:27 +0000",
       "grassland": "2025-05-02 20:37:36 +0000",
       "prairie": "2025-05-03 23:32:13 +0000",
@@ -317,6 +318,7 @@
       "minecraft:beach": "2025-05-03 03:22:06 +0000",
       "minecraft:dark_forest": "2025-05-03 00:51:41 +0000",
       "minecraft:river": "2025-05-02 22:15:28 +0000",
+      "minecraft:stony_shore": "2025-05-04 03:11:33 +0000",
       "minecraft:dripstone_caves": "2025-05-02 22:19:40 +0000",
       "minecraft:grove": "2025-05-04 00:35:42 +0000",
       "minecraft:forest": "2025-05-02 22:08:36 +0000",
@@ -7003,6 +7005,30 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/ash_to_charcoal": {
+    "criteria": {
+      "has_item": "2025-05-04 03:04:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-04 03:07:33 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2025-05-04 03:07:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_leggings": {
+    "criteria": {
+      "has_item": "2025-05-04 03:07:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_red_mushroom": "2025-05-04 02:58:04 +0000"
@@ -7015,9 +7041,27 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_red_helmet": {
+    "criteria": {
+      "has_item": "2025-05-04 03:07:33 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_troll": {
     "criteria": {
       "killed_fire_dragon": "2025-05-04 02:57:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_red_to_dragonscale_red": {
+    "criteria": {
+      "has_dragonscales_red": "2025-05-04 03:07:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_boots": {
+    "criteria": {
+      "has_item": "2025-05-04 03:07:33 +0000"
     },
     "done": true
   },

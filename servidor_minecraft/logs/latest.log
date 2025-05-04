@@ -882,3 +882,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:color_essence'
 [04May2025 02:57:48.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 6BlueBird9 has made the advancement [They Have a Cave Troll!]
 [04May2025 03:05:53.778] [Server thread/WARN] [tombstone/]: The death event of the player 6BlueBird9 was canceled by another mod
 [04May2025 03:05:53.782] [Server thread/INFO] [tombstone/]: The player 6BlueBird9 has successfully been saved
+[04May2025 03:07:02.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 6BlueBird9 has made the advancement [Chompy]
+[04May2025 03:07:18.050] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: aaleexx17[/127.165.157.203:48047] logged in with entity id 6818 at (-466.38307930162824, -6.0, -2920.747027758108)
+[04May2025 03:07:18.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 joined the game
+[04May2025 03:07:18.086] [Server thread/INFO] [Jade/]: Syncing config to aaleexx17 (da3b3c16-4900-3258-b19f-de1883847307)
+[04May2025 03:09:33.975] [Server thread/WARN] [tombstone/]: The death event of the player 6BlueBird9 was canceled by another mod
+[04May2025 03:09:33.977] [Server thread/INFO] [tombstone/]: The player 6BlueBird9 has successfully been saved
+[04May2025 03:10:23.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 has made the advancement [Sea? Not a Problem]
+[04May2025 03:11:41.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elenitive has made the advancement [The alchemy of time on the soul]
+[04May2025 03:11:41.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elenitive has made the advancement [Funeral Theft]
+[04May2025 03:13:10.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elenitive has made the advancement [Mine? Mine? Mine?]
