@@ -69,11 +69,18 @@
       "orchard": "2025-05-03 00:42:32 +0000",
       "field": "2025-05-03 01:20:11 +0000",
       "moor": "2025-05-03 00:52:30 +0000",
+      "overgrown_greens": "2025-05-03 23:20:34 +0000",
+      "coniferous_forest": "2025-05-03 22:53:28 +0000",
       "spider_nest": "2025-05-02 22:28:16 +0000",
       "forested_field": "2025-05-03 17:42:08 +0000",
+      "redwood_forest": "2025-05-03 23:21:20 +0000",
+      "dune_beach": "2025-05-03 23:29:36 +0000",
       "lavender_field": "2025-05-02 22:29:27 +0000",
       "grassland": "2025-05-02 20:37:36 +0000",
-      "glowing_grotto": "2025-05-03 02:47:07 +0000"
+      "prairie": "2025-05-03 23:32:13 +0000",
+      "glowing_grotto": "2025-05-03 02:47:07 +0000",
+      "gravel_beach": "2025-05-03 23:18:58 +0000",
+      "ominous_woods": "2025-05-03 23:13:24 +0000"
     },
     "done": false
   },
@@ -1149,6 +1156,7 @@
       "cooked_mutton": "2025-05-02 22:59:22 +0000",
       "cooked_beef": "2025-05-02 23:44:19 +0000",
       "baked_potato": "2025-05-03 01:23:55 +0000",
+      "porkchop": "2025-05-03 23:39:19 +0000",
       "apple": "2025-05-03 18:56:31 +0000",
       "potato": "2025-05-03 01:25:50 +0000",
       "bread": "2025-05-03 02:55:09 +0000",
@@ -3144,6 +3152,7 @@
       "minecraft:spider": "2025-05-02 23:23:19 +0000",
       "minecraft:creeper": "2025-05-02 23:24:10 +0000",
       "minecraft:phantom": "2025-05-03 03:33:25 +0000",
+      "minecraft:witch": "2025-05-03 23:29:00 +0000",
       "minecraft:cave_spider": "2025-05-03 02:17:36 +0000",
       "minecraft:enderman": "2025-05-02 23:52:21 +0000",
       "minecraft:silverfish": "2025-05-03 02:36:55 +0000",
@@ -6400,6 +6409,72 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2025-05-03 22:57:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-05-03 23:24:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-05-03 23:06:48 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
+    "criteria": {
+      "has_wheat": "2025-05-03 23:06:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/ghost_chest": {
+    "criteria": {
+      "has_item": "2025-05-04 00:03:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-05-03 23:06:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-05-03 23:06:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-05-03 22:56:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-05-03 23:06:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-05-03 23:24:28 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-05-03 22:57:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/follow_ender_eye": {
     "criteria": {
       "in_stronghold": "2025-05-03 22:26:31 +0000"
@@ -6412,6 +6487,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-05-03 23:24:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-05-03 23:00:51 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-05-03 23:32:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/rotten_egg": {
+    "criteria": {
+      "bestiary": "2025-05-03 23:11:01 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/gingerbread_crumbs": {
     "criteria": {
       "crumbs": "2025-05-03 21:59:10 +0000"
@@ -6421,6 +6520,12 @@
   "buntsy:recipes/misc/sugar_bowl": {
     "criteria": {
       "has_sugar": "2025-05-03 22:05:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-05-03 23:24:28 +0000"
     },
     "done": true
   },
@@ -6442,9 +6547,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-05-03 23:24:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/graveyard_soil": {
+    "criteria": {
+      "has_item": "2025-05-04 00:03:45 +0000"
+    },
+    "done": true
+  },
   "artifacts:amateur_archaeologist": {
     "criteria": {
       "find_artifact": "2025-05-03 22:37:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-05-04 00:03:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-05-03 23:24:22 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_owner_changer": {
+    "criteria": {
+      "has_name_tag": "2025-05-03 22:57:12 +0000"
     },
     "done": true
   },
