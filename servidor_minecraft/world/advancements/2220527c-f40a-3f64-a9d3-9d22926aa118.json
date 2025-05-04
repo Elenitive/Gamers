@@ -7726,69 +7726,21 @@
     },
     "done": true
   },
-  "justhammers:recipes/tools/diamond_reinforced_hammer": {
+  "tombstone:adventure/funeral_theft": {
     "criteria": {
-      "has_material": "2025-05-04 05:09:22 +0000"
+      "coded_trigger": "2025-05-04 03:11:41 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mangrove_planks": {
+  "tombstone:adventure/create_spectral_potion": {
     "criteria": {
-      "has_logs": "2025-05-04 05:28:42 +0000"
+      "brew_spectral_potion": "2025-05-04 03:11:41 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/building_blocks/umbran_planks": {
+  "alexsmobs:alexsmobs/seagull_steal": {
     "criteria": {
-      "has_logs": "2025-05-04 05:30:21 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/empyreal_planks": {
-    "criteria": {
-      "has_logs": "2025-05-04 05:30:24 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/food/fire_stew": {
-    "criteria": {
-      "has_item": "2025-05-04 04:04:12 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/deposit_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-05-04 05:08:19 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/steam_whistle": {
-    "criteria": {
-      "has_item": "2025-05-04 05:14:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jungle_wood": {
-    "criteria": {
-      "has_log": "2025-05-04 05:28:36 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/appliances/copper_backtank": {
-    "criteria": {
-      "has_item": "2025-05-04 05:14:37 +0000"
-    },
-    "done": true
-  },
-  "mysticsbiomes:recipes/building_blocks/sea_foam_wood": {
-    "criteria": {
-      "has_planks": "2025-05-04 05:31:39 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/hellbark_planks": {
-    "criteria": {
-      "has_logs": "2025-05-04 05:30:22 +0000"
+      "ex": "2025-05-04 03:13:10 +0000"
     },
     "done": true
   },
@@ -7798,15 +7750,9 @@
     },
     "done": true
   },
-  "create:copper": {
+  "mysticsbiomes:recipes/building_blocks/strawberry_planks": {
     "criteria": {
-      "0": "2025-05-04 05:14:37 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonscales_copper_to_dragonscale_copper": {
-    "criteria": {
-      "has_dragonscales_copper": "2025-05-04 04:56:58 +0000"
+      "has_logs": "2025-05-04 03:17:35 +0000"
     },
     "done": true
   },
@@ -7816,57 +7762,87 @@
     },
     "done": true
   },
-  "mysticsbiomes:recipes/building_blocks/maple_planks": {
+  "mysticsbiomes:recipes/decorations/strawberry_sign": {
     "criteria": {
-      "has_logs": "2025-05-04 05:31:01 +0000"
+      "has_planks": "2025-05-04 03:17:37 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+  "mysticsbiomes:recipes/building_blocks/strawberry_stairs": {
     "criteria": {
-      "has_copper_block": "2025-05-04 05:16:29 +0000"
+      "has_planks": "2025-05-04 03:17:37 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/steam_engine": {
+  "mysticsbiomes:recipes/redstone/strawberry_trapdoor": {
     "criteria": {
-      "has_item": "2025-05-04 05:14:37 +0000"
+      "has_planks": "2025-05-04 03:17:37 +0000"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/filter_upgrade": {
+  "mysticsbiomes:recipes/redstone/strawberry_pressure_plate": {
     "criteria": {
-      "has_upgrade_base": "2025-05-04 05:08:19 +0000"
+      "has_planks": "2025-05-04 03:17:37 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/lightning_rod": {
+  "mysticsbiomes:recipes/redstone/strawberry_button": {
     "criteria": {
-      "has_copper_ingot": "2025-05-04 05:14:37 +0000"
+      "has_planks": "2025-05-04 03:17:37 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/birch_wood": {
+  "mysticsbiomes:recipes/redstone/strawberry_door": {
     "criteria": {
-      "has_log": "2025-05-04 05:28:34 +0000"
+      "has_planks": "2025-05-04 03:17:37 +0000"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/feeding_upgrade": {
+  "mysticsbiomes:recipes/redstone/strawberry_fence_gate": {
     "criteria": {
-      "has_upgrade_base": "2025-05-04 05:08:19 +0000"
+      "has_planks": "2025-05-04 03:17:37 +0000"
     },
     "done": true
   },
-  "mysticsbiomes:recipes/building_blocks/tropical_wood": {
+  "mysticsbiomes:recipes/decorations/strawberry_fence": {
     "criteria": {
-      "has_planks": "2025-05-04 05:31:40 +0000"
+      "has_planks": "2025-05-04 03:17:37 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/building_blocks/redwood_planks": {
+  "iceandfire:recipes/food/ambrosia": {
     "criteria": {
-      "has_logs": "2025-05-04 05:29:45 +0000"
+      "has_item": "2025-05-04 03:35:56 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-05-04 03:45:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2025-05-04 03:54:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/decorations/copper_pile": {
+    "criteria": {
+      "has_item": "2025-05-04 04:01:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/copper_ingot": {
+    "criteria": {
+      "has_item": "2025-05-04 04:01:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
+    "criteria": {
+      "has_item": "2025-05-04 04:01:54 +0000"
     },
     "done": true
   },
@@ -7876,45 +7852,33 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/building_blocks/maple_wood": {
+  "iceandfire:recipes/combat/armor_amythest_helmet": {
     "criteria": {
-      "has_log": "2025-05-04 05:29:44 +0000"
+      "has_item": "2025-05-04 04:02:53 +0000"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/battery_upgrade": {
+  "iceandfire:recipes/combat/armor_amythest_boots": {
     "criteria": {
-      "has_upgrade_base": "2025-05-04 05:08:19 +0000"
+      "has_item": "2025-05-04 04:02:53 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cut_copper": {
+  "iceandfire:recipes/building_blocks/dragonscales_amythest_to_dragonscale_amythest": {
     "criteria": {
-      "has_copper_block": "2025-05-04 05:16:29 +0000"
+      "has_dragonscales_amythest": "2025-05-04 04:02:53 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/tools/myrmex_jungle_axe": {
+  "iceandfire:recipes/combat/armor_amythest_chestplate": {
     "criteria": {
-      "has_item": "2025-05-04 05:00:48 +0000"
+      "has_item": "2025-05-04 04:02:53 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/copper_tiles_from_ingots_copper_stonecutting": {
+  "iceandfire:recipes/food/fire_stew": {
     "criteria": {
-      "has_ingots_copper": "2025-05-04 05:14:37 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/mahogany_wood": {
-    "criteria": {
-      "has_log": "2025-05-04 05:29:46 +0000"
-    },
-    "done": true
-  },
-  "mysticsbiomes:recipes/building_blocks/peach_planks": {
-    "criteria": {
-      "has_logs": "2025-05-04 05:30:59 +0000"
+      "has_item": "2025-05-04 04:04:12 +0000"
     },
     "done": true
   },
@@ -7924,99 +7888,27 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/appliances/copper_diving_helmet": {
+  "buntsy:recipes/misc/hootcat_chestplate": {
     "criteria": {
-      "has_item": "2025-05-04 05:14:37 +0000"
+      "has_hootcat_feather": "2025-05-04 04:04:50 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/activator_rail": {
+  "buntsy:recipes/misc/hootcat_boots": {
     "criteria": {
-      "has_rail": "2025-05-04 04:38:32 +0000"
+      "has_hootcat_feather": "2025-05-04 04:04:50 +0000"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_3": {
+  "buntsy:recipes/misc/hootcat_plume": {
     "criteria": {
-      "has_stack_upgrade_tier_2": "2025-05-04 05:08:58 +0000"
+      "has_hootcat_feather": "2025-05-04 04:04:50 +0000"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_4": {
+  "buntsy:recipes/misc/hootcat_leggings": {
     "criteria": {
-      "has_stack_upgrade_tier_3": "2025-05-04 05:09:33 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1": {
-    "criteria": {
-      "has_upgrade_base": "2025-05-04 05:08:19 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_2": {
-    "criteria": {
-      "has_stack_upgrade_tier_1": "2025-05-04 05:08:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
-    "criteria": {
-      "has_copper_block": "2025-05-04 05:16:29 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/myrmex_jungle_boots": {
-    "criteria": {
-      "has_item": "2025-05-04 05:00:48 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/palm_planks": {
-    "criteria": {
-      "has_logs": "2025-05-04 05:30:13 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/fluid_pipe_vertical": {
-    "criteria": {
-      "has_item": "2025-05-04 05:14:37 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/mahogany_planks": {
-    "criteria": {
-      "has_logs": "2025-05-04 05:29:46 +0000"
-    },
-    "done": true
-  },
-  "mysticsbiomes:recipes/decorations/strawberry_sign": {
-    "criteria": {
-      "has_planks": "2025-05-04 03:17:37 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/mechanical_pump": {
-    "criteria": {
-      "has_item": "2025-05-04 05:14:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stripped_cherry_wood": {
-    "criteria": {
-      "has_log": "2025-05-04 05:29:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/copper_block": {
-    "criteria": {
-      "has_copper_ingot": "2025-05-04 05:14:37 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/void_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-05-04 05:08:19 +0000"
+      "has_hootcat_feather": "2025-05-04 04:04:50 +0000"
     },
     "done": true
   },
@@ -8026,33 +7918,195 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/smelting_upgrade": {
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-05-04 04:06:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-05-04 04:06:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-05-04 04:08:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-05-04 04:08:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-05-04 04:08:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-05-04 04:38:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-05-04 04:38:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-05-04 04:38:32 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/crackled_to_gravel": {
+    "criteria": {
+      "has_item": "2025-05-04 04:55:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_copper_to_dragonscale_copper": {
+    "criteria": {
+      "has_dragonscales_copper": "2025-05-04 04:56:58 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_egg": {
+    "criteria": {
+      "egg": "2025-05-04 04:56:58 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_helmet": {
+    "criteria": {
+      "has_item": "2025-05-04 04:56:58 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_boots": {
+    "criteria": {
+      "has_item": "2025-05-04 04:56:58 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-04 04:56:58 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_leggings": {
+    "criteria": {
+      "has_item": "2025-05-04 04:56:58 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_jungle_axe": {
+    "criteria": {
+      "has_item": "2025-05-04 05:00:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/myrmex_jungle_boots": {
+    "criteria": {
+      "has_item": "2025-05-04 05:00:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/myrmex_jungle_helmet": {
+    "criteria": {
+      "has_item": "2025-05-04 05:00:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_jungle_shovel": {
+    "criteria": {
+      "has_item": "2025-05-04 05:00:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_myrmex": {
+    "criteria": {
+      "chitin": "2025-05-04 05:00:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_jungle_pickaxe": {
+    "criteria": {
+      "has_item": "2025-05-04 05:00:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/myrmex_jungle_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-04 05:00:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_jungle_sword": {
+    "criteria": {
+      "has_item": "2025-05-04 05:00:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/myrmex_jungle_leggings": {
+    "criteria": {
+      "has_item": "2025-05-04 05:00:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_jungle_hoe": {
+    "criteria": {
+      "has_item": "2025-05-04 05:00:48 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/deposit_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-04 05:08:19 +0000"
     },
     "done": true
   },
-  "mysticsbiomes:recipes/building_blocks/peach_wood": {
+  "sophisticatedbackpacks:recipes/misc/filter_upgrade": {
     "criteria": {
-      "has_planks": "2025-05-04 05:30:59 +0000"
+      "has_upgrade_base": "2025-05-04 05:08:19 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/brush": {
+  "sophisticatedbackpacks:recipes/misc/feeding_upgrade": {
     "criteria": {
-      "has_copper_ingot": "2025-05-04 05:14:37 +0000"
+      "has_upgrade_base": "2025-05-04 05:08:19 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/appliances/copper_diving_boots": {
+  "sophisticatedbackpacks:recipes/misc/battery_upgrade": {
     "criteria": {
-      "has_item": "2025-05-04 05:14:37 +0000"
+      "has_upgrade_base": "2025-05-04 05:08:19 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/birch_planks": {
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1": {
     "criteria": {
-      "has_logs": "2025-05-04 05:28:34 +0000"
+      "has_upgrade_base": "2025-05-04 05:08:19 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/void_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-04 05:08:19 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/smelting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-04 05:08:19 +0000"
     },
     "done": true
   },
@@ -8062,45 +8116,15 @@
     },
     "done": true
   },
-  "buntsy:recipes/misc/hootcat_chestplate": {
-    "criteria": {
-      "has_hootcat_feather": "2025-05-04 04:04:50 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_amythest_helmet": {
-    "criteria": {
-      "has_item": "2025-05-04 04:02:53 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/stonecutter_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-04 05:08:19 +0000"
     },
     "done": true
   },
-  "buntsy:recipes/misc/fume_distillery": {
-    "criteria": {
-      "has_copper_ingot": "2025-05-04 05:14:37 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/decorations/copper_table_cloth_from_ingots_copper_stonecutting": {
-    "criteria": {
-      "has_ingots_copper": "2025-05-04 05:14:37 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/chipped/botanist_workbench_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-04 05:08:19 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/block_pocket_manager": {
-    "criteria": {
-      "has_redstone_block": "2025-05-04 05:15:08 +0000"
     },
     "done": true
   },
@@ -8116,63 +8140,9 @@
     },
     "done": true
   },
-  "mysticsbiomes:recipes/building_blocks/strawberry_stairs": {
-    "criteria": {
-      "has_planks": "2025-05-04 03:17:37 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/myrmex_jungle_helmet": {
-    "criteria": {
-      "has_item": "2025-05-04 05:00:48 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/copper_valve_handle": {
-    "criteria": {
-      "has_item": "2025-05-04 05:14:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/melon": {
-    "criteria": {
-      "has_melon": "2025-05-04 04:08:23 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/palm_wood": {
-    "criteria": {
-      "has_log": "2025-05-04 05:30:13 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/fir_wood": {
-    "criteria": {
-      "has_log": "2025-05-04 05:29:41 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/smart_fluid_pipe": {
-    "criteria": {
-      "has_item": "2025-05-04 05:14:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/acacia_wood": {
-    "criteria": {
-      "has_log": "2025-05-04 05:28:38 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/pump_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-04 05:08:19 +0000"
-    },
-    "done": true
-  },
-  "doggytalents:recipes/decorations/soul_reflector": {
-    "criteria": {
-      "has_copper_ingot": "2025-05-04 05:14:37 +0000"
     },
     "done": true
   },
@@ -8182,99 +8152,9 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/copper_valve_handle_from_others": {
-    "criteria": {
-      "has_item": "2025-05-04 05:14:37 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragon_egg": {
-    "criteria": {
-      "egg": "2025-05-04 04:56:58 +0000"
-    },
-    "done": true
-  },
-  "justhammers:recipes/tools/diamond_impact_hammer": {
-    "criteria": {
-      "has_material": "2025-05-04 05:09:22 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/fir_planks": {
-    "criteria": {
-      "has_logs": "2025-05-04 05:29:41 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/myrmex_jungle_shovel": {
-    "criteria": {
-      "has_item": "2025-05-04 05:00:48 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
-    "criteria": {
-      "has_copper_backpack": "2025-05-04 03:45:25 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/decorations/copper_bars_from_ingots_copper_stonecutting": {
-    "criteria": {
-      "has_ingots_copper": "2025-05-04 05:14:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_basalt": {
-    "criteria": {
-      "has_basalt": "2025-05-04 04:06:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cherry_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-05-04 05:29:00 +0000"
-    },
-    "done": true
-  },
-  "mysticsbiomes:recipes/building_blocks/maple_wood": {
-    "criteria": {
-      "has_planks": "2025-05-04 05:31:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/powered_rail": {
-    "criteria": {
-      "has_rail": "2025-05-04 04:38:32 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/funeral_theft": {
-    "criteria": {
-      "coded_trigger": "2025-05-04 03:11:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/melon_seeds": {
-    "criteria": {
-      "has_melon": "2025-05-04 04:08:23 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/smoking_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-04 05:08:19 +0000"
-    },
-    "done": true
-  },
-  "mysticsbiomes:recipes/redstone/strawberry_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-05-04 03:17:37 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_copper_helmet": {
-    "criteria": {
-      "has_item": "2025-05-04 04:56:58 +0000"
     },
     "done": true
   },
@@ -8284,21 +8164,9 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/kill_myrmex": {
-    "criteria": {
-      "chitin": "2025-05-04 05:00:48 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/chipped/mason_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-04 05:08:19 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/magic_wood": {
-    "criteria": {
-      "has_log": "2025-05-04 05:30:20 +0000"
     },
     "done": true
   },
@@ -8308,57 +8176,15 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/building_blocks/umbran_wood": {
-    "criteria": {
-      "has_log": "2025-05-04 05:30:21 +0000"
-    },
-    "done": true
-  },
-  "mysticsbiomes:recipes/redstone/strawberry_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-05-04 03:17:37 +0000"
-    },
-    "done": true
-  },
-  "material_elements:recipes/rods/copper_rod_from_copper_ingot": {
-    "criteria": {
-      "has_copper_ingot": "2025-05-04 05:14:37 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/copper_nugget": {
-    "criteria": {
-      "has_item": "2025-05-04 05:14:37 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/chipped/alchemy_bench_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-04 05:08:19 +0000"
     },
     "done": true
   },
-  "mysticsbiomes:recipes/building_blocks/sea_foam_planks": {
-    "criteria": {
-      "has_logs": "2025-05-04 05:31:39 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/pine_planks": {
-    "criteria": {
-      "has_logs": "2025-05-04 05:29:43 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/stack_upgrade_starter_tier": {
     "criteria": {
       "has_upgrade_base": "2025-05-04 05:08:19 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_cyclops": {
-    "criteria": {
-      "killed_fire_dragon": "2025-05-04 03:54:11 +0000"
     },
     "done": true
   },
@@ -8374,57 +8200,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_copper_boots": {
-    "criteria": {
-      "has_item": "2025-05-04 04:56:58 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/copper_shingles_from_ingots_copper_stonecutting": {
-    "criteria": {
-      "has_ingots_copper": "2025-05-04 05:14:37 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/myrmex_jungle_pickaxe": {
-    "criteria": {
-      "has_item": "2025-05-04 05:00:48 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/smithing_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-04 05:08:19 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/fluid_pipe": {
-    "criteria": {
-      "has_item": "2025-05-04 05:14:37 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_amythest_boots": {
-    "criteria": {
-      "has_item": "2025-05-04 04:02:53 +0000"
-    },
-    "done": true
-  },
-  "mysticsbiomes:recipes/redstone/strawberry_button": {
-    "criteria": {
-      "has_planks": "2025-05-04 03:17:37 +0000"
-    },
-    "done": true
-  },
-  "mysticsbiomes:recipes/building_blocks/cherry_planks": {
-    "criteria": {
-      "has_logs": "2025-05-04 05:30:58 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/seagull_steal": {
-    "criteria": {
-      "ex": "2025-05-04 03:13:10 +0000"
     },
     "done": true
   },
@@ -8434,69 +8212,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/food/ambrosia": {
-    "criteria": {
-      "has_item": "2025-05-04 03:35:56 +0000"
-    },
-    "done": true
-  },
-  "mysticsbiomes:recipes/building_blocks/jacaranda_wood": {
-    "criteria": {
-      "has_planks": "2025-05-04 05:31:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone": {
-    "criteria": {
-      "has_redstone_block": "2025-05-04 05:15:08 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/myrmex_jungle_chestplate": {
-    "criteria": {
-      "has_item": "2025-05-04 05:00:48 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/magic_planks": {
-    "criteria": {
-      "has_logs": "2025-05-04 05:30:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
-    "criteria": {
-      "has_copper_block": "2025-05-04 05:16:29 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/decorations/copper_pile": {
-    "criteria": {
-      "has_item": "2025-05-04 04:01:54 +0000"
-    },
-    "done": true
-  },
-  "mysticsbiomes:recipes/building_blocks/cherry_wood": {
-    "criteria": {
-      "has_planks": "2025-05-04 05:30:58 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/inception_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-04 05:08:19 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/transmitter": {
-    "criteria": {
-      "has_item": "2025-05-04 05:14:37 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/copper_ingot": {
-    "criteria": {
-      "has_item": "2025-05-04 04:01:54 +0000"
     },
     "done": true
   },
@@ -8512,12 +8230,6 @@
     },
     "done": true
   },
-  "material_elements:recipes/refining/copper_nugget_from_copper_ingot": {
-    "criteria": {
-      "has_copper_ingot": "2025-05-04 05:14:37 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/stack_downgrade_tier_2": {
     "criteria": {
       "has_upgrade_base": "2025-05-04 05:08:19 +0000"
@@ -8530,207 +8242,9 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/fluid_valve": {
-    "criteria": {
-      "has_item": "2025-05-04 05:14:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/detector_rail": {
-    "criteria": {
-      "has_rail": "2025-05-04 04:38:32 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/myrmex_jungle_sword": {
-    "criteria": {
-      "has_item": "2025-05-04 05:00:48 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
-    "criteria": {
-      "has_item": "2025-05-04 04:01:54 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/decorations/copper_ladder_from_ingots_copper_stonecutting": {
-    "criteria": {
-      "has_ingots_copper": "2025-05-04 05:14:37 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_copper_chestplate": {
-    "criteria": {
-      "has_item": "2025-05-04 04:56:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot": {
-    "criteria": {
-      "has_copper_block": "2025-05-04 05:16:29 +0000"
-    },
-    "done": true
-  },
-  "mysticsbiomes:recipes/building_blocks/strawberry_planks": {
-    "criteria": {
-      "has_logs": "2025-05-04 03:17:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/glistering_melon_slice": {
-    "criteria": {
-      "has_melon": "2025-05-04 04:08:23 +0000"
-    },
-    "done": true
-  },
-  "buntsy:recipes/misc/fume_spreader": {
-    "criteria": {
-      "has_copper_ingot": "2025-05-04 05:14:37 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/pine_wood": {
-    "criteria": {
-      "has_log": "2025-05-04 05:29:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jungle_planks": {
-    "criteria": {
-      "has_logs": "2025-05-04 05:28:36 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/crackled_to_gravel": {
-    "criteria": {
-      "has_item": "2025-05-04 04:55:18 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/redwood_wood": {
-    "criteria": {
-      "has_log": "2025-05-04 05:29:45 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/maple_planks": {
-    "criteria": {
-      "has_logs": "2025-05-04 05:29:44 +0000"
-    },
-    "done": true
-  },
-  "justhammers:recipes/tools/diamond_reinforced_impact_hammer": {
-    "criteria": {
-      "has_material": "2025-05-04 05:09:22 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/decorations/copper_scaffolding_from_ingots_copper_stonecutting": {
-    "criteria": {
-      "has_ingots_copper": "2025-05-04 05:14:37 +0000"
-    },
-    "done": true
-  },
-  "mysticsbiomes:recipes/redstone/strawberry_door": {
-    "criteria": {
-      "has_planks": "2025-05-04 03:17:37 +0000"
-    },
-    "done": true
-  },
-  "buntsy:recipes/misc/hootcat_boots": {
-    "criteria": {
-      "has_hootcat_feather": "2025-05-04 04:04:50 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/willow_planks": {
-    "criteria": {
-      "has_logs": "2025-05-04 05:30:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/lapis_lazuli": {
-    "criteria": {
-      "has_lapis_block": "2025-05-04 05:15:24 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/dead_planks": {
-    "criteria": {
-      "has_logs": "2025-05-04 05:30:17 +0000"
-    },
-    "done": true
-  },
-  "doggytalents:recipes/decorations/divine_retribution": {
-    "criteria": {
-      "has_copper_ingot": "2025-05-04 05:14:37 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonscales_amythest_to_dragonscale_amythest": {
-    "criteria": {
-      "has_dragonscales_amythest": "2025-05-04 04:02:53 +0000"
-    },
-    "done": true
-  },
-  "mysticsbiomes:recipes/building_blocks/tropical_planks": {
-    "criteria": {
-      "has_logs": "2025-05-04 05:31:40 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/myrmex_jungle_leggings": {
-    "criteria": {
-      "has_item": "2025-05-04 05:00:48 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/dead_wood": {
-    "criteria": {
-      "has_log": "2025-05-04 05:30:17 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/hose_pulley": {
-    "criteria": {
-      "has_item": "2025-05-04 05:14:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mangrove_wood": {
-    "criteria": {
-      "has_log": "2025-05-04 05:28:42 +0000"
-    },
-    "done": true
-  },
-  "mysticsbiomes:recipes/building_blocks/jacaranda_planks": {
-    "criteria": {
-      "has_logs": "2025-05-04 05:31:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
-    "criteria": {
-      "has_basalt": "2025-05-04 04:06:04 +0000"
-    },
-    "done": true
-  },
-  "buntsy:recipes/misc/hootcat_plume": {
-    "criteria": {
-      "has_hootcat_feather": "2025-05-04 04:04:50 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/chipped/loom_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-04 05:08:19 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/willow_wood": {
-    "criteria": {
-      "has_log": "2025-05-04 05:30:14 +0000"
     },
     "done": true
   },
@@ -8740,57 +8254,9 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/building_blocks/hellbark_wood": {
-    "criteria": {
-      "has_log": "2025-05-04 05:30:22 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/tool_swapper_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-04 05:08:19 +0000"
-    },
-    "done": true
-  },
-  "mysticsbiomes:recipes/redstone/strawberry_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-05-04 03:17:37 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/create_spectral_potion": {
-    "criteria": {
-      "brew_spectral_potion": "2025-05-04 03:11:41 +0000"
-    },
-    "done": true
-  },
-  "buntsy:recipes/misc/hootcat_leggings": {
-    "criteria": {
-      "has_hootcat_feather": "2025-05-04 04:04:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
-    "criteria": {
-      "has_copper_block": "2025-05-04 05:16:29 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_amythest_chestplate": {
-    "criteria": {
-      "has_item": "2025-05-04 04:02:53 +0000"
-    },
-    "done": true
-  },
-  "mysticsbiomes:recipes/decorations/strawberry_fence": {
-    "criteria": {
-      "has_planks": "2025-05-04 03:17:37 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/empyreal_wood": {
-    "criteria": {
-      "has_log": "2025-05-04 05:30:24 +0000"
     },
     "done": true
   },
@@ -8806,15 +8272,231 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_2": {
+    "criteria": {
+      "has_stack_upgrade_tier_1": "2025-05-04 05:08:56 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_3": {
+    "criteria": {
+      "has_stack_upgrade_tier_2": "2025-05-04 05:08:58 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/diamond_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2025-05-04 05:09:22 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/diamond_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-05-04 05:09:22 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/diamond_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-05-04 05:09:22 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/diamond_destructor_hammer": {
     "criteria": {
       "has_material": "2025-05-04 05:09:22 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_copper_leggings": {
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_4": {
     "criteria": {
-      "has_item": "2025-05-04 04:56:58 +0000"
+      "has_stack_upgrade_tier_3": "2025-05-04 05:09:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/steam_whistle": {
+    "criteria": {
+      "has_item": "2025-05-04 05:14:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_backtank": {
+    "criteria": {
+      "has_item": "2025-05-04 05:14:37 +0000"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-05-04 05:14:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/steam_engine": {
+    "criteria": {
+      "has_item": "2025-05-04 05:14:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-04 05:14:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copper_tiles_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-05-04 05:14:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_diving_helmet": {
+    "criteria": {
+      "has_item": "2025-05-04 05:14:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_pipe_vertical": {
+    "criteria": {
+      "has_item": "2025-05-04 05:14:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_pump": {
+    "criteria": {
+      "has_item": "2025-05-04 05:14:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-04 05:14:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-04 05:14:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_diving_boots": {
+    "criteria": {
+      "has_item": "2025-05-04 05:14:37 +0000"
+    },
+    "done": true
+  },
+  "buntsy:recipes/misc/fume_distillery": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-04 05:14:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_table_cloth_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-05-04 05:14:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/copper_valve_handle": {
+    "criteria": {
+      "has_item": "2025-05-04 05:14:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/smart_fluid_pipe": {
+    "criteria": {
+      "has_item": "2025-05-04 05:14:37 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/soul_reflector": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-04 05:14:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/copper_valve_handle_from_others": {
+    "criteria": {
+      "has_item": "2025-05-04 05:14:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_bars_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-05-04 05:14:37 +0000"
+    },
+    "done": true
+  },
+  "material_elements:recipes/rods/copper_rod_from_copper_ingot": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-04 05:14:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/copper_nugget": {
+    "criteria": {
+      "has_item": "2025-05-04 05:14:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copper_shingles_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-05-04 05:14:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_pipe": {
+    "criteria": {
+      "has_item": "2025-05-04 05:14:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/transmitter": {
+    "criteria": {
+      "has_item": "2025-05-04 05:14:37 +0000"
+    },
+    "done": true
+  },
+  "material_elements:recipes/refining/copper_nugget_from_copper_ingot": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-04 05:14:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_valve": {
+    "criteria": {
+      "has_item": "2025-05-04 05:14:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_ladder_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-05-04 05:14:37 +0000"
+    },
+    "done": true
+  },
+  "buntsy:recipes/misc/fume_spreader": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-04 05:14:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_scaffolding_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-05-04 05:14:37 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/divine_retribution": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-04 05:14:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/hose_pulley": {
+    "criteria": {
+      "has_item": "2025-05-04 05:14:37 +0000"
     },
     "done": true
   },
@@ -8824,15 +8506,333 @@
     },
     "done": true
   },
-  "iceandfire:recipes/tools/myrmex_jungle_hoe": {
+  "securitycraft:recipes/misc/block_pocket_manager": {
     "criteria": {
-      "has_item": "2025-05-04 05:00:48 +0000"
+      "has_redstone_block": "2025-05-04 05:15:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-05-04 05:15:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2025-05-04 05:15:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-05-04 05:16:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2025-05-04 05:16:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2025-05-04 05:16:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-05-04 05:16:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2025-05-04 05:16:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-05-04 05:16:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-05-04 05:28:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-05-04 05:28:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-05-04 05:28:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-05-04 05:28:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-05-04 05:28:38 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
       "has_log": "2025-05-04 05:28:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2025-05-04 05:28:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_wood": {
+    "criteria": {
+      "has_log": "2025-05-04 05:28:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_cherry_wood": {
+    "criteria": {
+      "has_log": "2025-05-04 05:29:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-05-04 05:29:00 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_wood": {
+    "criteria": {
+      "has_log": "2025-05-04 05:29:41 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_planks": {
+    "criteria": {
+      "has_logs": "2025-05-04 05:29:41 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/pine_planks": {
+    "criteria": {
+      "has_logs": "2025-05-04 05:29:43 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/pine_wood": {
+    "criteria": {
+      "has_log": "2025-05-04 05:29:43 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/maple_wood": {
+    "criteria": {
+      "has_log": "2025-05-04 05:29:44 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/maple_planks": {
+    "criteria": {
+      "has_logs": "2025-05-04 05:29:44 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/redwood_planks": {
+    "criteria": {
+      "has_logs": "2025-05-04 05:29:45 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/redwood_wood": {
+    "criteria": {
+      "has_log": "2025-05-04 05:29:45 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_wood": {
+    "criteria": {
+      "has_log": "2025-05-04 05:29:46 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_planks": {
+    "criteria": {
+      "has_logs": "2025-05-04 05:29:46 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/palm_planks": {
+    "criteria": {
+      "has_logs": "2025-05-04 05:30:13 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/palm_wood": {
+    "criteria": {
+      "has_log": "2025-05-04 05:30:13 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/willow_planks": {
+    "criteria": {
+      "has_logs": "2025-05-04 05:30:14 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/willow_wood": {
+    "criteria": {
+      "has_log": "2025-05-04 05:30:14 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/dead_planks": {
+    "criteria": {
+      "has_logs": "2025-05-04 05:30:17 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/dead_wood": {
+    "criteria": {
+      "has_log": "2025-05-04 05:30:17 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/magic_wood": {
+    "criteria": {
+      "has_log": "2025-05-04 05:30:20 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/magic_planks": {
+    "criteria": {
+      "has_logs": "2025-05-04 05:30:20 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/umbran_planks": {
+    "criteria": {
+      "has_logs": "2025-05-04 05:30:21 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/umbran_wood": {
+    "criteria": {
+      "has_log": "2025-05-04 05:30:21 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/hellbark_planks": {
+    "criteria": {
+      "has_logs": "2025-05-04 05:30:22 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/hellbark_wood": {
+    "criteria": {
+      "has_log": "2025-05-04 05:30:22 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/empyreal_planks": {
+    "criteria": {
+      "has_logs": "2025-05-04 05:30:24 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/empyreal_wood": {
+    "criteria": {
+      "has_log": "2025-05-04 05:30:24 +0000"
+    },
+    "done": true
+  },
+  "mysticsbiomes:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_logs": "2025-05-04 05:30:58 +0000"
+    },
+    "done": true
+  },
+  "mysticsbiomes:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_planks": "2025-05-04 05:30:58 +0000"
+    },
+    "done": true
+  },
+  "mysticsbiomes:recipes/building_blocks/peach_planks": {
+    "criteria": {
+      "has_logs": "2025-05-04 05:30:59 +0000"
+    },
+    "done": true
+  },
+  "mysticsbiomes:recipes/building_blocks/peach_wood": {
+    "criteria": {
+      "has_planks": "2025-05-04 05:30:59 +0000"
+    },
+    "done": true
+  },
+  "mysticsbiomes:recipes/building_blocks/maple_planks": {
+    "criteria": {
+      "has_logs": "2025-05-04 05:31:01 +0000"
+    },
+    "done": true
+  },
+  "mysticsbiomes:recipes/building_blocks/maple_wood": {
+    "criteria": {
+      "has_planks": "2025-05-04 05:31:01 +0000"
+    },
+    "done": true
+  },
+  "mysticsbiomes:recipes/building_blocks/sea_foam_wood": {
+    "criteria": {
+      "has_planks": "2025-05-04 05:31:39 +0000"
+    },
+    "done": true
+  },
+  "mysticsbiomes:recipes/building_blocks/sea_foam_planks": {
+    "criteria": {
+      "has_logs": "2025-05-04 05:31:39 +0000"
+    },
+    "done": true
+  },
+  "mysticsbiomes:recipes/building_blocks/tropical_wood": {
+    "criteria": {
+      "has_planks": "2025-05-04 05:31:40 +0000"
+    },
+    "done": true
+  },
+  "mysticsbiomes:recipes/building_blocks/tropical_planks": {
+    "criteria": {
+      "has_logs": "2025-05-04 05:31:40 +0000"
+    },
+    "done": true
+  },
+  "mysticsbiomes:recipes/building_blocks/jacaranda_wood": {
+    "criteria": {
+      "has_planks": "2025-05-04 05:31:41 +0000"
+    },
+    "done": true
+  },
+  "mysticsbiomes:recipes/building_blocks/jacaranda_planks": {
+    "criteria": {
+      "has_logs": "2025-05-04 05:31:41 +0000"
     },
     "done": true
   },

@@ -8427,9 +8427,21 @@
     },
     "done": true
   },
+  "mekanism:basic_control_circuit": {
+    "criteria": {
+      "basic_control_circuit": "2025-05-04 14:14:44 +0000"
+    },
+    "done": true
+  },
   "create:copper": {
     "criteria": {
       "0": "2025-05-04 14:07:13 +0000"
+    },
+    "done": true
+  },
+  "mekanism:infused_alloy": {
+    "criteria": {
+      "alloy_infused": "2025-05-04 14:16:57 +0000"
     },
     "done": true
   },
@@ -8499,9 +8511,27 @@
     },
     "done": true
   },
+  "mekanism:energy_transport": {
+    "criteria": {
+      "basic_universal_cable": "2025-05-04 14:20:56 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/copper_valve_handle": {
     "criteria": {
       "has_item": "2025-05-04 14:07:13 +0000"
+    },
+    "done": true
+  },
+  "mekanism:metallurgic_infuser": {
+    "criteria": {
+      "metallurgic_infuser": "2025-05-04 14:12:06 +0000"
+    },
+    "done": true
+  },
+  "mekanism:steel_ingot": {
+    "criteria": {
+      "ingot_steel": "2025-05-04 14:20:39 +0000"
     },
     "done": true
   },
@@ -8526,6 +8556,12 @@
   "create:recipes/decorations/copper_bars_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-05-04 14:07:13 +0000"
+    },
+    "done": true
+  },
+  "material_elements:recipes/rods/steel_rod_from_steel_ingot": {
+    "criteria": {
+      "has_steel_ingot": "2025-05-04 14:20:39 +0000"
     },
     "done": true
   },

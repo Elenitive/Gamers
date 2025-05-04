@@ -871,3 +871,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:color_essence'
 [04May2025 14:10:01.844] [Server thread/INFO] [Jade/]: Syncing config to 6BlueBird9 (63ac96dc-a71b-3ed0-b556-ab6f2d2ef366)
 [04May2025 14:10:56.075] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Sheep['Sheep'/2825, l='ServerLevel[world]', x=296.53, y=117.00, z=-1351.47]
 [04May2025 14:12:06.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 has made the advancement [A Metallur-what?]
+[04May2025 14:14:44.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 has made the advancement [Tricking a Rock Into Thinking]
+[04May2025 14:16:57.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 has made the advancement [The Alloy That Started it All]
+[04May2025 14:19:31.382] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Elenitive[/127.60.88.4:58737] logged in with entity id 7668 at (504.4805802596469, 94.0, -1296.5695136664483)
+[04May2025 14:19:31.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elenitive joined the game
+[04May2025 14:19:31.483] [Server thread/INFO] [Jade/]: Syncing config to Elenitive (2220527c-f40a-3f64-a9d3-9d22926aa118)
+[04May2025 14:20:39.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 has made the advancement [Industrial Revolution]
+[04May2025 14:23:55.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elenitive> no hagáis bloques de diamantes ni esmeralda
+[04May2025 14:24:19.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <aaleexx17> mira

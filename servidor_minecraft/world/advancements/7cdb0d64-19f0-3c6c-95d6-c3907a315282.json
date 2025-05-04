@@ -7095,5 +7095,11 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/ash": {
+    "criteria": {
+      "has_item": "2025-05-04 14:15:52 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
