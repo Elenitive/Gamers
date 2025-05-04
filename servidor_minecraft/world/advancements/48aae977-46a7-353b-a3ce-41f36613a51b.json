@@ -3396,6 +3396,7 @@
       "minecraft:cave_spider": "2025-05-03 02:08:11 +0000",
       "minecraft:stray": "2025-05-02 14:54:57 +0000",
       "minecraft:silverfish": "2025-05-03 18:32:11 +0000",
+      "minecraft:enderman": "2025-05-04 14:37:44 +0000",
       "minecraft:zombie": "2025-05-02 15:11:26 +0000"
     },
     "done": false
@@ -6688,9 +6689,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-05-04 14:29:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2025-05-04 14:11:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-05-04 14:29:27 +0000"
     },
     "done": true
   },
