@@ -3178,6 +3178,7 @@
       "minecraft:creeper": "2025-05-02 23:24:10 +0000",
       "minecraft:phantom": "2025-05-03 03:33:25 +0000",
       "minecraft:witch": "2025-05-03 23:29:00 +0000",
+      "minecraft:wither_skeleton": "2025-05-04 14:59:16 +0000",
       "minecraft:cave_spider": "2025-05-03 02:17:36 +0000",
       "minecraft:enderman": "2025-05-02 23:52:21 +0000",
       "minecraft:silverfish": "2025-05-03 02:36:55 +0000",
@@ -7929,9 +7930,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-05-04 14:55:59 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/magnet_upgrade": {
     "criteria": {
       "has_pickup_upgrade": "2025-05-04 14:33:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-05-04 14:55:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-05-04 14:55:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-05-04 14:55:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-05-04 14:55:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-05-04 14:55:59 +0000"
     },
     "done": true
   },

@@ -897,3 +897,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:color_essence'
 [04May2025 14:50:06.462] [Server thread/WARN] [tombstone/]: The death event of the player 6BlueBird9 was canceled by another mod
 [04May2025 14:50:06.464] [Server thread/INFO] [tombstone/]: The player 6BlueBird9 has successfully been saved
 [04May2025 14:50:18.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Franramen has made the advancement [They Have a Cave Troll!]
+[04May2025 14:57:53.910] [Server thread/WARN] [tombstone/]: The death event of the player 6BlueBird9 was canceled by another mod
+[04May2025 14:57:53.912] [Server thread/INFO] [tombstone/]: The player 6BlueBird9 has successfully been saved
+[04May2025 14:57:59.211] [Server thread/WARN] [tombstone/]: The death event of the player ivii was canceled by another mod
+[04May2025 14:57:59.214] [Server thread/INFO] [tombstone/]: The player ivii has successfully been saved
+[04May2025 14:58:18.910] [Server thread/WARN] [tombstone/]: The death event of the player 6BlueBird9 was canceled by another mod
+[04May2025 14:58:18.913] [Server thread/INFO] [tombstone/]: The player 6BlueBird9 has successfully been saved
+[04May2025 14:58:21.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 6BlueBird9 was killed by magic whilst trying to escape Skeleton
+[04May2025 14:58:21.973] [Server thread/INFO] [tombstone/]: The player 6BlueBird9 has successfully been saved

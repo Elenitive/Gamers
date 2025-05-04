@@ -8545,6 +8545,12 @@
     },
     "done": true
   },
+  "mekanism:pump": {
+    "criteria": {
+      "electric_pump": "2025-05-04 14:52:35 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/brimstone_bud_from_brimstone_stonecutting": {
     "criteria": {
       "has_brimstone": "2025-05-04 14:32:09 +0000"
