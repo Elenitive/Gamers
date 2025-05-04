@@ -839,3 +839,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:color_essence'
 [04May2025 12:07:58.332] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2719ms or 54 ticks behind
 [04May2025 12:08:28.174] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Franramen moved too quickly! 3.316826259667323,0.0,-9.544720926637638
 [04May2025 12:08:28.179] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2666ms or 53 ticks behind
+[04May2025 12:21:08.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Franramen has made the advancement [Capsid-19]
