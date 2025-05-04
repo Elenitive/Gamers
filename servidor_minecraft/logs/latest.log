@@ -265,3 +265,8 @@
 [04May2025 01:38:31.879] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: aaleexx17[/127.165.157.203:48647] logged in with entity id 133736 at (507.22321287341236, 94.0, -1291.7104867510536)
 [04May2025 01:38:31.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 joined the game
 [04May2025 01:38:31.907] [Server thread/INFO] [Jade/]: Syncing config to aaleexx17 (da3b3c16-4900-3258-b19f-de1883847307)
+[04May2025 01:43:39.818] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaleexx17 lost connection: Disconnected
+[04May2025 01:43:39.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 left the game
+[04May2025 01:45:46.479] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: aaleexx17[/127.165.157.203:48733] logged in with entity id 136745 at (505.5404179048259, 94.0, -1295.4540371242135)
+[04May2025 01:45:46.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 joined the game
+[04May2025 01:45:46.570] [Server thread/INFO] [Jade/]: Syncing config to aaleexx17 (da3b3c16-4900-3258-b19f-de1883847307)
