@@ -841,3 +841,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:color_essence'
 [04May2025 12:08:28.179] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2666ms or 53 ticks behind
 [04May2025 12:21:08.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Franramen has made the advancement [Capsid-19]
 [04May2025 12:34:07.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 1 of a max of 20 players online: Franramen
+[04May2025 12:50:07.773] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Franramen lost connection: Disconnected
+[04May2025 12:50:07.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Franramen left the game
