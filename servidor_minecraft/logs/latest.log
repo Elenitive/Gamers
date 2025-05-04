@@ -893,3 +893,57 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:color_essence'
 [04May2025 03:11:41.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elenitive has made the advancement [Funeral Theft]
 [04May2025 03:13:10.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elenitive has made the advancement [Mine? Mine? Mine?]
 [04May2025 03:16:44.274] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/9037, l='ServerLevel[world]', x=-771.96, y=62.48, z=-1349.74] died, message: 'Unemployed was slain by Siren'
+[04May2025 03:32:37.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 has made the advancement [Once Upon a Cave]
+[04May2025 03:35:09.011] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elenitive moved too quickly! -8.959366647838579,-3.471458796817288,3.54754875323124
+[04May2025 03:38:05.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 has made the advancement [Dragonslayer]
+[04May2025 03:43:10.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 has made the advancement [The Cutest Predator]
+[04May2025 03:54:11.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elenitive has made the advancement [My Name is Nobody]
+[04May2025 03:54:18.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 6BlueBird9 has made the advancement [Knives Out]
+[04May2025 03:54:18.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 6BlueBird9 has made the advancement [Funeral Theft]
+[04May2025 03:54:30.241] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2278ms or 45 ticks behind
+[04May2025 03:54:40.284] [Server thread/INFO] [net.heyimamethyst.fairyfactions.FairyFactions/]: disband: : Wiggle-munch (lost its team)
+[04May2025 03:55:24.071] [Server thread/INFO] [net.heyimamethyst.fairyfactions.FairyFactions/]: disband: : Bouncy-puff (lost its team)
+[04May2025 04:01:45.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 has made the advancement [Neighborhood Brawl]
+[04May2025 04:02:01.727] [Server thread/WARN] [tombstone/]: The death event of the player 6BlueBird9 was canceled by another mod
+[04May2025 04:02:01.745] [Server thread/INFO] [tombstone/]: The player 6BlueBird9 has successfully been saved
+[04May2025 04:05:24.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 6BlueBird9 has made the advancement [Who is Cutting Onions?]
+[04May2025 04:08:06.732] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elenitive moved too quickly! 1.3416769566017592,-7.85154292313851,-6.188344769940102
+[04May2025 04:08:06.735] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 6BlueBird9 moved too quickly! 1.8054752396064941,-8.10381000675109,-5.746092361036176
+[04May2025 04:08:06.736] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaleexx17 moved too quickly! -3.855460258005678,1.0,9.342506082222485
+[04May2025 04:08:06.737] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2074ms or 41 ticks behind
+[04May2025 04:08:14.343] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elenitive moved too quickly! 9.24248022667689,3.247851099632541,-2.6656334232437757
+[04May2025 04:08:15.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <aaleexx17> tt
+[04May2025 04:15:10.243] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaleexx17 lost connection: Timed out
+[04May2025 04:15:10.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 left the game
+[04May2025 04:15:55.208] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: aaleexx17[/127.165.157.203:49613] logged in with entity id 45822 at (507.22321287341236, 94.0, -1291.7104867510536)
+[04May2025 04:15:55.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 joined the game
+[04May2025 04:15:55.240] [Server thread/INFO] [Jade/]: Syncing config to aaleexx17 (da3b3c16-4900-3258-b19f-de1883847307)
+[04May2025 04:20:10.591] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaleexx17 lost connection: Timed out
+[04May2025 04:20:10.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 left the game
+[04May2025 04:20:16.385] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityLightningDragon['Lightning Dragon'/48522, l='ServerLevel[world]', x=-791.50, y=-2.50, z=616.50]
+[04May2025 04:21:15.847] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: aaleexx17[/127.165.157.203:60023] logged in with entity id 49492 at (504.8491915243851, 94.0, -1294.78152058406)
+[04May2025 04:21:15.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 joined the game
+[04May2025 04:21:15.878] [Server thread/INFO] [Jade/]: Syncing config to aaleexx17 (da3b3c16-4900-3258-b19f-de1883847307)
+[04May2025 04:21:16.684] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 6BlueBird9 moved too quickly! -6.158831642876294,7.379985712240256,-3.0779750252897884
+[04May2025 04:30:00.091] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1349, y=65, z=200} BlockPos{x=-1350, y=65, z=200}
+[04May2025 04:30:00.145] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1349, y=65, z=200} BlockPos{x=-1350, y=65, z=200}
+[04May2025 04:30:00.190] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1349, y=65, z=200} BlockPos{x=-1350, y=65, z=200}
+[04May2025 04:38:23.674] [Server thread/WARN] [tombstone/]: The death event of the player 6BlueBird9 was canceled by another mod
+[04May2025 04:38:23.684] [Server thread/INFO] [tombstone/]: The player 6BlueBird9 has successfully been saved
+[04May2025 04:38:53.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 6BlueBird9 has made the advancement [Tunnel Treasures]
+[04May2025 04:43:00.374] [Server thread/WARN] [tombstone/]: The death event of the player 6BlueBird9 was canceled by another mod
+[04May2025 04:43:00.383] [Server thread/INFO] [tombstone/]: The player 6BlueBird9 has successfully been saved
+[04May2025 04:45:03.586] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaleexx17 lost connection: Timed out
+[04May2025 04:45:03.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 left the game
+[04May2025 04:46:16.733] [Server thread/WARN] [tombstone/]: The death event of the player 6BlueBird9 was canceled by another mod
+[04May2025 04:46:16.735] [Server thread/INFO] [tombstone/]: The player 6BlueBird9 has successfully been saved
+[04May2025 04:46:21.148] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: aaleexx17[/127.165.157.203:55975] logged in with entity id 68545 at (-799.4774098405592, -10.0, 1089.300000011921)
+[04May2025 04:46:21.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaleexx17 joined the game
+[04May2025 04:46:21.220] [Server thread/INFO] [Jade/]: Syncing config to aaleexx17 (da3b3c16-4900-3258-b19f-de1883847307)
+[04May2025 04:56:01.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 6BlueBird9 has reached the goal [Magic Siphoner]
+[04May2025 04:56:58.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elenitive has made the advancement [Mother of Dragons]
+[04May2025 04:59:41.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <aaleexx17> t
+[04May2025 05:00:48.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elenitive has made the advancement [The Only Good Bug...]
+[04May2025 05:01:08.806] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-716, y=64, z=933} BlockPos{x=-717, y=64, z=933}
+[04May2025 05:01:08.905] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-716, y=64, z=933} BlockPos{x=-717, y=64, z=933}
+[04May2025 05:01:23.000] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-720, y=67, z=962} BlockPos{x=-719, y=66, z=963}

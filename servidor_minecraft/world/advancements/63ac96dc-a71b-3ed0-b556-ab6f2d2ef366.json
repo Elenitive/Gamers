@@ -61,28 +61,36 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "woodland": "2025-05-04 04:22:52 +0000",
       "shrubland": "2025-05-03 01:11:45 +0000",
       "rocky_shrubland": "2025-05-02 20:43:24 +0000",
+      "bayou": "2025-05-04 04:25:07 +0000",
+      "floodplain": "2025-05-04 04:29:56 +0000",
       "highland": "2025-05-03 17:52:58 +0000",
       "jacaranda_glade": "2025-05-02 22:27:53 +0000",
       "mystic_grove": "2025-05-04 03:02:15 +0000",
+      "old_growth_woodland": "2025-05-04 04:22:18 +0000",
       "maple_woods": "2025-05-03 17:43:25 +0000",
       "orchard": "2025-05-03 00:42:32 +0000",
       "field": "2025-05-03 01:20:11 +0000",
       "moor": "2025-05-03 00:52:30 +0000",
       "overgrown_greens": "2025-05-03 23:20:34 +0000",
+      "mediterranean_forest": "2025-05-04 04:23:02 +0000",
       "coniferous_forest": "2025-05-03 22:53:28 +0000",
       "spider_nest": "2025-05-02 22:28:16 +0000",
       "forested_field": "2025-05-03 17:42:08 +0000",
       "redwood_forest": "2025-05-03 23:21:20 +0000",
       "visceral_heap": "2025-05-04 01:29:38 +0000",
       "dune_beach": "2025-05-03 23:29:36 +0000",
+      "volcano": "2025-05-04 04:21:22 +0000",
       "pasture": "2025-05-04 03:05:47 +0000",
+      "volcanic_plains": "2025-05-04 04:06:00 +0000",
       "lavender_field": "2025-05-02 22:29:27 +0000",
       "grassland": "2025-05-02 20:37:36 +0000",
       "prairie": "2025-05-03 23:32:13 +0000",
       "glowing_grotto": "2025-05-03 02:47:07 +0000",
       "gravel_beach": "2025-05-03 23:18:58 +0000",
+      "rainforest": "2025-05-04 04:04:18 +0000",
       "ominous_woods": "2025-05-03 23:13:24 +0000"
     },
     "done": false
@@ -317,15 +325,22 @@
       "minecraft:birch_forest": "2025-05-03 00:49:49 +0000",
       "minecraft:beach": "2025-05-03 03:22:06 +0000",
       "minecraft:dark_forest": "2025-05-03 00:51:41 +0000",
+      "minecraft:mangrove_swamp": "2025-05-04 04:43:44 +0000",
+      "minecraft:sparse_jungle": "2025-05-04 04:01:04 +0000",
       "minecraft:river": "2025-05-02 22:15:28 +0000",
+      "minecraft:lukewarm_ocean": "2025-05-04 03:59:32 +0000",
       "minecraft:stony_shore": "2025-05-04 03:11:33 +0000",
       "minecraft:dripstone_caves": "2025-05-02 22:19:40 +0000",
       "minecraft:grove": "2025-05-04 00:35:42 +0000",
       "minecraft:forest": "2025-05-02 22:08:36 +0000",
+      "minecraft:lush_caves": "2025-05-04 03:43:49 +0000",
+      "minecraft:jungle": "2025-05-04 04:29:10 +0000",
       "minecraft:ocean": "2025-05-04 03:13:56 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-05-03 17:08:53 +0000",
+      "minecraft:windswept_savanna": "2025-05-04 04:42:24 +0000",
       "minecraft:frozen_peaks": "2025-05-04 00:54:35 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-02 20:43:40 +0000",
+      "minecraft:savanna": "2025-05-04 04:23:32 +0000",
       "minecraft:plains": "2025-05-02 22:14:06 +0000"
     },
     "done": false
@@ -4350,7 +4365,8 @@
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2025-05-03 03:03:49 +0000",
-      "opened_chest": "2025-05-03 00:26:57 +0000"
+      "opened_chest": "2025-05-03 00:26:57 +0000",
+      "opened_cart": "2025-05-04 04:38:53 +0000"
     },
     "done": false
   },
@@ -7012,15 +7028,111 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_crimsite_slab_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-05-04 04:52:43 +0000"
+    },
+    "done": true
+  },
   "mysticsbiomes:recipes/building_blocks/strawberry_wood": {
     "criteria": {
       "has_planks": "2025-05-04 03:17:15 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/crimsite_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-05-04 04:52:43 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_red_chestplate": {
     "criteria": {
       "has_item": "2025-05-04 03:07:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_crimsite_wall_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-05-04 04:52:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_bricks_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-05-04 04:52:43 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/desolate_dagger": {
+    "criteria": {
+      "desolate_dagger": "2025-05-04 03:54:18 +0000"
+    },
+    "done": true
+  },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2025-05-04 04:38:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-04 04:58:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/combat/crafting/appliances/netherite_backtank_from_netherite": {
+    "criteria": {
+      "has_item": "2025-05-04 03:54:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-05-04 04:09:28 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_wood": {
+    "criteria": {
+      "has_log": "2025-05-04 05:00:23 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_planks": {
+    "criteria": {
+      "has_logs": "2025-05-04 05:00:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-04 04:58:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-04 04:58:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_crimsite_stairs_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-05-04 04:52:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-05-04 04:52:43 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/magic_siphoner": {
+    "criteria": {
+      "coded_trigger": "2025-05-04 04:56:01 +0000"
     },
     "done": true
   },
@@ -7036,9 +7148,159 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-05-04 04:09:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_electric_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-04 04:44:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_crimsite_brick_stairs_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-05-04 04:52:43 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/naturalist/glow_goop": {
+    "criteria": {
+      "has_glow_berries": "2025-05-04 03:51:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_electric_boots": {
+    "criteria": {
+      "has_item": "2025-05-04 04:44:46 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_electric_helmet": {
+    "criteria": {
+      "has_item": "2025-05-04 04:44:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_crimsite_bricks_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-05-04 04:52:43 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/funeral_theft": {
+    "criteria": {
+      "coded_trigger": "2025-05-04 03:54:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-05-04 04:05:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_brick_wall_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-05-04 04:52:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-04 04:58:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_electric_to_dragonscale_electric": {
+    "criteria": {
+      "has_dragonscales_electric": "2025-05-04 04:44:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_red_mushroom": "2025-05-04 02:58:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_brick_slab_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-05-04 04:52:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_brick_stairs_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-05-04 04:52:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_crimsite_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-05-04 04:52:43 +0000"
+    },
+    "done": true
+  },
+  "buntsy:recipes/misc/fairy_staff": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-04 04:58:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-05-04 04:14:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_stairs_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-05-04 04:52:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_crimsite_brick_wall_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-05-04 04:52:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_crimsite_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-05-04 04:52:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/ambrosia": {
+    "criteria": {
+      "has_item": "2025-05-04 03:45:50 +0000"
+    },
+    "done": true
+  },
+  "material_elements:recipes/brewing/test_tube_glow_from_glowing_item": {
+    "criteria": {
+      "has_glowing_item": "2025-05-04 03:51:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crimsite_pillar_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-05-04 04:52:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_electric_leggings": {
+    "criteria": {
+      "has_item": "2025-05-04 04:44:46 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/decorations/copper_pile": {
+    "criteria": {
+      "has_item": "2025-05-04 04:01:52 +0000"
     },
     "done": true
   },
@@ -7048,15 +7310,39 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/copper_ingot": {
+    "criteria": {
+      "has_item": "2025-05-04 04:01:52 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_red_helmet": {
     "criteria": {
       "has_item": "2025-05-04 03:07:33 +0000"
     },
     "done": true
   },
+  "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
+    "criteria": {
+      "has_item": "2025-05-04 04:01:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_slab_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-05-04 04:52:43 +0000"
+    },
+    "done": true
+  },
   "mysticsbiomes:recipes/building_blocks/strawberry_planks": {
     "criteria": {
       "has_logs": "2025-05-04 03:17:15 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/orange_dye_from_orange_cosmos": {
+    "criteria": {
+      "has_orange_cosmos": "2025-05-04 04:04:24 +0000"
     },
     "done": true
   },
@@ -7084,9 +7370,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-05-04 04:05:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_wall_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-05-04 04:52:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-04 04:58:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_red_mushroom": "2025-05-04 02:58:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_crimsite_brick_slab_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-05-04 04:52:43 +0000"
     },
     "done": true
   },

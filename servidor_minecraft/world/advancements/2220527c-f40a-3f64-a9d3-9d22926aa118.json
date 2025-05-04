@@ -61,9 +61,11 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "woodland": "2025-05-04 04:31:53 +0000",
       "shrubland": "2025-05-02 16:13:10 +0000",
       "rocky_shrubland": "2025-05-02 21:40:26 +0000",
       "scrubland": "2025-05-02 16:12:10 +0000",
+      "floodplain": "2025-05-04 04:23:16 +0000",
       "highland": "2025-05-02 17:58:17 +0000",
       "jacaranda_glade": "2025-05-02 21:56:35 +0000",
       "jade_cliffs": "2025-05-03 12:55:52 +0000",
@@ -79,12 +81,15 @@
       "visceral_heap": "2025-05-04 01:25:09 +0000",
       "dune_beach": "2025-05-03 17:42:26 +0000",
       "seasonal_forest": "2025-05-03 18:24:58 +0000",
+      "volcano": "2025-05-04 04:05:45 +0000",
       "pasture": "2025-05-02 22:08:18 +0000",
+      "rocky_rainforest": "2025-05-04 04:24:02 +0000",
       "volcanic_plains": "2025-05-02 19:23:03 +0000",
       "lavender_field": "2025-05-02 21:56:29 +0000",
       "fir_clearing": "2025-05-03 02:35:57 +0000",
       "grassland": "2025-05-02 12:29:40 +0000",
       "prairie": "2025-05-02 16:32:49 +0000",
+      "glowing_grotto": "2025-05-04 04:10:07 +0000",
       "rainforest": "2025-05-02 19:22:37 +0000",
       "crag": "2025-05-03 23:00:54 +0000"
     },
@@ -94,20 +99,26 @@
     "criteria": {
       "minecraft:snowy_slopes": "2025-05-03 12:42:57 +0000",
       "minecraft:taiga": "2025-05-03 18:27:44 +0000",
+      "minecraft:deep_ocean": "2025-05-04 03:49:03 +0000",
       "minecraft:cherry_grove": "2025-05-02 21:50:54 +0000",
       "minecraft:birch_forest": "2025-05-02 16:20:57 +0000",
       "minecraft:beach": "2025-05-02 16:12:23 +0000",
       "minecraft:dark_forest": "2025-05-02 16:20:09 +0000",
+      "minecraft:sparse_jungle": "2025-05-04 04:01:12 +0000",
       "minecraft:lukewarm_ocean": "2025-05-02 16:50:44 +0000",
       "minecraft:river": "2025-05-02 16:25:34 +0000",
       "minecraft:stony_shore": "2025-05-04 03:10:30 +0000",
       "minecraft:dripstone_caves": "2025-05-03 22:09:01 +0000",
       "minecraft:grove": "2025-05-02 16:36:11 +0000",
       "minecraft:forest": "2025-05-02 16:32:22 +0000",
+      "minecraft:lush_caves": "2025-05-04 03:46:04 +0000",
       "minecraft:ocean": "2025-05-02 19:25:24 +0000",
+      "minecraft:jungle": "2025-05-04 04:14:06 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-05-04 04:17:47 +0000",
       "minecraft:frozen_peaks": "2025-05-02 16:36:03 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-02 16:28:17 +0000",
       "minecraft:meadow": "2025-05-03 12:52:20 +0000",
+      "minecraft:savanna": "2025-05-04 04:43:13 +0000",
       "minecraft:plains": "2025-05-02 16:49:39 +0000"
     },
     "done": false
@@ -7715,9 +7726,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/food/fire_stew": {
+    "criteria": {
+      "has_item": "2025-05-04 04:04:12 +0000"
+    },
+    "done": true
+  },
   "mysticsbiomes:recipes/building_blocks/strawberry_wood": {
     "criteria": {
       "has_planks": "2025-05-04 03:17:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_copper_to_dragonscale_copper": {
+    "criteria": {
+      "has_dragonscales_copper": "2025-05-04 04:56:58 +0000"
     },
     "done": true
   },
@@ -7727,9 +7750,57 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_amythest_leggings": {
+    "criteria": {
+      "has_item": "2025-05-04 04:02:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_jungle_axe": {
+    "criteria": {
+      "has_item": "2025-05-04 05:00:48 +0000"
+    },
+    "done": true
+  },
+  "buntsy:recipes/misc/hootcat_helmet": {
+    "criteria": {
+      "has_hootcat_feather": "2025-05-04 04:04:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-05-04 04:38:32 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/myrmex_jungle_boots": {
+    "criteria": {
+      "has_item": "2025-05-04 05:00:48 +0000"
+    },
+    "done": true
+  },
   "mysticsbiomes:recipes/decorations/strawberry_sign": {
     "criteria": {
       "has_planks": "2025-05-04 03:17:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-05-04 04:06:04 +0000"
+    },
+    "done": true
+  },
+  "buntsy:recipes/misc/hootcat_chestplate": {
+    "criteria": {
+      "has_hootcat_feather": "2025-05-04 04:04:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_amythest_helmet": {
+    "criteria": {
+      "has_item": "2025-05-04 04:02:53 +0000"
     },
     "done": true
   },
@@ -7739,9 +7810,57 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/myrmex_jungle_helmet": {
+    "criteria": {
+      "has_item": "2025-05-04 05:00:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-05-04 04:08:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_egg": {
+    "criteria": {
+      "egg": "2025-05-04 04:56:58 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_jungle_shovel": {
+    "criteria": {
+      "has_item": "2025-05-04 05:00:48 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-05-04 03:45:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-05-04 04:06:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-05-04 04:38:32 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/funeral_theft": {
     "criteria": {
       "coded_trigger": "2025-05-04 03:11:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-05-04 04:08:23 +0000"
     },
     "done": true
   },
@@ -7751,9 +7870,45 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_copper_helmet": {
+    "criteria": {
+      "has_item": "2025-05-04 04:56:58 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_myrmex": {
+    "criteria": {
+      "chitin": "2025-05-04 05:00:48 +0000"
+    },
+    "done": true
+  },
   "mysticsbiomes:recipes/redstone/strawberry_pressure_plate": {
     "criteria": {
       "has_planks": "2025-05-04 03:17:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2025-05-04 03:54:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_boots": {
+    "criteria": {
+      "has_item": "2025-05-04 04:56:58 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_jungle_pickaxe": {
+    "criteria": {
+      "has_item": "2025-05-04 05:00:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_amythest_boots": {
+    "criteria": {
+      "has_item": "2025-05-04 04:02:53 +0000"
     },
     "done": true
   },
@@ -7769,15 +7924,105 @@
     },
     "done": true
   },
+  "iceandfire:recipes/food/ambrosia": {
+    "criteria": {
+      "has_item": "2025-05-04 03:35:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/myrmex_jungle_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-04 05:00:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/decorations/copper_pile": {
+    "criteria": {
+      "has_item": "2025-05-04 04:01:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/copper_ingot": {
+    "criteria": {
+      "has_item": "2025-05-04 04:01:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-05-04 04:38:32 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_jungle_sword": {
+    "criteria": {
+      "has_item": "2025-05-04 05:00:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
+    "criteria": {
+      "has_item": "2025-05-04 04:01:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-04 04:56:58 +0000"
+    },
+    "done": true
+  },
   "mysticsbiomes:recipes/building_blocks/strawberry_planks": {
     "criteria": {
       "has_logs": "2025-05-04 03:17:35 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-05-04 04:08:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/crackled_to_gravel": {
+    "criteria": {
+      "has_item": "2025-05-04 04:55:18 +0000"
+    },
+    "done": true
+  },
   "mysticsbiomes:recipes/redstone/strawberry_door": {
     "criteria": {
       "has_planks": "2025-05-04 03:17:37 +0000"
+    },
+    "done": true
+  },
+  "buntsy:recipes/misc/hootcat_boots": {
+    "criteria": {
+      "has_hootcat_feather": "2025-05-04 04:04:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_amythest_to_dragonscale_amythest": {
+    "criteria": {
+      "has_dragonscales_amythest": "2025-05-04 04:02:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/myrmex_jungle_leggings": {
+    "criteria": {
+      "has_item": "2025-05-04 05:00:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-05-04 04:06:04 +0000"
+    },
+    "done": true
+  },
+  "buntsy:recipes/misc/hootcat_plume": {
+    "criteria": {
+      "has_hootcat_feather": "2025-05-04 04:04:50 +0000"
     },
     "done": true
   },
@@ -7793,9 +8038,33 @@
     },
     "done": true
   },
+  "buntsy:recipes/misc/hootcat_leggings": {
+    "criteria": {
+      "has_hootcat_feather": "2025-05-04 04:04:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_amythest_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-04 04:02:53 +0000"
+    },
+    "done": true
+  },
   "mysticsbiomes:recipes/decorations/strawberry_fence": {
     "criteria": {
       "has_planks": "2025-05-04 03:17:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_leggings": {
+    "criteria": {
+      "has_item": "2025-05-04 04:56:58 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_jungle_hoe": {
+    "criteria": {
+      "has_item": "2025-05-04 05:00:48 +0000"
     },
     "done": true
   },
