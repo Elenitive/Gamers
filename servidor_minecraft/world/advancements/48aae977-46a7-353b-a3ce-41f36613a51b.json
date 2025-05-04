@@ -3392,6 +3392,7 @@
       "minecraft:skeleton": "2025-05-02 14:53:10 +0000",
       "minecraft:spider": "2025-05-02 14:48:21 +0000",
       "minecraft:creeper": "2025-05-03 01:23:07 +0000",
+      "minecraft:slime": "2025-05-04 15:11:41 +0000",
       "minecraft:wither_skeleton": "2025-05-03 02:15:23 +0000",
       "minecraft:cave_spider": "2025-05-03 02:08:11 +0000",
       "minecraft:stray": "2025-05-02 14:54:57 +0000",
@@ -6707,9 +6708,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-04 15:10:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/ash": {
+    "criteria": {
+      "has_item": "2025-05-04 15:08:47 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/forest_troll_leather_boots": {
     "criteria": {
       "has_item": "2025-05-04 14:50:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-04 15:10:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-04 15:10:55 +0000"
     },
     "done": true
   },
@@ -6728,6 +6753,18 @@
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2025-05-04 14:29:27 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-04 15:10:55 +0000"
+    },
+    "done": true
+  },
+  "buntsy:recipes/misc/fairy_staff": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-04 15:10:55 +0000"
     },
     "done": true
   },
@@ -6752,6 +6789,12 @@
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2025-05-04 14:11:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-04 15:10:55 +0000"
     },
     "done": true
   },
